@@ -1,0 +1,12 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Ben:
+  name: P.H Wang
+  picture: /images/bio-photo.jpg
+
+  links:
+    - title: Twitter
+      url:
+      icon: fab fa-twitter-square
+
