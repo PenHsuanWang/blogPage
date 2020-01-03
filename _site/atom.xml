@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-30T01:34:54+08:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Ben’s Mountain Climbing Gellary</title><subtitle>It really is the best.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">第一篇貼文，架站練習</title><link href="http://localhost:4000/post/firstPostWithPicture/" rel="alternate" type="text/html" title="第一篇貼文，架站練習" /><published>2019-12-28T21:28:06+08:00</published><updated>2019-12-28T21:28:06+08:00</updated><id>http://localhost:4000/post/firstPostWithPicture</id><content type="html" xml:base="http://localhost:4000/post/firstPostWithPicture/">&lt;p&gt;我嘗試利用jekyll練習架設網站，並放置github page上&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-PZgiyoYmNdo/XcK94XIfCgI/AAAAAAAA5iY/VD8DS7Rr5yYFEvq8EPDfAHDLqusJ-c7TQCLcBGAsYHQ/s1600/_MG_2931.JPG&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><summary type="html">我嘗試利用jekyll練習架設網站，並放置github page上</summary></entry><entry><title type="html">第一篇貼文，架站練習</title><link href="http://localhost:4000/posts/myFirstPist/" rel="alternate" type="text/html" title="第一篇貼文，架站練習" /><published>2019-12-28T21:28:06+08:00</published><updated>2019-12-28T21:28:06+08:00</updated><id>http://localhost:4000/posts/myFirstPist</id><content type="html" xml:base="http://localhost:4000/posts/myFirstPist/">&lt;p&gt;我嘗試利用jekyll練習架設網站，並放置github page上&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><summary type="html">我嘗試利用jekyll練習架設網站，並放置github page上</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-12-28T21:28:06+08:00</published><updated>2019-12-28T21:28:06+08:00</updated><id>http://localhost:4000/posts/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/posts/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-04T00:31:40+08:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Ben’s Mountain Climbing Gellary</title><subtitle>repo for build personal blog</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">第一篇貼文，架站練習</title><link href="http://localhost:4000/posts/myFirstPist/" rel="alternate" type="text/html" title="第一篇貼文，架站練習" /><published>2019-12-28T21:28:06+08:00</published><updated>2019-12-28T21:28:06+08:00</updated><id>http://localhost:4000/posts/myFirstPist</id><content type="html" xml:base="http://localhost:4000/posts/myFirstPist/">&lt;p&gt;我嘗試利用jekyll練習架設網站，並放置github page上&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><summary type="html">我嘗試利用jekyll練習架設網站，並放置github page上</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-12-28T21:28:06+08:00</published><updated>2019-12-28T21:28:06+08:00</updated><id>http://localhost:4000/posts/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/posts/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -16,4 +14,233 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">中央山脈北一段 南湖中央尖</title><link href="http://localhost:4000/post/CentrailMountainRidgeN1/" rel="alternate" type="text/html" title="中央山脈北一段 南湖中央尖" /><published>2019-10-06T21:28:06+08:00</published><updated>2019-10-06T21:28:06+08:00</updated><id>http://localhost:4000/post/CentrailMountainRidgeN1</id><content type="html" xml:base="http://localhost:4000/post/CentrailMountainRidgeN1/">&lt;h1 id=&quot;day1&quot;&gt;Day1&lt;/h1&gt;
+&lt;p&gt;7:30 宜蘭轉運站 國光客運1751 發車&lt;br /&gt;
+10:05 勝光登山口 下車整理裝備&lt;br /&gt;
+10:18 勝光登山口 出發&lt;br /&gt;
+10:55 大水塔&lt;br /&gt;
+11:32 勝光山 三角點 休息至11:47&lt;br /&gt;
+12:15 710林道崩塌地&lt;br /&gt;
+12:29 710林道6.8k登山口 休息午餐順便裝水 12:51 出發&lt;br /&gt;
+13:53 松風嶺 休息至 14:17&lt;br /&gt;
+14:41 多加屯避難小屋路口，看到漂亮的雲海，又開始墮落的看風景 14:51 出發&lt;br /&gt;
+15:57 2575鞍部(木杆鞍部前一個鞍部) 休息兩分鐘 吃點東西&lt;br /&gt;
+17:05 雲稜山屋 C1&lt;/p&gt;
+
+&lt;figure style=&quot;width: 50%&quot; class=&quot;align-right&quot;&gt;
+  &lt;img src=&quot;https://4.bp.blogspot.com/-A3VrCK4MGhk/Xb7OYRWBZmI/AAAAAAAA5Vo/F5mJ05JRA4MZs3LqTvj4vQ9GcAg_Mb3DQCLcBGAsYHQ/s1600/_MG_2287.JPG&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;松風嶺&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure style=&quot;width: 45%&quot; class=&quot;align-left&quot;&gt;
+  &lt;img src=&quot;https://4.bp.blogspot.com/-Wb4tgRD7Kak/Xb7N2YjH-KI/AAAAAAAA5VU/ZeTZvnpu3uo36HbDnFPLlKcT_KAfBGIoQCLcBGAsYHQ/s1600/_MG_2239.JPG&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;6.8K 松樹林間的登山口&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure style=&quot;width: 45%&quot; class=&quot;align-left&quot;&gt;
+  &lt;img src=&quot;https://3.bp.blogspot.com/-wryJ7ztrSyI/Xb7N3ixeREI/AAAAAAAA5VY/BiWhvPQYcTws6v4TqZijaTCixXDa4TLFwCLcBGAsYHQ/s1600/_MG_2267.JPG&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;松風嶺 擺滿松果的路牌&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;https://1.bp.blogspot.com/-xcSJksb99Aw/Xg9qv6d2NNI/AAAAAAAA7JQ/1nOBVeGz1S03skGkrHXTB-JOLaC_aYVmQCLcBGAsYHQ/s1600/_MG_2297_cut_for_longWidth.JPG&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;多家屯山 望向蘭陽溪雲海&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&quot;day2&quot;&gt;Day2&lt;/h1&gt;
+&lt;p&gt;05:30 雲稜山屋出發。&lt;br /&gt;
+06:28 13.2k山頭 休息至 06:40。&lt;br /&gt;
+07:47 15k展望處，可見南湖大山 南湖西稜 中央尖山。 休息至08:00。&lt;br /&gt;
+08:16 審馬陣山登山口，放下背包，出發單攻審馬陣山。&lt;br /&gt;
+08:18 審馬陣山頂，沒展望，拍幾張照後就下來了。&lt;br /&gt;
+08:26 回到審馬陣登山口，休息至08:51。&lt;br /&gt;
+09:12 通往審馬陣山屋的岔路，因為天氣很好很曬，想說繞去審馬陣山屋裝水。&lt;br /&gt;
+09:14 走沒3分鐘遇到一個大水塘，水質還不錯，直接裝池水，裝完水後折返。&lt;br /&gt;
+09:31 回到叉路口，繼續往南湖北山前進&lt;br /&gt;
+11:05 往南湖北山的叉路口，上到稜線後可見到整個東半部的雲海，還有遠處的太平洋。雲海從台灣東海岸一直綿延至腳下的和平北溪溪谷。美景當前，都忘記要整理背包了。&lt;br /&gt;
+11:09 整理小背包裝了一些食物跟鍋具、爐頭。要上去北山煮咖啡。&lt;br /&gt;
+11:19 南湖北山。景色壯闊了。整片雲海從東海岸往北綿延至整個蘭陽平原。雲海對岸的雪山山脈清晰可見，可見大霸、四秀、聖稜線、雪山。遠方的太平洋也跟東海接在一起，在綿延至西北側的台灣海峽。南湖北山為中央山脈主稜由北向南數來的第一座百岳。北側為蘭陽溪流域、西側為大甲溪流域、東側為和平北溪流域。能想像嗎?被這座山隔開的水，分別流向台中港、蘭陽平原、蘇花公路旁的海岸。南湖北山的北方有兩條路，一條是從四季走過來的南湖北稜，另一條是從南山村經塚呂馬布山、魔葉名病山的南湖西北稜，今年初原本在規劃南湖西北稜，但始終沒成行。在山上吃東西、泡咖啡、看風景，待到12:12才下山(休息快一個小時了)&lt;br /&gt;
+12:17 回到南湖北山岔路口，整理背包又耍廢了一下(滿滿的惰性)，12:29才上背出發。&lt;br /&gt;
+13:35 南湖北峰，可以見到圈谷跟山屋了，時間還早，我們索性在北峰放下背包休息，欣賞我們今天一路走來的路，從雲稜山屋上到審馬陣草原、接上中央山脈主脊，從南湖北山連過來的五岩峰。山脈東側由和平北溪向源侵蝕造成的可怕崩壁，一瀉千里的崩壁下的雲海慢慢進到溪谷之中。同場加映，西側的雲海悄悄的翻過木杆鞍部進入南湖溪的流域。&lt;br /&gt;
+14:22 不甘願的起身，背起背包下圈谷。&lt;br /&gt;
+15:06 南湖圈谷山屋 C2&lt;br /&gt;
+雖然短暫告別了美麗的雲海，但下到圈谷後是不同的風光，南湖圈谷為冰河遺留下來的地質景觀。由北峰下來的碎石坡一剛開始非常陡峭，但隨著接近圈谷底部開始變緩，是個U型谷地。南湖圈谷四周的山壁上長滿大量的圓柏，尤其是上圈谷東側，圓柏都十分高大。我們將東西放進山屋後就跑出來四處亂晃，順便找個有手機訊號的地方來上個網。下圈谷西側缺口有網路訊號，同時還可以欣賞s夕陽、聖稜線上的霞光。今天南湖山屋人很少，大概只有住十幾人左右而已，住起來很舒服，睡了兩個位子，可以滾來滾去。&lt;/p&gt;
+
+&lt;h1 id=&quot;day3&quot;&gt;Day3&lt;/h1&gt;
+&lt;p&gt;04:57 南湖山屋出發&lt;br /&gt;
+05:04 上圈谷&lt;br /&gt;
+05:40 四叉路口，往南湖大山東峰&lt;br /&gt;
+06:00 上到南湖大山東峰向東延伸出去的稜線，我們切上去的點太東邊了，慢慢往回走，但又走錯路，路在稜線南側下面一點點，我們直接在稜線上切過去，結果遇到一堆圓柏跟刺柏灌木叢，被刺得不要不要的。&lt;br /&gt;
+06:20 南湖大山東峰，景色也是一極棒，昨天的雲海依舊，金黃色的太陽剛從雲海頂端探出來，照的整片雲海呈現金黃色。風有一點大，休息到06:40 出發。&lt;br /&gt;
+07:29 陶塞峰下，休息拍照 至 07:39&lt;br /&gt;
+07:52 登陶塞前峰路口。&lt;br /&gt;
+08:07 登頂陶塞前峰，拍照休息至08:20&lt;br /&gt;
+08:39 拉繩陡上&lt;br /&gt;
+08:53 巨石堆前，這裡有巨大杜鵑，葉子都變成黃褐色的。&lt;br /&gt;
+09:00 巨石堆，感覺沒有特別明顯的路，但往右繞感覺比較好走。&lt;br /&gt;
+09:16 南湖大山東南峰，巨石堆中最高大的一塊巨石。拍照休息至09:29&lt;br /&gt;
+10:19 和平南溪岔路口，不休息繼續前行往馬比杉山。&lt;br /&gt;
+11:24 馬比杉山登頂，休息至11:47&lt;br /&gt;
+12:53 回到和平南溪路口，休息一下吃個零食，13:03出發沿和平南溪谷回程。&lt;br /&gt;
+13:47 往獵寮岔路，岔路口有一座很大的水池，水質還不錯，拿出濾水器來濾一些行動水。休息至14:01。&lt;br /&gt;
+14:29 石壁水源，準備從右側向北上切。&lt;br /&gt;
+15:39 遇到一個峽谷積水，一直爬坡超渴的，在這邊大休煮水泡燕麥來吃。可以看到圈谷了，惰性爆發，開始變得比較悠哉了。16:15出發。
+16:22 遇到一個活水源，這邊水池更大更讚，還是活水，早知道剛剛就多走一段路來這裡了。&lt;br /&gt;
+16:43 四叉路，回到圈谷了。&lt;br /&gt;
+17:13 上圈谷往下圈谷的路口，天氣正好，夕陽從圈谷的缺口照進來，在上圈谷繞一下散個步(喂~今天走得還不夠嗎)&lt;br /&gt;
+17:32 走到下圈谷西側的缺口上網，順便跟今天認識的山有大哥們加個line&lt;br /&gt;
+18:00 回到山屋，準備煮晚餐 C3&lt;/p&gt;
+
+&lt;h1 id=&quot;day4&quot;&gt;Day4&lt;/h1&gt;
+&lt;p&gt;05:09 南湖圈谷山屋出發。飄霧雨，心裡想說這幾天的好天氣，難道要在今天畫下句了嗎?太陽還沒出來又起霧，沒什麼風景就只能不停的往上走。&lt;br /&gt;
+06:10 南湖大山主峰登山口，天開始亮了，霧也好像慢慢要散掉的感覺，整理一下小背包，06:20出發前往南湖大山主峰。一開始是斜板岩陡上。&lt;br /&gt;
+06:23 走沒三分鐘，眼前突然出現了觀音圈的上半部，太陽在我的背後，雲突然散掉了，陽光照亮整座南湖。&lt;br /&gt;
+06:26 我們從雲海上層走出來了，同時雲也慢慢往下降。原來不是今天變天，只是今天的雲海高度比較高XD，雲高大約3700，南湖大山頂從雲海中探出來。&lt;br /&gt;
+06:28 中央尖山也探出雲海來了。&lt;br /&gt;
+06:32 上稜，往北轉準備往南湖大山。&lt;br /&gt;
+06:41 遇到台灣長鬃山羊。停下來拍照，至06:44&lt;br /&gt;
+06:53 南湖大山主峰，展望一極棒，雲海高度慢慢下降，東峰也從雲海上端探出來了。往南望去，雲海翻過南湖南峰、巴巴山、以及巴巴山連到中央尖山東峰的稜線，形成成串的雲瀑，向中央尖溪谷傾瀉而下。我們在山頂上待到07:20，今天還要趕路到中央尖溪木屋，不敢拖太久，如果行程只有南湖群峰，我因該會想在山上待更久。&lt;br /&gt;
+07:34 稜線結束，向東下切往登山口。&lt;br /&gt;
+07:41 南湖大山登山口，整裝，擦防曬，這幾天的大太陽，手已經曬傷了QQ。07:58出發。&lt;br /&gt;
+08:42 石瀑陡上，背重裝爬這段真的是，厚~累累累累累….&lt;br /&gt;
+09:09 第一段石瀑陡上終點，原本以為已經結束了，可以放下大背輕裝往南峰了。&lt;br /&gt;
+09:16 南湖南峰山屋岔路，看到第二段石瀑，不管了，先休息再說。休息到09:39&lt;br /&gt;
+09:55 終於到南峰叉路口了，短短一段石瀑我們走了超過一小時…&lt;br /&gt;
+10:13 南湖大山南峰，休息一下拍幾張照，10:24 續行前往巴巴山。&lt;br /&gt;
+10:32 巴巴山屋遺址。&lt;br /&gt;
+11:04 巴巴山頂，休息拍照吃東西，一位大哥拿出了手磨咖啡機來磨豆子泡咖啡。好好喔，以後我也要悠哉爬南湖泡咖啡XD。11:34 返程。&lt;br /&gt;
+12:17 南湖大山南峰，二刷XD 。&lt;br /&gt;
+12:24 南湖大山南峰登山口。吃個東西整裝，12:36出發往中央尖溪。&lt;br /&gt;
+13:01 過了石瀑區後有一片平緩的箭竹營地，還有一個乾水塘，休息一下脫外套，順便回報一下留守，告知正前往中央尖溪，下去後就沒訊號囉。&lt;br /&gt;
+13:56 換稜，直走往南湖溪跟中央尖溪中間的越稜點。向左(南)下中央尖溪。&lt;br /&gt;
+14:17 一處平緩處，休息吃東西，14:36 續行。&lt;br /&gt;
+15:19 看到中央尖溪木屋上游處的大瀑布了。&lt;br /&gt;
+15:31 向右，準備拉繩陡下。&lt;br /&gt;
+15:54 碎石崩壁。&lt;br /&gt;
+16:02 到達溪邊了，準備過溪，溪水有一點大，怕怕的。&lt;br /&gt;
+16:10 中央尖溪木屋 C4&lt;/p&gt;
+
+&lt;h1 id=&quot;day5&quot;&gt;Day5&lt;/h1&gt;
+&lt;p&gt;06:47 中央尖溪木屋出發&lt;br /&gt;
+06:52 中央尖溪上游處的大瀑布&lt;br /&gt;
+07:02 “大高繞”。溪左上切高繞，拉繩。這一段向上拉繩的距離蠻長的，上去還好，不過回程下來的時候要小心一點。&lt;br /&gt;
+07:19 溪左側一處拉繩越過大石，拉繩下方為幾根摩擦係數趨近於零的木頭，上方為一個岩壁水源。拉繩爬上這個大石頭，腳下要處理超滑的木頭，頭頂上的山澗一直灌下來。拖越久被淋得越濕。&lt;br /&gt;
+08:12 可以清楚見到中央尖山，水也越來越小了。此處高度約2700m，上到中央尖山還有1000公尺的落差要爬&lt;br /&gt;
+08:39 最後水源。休息吃東西，08:46出發。接下來就是一連串要命的陡上。&lt;br /&gt;
+上坡的時候要比較仔細的找路，從下往上看，路徑比較不明顯，再加上太陽已逐漸照進碎石坡的谷地中，雖然有戴太陽眼鏡了，但石頭反光很刺眼不好找路，如果有走在正確的路徑上還滿穩的，但如果稍微偏差一點離開路徑，就要小心碎石滑動。&lt;br /&gt;
+10:34 中央尖山主東鞍部，可清楚看見奇萊東稜，休息到10:52。&lt;br /&gt;
+11:35 中央尖山主峰頂，3705公尺，三等三角點，三尖之首，距離南湖太近了所以只能當三等三角點，我從大一的時候就開始規劃攀登中央尖山的計畫了，不過天數比較長，進了實驗室後根本不能排出這種長天數的假日。原本想要在畢業前帶學士服上來，可惜拖到現在才來。天氣很好，可以清楚看見連接北二段的中央尖山西峰以及令人聞風喪膽的死亡稜線(不過聽說最近越來越好走了?)。上一個月爬無明山的時候可以清楚看見中央尖山的死亡稜線，這是一條不知道什麼時候才會造訪的路。
+12:23 返程。不小心在山頂待太久了，不過花費了這麼大的力氣還請了三天的假才上來的，不待久一點對不起自己。&lt;br /&gt;
+12:44 主東鞍部，不休續行。&lt;br /&gt;
+13:55 最後水源，修一下，吃個零食，14:09出發。&lt;br /&gt;
+15:23 回到滑木山澗拉繩處。&lt;br /&gt;
+15:38 回到“大高繞”，從中央尖山下來的這側還好。&lt;br /&gt;
+早上的拉繩陡上變成拉繩陡下，下去花了不少時間。&lt;br /&gt;
+15:56 結束高繞地形。&lt;br /&gt;
+16:09 中央尖溪木屋，完成南湖中央尖了YAYAYA C5&lt;/p&gt;
+
+&lt;h1 id=&quot;day6&quot;&gt;Day6&lt;/h1&gt;
+&lt;p&gt;07:09 中央尖溪木屋出發準備回程&lt;br /&gt;
+07:33 溪流向右轉入峽谷，從溪流左側倒木上過獨木橋，獨木橋超滑，且右側就是瀑布。我們嘗試從倒木左側找比較安全的路，但下面有很多粗細不同的木頭從左側的溪溝被沖下來卡在這個地方，最後只好硬著頭皮走上獨木橋。&lt;br /&gt;
+07:47 通過獨木橋。&lt;br /&gt;
+07:49 左側高繞。高繞上去後，先是橫渡一小段，再陡下。有拉繩。&lt;br /&gt;
+08:11結束高繞回到溪邊，接下來就是不斷的過溪過溪過溪。&lt;br /&gt;
+09:54 香菇寮上切點，終於可以離開中央尖溪了QQ，可是前面是一長段的陡上…。在這邊大休，有太陽，把雨鞋裡的鞋墊拿出來曬、鞋筒面向太陽、襪子護踝通通攤在石頭上曬，能曬多少算多少。&lt;br /&gt;
+10:47 出發。&lt;br /&gt;
+13:04 越稜點。&lt;br /&gt;
+14:07 南湖溪木屋，直接到南湖溪邊煮泡麵。&lt;br /&gt;
+15:15 出發，準備上木竿鞍部。&lt;br /&gt;
+16:40 木竿鞍部，休息至16:46出發。往多加屯山方向前進 。&lt;br /&gt;
+18:32 多加屯避難小屋路口&lt;br /&gt;
+18:49 松楓嶺 C6。&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><summary type="html">Day1 7:30 宜蘭轉運站 國光客運1751 發車 10:05 勝光登山口 下車整理裝備 10:18 勝光登山口 出發 10:55 大水塔 11:32 勝光山 三角點 休息至11:47 12:15 710林道崩塌地 12:29 710林道6.8k登山口 休息午餐順便裝水 12:51 出發 13:53 松風嶺 休息至 14:17 14:41 多加屯避難小屋路口，看到漂亮的雲海，又開始墮落的看風景 14:51 出發 15:57 2575鞍部(木杆鞍部前一個鞍部) 休息兩分鐘 吃點東西 17:05 雲稜山屋 C1</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://1.bp.blogspot.com/-ufBLcER8uUU/Xg9MY6Yl06I/AAAAAAAA7JE/BwB80wX7oDo9uuJ03UdAoBzxqDLIyfbrwCLcBGAsYHQ/s1600/_MG_2967_cut_wideForPageTitle.JPG" /><media:content medium="image" url="https://1.bp.blogspot.com/-ufBLcER8uUU/Xg9MY6Yl06I/AAAAAAAA7JE/BwB80wX7oDo9uuJ03UdAoBzxqDLIyfbrwCLcBGAsYHQ/s1600/_MG_2967_cut_wideForPageTitle.JPG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">劍龍稜、鋸齒稜接無耳茶壺山</title><link href="http://localhost:4000/post/JainLong/" rel="alternate" type="text/html" title="劍龍稜、鋸齒稜接無耳茶壺山" /><published>2018-05-27T21:28:06+08:00</published><updated>2018-05-27T21:28:06+08:00</updated><id>http://localhost:4000/post/JainLong</id><content type="html" xml:base="http://localhost:4000/post/JainLong/">&lt;p&gt;2018年5月27日，這一天破了歷年來的五月最高溫紀錄。太平洋高壓籠罩在台灣上空，真不知道該說天氣很好還是很不好。出來玩總會祈禱遇到大晴天，可是天氣太晴朗也是會把人曬昏頭，尤其是劍龍稜上，。台北測到38.2度的高溫。那我猜我們在劍龍稜跟鋸齒稜上的溫度應該有超過40度。有幾段路都沒有植披，裸露的大岩石直接在大太陽上曝曬，溫度應該都超過50度了，抓在上面還會燙手。貼著滾燙燙的岩壁，頭頂著烈日，差點變成劍龍稜上的石板烤肉。在稜線上陡上前進，我開始思考這種天氣到底是好還是壞。&lt;/p&gt;
+
+&lt;p&gt;粗略行程:&lt;/p&gt;
+
+&lt;p&gt;三重=&amp;gt;國光客運1802往基隆=&amp;gt;基隆客運791往南雅社區-&amp;gt;南子吝山稜線-&amp;gt;下切半平溪-&amp;gt;上接劍龍鋸齒稜-&amp;gt;無耳茶壺山-&amp;gt;下勸濟堂=&amp;gt;基隆客運1062回忠孝復興。&lt;/p&gt;
+
+&lt;p&gt;行程紀錄:&lt;/p&gt;
+
+&lt;p&gt;06:50 三重大同路口前搭國光客運1802前往基隆火車站。&lt;/p&gt;
+
+&lt;p&gt;07:35 基隆火車站前下車，前往仁祥醫院站搭基隆客運791，我們搭到07:20發的那班車&lt;/p&gt;
+
+&lt;p&gt;08:20 南雅南新宮前下車。整裝上廁所&lt;/p&gt;
+
+&lt;p&gt;08:34 出發。沿著南新宮的那條小巷子前進，穿過民宅後到達一條產業道路盡頭的停車場。&lt;/p&gt;
+
+&lt;p&gt;08:40 停車場旁的登山口，開始攀登。&lt;/p&gt;
+
+&lt;p&gt;08:44 水泥橋，過橋後路徑開始變窄，開始陡上前往稜線。&lt;/p&gt;
+
+&lt;p&gt;08:57 上稜線，往南子吝山岔路口，取左。&lt;/p&gt;
+
+&lt;p&gt;09:05 下切半平溪叉路口。&lt;/p&gt;
+
+&lt;p&gt;09:19 半平溪，天氣太熱了，在陰影處休息，了快半小時，09:45再度出發。&lt;/p&gt;
+
+&lt;p&gt;過溪後稍微沿下游一點走，可以看到對岸的上攀點。路非常的陡，從這邊開始離開樹林的遮蔽，要開始狂曬猛曬了。&lt;/p&gt;
+
+&lt;p&gt;10:00 接上腰繞路，在休息一下補水，這種天氣不補水真的會昏倒。走一小段後離開腰繞路繼續上攀陡坡。&lt;/p&gt;
+
+&lt;p&gt;10:20 遇到”往劍龍稜60分鐘”的路牌。&lt;/p&gt;
+
+&lt;p&gt;沿途展望越來越好，可見濱海公路跟海岸邊的哩咾的建築物。&lt;/p&gt;
+
+&lt;p&gt;10:27 鋸齒狀的岩石，稜線上遇到的第一段鋸齒狀裸岩。感覺這邊溫度開始飆高。不知道是不是過熱了。總覺得腳使不出力氣，舉步維艱。我們大概花了10分鐘才過這片鋸齒狀的岩石。展望很好，可以遠望整段上坡跟大片岩層。心裡很擔心會熱衰竭，開始思考是不是要撤退。&lt;/p&gt;
+
+&lt;p&gt;10:54 第二段裸岩區。獲得上天眷顧。由草山方向飄來一片雲。稍稍阻擋了一下烈日。&lt;/p&gt;
+
+&lt;p&gt;11:01 翻過第二段裸岩區。&lt;/p&gt;
+
+&lt;p&gt;11:09 出現芒草。準備陡上H381m岔路口。可見茶壺山。&lt;/p&gt;
+
+&lt;p&gt;11:17 H381m岔路口。從H381m到H555m中間這段路裸岩越來越密集。&lt;/p&gt;
+
+&lt;p&gt;11:47 鋸齒狀岩層形成的瘦稜。腳點不明顯暴露感大。過一半後要從稜左翻到稜右。翻過這塊岩石後即到達水管路岔路口。不取續行。&lt;/p&gt;
+
+&lt;p&gt;11:56 小段拉繩翻上稜線上的岩石由稜右翻回稜左。&lt;/p&gt;
+
+&lt;p&gt;12:13 一處沙土地，稍稍休息吃東西。還是希望太陽可以小一點。可望陰陽海與南雅社區。&lt;/p&gt;
+
+&lt;p&gt;12:34 快要到達H555峰，前段有一小段芒草叢生的地方。我耍白痴穿短袖，被芒草割的癢癢的(汗留下去會痛誒= =)&lt;/p&gt;
+
+&lt;p&gt;12:41 到達H555峰，被芒草環繞，沒展望。有一棵樹可以遮陽。但沒展望，這地方也沒啥好留戀的。喝點水後就繼續前進。&lt;/p&gt;
+
+&lt;p&gt;12:50 到達一處還不錯的展望點。休息拍照。13:00 續行&lt;/p&gt;
+
+&lt;p&gt;13:10 遇到一塊大岩石，由稜左繞行後上攀。攀上大岩石後展望很好，休息拍照。沿途很多”很好拍”的大岩石，一路走走停停。一覺得景不錯就停下來拍照。&lt;/p&gt;
+
+&lt;p&gt;13:45 才開始認真繼續走。&lt;/p&gt;
+
+&lt;p&gt;13:54 遇到瘦稜。直接走在受稜上，暴露感大。走一小段後遇到斜面朝左的岩層，稍稍回到稜左。&lt;/p&gt;
+
+&lt;p&gt;14:20 到達茶壺山叉路口。休息喝水吃東西。可望太平洋來的水氣碰到基隆山後抬升形成了雲霧。&lt;/p&gt;
+
+&lt;p&gt;14:43 續行，前往茶壺山。&lt;/p&gt;
+
+&lt;p&gt;15:07 到達茶壺山頂亂石堆，不休，直接翻過去。前往寶獅亭。看來來自太平洋的海風越來越強，克服太平洋高壓抬升到茶壺山高度後就凝結成霧了。烈日不見了，該看的風景也看了，可喜可賀。&lt;/p&gt;
+
+&lt;p&gt;15:15 寶獅亭，休息，跟幾位大哥聊一下天。&lt;/p&gt;
+
+&lt;p&gt;15:30 接回產業道路上的停車處。&lt;/p&gt;
+
+&lt;p&gt;15:37 朝寶亭，不休續行。&lt;/p&gt;
+
+&lt;p&gt;15:51 勸濟堂。簡單梳洗一下後搭16:20發的基隆客運1062往捷運忠孝復興站。結束今日行程。&lt;/p&gt;
+
+&lt;p&gt;早上太早起床了，沒有醒透，整路搭車搖搖晃晃的來到北海岸，有一點暈車的感覺。早上08:20到達南雅社區，南雅南新宮。&lt;/p&gt;
+
+&lt;figure class=&quot;align-center&quot;&gt;
+  &lt;img src=&quot;https://2.bp.blogspot.com/-7hNJA0n6Ggs/WwuoY_VcgLI/AAAAAAAA2hM/daO1VKO4HKcxFj4fuVm3K6WWuEV_NIHpQCKgBGAs/s1600/_MG_7135.JPG&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;2019-10-09 南湖中央尖 北一段O形行程中，在南湖大山主峰望見中央尖山的雲瀑&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure style=&quot;width: 450px&quot; class=&quot;align-left&quot;&gt;
+  &lt;img src=&quot;https://3.bp.blogspot.com/-KNHcykel83c/WwuoMNowpYI/AAAAAAAA2hE/FvSkCr4fRp4xkD0oESzo56acHYuVqqDcgCKgBGAs/s1600/_MG_7124.JPG&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;2018-09-04 全台灣最高的稜線 玉山南稜線&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure style=&quot;width: 450px&quot; class=&quot;align-right&quot;&gt;
+  &lt;img src=&quot;https://3.bp.blogspot.com/-Mvk4JFZIR38/WwuoUgzUhfI/AAAAAAAA2hI/wBDQwiGIRrgAYnjQHyIShs9i2cVfRk3mgCKgBGAs/s1600/_MG_7126.JPG&quot; alt=&quot;&quot; /&gt;
+  &lt;figcaption&gt;2019-12-20 佐藤警官駐在所遺址&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><summary type="html">2018年5月27日，這一天破了歷年來的五月最高溫紀錄。太平洋高壓籠罩在台灣上空，真不知道該說天氣很好還是很不好。出來玩總會祈禱遇到大晴天，可是天氣太晴朗也是會把人曬昏頭，尤其是劍龍稜上，。台北測到38.2度的高溫。那我猜我們在劍龍稜跟鋸齒稜上的溫度應該有超過40度。有幾段路都沒有植披，裸露的大岩石直接在大太陽上曝曬，溫度應該都超過50度了，抓在上面還會燙手。貼著滾燙燙的岩壁，頭頂著烈日，差點變成劍龍稜上的石板烤肉。在稜線上陡上前進，我開始思考這種天氣到底是好還是壞。</summary></entry></feed>

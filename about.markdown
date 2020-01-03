@@ -1,9 +1,8 @@
 ---
 title: "About"
-layout: collection
+layout: post
 permalink: /about/
 ---
-
 
 
 <figure class="align-left">

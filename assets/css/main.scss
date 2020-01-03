@@ -6,3 +6,22 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+
+
+%responsive-image {
+ display: flex;
+ width: 100%;
+ flex: 100%;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center center;
+}
+// H:1, W:1
+.image-1x1{
+ @extend %responsive-image;
+ padding-bottom: percentage(1 / 1);
+}
+
+
+
