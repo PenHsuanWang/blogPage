@@ -20,24 +20,24 @@ image:
 17:05 雲稜山屋 C1  
 
 
-<figure style="width: 50%" class="align-right">
+<figure style="width: 48%" class="align-right">
   <img src="https://4.bp.blogspot.com/-A3VrCK4MGhk/Xb7OYRWBZmI/AAAAAAAA5Vo/F5mJ05JRA4MZs3LqTvj4vQ9GcAg_Mb3DQCLcBGAsYHQ/s1600/_MG_2287.JPG" alt="">
   <figcaption>松風嶺</figcaption>
 </figure> 
 
-<figure style="width: 45%" class="align-left">
+<figure style="width: 48%" class="align-left">
   <img src="https://4.bp.blogspot.com/-Wb4tgRD7Kak/Xb7N2YjH-KI/AAAAAAAA5VU/ZeTZvnpu3uo36HbDnFPLlKcT_KAfBGIoQCLcBGAsYHQ/s1600/_MG_2239.JPG" alt="">
-  <figcaption>6.8K 松樹林間的登山口</figcaption>
+  <figcaption>710林道 6.8K 登口</figcaption>
 </figure> 
 
-<figure style="width: 45%" class="align-left">
+<figure style="width: 48%" class="align-left">
   <img src="https://3.bp.blogspot.com/-wryJ7ztrSyI/Xb7N3ixeREI/AAAAAAAA5VY/BiWhvPQYcTws6v4TqZijaTCixXDa4TLFwCLcBGAsYHQ/s1600/_MG_2267.JPG" alt="">
-  <figcaption>松風嶺 擺滿松果的路牌</figcaption>
+  <figcaption>松風嶺</figcaption>
 </figure> 
 
 <figure class="align-center">
   <img src="https://1.bp.blogspot.com/-xcSJksb99Aw/Xg9qv6d2NNI/AAAAAAAA7JQ/1nOBVeGz1S03skGkrHXTB-JOLaC_aYVmQCLcBGAsYHQ/s1600/_MG_2297_cut_for_longWidth.JPG" alt="">
-  <figcaption>多家屯山 望向蘭陽溪雲海</figcaption>
+  <figcaption>多家屯山 蘭陽溪雲海</figcaption>
 </figure> 
 
 
@@ -61,6 +61,31 @@ image:
 雖然短暫告別了美麗的雲海，但下到圈谷後是不同的風光，南湖圈谷為冰河遺留下來的地質景觀。由北峰下來的碎石坡一剛開始非常陡峭，但隨著接近圈谷底部開始變緩，是個U型谷地。南湖圈谷四周的山壁上長滿大量的圓柏，尤其是上圈谷東側，圓柏都十分高大。我們將東西放進山屋後就跑出來四處亂晃，順便找個有手機訊號的地方來上個網。下圈谷西側缺口有網路訊號，同時還可以欣賞s夕陽、聖稜線上的霞光。今天南湖山屋人很少，大概只有住十幾人左右而已，住起來很舒服，睡了兩個位子，可以滾來滾去。  
 
 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-HEUiexnmEWU/XhAOVQxiflI/AAAAAAAA7Js/VSzKiR7omKY8k6ZYpy-rHqi9Uzr7MCYBQCLcBGAsYHQ/s1600/_MG_2503_cut_wide.JPG" alt="">
+  <figcaption>南湖北山叉</figcaption>
+</figure> 
+
+<figure style="width: 50%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-WbIj55DoBlA/XhANkqKl3PI/AAAAAAAA7Jc/UoJA-D26rMUwkOfS8z5KPBEh45P5IjgOACLcBGAsYHQ/s1600/_MG_2525_high.JPG" alt="">
+  <figcaption>南湖北山 中央山脈主稜北端第一百岳</figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-1zOpcNSjU1I/XcB64nfRylI/AAAAAAAA5aI/Ijbo3JY2-II6E5J_j35oQoC71F8snwPWwCLcBGAsYHQ/s1600/_MG_2613.JPG" alt="">
+  <figcaption>五岩峰</figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-pHym5RRzYk8/XcB7C1NdHMI/AAAAAAAA5aY/1HH_CoKzRYEjfnH5BU0f8LwxeZH38PuewCLcBGAsYHQ/s1600/_MG_2622.JPG" alt="">
+  <figcaption>五岩峰</figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-pOcmqyQ8dwI/XhANqo5uBqI/AAAAAAAA7Jg/m3n6U-c_EfE1qavk_ri15k2xlSmmSBmwACLcBGAsYHQ/s1600/_MG_2536_cut_wide.JPG" alt="">
+  <figcaption>雪山山脈 大小霸 與 桃山喀拉業</figcaption>
+</figure> 
 
 
 # Day3
@@ -88,7 +113,34 @@ image:
 17:32 走到下圈谷西側的缺口上網，順便跟今天認識的山有大哥們加個line  
 18:00 回到山屋，準備煮晚餐 C3  
 
+
+<figure style="width: 48%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-gjNKz-XERoU/XcK5LIuhtBI/AAAAAAAA5c8/g1qXpnJFl38ONRHQwYSV1hfWjPC5WvRgQCEwYBhgL/s1600/_MG_2741.JPG" alt="">
+  <figcaption>南湖大山東峰向馬比杉山的稜線</figcaption>
+</figure> 
+
+<figure style="width: 48%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-FEqXbXVNNaQ/XcK4-fLUDyI/AAAAAAAA5c8/1Z6DMnmJXQY7Ap5l0UwCfXEFZMKj5H6ZwCEwYBhgL/s1600/_MG_2730.JPG" alt="">
+  <figcaption>南湖大山東峰稜線</figcaption>
+</figure> 
+
+<figure style="width: 48%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-n14yeLMdgWg/XcK6ofEyODI/AAAAAAAA5fM/OSQqqca8s9sSkWV_2MFW2SAbuUaSm_R-gCEwYBhgL/s1600/_MG_2825.JPG" alt="">
+  <figcaption>南湖大山東南峰前 葉子轉成橘紅色的杜鵑</figcaption>
+</figure> 
+
+<figure style="width: 48%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-tPv8XX2Y_aI/XcK9P8X2PGI/AAAAAAAA5iE/xhMWdHS7j9UlaXusiKN89JhagV4vhlV5gCEwYBhgL/s1600/_MG_2925.JPG" alt="">
+  <figcaption>和平南溪源頭的河谷</figcaption>
+</figure> 
+
+
 # Day4
+
+<figure style="width: 40%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/-TeB1lw5e-b4/XfYIKBUmjAI/AAAAAAAA6oY/W_rPGa--xi4hx-fckhpyqCXiiTMDedjVACLcBGAsYHQ/s1600/1576405028859687-1.png" alt="">
+  <figcaption>南湖大山主峰前遇到的臺灣長鬃山羊</figcaption>
+</figure>
 05:09 南湖圈谷山屋出發。飄霧雨，心裡想說這幾天的好天氣，難道要在今天畫下句了嗎?太陽還沒出來又起霧，沒什麼風景就只能不停的往上走。  
 06:10 南湖大山主峰登山口，天開始亮了，霧也好像慢慢要散掉的感覺，整理一下小背包，06:20出發前往南湖大山主峰。一開始是斜板岩陡上。  
 06:23 走沒三分鐘，眼前突然出現了觀音圈的上半部，太陽在我的背後，雲突然散掉了，陽光照亮整座南湖。  
@@ -96,7 +148,11 @@ image:
 06:28 中央尖山也探出雲海來了。  
 06:32 上稜，往北轉準備往南湖大山。  
 06:41 遇到台灣長鬃山羊。停下來拍照，至06:44  
-06:53 南湖大山主峰，展望一極棒，雲海高度慢慢下降，東峰也從雲海上端探出來了。往南望去，雲海翻過南湖南峰、巴巴山、以及巴巴山連到中央尖山東峰的稜線，形成成串的雲瀑，向中央尖溪谷傾瀉而下。我們在山頂上待到07:20，今天還要趕路到中央尖溪木屋，不敢拖太久，如果行程只有南湖群峰，我因該會想在山上待更久。  
+06:53 南湖大山主峰，展望一極棒，雲海高度慢慢下降，東峰也從雲海上端探出來了。往南望去，雲海翻過南湖南峰、巴巴山、以及巴巴山連到中央尖山東峰的稜線，形成成串的雲瀑，向中央尖溪谷傾瀉而下。我們在山頂上待到07:20，今天還要趕路到中央尖溪木屋，不敢拖太久，如果行程只有南湖群峰，我因該會想在山上待更久。
+<figure style="width: 40%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-Y3sRZUpWD_Q/XfD_Ir9j_tI/AAAAAAAA6JA/MfVnJC_mZpA2DsBB01qZaSjU0O5KauXSACLcBGAsYHQ/s1600/_MG_2965.JPG" alt="">
+  <figcaption>南湖大山主峰 望向東峰</figcaption>
+</figure>
 07:34 稜線結束，向東下切往登山口。  
 07:41 南湖大山登山口，整裝，擦防曬，這幾天的大太陽，手已經曬傷了QQ。07:58出發。  
 08:42 石瀑陡上，背重裝爬這段真的是，厚~累累累累累....  
@@ -117,6 +173,23 @@ image:
 16:02 到達溪邊了，準備過溪，溪水有一點大，怕怕的。  
 16:10 中央尖溪木屋 C4  
 
+
+<figure style="width: 48%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-VWJ6NLnU9_w/XfEK-9VwIgI/AAAAAAAA6Js/QPan-DrX0qMi3bRsTVhbM5tiPTK6_W03wCLcBGAsYHQ/s1600/_MG_2980.JPG" alt="">
+  <figcaption>南湖大山 最遠可見玉山</figcaption>
+</figure> 
+
+<figure style="width: 48%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-HqaEyr-bb8c/XfD-tPR7bAI/AAAAAAAA6I0/Jf3M0XQkXXwGGXcmzUn75eRc5qCHcbTbgCLcBGAsYHQ/s1600/_MG_2961.JPG" alt="">
+  <figcaption>上攀南湖大山</figcaption>
+</figure> 
+
+<figure style="width: 48%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-PAUtu1MCClo/XfEH_yfOTqI/AAAAAAAA6JQ/Qs4TDVj12eIT-GOOow2ORSYwUUoW3D8DACLcBGAsYHQ/s1600/_MG_2967.JPG" alt="">
+  <figcaption>南湖大山望向中央尖山</figcaption>
+</figure> 
+
+
 # Day5
 06:47 中央尖溪木屋出發  
 06:52 中央尖溪上游處的大瀑布  
@@ -135,6 +208,27 @@ image:
 早上的拉繩陡上變成拉繩陡下，下去花了不少時間。  
 15:56 結束高繞地形。  
 16:09 中央尖溪木屋，完成南湖中央尖了YAYAYA C5  
+
+<figure style="width: 48%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-ewxx7hFIcFw/XfJLE3_j1JI/AAAAAAAA6P4/7M9m90pEDi8mzaYBn8zNlNnsPvGD05yrwCLcBGAsYHQ/s1600/_MG_3158.JPG" alt="">
+  <figcaption>中央尖山的東側是一片和緩的箭竹草坡</figcaption>
+</figure> 
+
+<figure style="width: 48%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-4rkxnWIHgis/XfJLGn1zYwI/AAAAAAAA6QA/yr-OaGmWBBwIXJZcjCEhjD8JdE3Y28ZxQCLcBGAsYHQ/s1600/_MG_3168.JPG" alt="">
+  <figcaption>中央尖山望相南湖群峰</figcaption>
+</figure> 
+
+<figure style="width: 48%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-aZuiL9ZyX18/XfJLI6U3EMI/AAAAAAAA6QQ/FPwySOoiER0x3Twb6Eyaazvh2NReo0DMwCLcBGAsYHQ/s1600/_MG_3179.JPG" alt="">
+  <figcaption>中央尖山東峰、主東鞍部</figcaption>
+</figure> 
+
+<figure style="width: 48%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-cfzk_k8RlLA/XfJLMC3qAZI/AAAAAAAA6Qg/f50mPu66c70XXGrKNzVR9DY09PIuHjxAACLcBGAsYHQ/s1600/_MG_3190.JPG" alt="">
+  <figcaption>屹立於中央尖山的枯木 後方稜線為奇萊東稜</figcaption>
+</figure> 
+
 
 # Day6 
 07:09 中央尖溪木屋出發準備回程  

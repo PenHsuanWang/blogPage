@@ -90,14 +90,14 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
+  name: P.H, Wang
+  picture: /images/bio-img.png
   email:
-  twitter:
+  twitter: penhsuan
   links:
-    - title:
-      url:
-      icon:
+    - title: Instagram
+      url: https://www.instagram.com/penhsuan/
+      icon: fab fa-instagram
 
 # Collections
 collections:
@@ -107,6 +107,6 @@ collections:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Instagram
+    url: https://www.instagram.com/penhsuan/
+    icon: fas fa-instagram
