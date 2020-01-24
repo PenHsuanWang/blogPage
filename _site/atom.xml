@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-24T21:41:17+08:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Ben’s Mountain Climbing Gellary</title><subtitle>repo for build personal blog</subtitle><author><name>P.H, Wang</name></author><entry><title type="html">第一篇貼文，架站練習</title><link href="http://localhost:4000/posts/myFirstPist/" rel="alternate" type="text/html" title="第一篇貼文，架站練習" /><published>2019-12-28T21:28:06+08:00</published><updated>2019-12-28T21:28:06+08:00</updated><id>http://localhost:4000/posts/myFirstPist</id><content type="html" xml:base="http://localhost:4000/posts/myFirstPist/">&lt;p&gt;我嘗試利用jekyll練習架設網站，並放置github page上&lt;/p&gt;</content><author><name>P.H, Wang</name></author><summary type="html">我嘗試利用jekyll練習架設網站，並放置github page上</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-12-28T21:28:06+08:00</published><updated>2019-12-28T21:28:06+08:00</updated><id>http://localhost:4000/posts/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/posts/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>P.H, Wang</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">北插天山 觀賞山毛櫸之旅</title><link href="http://localhost:4000/post/BaiChia/" rel="alternate" type="text/html" title="北插天山 觀賞山毛櫸之旅" /><published>2019-11-09T08:00:06+08:00</published><updated>2019-11-09T08:00:06+08:00</updated><id>http://localhost:4000/post/BaiChia</id><content type="html" xml:base="http://localhost:4000/post/BaiChia/">&lt;p&gt;十一月初的秋天，正值山毛櫸轉黃的時節。雖然今年的天氣偏熱，很少有一夜轉涼的天氣變化，今年山毛櫸的黃葉率沒有預期的高。但前兩週去過北得拉曼、內鳥嘴山附近晃晃，還是有看到幾棵全黃的山毛櫸。於是這次想來北台灣山毛櫸數量最多的北插天山看看。這一隊很有趣，大學登山社揪一揪，揪到的人級數都沒有重複，從100級到108級，根本就是北插天山家聚XD。&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-24T22:01:45+08:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Ben’s Mountain Climbing Gellary</title><subtitle>repo for build personal blog</subtitle><author><name>P.H, Wang</name></author><entry><title type="html">北插天山 觀賞山毛櫸之旅</title><link href="http://localhost:4000/post/BaiChia/" rel="alternate" type="text/html" title="北插天山 觀賞山毛櫸之旅" /><published>2019-11-09T08:00:06+08:00</published><updated>2019-11-09T08:00:06+08:00</updated><id>http://localhost:4000/post/BaiChia</id><content type="html" xml:base="http://localhost:4000/post/BaiChia/">&lt;p&gt;十一月初的秋天，正值山毛櫸轉黃的時節。雖然今年的天氣偏熱，很少有一夜轉涼的天氣變化，今年山毛櫸的黃葉率沒有預期的高。但前兩週去過北得拉曼、內鳥嘴山附近晃晃，還是有看到幾棵全黃的山毛櫸。於是這次想來北台灣山毛櫸數量最多的北插天山看看。這一隊很有趣，大學登山社揪一揪，揪到的人級數都沒有重複，從100級到108級，根本就是北插天山家聚XD。&lt;br /&gt;
 這次抱持著來賞山毛櫸的心情來的，沒在做紀錄，以下只放照片。&lt;br /&gt;
 我們大約八點半從小烏來出發，通過木屋遺址後開始陡上。很前我爬北插天山都是從東眼山過來，對北插天山的印象就是路途遙遠。這是我第一次從小烏來上，原來從小烏來上來這麼快。通過木屋約一小時後，第一顆山毛櫸出現了，黃葉率接近百分之百，趕快開啟相機&lt;/p&gt;
 
@@ -1014,15 +998,15 @@
 
 &lt;figure class=&quot;align-center&quot;&gt;
   &lt;img src=&quot;https://2.bp.blogspot.com/-7hNJA0n6Ggs/WwuoY_VcgLI/AAAAAAAA2hM/daO1VKO4HKcxFj4fuVm3K6WWuEV_NIHpQCKgBGAs/s1600/_MG_7135.JPG&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;2019-10-09 南湖中央尖 北一段O形行程中，在南湖大山主峰望見中央尖山的雲瀑&lt;/figcaption&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure style=&quot;width: 450px&quot; class=&quot;align-left&quot;&gt;
   &lt;img src=&quot;https://3.bp.blogspot.com/-KNHcykel83c/WwuoMNowpYI/AAAAAAAA2hE/FvSkCr4fRp4xkD0oESzo56acHYuVqqDcgCKgBGAs/s1600/_MG_7124.JPG&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;2018-09-04 全台灣最高的稜線 玉山南稜線&lt;/figcaption&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure style=&quot;width: 450px&quot; class=&quot;align-right&quot;&gt;
   &lt;img src=&quot;https://3.bp.blogspot.com/-Mvk4JFZIR38/WwuoUgzUhfI/AAAAAAAA2hI/wBDQwiGIRrgAYnjQHyIShs9i2cVfRk3mgCKgBGAs/s1600/_MG_7126.JPG&quot; alt=&quot;&quot; /&gt;
-  &lt;figcaption&gt;2019-12-20 佐藤警官駐在所遺址&lt;/figcaption&gt;
+  &lt;figcaption&gt; &lt;/figcaption&gt;
 &lt;/figure&gt;</content><author><name>P.H, Wang</name></author><summary type="html">2018年5月27日，這一天破了歷年來的五月最高溫紀錄。太平洋高壓籠罩在台灣上空，真不知道該說天氣很好還是很不好。出來玩總會祈禱遇到大晴天，可是天氣太晴朗也是會把人曬昏頭，尤其是劍龍稜上，。台北測到38.2度的高溫。那我猜我們在劍龍稜跟鋸齒稜上的溫度應該有超過40度。有幾段路都沒有植披，裸露的大岩石直接在大太陽上曝曬，溫度應該都超過50度了，抓在上面還會燙手。貼著滾燙燙的岩壁，頭頂著烈日，差點變成劍龍稜上的石板烤肉。在稜線上陡上前進，我開始思考這種天氣到底是好還是壞。</summary></entry></feed>

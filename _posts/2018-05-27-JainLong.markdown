@@ -90,17 +90,17 @@ categories: post
 
 <figure class="align-center">
   <img src="https://2.bp.blogspot.com/-7hNJA0n6Ggs/WwuoY_VcgLI/AAAAAAAA2hM/daO1VKO4HKcxFj4fuVm3K6WWuEV_NIHpQCKgBGAs/s1600/_MG_7135.JPG" alt="">
-  <figcaption>2019-10-09 南湖中央尖 北一段O形行程中，在南湖大山主峰望見中央尖山的雲瀑</figcaption>
+  <figcaption> </figcaption>
 </figure> 
 
 <figure style="width: 450px" class="align-left">
   <img src="https://3.bp.blogspot.com/-KNHcykel83c/WwuoMNowpYI/AAAAAAAA2hE/FvSkCr4fRp4xkD0oESzo56acHYuVqqDcgCKgBGAs/s1600/_MG_7124.JPG" alt="">
-  <figcaption>2018-09-04 全台灣最高的稜線 玉山南稜線</figcaption>
+  <figcaption> </figcaption>
 </figure> 
 
 <figure style="width: 450px" class="align-right">
   <img src="https://3.bp.blogspot.com/-Mvk4JFZIR38/WwuoUgzUhfI/AAAAAAAA2hI/wBDQwiGIRrgAYnjQHyIShs9i2cVfRk3mgCKgBGAs/s1600/_MG_7126.JPG" alt="">
-  <figcaption>2019-12-20 佐藤警官駐在所遺址</figcaption>
+  <figcaption> </figcaption>
 </figure> 
 
 

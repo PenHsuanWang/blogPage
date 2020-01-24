@@ -48,14 +48,4 @@ var store = [{
         "excerpt":"十一月初的秋天，正值山毛櫸轉黃的時節。雖然今年的天氣偏熱，很少有一夜轉涼的天氣變化，今年山毛櫸的黃葉率沒有預期的高。但前兩週去過北得拉曼、內鳥嘴山附近晃晃，還是有看到幾棵全黃的山毛櫸。於是這次想來北台灣山毛櫸數量最多的北插天山看看。這一隊很有趣，大學登山社揪一揪，揪到的人級數都沒有重複，從100級到108級，根本就是北插天山家聚XD。這次抱持著來賞山毛櫸的心情來的，沒在做紀錄，以下只放照片。我們大約八點半從小烏來出發，通過木屋遺址後開始陡上。很前我爬北插天山都是從東眼山過來，對北插天山的印象就是路途遙遠。這是我第一次從小烏來上，原來從小烏來上來這麼快。通過木屋約一小時後，第一顆山毛櫸出現了，黃葉率接近百分之百，趕快開啟相機            後來我發現我錯了，我低估了今年山毛櫸的”花況”。越往上走山毛櫸越多，而且每一棵黃葉率都接近100%。稜線的兩側都是山毛櫸。                     今天在山下的時候天氣很好，十分的晴朗，但是一接近北插天山山頂附近，先是起了濃霧，接著濕氣重到枝頭上的露水都凝結成水滴滴下來了。滿地的泥濘弄髒了褲子跟雨鞋，很多需要手腳並用的地形爬過去，全身都是泥巴，我們下山後的人一定很納悶，天氣這麼好怎麼會搞得滿身泥巴XD                                           下山途中經過一個點剛好霧氣散開，可以看見台北              通過展望點後回望，看見整條稜線的霧氣暫時散掉，整片山坡上滿滿的山毛櫸，鏡頭拉近來看，有幾位剛剛通過我們正要上山的山友通過這片山毛櫸樹林。             今天的天氣可以說是忽晴忽雨的，但感覺山毛櫸好像就愛這種天氣。山毛櫸分佈於桃園、新竹、宜蘭一帶的中級山區，通常找在海拔1500公尺以上的稜線上，好像濕冷的環境就可以看見山毛櫸的蹤跡。台灣的山毛櫸算是冰河孑遺生物，又稱台灣水青岡、早田山毛櫸，跟歐洲的山毛櫸算是表兄弟。今天下山的路還很漫長，很多坡要下，褲子衣服就給他髒吧XD                           ","categories": ["post"],
         "tags": [],
         "url": "http://localhost:4000/post/BaiChia/"
-      },{
-        "title": "第一篇貼文，架站練習",
-        "excerpt":"我嘗試利用jekyll練習架設網站，並放置github page上 ","categories": ["posts"],
-        "tags": [],
-        "url": "http://localhost:4000/posts/myFirstPist/"
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["posts"],
-        "tags": [],
-        "url": "http://localhost:4000/posts/welcome-to-jekyll/"
       }]
