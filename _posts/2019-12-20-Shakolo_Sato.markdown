@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "霞喀羅 佐藤警官駐在所 出霞山"
-date:   2019-11-03 21:28:06 +0800
+date:   2019-12-20 21:28:06 +0800
 categories: post
 image:
   path: https://1.bp.blogspot.com/-B2HNJxDzaqM/XihzENo613I/AAAAAAAA75Q/WvyDCHvc5-c91wzTpr8ZQ12NaSKUyYvGACKgBGAsYHg/s1600/DSC_2074.JPG
@@ -97,20 +97,20 @@ image:
 
 ## Day1 石鹿登山口->霞喀羅大山->佐藤山->佐藤駐在所 C1
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-M98h_3h1BFE/Xihx_-hyDAI/AAAAAAAA740/MlFOgX2vP9khqgWvLDpOIZe-7mhsIdK6wCKgBGAsYHg/s1600/DSC_1989.JPG" alt="">
   <figcaption> 崩壁上方，可見對面的新竹天際線 </figcaption>
 </figure> 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-kr_K1JUnBi0/Xihx_7bqvpI/AAAAAAAA740/a8Cuc9Zp1_MIiUw1S7T-zvnoC6CZaXs9QCKgBGAsYHg/s1600/DSC_1990.JPG" alt="">
   <figcaption> 崩壁上方 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-Riu_OoGc_mI/Xihx_2EEA_I/AAAAAAAA740/jnWTk8h20YUwlazJlKQCFK0cRV1HMNNQwCKgBGAsYHg/s1600/DSC_1995.JPG" alt="">
   <figcaption> 霞喀羅大山頂 </figcaption>
 </figure> 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-R__03XWpxy8/Xihx_88J1gI/AAAAAAAA740/LswCSjq9_cYPLhSqXDS_GrFn29QPCjfBQCKgBGAsYHg/s1600/DSC_2010.JPG" alt="">
   <figcaption> 霞喀羅大山頂 </figcaption>
 </figure> 
@@ -121,29 +121,29 @@ image:
   <figcaption> 霞喀羅大山頂 頭前溪水源碑 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-GlE20r5iIS0/Xihx_8-_OGI/AAAAAAAA740/NvqTMqBPYq443uxiYTquXbuEG7npj-ywwCKgBGAsYHg/s1600/DSC_2022.JPG" alt="">
   <figcaption> 霞喀羅大山至佐藤山之間的稜線，有幾處箭竹茂密，戴上護目鏡XD </figcaption>
 </figure> 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-XAUYtbXKxFg/Xihx_9k1O2I/AAAAAAAA740/OhnRJDA26qYIlgDhV4ETnO7gFd0CTOUpgCKgBGAsYHg/s1600/DSC_2030.JPG" alt="">
   <figcaption> 佐藤山頂，還沒中午，比預期的還要早很多 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-7g2Qd07lqL8/Xihx_99Q2uI/AAAAAAAA740/1-NaF3rZVgU71nQ1hJ4Qja83KJfP8wvyACKgBGAsYHg/s1600/DSC_2033.JPG" alt="">
   <figcaption> 佐藤山下切準備前往駐在所，這裡的箭竹更茂密了 </figcaption>
 </figure> 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-6qjbe--tKwI/Xihx_zKZw5I/AAAAAAAA740/9yZB0vA2GzQkhozN5mbHGi0pxpaEsg9GwCKgBGAsYHg/s1600/DSC_2036.JPG" alt="">
   <figcaption> 佐藤山下切準備前往駐在所，這裡的箭竹更茂密了 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-8Yr0X_K2fLw/Xihx_7ilKQI/AAAAAAAA740/Kwcvtq6YJLo78jgRq5-TY8rimbK7jmwDgCKgBGAsYHg/s1600/DSC_2040.JPG" alt="">
   <figcaption> 從佐藤山下來遇到第一個鞍部後，向右切下溪溝 </figcaption>
 </figure> 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-d6CjPq0OKcg/XiqBLGSM_qI/AAAAAAAA770/Q49lEnX9UMcou90VGdzkF9UmGunRTGk-gCKgBGAsYHg/s1600/DSC_2039.JPG" alt="">
   <figcaption> 從佐藤山下來遇到第一個鞍部後，向右切下溪溝 </figcaption>
 </figure> 
@@ -153,31 +153,30 @@ image:
   <figcaption> 不要懷疑，一直沿著溪溝切下去就對了 </figcaption>
 </figure> 
 
-<figure style="width: 48%" class="align-left">
+我們很怕下切切過頭，一看到有酒瓶與碎片，就趕緊停下腳步，左右尋找駐在所。後來我們在左手邊發現了一堵駁坎，確認找到駐在所了。我們找到的這堵牆是駐在所上層的右上角(由大門口看過來的話)。
+
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-vpXymAxqcj4/XiqCly2oyuI/AAAAAAAA78A/mZlaohaIA5ME2icEOsGiB8tsLShpgFekgCKgBGAsYHg/s1600/DSC_2044.JPG" alt="">
   <figcaption> 發現酒瓶與礙子，開始停下腳步左右尋找駐在所 </figcaption>
 </figure> 
 
-<figure style="width: 48%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-E_hGU_a2MfY/Xihx_wyC5RI/AAAAAAAA740/Gt4KhsNeaWAeb1KE64nxR01vIDyRotdaACKgBGAsYHg/s1600/DSC_2045.JPG" alt="">
   <figcaption> 發現陶瓷碎片 </figcaption>
 </figure> 
-  
-
-我們很怕下切切過頭，一看到有酒瓶與碎片，就趕緊停下腳步，左右尋找駐在所。後來我們在左手邊發現了一堵駁坎，確認找到駐在所了。我們找到的這堵牆是駐在所上層的右上角(由大門口看過來的話)。
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-kH0XcyomOiA/Xihx_2egAoI/AAAAAAAA740/5uFwcmGJrF0_o4WmPFpb0viIQQG3-JgzwCKgBGAsYHg/s1600/DSC_2053.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-gEkdbMctzD8/Xihx_0241PI/AAAAAAAA740/Z1ACPC0FkGQdrxS8dSqNCaejyA4JQBLmACKgBGAsYHg/s1600/DSC_2049.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-euPWbEeAXiw/Xihx_y9VJgI/AAAAAAAA740/4arSiFOIMaA2Ycdqw1Usd1DnVK2a3LugQCKgBGAsYHg/s1600/DSC_2056.JPG" alt="">
   <figcaption> 礙子 </figcaption>
 </figure> 
@@ -192,34 +191,34 @@ image:
 駐在所的第一層與第二層中間有一個很陡的坡道連接，這裡以前應該是階梯。第二層左邊對底部有大量的酒瓶還有醬油瓶。墨綠色的瓶子上面有標記YAMASASHOYU(山佐醬油)，下山google後得知這是醬油瓶。咖啡色的瓶子，則有印製"臺灣專商局"一種，還有另一種上印著"KOTOBUKIYA Co."
 
 
-<figure style="width: 48%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-QfXKMw2EgGM/XiqRA58gRtI/AAAAAAAA78s/eoyP0dkaNbAdm9iFFLBA362v8hBzayfUACKgBGAsYHg/s1600/DSC_2079.JPG" alt="">
   <figcaption> 佐藤住在所大門右側原本的橋已經不存在了，沿著溪溝往下切 </figcaption>
 </figure> 
 
-<figure style="width: 48%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-zfReJ4W8BeQ/XiqRA-tlpDI/AAAAAAAA78s/9SzwxnyylQATadKPtHXhi7motCQEeFzrQCKgBGAsYHg/s1600/DSC_2080.JPG" alt="">
   <figcaption> 溪溝下切取水順便尋找山葵未果 </figcaption>
 </figure> 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-OVZ8fZlTLQg/Xihx_7T_LZI/AAAAAAAA740/nJQoZcHzxbcdM7lQmKVq09o3iRjMsVFlgCKgBGAsYHg/s1600/DSC_2072.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-oFPe5rhTKE0/XiqRziqc0gI/AAAAAAAA784/L7qaqTXvrO4fBAFmLDg4Ap1oKHx8FjzjQCKgBGAsYHg/s1600/DSC_2108.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-ERGoTaxrhAA/Xihx_9rIyxI/AAAAAAAA740/MzMpxcs1oIgO68Hwud_mijh8H6NByvXvwCKgBGAsYHg/s1600/DSC_2084.JPG" alt="">
   <figcaption> 佐藤警官駐在所大門口的兩棵迎賓樹 </figcaption>
 </figure> 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-PtBinxZNrZ8/XiqR11pySYI/AAAAAAAA788/41DHFG06cPwKjOakf-R284YeMHSzvbpigCKgBGAsYHg/s1600/DSC_2111.JPG" alt="">
   <figcaption> 倒插在土裡的醬油瓶，已經長滿苔蘚變成生態瓶了XD </figcaption>
 </figure> 
@@ -230,38 +229,38 @@ image:
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-baePfFoaVmw/Xihx_9JxVbI/AAAAAAAA740/uCSPtBS830YDUl8N2ihBL11YaPGBxoLyACKgBGAsYHg/s1600/DSC_2096.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-SfKnxtn3q4E/Xihx_yyUSFI/AAAAAAAA740/OrmWOwQm3Vk3AkC-0884Qd84-rARnV-VACKgBGAsYHg/s1600/DSC_2097.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-6JoGaKGzwo8/Xihx_xQ9EiI/AAAAAAAA740/Yq-xQ9BXQG8rJAcFioftPtln6y_pUKKBgCKgBGAsYHg/s1600/DSC_2126.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-FTo16FofSZo/Xihx_4L14tI/AAAAAAAA740/iMO8p0cUNKEDdojfLHtwHlFdejrhv4SmACKgBGAsYHg/s1600/DSC_2130.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-Iy4jq0to4bw/XiqhStwfrwI/AAAAAAAA7-E/LPWBLTe1yU8Y8qy-pkjhjUAs-J-8NaV9gCKgBGAsYHg/s1600/DSC_2076.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-QmbrSXunWLs/XiqhSq7DNPI/AAAAAAAA7-E/wZyeMMaT71olNTdH9OyCOhXj_gUtG6Q2wCKgBGAsYHg/s1600/IMG_20191220_142136.jpg" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-lOk-iBJmNJA/XiqhShLC3xI/AAAAAAAA7-E/31pbOa0XAkc6EabVKrM7lLF0Majxb8DnwCKgBGAsYHg/s1600/IMG_20191220_141940.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
@@ -275,12 +274,12 @@ image:
   
 ## Day2 佐藤駐在所->佐藤山->霞喀羅大山->霞喀羅古道->五峰尖石鄉界，轉向霞山稜線->H2120峰 C2
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-VoF-QOq26Yc/XiqkfJfND2I/AAAAAAAA7-U/zcPA_wamIKEgGrCZvTHwHZqCF2coSbKrQCKgBGAsYHg/s1600/DSC_2138.JPG" alt="">
   <figcaption> 回程路上發現一處嚴重崩塌的地方，來的時候都沒有注意到。這棵樹的樹根已經有一半裸露在外了 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-SjuGxVzWa8k/XiqkfP33b2I/AAAAAAAA7-U/stR0OiOLS3kjqyLVJoImK6AG5hXBgQT5wCKgBGAsYHg/s1600/DSC_2140.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
@@ -291,56 +290,56 @@ image:
 </figure>
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-YNSw7tJDhdo/XiqmBfizOtI/AAAAAAAA7-4/yyYXFM_KNUAZ_NG571ZLCrnFC5p46PeCACKgBGAsYHg/s1600/DSC_2148.JPG" alt="">
   <figcaption> 回到霞喀羅古道，吊在步道上方的十字架...ㄜ...不是，電線桿 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-2_sR2J2kxrc/XiqmBecuJwI/AAAAAAAA7-4/w3fwzg7-1PUwdRHR8q2h4Ldtk5DPrR1bgCKgBGAsYHg/s1600/DSC_2149.JPG" alt="">
   <figcaption> ㄜ...不是，電線桿 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-KELugsvZ5y4/XiqmBWQQd-I/AAAAAAAA7-4/HrkN08TglJ8lidl3t7LmjQIy6wBEqZGpgCKgBGAsYHg/s1600/DSC_2150.JPG" alt="">
   <figcaption> 不懂為什麼樹上會插滿礙子 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-9peMwdiqx8c/XiqmBauplnI/AAAAAAAA7-4/31DCDs-Z0O4uskHSm21-YRnU2-x33u28ACKgBGAsYHg/s1600/DSC_2156.JPG" alt="">
   <figcaption> 霞喀羅古道 </figcaption>
 </figure> 
 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-shFgBvNqrbw/Xiqn1fin1tI/AAAAAAAA7_c/OxrMrpGZUMAKq8UWq2u561LSIeNQstYfQCKgBGAsYHg/s1600/DSC_2165.JPG" alt="">
   <figcaption> 往霞山的岔路口，準備轉向向北的稜線，這裡也是五峰鄉跟尖石鄉的鄉界 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-N08ipcdchVk/Xiqn1TBfFFI/AAAAAAAA7_c/tSdnj7zNFmwRnTy8c462MdyqxwDS1xbqQCKgBGAsYHg/s1600/DSC_2163.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-fKR1AgwUJzw/Xiqn1Xff5uI/AAAAAAAA7_c/Lep1KSyz_qEZwzyzXAxlM-BEeOsde6b-wCKgBGAsYHg/s1600/DSC_2164.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-R1prD6p6aqU/XiqqaWtpCEI/AAAAAAAA8AU/EJ2ILQdjkvskUtd25YQeIMDFDIvxJJxmwCKgBGAsYHg/s1600/DSC_2173.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-9NLanjrZBsw/XiqqaVWUoEI/AAAAAAAA8AU/KPuFbwuRqMglk9xR2Qlz9w2gBv-3mZY4gCKgBGAsYHg/s1600/DSC_2169.JPG" alt="">
   <figcaption>從霞喀羅到霞山之間的路又變得很原始了，這段路應該沒什麼人在走，沿線看到很多伐木遺跡，找滿青苔的樹頭 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-E8bUX8rb0Nc/XiqqaQrmBYI/AAAAAAAA8AU/IRl5B9C_y0M1-oPSxuI56-foSXB9lqUNACKgBGAsYHg/s1600/DSC_2174.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
@@ -354,33 +353,33 @@ image:
 
 ## Day3 H2120峰->霞山東南峰、霞山->錦屏山->石麻達山->屯野生台山->屯野生台大水塔登山口
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-_5M2reNun2o/XiqvzkmGm-I/AAAAAAAA8CU/-pXjtkl7L6Ejn_HKc2sGjLEPH6CBz1kHACKgBGAsYHg/s1600/DSC_2188.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-HR7Chq0Q5vw/XiqvzujYkhI/AAAAAAAA8CU/VtNbOtyNIEko5ub3_eeV4STbA3Op3pK7ACKgBGAsYHg/s1600/DSC_2189.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-3Q87jMbYNlQ/XiqvziFHduI/AAAAAAAA8CU/lgYf1gxy13gW1mnDjgfk-yViZkxDYkkyACKgBGAsYHg/s1600/DSC_2192.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-LchuGb5BhF4/Xiq5ZQw137I/AAAAAAAA8Cg/N1ihkDAqgRcxaxs7G3cqFK7imSlNi_CwwCKgBGAsYHg/s1600/DSC_2196.JPG" alt="">
   <figcaption> 霞山東南峰，森林三角點 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-N4RahOl2n1o/Xiq5ZeKDxBI/AAAAAAAA8Cg/DkGhTlh_0DQ5q3bhfVpf8HaoMLP2w0ihwCKgBGAsYHg/s1600/DSC_2224.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-MCQMo_0tu00/Xiq5ZfTIbWI/AAAAAAAA8Cg/chvp-HJqgyY4lxr4GHtpLEO_T2VJp_mmwCKgBGAsYHg/s1600/DSC_2201.JPG" alt="">
   <figcaption> 霞山，頭前溪水源碑 </figcaption>
 </figure> 
@@ -392,17 +391,17 @@ image:
 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-6YriCVMBnhc/Xiq5ZU2ArgI/AAAAAAAA8Cg/FPnwwEfsZCMIBolLljjMEMZl_iG3lZDIACKgBGAsYHg/s1600/DSC_2227.JPG" alt="">
   <figcaption> 錦屏山頂，無基點。有趣的是旁邊的路條，OO電風扇 XX登山隊，現在的登山路條還可以冠名贊助喔XD。而且還有太管處的巡查路迢來湊熱鬧。 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-1IOnB_LTBGg/Xiq5ZUQN60I/AAAAAAAA8Cg/lOc2AaTnxhYeqD5WSfCivOpxB3Igtc6jQCKgBGAsYHg/s1600/DSC_2230.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-vrp05QDA8uA/Xiq5ZWWrGqI/AAAAAAAA8Cg/pU2qDrWcTXs_VoczyosbpxM9eUsuHjtswCKgBGAsYHg/s1600/DSC_2237.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
@@ -413,12 +412,12 @@ image:
 </figure> 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-ozzGUt2oY1U/Xiq5ZQ95cHI/AAAAAAAA8Cg/xDvvpra8JmAaeB5qVn1FwB0GlRxUmeZRgCKgBGAsYHg/s1600/DSC_2239.JPG" alt="">
   <figcaption> 石麻達山頂，我很好奇石麻達跟島田山的關係，"石麻達"剛好就是"島田"的日文漢字發音，有沒有高手可以幫忙解惑 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-ddJoRVABnh8/Xiq5ZUokZnI/AAAAAAAA8Cg/6dboF3UFZL8HI4UZoZyVQZ9mPvyvvlWugCKgBGAsYHg/s1600/DSC_2242.JPG" alt="">
   <figcaption> 石麻達三等三角點，頭前溪水源碑 </figcaption>
 </figure> 
@@ -430,12 +429,12 @@ image:
 
 
 
-<figure style="width: 47%" class="align-left">
+<figure style="width: 45%" class="align-left">
   <img src="https://1.bp.blogspot.com/-xPNfqly51c4/Xiq9QMkBp2I/AAAAAAAA8Cs/MxDP-hMVrvg5e2gbDxx8Qb9IRY1irufQwCKgBGAsYHg/s1600/DSC_2266.JPG" alt="">
   <figcaption> 屯野生台山前的一處駁坎遺址 </figcaption>
 </figure> 
 
-<figure style="width: 47%" class="align-right">
+<figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-R5oLM2AdheU/Xiq9QHdwFII/AAAAAAAA8Cs/UfQx3h-nYOADBGZ3C1f4LeKj7P6sr-HLACKgBGAsYHg/s1600/DSC_2275.JPG" alt="">
   <figcaption> 屯野生台山，三等三角點 </figcaption>
 </figure> 
