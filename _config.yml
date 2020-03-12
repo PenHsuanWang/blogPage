@@ -108,29 +108,30 @@ analytics:
 # Site Author
 author:
   name             : "P.H, Wang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : /image/bio_image.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "心血來潮跑來架設網站，文筆不好還請見諒。"
   location         : "Hsinchu, Taiwan"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/pwang9401"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:your.name@email.com
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+
 
 # Collections
 collections:
@@ -143,6 +144,10 @@ collections:
     permalink: /:collection/:path
 
   mountaineeringNote:
+    output: true
+    permalink: /:collection/:path
+
+  mountainGallery:
     output: true
     permalink: /:collection/:path
 
@@ -315,7 +320,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "docs"
+        nav: "main"
   # home
   - scope:
       path: ""
@@ -329,7 +334,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "docs"
+        nav: "main"
 
   - scope:
       path: ""
@@ -343,7 +348,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "docs"
+        nav: "main"
 
 
   - scope:
@@ -358,5 +363,20 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "docs"
+        nav: "main"
+
+
+  - scope:
+      path: ""
+      type: mountainGallery
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "main"
 
