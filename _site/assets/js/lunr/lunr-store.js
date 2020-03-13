@@ -27,32 +27,32 @@ var store = [{
         "title": "馬比杉山",
         "excerpt":"馬比杉山，三等三角點，為台灣最東的一座百岳。從和平南溪叉路口來到這裡約一個小時，回程也約一個小時。途中下到最低鞍部3030公尺，從和平南溪叉路口到馬比杉山來回時間都差不多。                                                                        馬比杉山三角點並不是最高點，真正的最高點是在北側的山頭上。不過這一整片草原十分和緩，不管站在那邊景色都是一極棒的，我已經不是很在乎到底哪邊才是最高點了。    由南湖大山東南峰，準備下降至和平南溪叉路口。   ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/mountainGallery/2019-10-10-Mabi",
+        "url": "http://localhost:4000/mountainGallery/Mabi/",
         "teaser":"https://1.bp.blogspot.com/-h6uu8Kr4xno/XcK8M1YMAjI/AAAAAAAA5g4/nSsU28w2E8QihzYEb_8KRXCxQCq68iVYACLcBGAsYHQ/s1600/_MG_2882.JPG"},{
         "title": "南湖大山東峰",
         "excerpt":"南湖中央尖行程的第三天，一早從山屋出發前往南湖大山東峰，通過上圈谷並翻越稜線後，迎接我們的是中央山脈東面的一片雲海。                                                                        朝著太陽的方向走去吧，今天的路途還很遙遠QQ      ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/mountainGallery/2019-10-10-NanhuEastPeak",
+        "url": "http://localhost:4000/mountainGallery/NanhuEastPeak/",
         "teaser":"https://1.bp.blogspot.com/-o2UxVovgXUo/XcK5gGnDzhI/AAAAAAAA5c0/y7DUPxt0qwQMgSGes2j3jwgJQFcXF0VdgCLcBGAsYHQ/s1600/_MG_2752.JPG"},{
         "title": "南湖大山東南峰",
         "excerpt":"南湖中央尖行程的第三天，一早從山屋出發前往南湖大山東峰，通過上圈谷並翻越稜線後，迎接我們的是中央山脈東面的一片雲海。                                                                        南湖大山東南峰前，由南側往下看，可以看見和平南溪谷往十洞獵寮的岔路，以及一個大池塘。      前往南湖大山東南峰，沿途都是巨大亂石堆。      ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/mountainGallery/2019-10-10-NanhuEastSouthPeak",
+        "url": "http://localhost:4000/mountainGallery/NanhuEastSouthPeak/",
         "teaser":"https://1.bp.blogspot.com/-Oeu3Ax_Vz_A/XcK7Uy2s2BI/AAAAAAAA5fw/GKWbUTg76J427MHpk0q2sO6_2j1AxT-hwCLcBGAsYHQ/s1600/_MG_2851.JPG"},{
         "title": "南湖大山",
         "excerpt":"十月初的早晨，登頂素有帝王之山稱號的南湖大山，也算是完成了我從大學加入登山社以來的心願了。尤其在這秋高氣爽的天氣下，登上中央山脈北一段的最高峰，還有雲海相伴，先前四天揹著20多公斤重的背包，一步一步走上來的辛勞，在這一刻都值得了。                                                                                          ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/mountainGallery/2019-10-10-NanhuMainPeak",
+        "url": "http://localhost:4000/mountainGallery/NanhuMainPeak/",
         "teaser":"https://1.bp.blogspot.com/-Y3sRZUpWD_Q/XfD_Ir9j_tI/AAAAAAAA6JA/MfVnJC_mZpA2DsBB01qZaSjU0O5KauXSACLcBGAsYHQ/s1600/_MG_2965.JPG"},{
         "title": "南湖北山",
         "excerpt":"南湖北山為中央山脈主稜上由北數來的第一座百岳，這裡也是三條河流的源頭，分別為宜蘭的蘭陽溪、台中的大甲溪、以及花蓮的和平溪。想想也真是神奇，落在這邊的雨水可能只有幾公尺之差，在這個地方將會分道揚鑣，分別流進台中港跟花蓮海岸線。                                                                                        我們北一段O型縱走的行程，將從此處開始登上中央山脈主稜。     ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/mountainGallery/2019-10-10-NanhuNorthMountain",
+        "url": "http://localhost:4000/mountainGallery/NanhuNorthMountain/",
         "teaser":"https://1.bp.blogspot.com/-KA8MlOensi0/XcB6T0IapUI/AAAAAAAA5ZE/DymurgIUENkRQxd284R5MuV9ieNdbXx8QCLcBGAsYHQ/s1600/_MG_2502.JPG"},{
         "title": "陶塞峰",
         "excerpt":"踏上南湖大山東峰向東延伸出來的這條稜線，走向花蓮縣境內，跟在圈谷內的景色很不一樣，兩旁是廣大海拔較低的中級山域，相較之下這條稜線好像跟天一樣高，尤其是站在陶塞峰這塊奇岩上，真的很有”小天下”的感覺，能站在這裡放空大腦還真幸福。                                                                        陶塞峰的西面是接近垂直的岩壁，要攀登陶賽峰需要先腰繞過去到他的東側，相較於他的東面，陶塞峰的西側是一大片緩和的岩版，說緩和是跟他的西側相比，但其實爬起來也是很累的。      ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/mountainGallery/2019-10-10-Toa",
+        "url": "http://localhost:4000/mountainGallery/Toa/",
         "teaser":"https://1.bp.blogspot.com/-dOumIxB6d3I/XcK6NWyjOeI/AAAAAAAA5eI/w7i6fwW09N4YgrjssZLKSjH05aEWpwLVgCLcBGAsYHQ/s1600/_MG_2804.JPG"},{
         "title": "中央山脈北一段 南湖中央尖",
         "excerpt":"Day1 7:30 宜蘭轉運站 國光客運1751 發車 10:05 勝光登山口 下車整理裝備 10:18 勝光登山口 出發 10:55 大水塔 11:32 勝光山 三角點 休息至11:47 12:15 710林道崩塌地 12:29 710林道6.8k登山口 休息午餐順便裝水 12:51 出發 13:53 松風嶺 休息至 14:17 14:41 多加屯避難小屋路口，看到漂亮的雲海，又開始墮落的看風景 14:51 出發 15:57 2575鞍部(木杆鞍部前一個鞍部) 休息兩分鐘 吃點東西 17:05 雲稜山屋 C1 松風嶺 710林道 6.8K 登口 松風嶺 多家屯山 蘭陽溪雲海 Day2 05:30 雲稜山屋出發。 06:28...","categories": ["mountaineeringPhoto"],
