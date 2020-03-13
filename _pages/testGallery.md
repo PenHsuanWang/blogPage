@@ -1,8 +1,8 @@
 ---
-title: 山岳攝影
+title: test
 layout: collection
-permalink: /mountainGallery/
-collection: mountainGallery
+permalink: /testingPage/
+collection: testingPage
 entries_layout: grid
 classes: wide 
 
@@ -23,7 +23,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path:	https://1.bp.blogspot.com/-Yu7PVMl3w-I/Xhx68TUzl5I/AAAAAAAA72Y/maTfKTvpTDk_rOO69JRJ1mAszFWsaYH9wCLcBGAsYHQ/s1600/DSC_1064.JPG
+  - image_path: https://1.bp.blogspot.com/-Yu7PVMl3w-I/Xhx68TUzl5I/AAAAAAAA72Y/maTfKTvpTDk_rOO69JRJ1mAszFWsaYH9wCLcBGAsYHQ/s1600/DSC_1064.JPG
     alt: "台灣中級山相片集"
     title: "中級山"
     excerpt: '中級山、森林探險'
@@ -32,7 +32,10 @@ feature_row3:
     btn_class: "btn--primary"
 
 
+
 ---
+this is testing page
+
 
 {% include feature_row id="feature_row1" type="left" %}
 

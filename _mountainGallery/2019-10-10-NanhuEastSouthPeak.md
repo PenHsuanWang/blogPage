@@ -2,6 +2,8 @@
 title: "南湖大山東南峰"
 excerpt: "南湖大山東南峰，位在南湖圈谷東側向東延伸的支稜上，由巨大亂石堆所構成，景色特殊。雖然並非百岳，但此處風景絕對更勝多數百岳山頭。"
 
+permalink: /mountainGallery/:title/
+
 classes: wide
   - landing
   - dark-theme

@@ -2,6 +2,8 @@
 title: "南湖大山"
 excerpt: "2019年，十月初的早晨登上南湖大山。"
 
+permalink: /mountainGallery/:title/
+
 classes: wide
   - landing
   - dark-theme

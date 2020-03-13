@@ -2,6 +2,8 @@
 title: "南湖北山"
 excerpt: "南湖北山為蘭陽溪的源頭，這裡是中央山脈主稜上由北向南數來的第一座百岳。"
 
+permalink: /mountainGallery/:title/
+
 classes: wide
   - landing
   - dark-theme

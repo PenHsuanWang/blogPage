@@ -10,11 +10,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/gallery/Gallery2</loc>
-<lastmod>2020-03-13T20:15:45+08:00</lastmod>
+<lastmod>2020-03-13T22:14:31+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/gallery/Gallery3</loc>
-<lastmod>2020-03-13T20:15:45+08:00</lastmod>
+<lastmod>2020-03-13T22:14:31+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/gallery/Gallery4_191109</loc>
@@ -53,6 +53,10 @@
 <lastmod>2019-12-20T21:28:06+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/mountaineeringphoto/TaMoBa/</loc>
+<lastmod>2019-11-02T21:28:06+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/mountaineeringphoto/BaiChia/</loc>
 <lastmod>2019-11-09T08:00:06+08:00</lastmod>
 </url>
@@ -67,10 +71,6 @@
 <url>
 <loc>http://localhost:4000/mountaineeringnote/JainLong/</loc>
 <lastmod>2018-05-27T21:28:06+08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/mountaineeringphoto/TaMoBa/</loc>
-<lastmod>2019-11-02T21:28:06+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/archive-layout-with-content/</loc>
@@ -153,6 +153,9 @@
 <url>
 <loc>http://localhost:4000/terms/</loc>
 <lastmod>2017-10-21T00:42:38+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/testingPage/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/year-archive/</loc>

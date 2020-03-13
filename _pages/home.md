@@ -31,7 +31,7 @@ feature_row:
     alt: "Photography"
     title: "山岳攝影"
     excerpt: "登山攝影作品"
-    url: "/mountainGallery"
+    url: "/mountainGallery/"
     btn_class: "btn--primary"
     btn_label: "Go to"      
 ---
