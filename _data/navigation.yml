@@ -7,9 +7,10 @@ main:
   - title: "圖文記錄"
     url: /mountaineeringPhoto
   - title: "山岳攝影"
+    url: /mountainGallery
     children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
+      - title: "高山百岳"
+        url: /mountainGallery/mountain100peakGallery
       - title: "Child Link 2"
         url: /child-2-page-url/
 #  - title: "About"

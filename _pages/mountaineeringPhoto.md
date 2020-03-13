@@ -8,7 +8,8 @@ layout: collection
 permalink: /mountaineeringPhoto/
 collection: mountaineeringPhoto
 author_profile: true
-sidebar: true
+sidebar:
+  nav: "main"
 
 header:
   overlay_color: "#000"

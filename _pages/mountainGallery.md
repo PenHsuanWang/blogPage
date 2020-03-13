@@ -6,12 +6,16 @@ collection: mountainGallery
 entries_layout: grid
 classes: wide 
 
+author_profile: true
+sidebar:
+  nav: "main"
+
 feature_row1:
   - image_path: https://1.bp.blogspot.com/-PAUtu1MCClo/XfEH_yfOTqI/AAAAAAAA6JQ/Qs4TDVj12eIT-GOOow2ORSYwUUoW3D8DACLcBGAsYHQ/s1600/_MG_2967.JPG
     alt: "高山百岳"
     title: "高山百岳攝影集"
     excerpt: '台灣百岳、高山攝影集'
-    url: ""
+    url: "/mountainGallery/mountain100peakGallery"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:

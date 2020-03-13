@@ -147,7 +147,7 @@ collections:
     output: true
     permalink: /:collection/:path
 
-  mountainGallery:
+  mountain100peakGallery:
     output: true
     permalink: /:collection/:path
 
@@ -368,7 +368,7 @@ defaults:
 
   - scope:
       path: ""
-      type: mountainGallery
+      type: mountain100peakGallery
     values:
       layout: single
       classes: wide
