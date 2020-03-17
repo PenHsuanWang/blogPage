@@ -16,14 +16,14 @@ feature_row:
     alt: "Mountaineering Notes"
     title: "文字紀錄"
     excerpt: "登山行程文字紀錄"
-    url: "/mountaineeringNote/"
+    url: "/mt-note-literal/"
     btn_class: "btn--primary"
     btn_label: "Go to"
   - image_path: https://1.bp.blogspot.com/-PAUtu1MCClo/XfEH_yfOTqI/AAAAAAAA6JQ/Qs4TDVj12eIT-GOOow2ORSYwUUoW3D8DACLcBGAsYHQ/s1600/_MG_2967.JPG
     alt: "Mountaineering Gallery"
     title: "圖文紀錄"
     excerpt: "登山隨手拍"
-    url: "/mountaineeringPhoto"
+    url: "/mt-note-photo/"
     btn_class: "btn--primary"
     btn_label: "Go to"
   - image_path: https://1.bp.blogspot.com/-PAUtu1MCClo/XfEH_yfOTqI/AAAAAAAA6JQ/Qs4TDVj12eIT-GOOow2ORSYwUUoW3D8DACLcBGAsYHQ/s1600/_MG_2967.JPG
@@ -31,7 +31,7 @@ feature_row:
     alt: "Photography"
     title: "山岳攝影"
     excerpt: "登山攝影作品"
-    url: "/mountainGallery/"
+    url: "/mt-gallery/"
     btn_class: "btn--primary"
     btn_label: "Go to"      
 ---

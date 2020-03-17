@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "登山紀錄"
-    url: /mountaineeringNote
+  - title: "文字紀錄"
+    url: /mt-note-literal/
   - title: "圖文記錄"
-    url: /mountaineeringPhoto
+    url: /mt-note-photo/
   - title: "山岳攝影"
-    url: /mountainGallery
+    url: /mt-gallery/
     children:
       - title: "高山百岳"
         url: /mountainGallery/mountain100peakGallery

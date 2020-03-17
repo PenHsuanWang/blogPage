@@ -139,15 +139,15 @@ collections:
     output: true
     permalink: /:collection/:path
 
-  mountaineeringPhoto:
+  mt-note-photo:
     output: true
     permalink: /:collection/:path
 
-  mountaineeringNote:
+  mt-note-literal:
     output: true
     permalink: /:collection/:path
 
-  mountain100peakGallery:
+  mt-gallery-100peaks:
     output: true
     permalink: /:collection/:path
 
@@ -338,7 +338,7 @@ defaults:
 
   - scope:
       path: ""
-      type: mountaineeringPhoto
+      type: mt-note-photo
     values:
       layout: single
       classes: wide
@@ -353,7 +353,7 @@ defaults:
 
   - scope:
       path: ""
-      type: mountaineeringNote
+      type: mt-note-literal
     values:
       layout: single
       classes: wide
@@ -368,7 +368,7 @@ defaults:
 
   - scope:
       path: ""
-      type: mountain100peakGallery
+      type: mt-gallery-100peaks
     values:
       layout: single
       classes: wide
