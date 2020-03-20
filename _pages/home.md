@@ -27,7 +27,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
   - image_path: https://1.bp.blogspot.com/-PAUtu1MCClo/XfEH_yfOTqI/AAAAAAAA6JQ/Qs4TDVj12eIT-GOOow2ORSYwUUoW3D8DACLcBGAsYHQ/s1600/_MG_2967.JPG
-#  - image_path: https://drive.google.com/a/g.ncu.edu.tw/thumbnail?id=1WyN68A7senmEyCjTMJSNOQgn3HnxXwr_
+#  - image_path: https://drive.google.com/uc?export=view&id=1WyN68A7senmEyCjTMJSNOQgn3HnxXwr_
     alt: "Photography"
     title: "山岳攝影"
     excerpt: "登山攝影作品"

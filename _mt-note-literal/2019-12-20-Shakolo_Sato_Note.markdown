@@ -1,5 +1,7 @@
 ---
-title:  "霞喀羅-佐藤警官駐在所 出霞山 行程紀錄"
+title:  "[行程紀錄] 20191220 霞喀羅-佐藤警官駐在所 出霞山"
+excerpt: "佐藤警官駐在所是根本古道上規模最大的駐在所，總共有兩層，原本根本古道上的大門下方還有早期的山葵園。佐藤駐在所遺址疑留下了大量的酒瓶、一部分的電線礙子、陶瓷彩繪碗盤等...。以前聽登山社的學長姐提到佐藤警官駐在所，都是利用'大量的'、'隨手可撿的'等形容詞來描述散落的遺留物，可是這次來到現場看，除了大量地酒瓶以外，有彩繪的陶瓷碗盤跟酒杯的數量非常稀少，而且沒完整的，大多是碎片。可能完整的瓷器都被撿光了吧QQ"
+
 date:   2019-12-20 21:28:06 +0800
 categories: mt-note-literal
 
@@ -12,8 +14,10 @@ tags:
   - 中級山
     - 新竹
 
-image:
-  path: https://1.bp.blogspot.com/-B2HNJxDzaqM/XihzENo613I/AAAAAAAA75Q/WvyDCHvc5-c91wzTpr8ZQ12NaSKUyYvGACKgBGAsYHg/s1600/DSC_2074.JPG
+header:
+  image: https://1.bp.blogspot.com/-B2HNJxDzaqM/XihzENo613I/AAAAAAAA75Q/WvyDCHvc5-c91wzTpr8ZQ12NaSKUyYvGACKgBGAsYHg/s1600/DSC_2074.JPG
+  image_description: "佐藤警官駐在所"
+  overlay_filter: 0.5
 
 
 feature_row:
