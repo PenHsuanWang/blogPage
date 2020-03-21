@@ -15,15 +15,15 @@ feature_row:
   - image_path: https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/10570539_933009796713522_2602630063866572815_n.jpg?_nc_cat=101&_nc_ohc=_25FAoV2_skAX94bXzw&_nc_ht=scontent.ftpe5-1.fna&oh=906996da019818713db160dc80d0ce06&oe=5EB4E5AF
     alt: "Mountaineering Notes"
     title: "文字紀錄"
-    excerpt: "登山行程文字紀錄"
-    url: "/mt-note-literal/"
+    excerpt: "詳細行程 時間地形紀錄請參照"
+    url: "/mt-note-literal-home/"
     btn_class: "btn--primary"
     btn_label: "Go to"
   - image_path: https://1.bp.blogspot.com/-PAUtu1MCClo/XfEH_yfOTqI/AAAAAAAA6JQ/Qs4TDVj12eIT-GOOow2ORSYwUUoW3D8DACLcBGAsYHQ/s1600/_MG_2967.JPG
     alt: "Mountaineering Gallery"
     title: "圖文紀錄"
-    excerpt: "登山隨手拍"
-    url: "/mt-note-photo/"
+    excerpt: "照片紀錄請參照"
+    url: "/mt-note-photo-home/"
     btn_class: "btn--primary"
     btn_label: "Go to"
   - image_path: https://1.bp.blogspot.com/-PAUtu1MCClo/XfEH_yfOTqI/AAAAAAAA6JQ/Qs4TDVj12eIT-GOOow2ORSYwUUoW3D8DACLcBGAsYHQ/s1600/_MG_2967.JPG

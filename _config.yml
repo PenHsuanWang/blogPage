@@ -139,13 +139,38 @@ collections:
     output: true
     permalink: /:collection/:path
 
-  mt-note-photo:
+  mt-note-photo-100peaks:
     output: true
     permalink: /:collection/:path
 
-  mt-note-literal:
+  mt-note-photo-midalt:
     output: true
     permalink: /:collection/:path
+
+  mt-note-photo-historicaltrail:
+    output: true
+    permalink: /:collection/:path
+
+  mt-note-photo-townsadjacent:
+    output: true
+    permalink: /:collection/:path
+
+  mt-note-literal-100peaks:
+    output: true
+    permalink: /:collection/:path
+
+  mt-note-literal-midalt:
+    output: true
+    permalink: /:collection/:path
+
+  mt-note-literal-historicaltrail:
+    output: true
+    permalink: /:collection/:path
+
+  mt-note-literal-townsadjacent:
+    output: true
+    permalink: /:collection/:path
+
 
   mt-gallery-100peaks:
     output: true
@@ -336,9 +361,10 @@ defaults:
       sidebar:
         nav: "main"
 
+
   - scope:
       path: ""
-      type: mt-note-photo
+      type: mt-note-photo-100peaks
     values:
       layout: single
       classes: wide
@@ -350,10 +376,9 @@ defaults:
       sidebar:
         nav: "main"
 
-
   - scope:
       path: ""
-      type: mt-note-literal
+      type: mt-note-photo-midalt
     values:
       layout: single
       classes: wide
@@ -365,6 +390,89 @@ defaults:
       sidebar:
         nav: "main"
 
+  - scope:
+      path: ""
+      type: mt-note-photo-historicaltrail
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "main"
+
+  - scope:
+      path: ""
+      type: mt-note-photo-townsadjacent
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "main"
+
+  - scope:
+      path: ""
+      type: mt-note-literal-100peaks
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "main"
+
+  - scope:
+      path: ""
+      type: mt-note-literal-midalt
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "main"
+
+  - scope:
+      path: ""
+      type: mt-note-literal-historicaltrail
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "main"
+
+  - scope:
+      path: ""
+      type: mt-note-literal-townsadjacent
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "main"
 
   - scope:
       path: ""

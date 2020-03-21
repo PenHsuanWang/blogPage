@@ -1,0 +1,252 @@
+---
+layout: single
+title:  "[圖文] 20200201 治茆巒安堂-前篇 治茆山未竟"
+excerpt: "跟眾多百岳名峰比起來，治茆山可能沒甚麼太大的名氣。但其實她地處於濁水溪的南岸，如從溪谷拔地而起，短短的距離直接從海拔約只有500公尺的濁水溪谷地一路上升到2909公尺，這裡也是玉山山脈的起點。"
+
+date:   2019-12-20 06:00:00 +0800
+categories: mt-note-photo-100peaks
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 中級山
+    - 南投
+
+header:
+  image: https://lh3.googleusercontent.com/TZ52k6rsMobt1EQHq-ZNvhmfvNkCkcPrLXRRh8wADLxhYtnhiPUb-Y2WQ6x5t6HhZacn1Brf6sY1eivkTDo=w3000-h920-c
+  image_description: "佐藤警官駐在所"
+  overlay_filter: 0.5
+
+author_profile: true
+---
+
+<figure style="width: 40%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-NYOY7C4eLN8/Xj1f1K3YFCI/AAAAAAAA9XI/hJ6FXIyDqVU3_jzP9qfV-TBQ70-lQdP1ACKgBGAsYHg/s1600/2020-01-25.jpg" alt="從日月潭望向治茆山">
+  <figcaption>日月潭望向治茆山</figcaption>
+</figure> 
+
+大年初一到南投信義的雙龍部落以及日月潭出遊時，剛好看到學長去探治茆山的訊息。我其實一開始不知道治茆山在哪裡，我對南投信義鄉這一區的山沒有很熟，不過學長傳來了一張從雙龍林道拍日月潭的照片，啊哈，我剛好在日月潭。打開手機一看，原來遠方那兩座高山就是治茆山。跟眾多百岳名峰比起來，治茆山可能沒甚麼太大的名氣。但其實她地處於濁水溪的南岸，如從溪谷拔地而起，短短的距離直接從海拔約只有500公尺的濁水溪谷地一路上升到2909公尺，這裡也是玉山山脈的起點。
+
+
+後來一看，原來學長只是先來探路，隔一週才要正式出團。剛在日月潭前欣賞完治茆山，馬上手刀報名參加XD。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-_bNvomAbkMc/Xj1ffM9HYFI/AAAAAAAA9W4/-jIEMnzXD1w4qU3KVMl5kPD8PRptWP3nwCKgBGAsYHg/s1600/DSC_2681.JPG" alt="">
+  <figcaption>治茆山南峰 鐵杉林間的夕陽</figcaption>
+</figure> 
+
+
+<a href="/mountaineeringNote/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/mountaineeringPhoto/Shakolo_Sato_Photo_Day2And3/" class="btn btn--warning">後篇圖文</a>
+
+## Day1 雙龍林道->停機坪->治茆南峰->停機坪 C1
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-oZSt5M5-CeU/Xj1e_mNVlKI/AAAAAAAA9W0/w8YHA_YL4lEOeuBuVaq2BZrh4FIYMDsDACKgBGAsYHg/s1600/DSC_2523.JPG" alt="">
+  <figcaption> 雙龍林道盡頭，搭谷長城大哥的得利卡，省了不少路 </figcaption>
+</figure> 
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-75tut4RwZEw/Xj1e_po86GI/AAAAAAAA9W0/6gh7Ej-BoJoZtF8UFgudb8F77GtldT_1wCKgBGAsYHg/s1600/DSC_2522.JPG" alt="">
+  <figcaption> 登山口，準備出發 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-1VaZu5jU2Qo/Xj1e_hieKxI/AAAAAAAA9W0/H1xKb1p-C2Mpfproaw4rQI5TJmF__yEYACKgBGAsYHg/s1600/DSC_2530.JPG" alt="">
+  <figcaption> 第一崩壁前，可見治茆山南峰在前，主峰在後。 </figcaption>
+</figure> 
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-dcVn3uTULA8/Xj1e_tNaRjI/AAAAAAAA9W0/4mtbdi0uzi029JkCNQcsEdHs-J7M7A-1wCKgBGAsYHg/s1600/DSC_2533.JPG" alt="">
+  <figcaption> 那就是我們今天的目的地! </figcaption>
+</figure> 
+
+
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-pVy6FTfwKaI/Xj1e_qPMBQI/AAAAAAAA9W0/XSc__jGc9tw_fiGsHcNKZyO4PEoPpqaMwCKgBGAsYHg/s1600/DSC_2535.JPG" alt="">
+  <figcaption> 走向治茆山! </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-dcVn3uTULA8/Xj1e_tNaRjI/AAAAAAAA9W0/4mtbdi0uzi029JkCNQcsEdHs-J7M7A-1wCKgBGAsYHg/s1600/DSC_2533.JPG" alt="">
+  <figcaption> 第一處崩壁 </figcaption>
+</figure> 
+  
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-V8X5vjG0vPs/Xj1e_jBVWjI/AAAAAAAA9W0/Nr7KZC_MymIA88JnJWRXt4SoLmHYODW7wCKgBGAsYHg/s1600/DSC_2536.JPG" alt="">
+  <figcaption> 第一處崩壁 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-bt8EMqoyaes/Xj1e_ljxdMI/AAAAAAAA9W0/xfFyiIHlx64djs8FmIIpsOxqbT0bCAt6gCKgBGAsYHg/s1600/DSC_2540.JPG" alt="">
+  <figcaption> 由崩壁回望，可見日月潭 </figcaption>
+</figure> 
+
+這個崩壁有整理過了，邊坡還有放上沙包，小心通行不會有太大的問題，但山坡面一瀉千里，還是該小心。天氣很好，可視距離很遠，看到日月潭只是小case。在更遠一點的關刀守城，也在視線之中。台中的大坑山一直連到大雪山稜線，我們忘了有時間壓力，還在這邊細數山頭，好好享受這邊的風景。  
+最近幾天寒流來，天氣很冷，雖然已經放晴了，但在山凹處的小水池上還是結了一層薄冰。屁孩上身，拿起登山杖把薄冰敲碎，有砸破玻璃的感覺XD
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-J7JDqob-VnQ/Xj1e_iYdrDI/AAAAAAAA9W0/i00OOm8_ySg8Zo-Fmd7lYp7OEAiHLSoBACKgBGAsYHg/s1600/DSC_2543.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-C796Hn_5WHY/Xj1e_kZ_fnI/AAAAAAAA9W0/A1OgumRP2X4oi1SMkczOrJQJFV2gQneiQCKgBGAsYHg/s1600/DSC_2549.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-nhGy7cAqv_U/Xj1e_mMg7iI/AAAAAAAA9W0/4kqDe9IWqQ8jcTkWPhxnvGP2UpphWUl3QCKgBGAsYHg/s1600/DSC_2561.JPG" alt="">
+  <figcaption> 岩壁上的水源也都結成了冰柱 </figcaption>
+</figure> 
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-lX6YvbTwhII/Xj1e_nIRwWI/AAAAAAAA9W0/WVJXib-jl08mF8IAV1RRQNoCntUSDLMfACKgBGAsYHg/s1600/DSC_2566.JPG" alt="">
+  <figcaption> 苔蘚冰棒XD </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-BRywfmvL4ME/Xj1e_vuDpSI/AAAAAAAA9W0/70_OxiM7390JOoXKyKWcpIMDxdRo8l_PQCKgBGAsYHg/s1600/DSC_2568.JPG" alt="">
+  <figcaption> 冰冷的山凹處，維持在接近冰點的氣溫 </figcaption>
+</figure> 
+
+我們很怕下切切過頭，一看到有酒瓶與碎片，就趕緊停下腳步，左右尋找駐在所。後來我們在左手邊發現了一堵駁坎，確認找到駐在所了。我們找到的這堵牆是駐在所上層的右上角(由大門口看過來的話)。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-vzTiP5MyUys/Xj1e_kPSE1I/AAAAAAAA9W0/0lB9uV7HoZUFdZ-6umqrfu5vxitw3rK3wCKgBGAsYHg/s1600/DSC_2573.JPG" alt="">
+  <figcaption> 接近停機坪，林道兩條支線的岔路 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-GoNPLBIhp4k/Xj1e_u5PPrI/AAAAAAAA9W0/fkUCkIFTma4XTiDekmtWbgiUwl6Is-oqQCKgBGAsYHg/s1600/DSC_2574.JPG" alt="">
+  <figcaption> 開闊平坦 </figcaption>
+</figure> 
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-xF6rXztNZHo/Xj1e_gAJLPI/AAAAAAAA9W0/CvGQzyYa0P8d8sDSUdkNv6z3EiDkzqIqgCKgBGAsYHg/s1600/DSC_2578.JPG" alt="">
+  <figcaption> 停機坪 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-xdjIPFQejFk/Xj1e_t6RZpI/AAAAAAAA9W0/5-2_a07aqs4yDNZ1LETRNqxqMbD-sSnCwCKgBGAsYHg/s1600/DSC_2580.JPG" alt="">
+  <figcaption> 我們在停機坪旁的營地 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-OGIVHFOntKI/Xj1e_viWvSI/AAAAAAAA9W0/0A1njp_Cfpgtx4_vr62hcXt8KgjsmnLsQCKgBGAsYHg/s1600/DSC_2575.JPG" alt="">
+  <figcaption> 停機坪 </figcaption>
+</figure> 
+  
+
+紮好營並且整理完東西後，也差不多下午兩點半了。原定是說超過下午一點，我們就不爬治茆山了。但今天的天氣真的很好，早早到營地也無所事事。學長說，不然還是一樣上山，看看能爬到哪裡算到哪裡。既然都已經建設好營地了，閒來無事上去晃晃也不錯。雖然可能無法達到既定的目標(治茆山)，但就隨興上山晃晃的感覺也是挺好的。
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/YguMRvOwYIWAyZJHC02b0aOIFeP_q7bW4U8QzC1GIAXcIqKysCypzH2j0auYG0S24beKLJSMFQtESOa8cr8=w640-h480" alt="">
+  <figcaption> 出發前往治茆山 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/ei6JyPvCvguXm8e4KveDixiNTICuv0DT8GK5rPOkGGEkz0_MabDffyAAZo3rc7B_XOTzVkZ7Ta_lRkTOVFo=w640-h480" alt="">
+  <figcaption> 上稜 </figcaption>
+</figure> 
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/BpP-HCoIOxvSs9DbIScKUUEHQjLwF5PUoEDiHSOHReBZPsJvDou83WBXp0X7TUSG4qg8LU5pnyPaMr_qfdU=w640-h480" alt="">
+  <figcaption> H2800M 左右 稜右崩壁 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/wlEJuJ-7rGUNJJFzeVIPTxN1Viz-Qk0y0A6h-B9inpwL6JdONssFQXFldRoRyHXq2_k4lmwNoBtL8PQRZTw=w640-h480" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/YXQTu7ar2yadbfZcgjAoxp5maIk0oxtwuXQnQUhocYsL4b3Oy2C83qcikyAXGwLEFxcsSahQ_I6sAZ4LhXU=w1920-h1080" alt="">
+  <figcaption> 崩壁上方，可見南三段的東郡大山以及東巒大山，山頂還有白雪 </figcaption>
+</figure> 
+
+此處林相為松林，稜線上片地佈滿松針，走一步滑兩步。這裡應該也不太常有人造訪，跟著稜線走勢不至於迷路，而且路條也滿多的。但考量到下山的時候我們可能(應該說一定)會摸黑。所以我們上山時究盡量在地上踢出稍微明顯的路跡。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/6N6dkNKQhwdDcuHn6UfD6UgTFdrcwmwLOtShL4TCalMeTnA0uPgwo27bIG4gnW187MrWKVfY1FQLVd2MiXM=w1080-h1200" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+  
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/p0z-Qzbh0ZYrtxQkLlqJg_AHEM057TgFkMMspaUL9IdxkXdCcHniKEXBbSFr9QCdf4njlnjV30mge6Z0WNE=w1080-h1200" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+  
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/O4O4IMdBPPqTrE4xSlyYbclXi7QapwSIliCniTuXQXRoWDZzEntsrC8EDZ90sabbAglpfF2X3TOZKep3QiA=w1920-h1080" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/DuvAP4_5L4mWrESZCEjRSQvqWsGVN1GilGh1RprW4B6gjdlA0A2PpKa6cHud1HiwIKxfG7agCfvlB8GRA4c=w1080-h1200" alt="">
+  <figcaption> 接近治茆山頂 開始有巨大鐵杉出現了 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/YtzwKl8eNaPMBm1vfCafctHYG7n6ZcaIz2MMqPlSuXBSvPULA6VI0cOyHNsn_IU42Ur3PmnO0cicU0_OnAk=w1080-h1200" alt="">
+  <figcaption> 水鹿磨角痕跡? </figcaption>
+</figure> 
+。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/GHhTjWrzfrnhR5vKpFMK_1TmHdsYoJIwieHjSOz1cXhFUUyD1rWuf5WAmY53kEZ2DXKTo2eEjTPGbRwLN1c=w1080-h1200" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/w_7QGpaqSHw_v9jnEhugmTom2kZvvaUUHF9PxQC_TNXysft_LjsjikW17BX3qlH3W5UZDTqLI0JhTE7_rl8=w1080-h1200" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/9oU_SnXrpzY4ANC4TTdIqo9p3mxkt98lbdNNXi54PNrbSS_sYcV9dEMAaTJTgGV7tPast2CwHD-LP_SrSDI=w1080-h1200" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/7v0FDa2yWzQqDBbjzwKPYMyLqbhSEQ_tIV6ZjalWmfbBWvQecUukI3FYfUDnI3JcncpoU62CsCpZZWtzdzQ=w1080-h1200" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/V66ps1DaMEldirrAeDQC8-CB-m4_YTakADuBqUGoBLMj4mjE-hTwYjhqiGClVauavUJ9kLUZoMjH5qavgbE=w1920-h1080" alt="">
+  <figcaption> 登頂治茆山南峰 </figcaption>
+</figure>
+
+這個下午的天氣真的非常好，風吹來涼涼的，陽光又從松林間照下來，氣溫剛好。舒爽的天氣爬起山來真好。
+接近治茆山頂是一片高大鐵杉林，時間已接近日暮時刻。夕陽將這片鐵杉林照成金黃色的。
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/dTzqzv6Qj-z6qz2KiPgJxFFvlu2-lxoojueeokrS31io6DD29tUPpWUKNaEUC_mpjBtyn7xMc1ge2PPBncU=w1920-h1080" alt="">
+  <figcaption> 日暮時分，登頂治茆山南峰，下午五點整 </figcaption>
+</figure>
+
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/vXENMNpIjQnwzOkjbYDB8ljqoGeq6d33zGD0w_hJA1pSUzZHVlQYHNxIDgKkVYCJPpAjk4WbgSZnx4WmuOk=w1920-h1080" alt="">
+  <figcaption> 日暮時分，登頂治茆山南峰，下午五點整 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/TZ52k6rsMobt1EQHq-ZNvhmfvNkCkcPrLXRRh8wADLxhYtnhiPUb-Y2WQ6x5t6HhZacn1Brf6sY1eivkTDo=w1920-h1080" alt="">
+  <figcaption> 夕陽西下，準備下山去。 </figcaption>
+</figure>
+
+
+<a href="/mountaineeringNote/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/mountaineeringPhoto/Shakolo_Sato_Photo_Day2And3/" class="btn btn--warning">後篇圖文</a>
+

@@ -3,16 +3,34 @@ main:
   - title: "Home"
     url: /
   - title: "文字紀錄"
-    url: /mt-note-literal/
+    url: /mt-note-literal-home/
+    children:
+      - title: "高山百岳"
+        url: /mt-note-literal-100peaks/
+      - title: "古道遺跡"
+        url: /mt-note-literal-historicaltrail/
+      - title: "中級山"
+        url: /mt-note-literal-midalt/
+      - title: "郊山"
+        url: /mt-note-literal-townsadjacent/
   - title: "圖文記錄"
-    url: /mt-note-photo/
+    url: /mt-note-photo-home/
+    children:
+      - title: "高山百岳"
+        url: /mt-note-photo-100peaks/
+      - title: "古道遺跡"
+        url: /mt-note-photo-historicaltrail/
+      - title: "中級山"
+        url: /mt-note-photo-midalt/
+      - title: "郊山"
+        url: /mt-note-photo-townsadjacent/
   - title: "山岳攝影"
     url: /mt-gallery/
     children:
       - title: "高山百岳"
         url: /mountainGallery/mountain100peakGallery
-      - title: "Child Link 2"
-        url: /child-2-page-url/
+
+
 #  - title: "About"
 #    url: https://penhsuanwang.github.io/blogPage/about/
   # - title: "Sitemap"
