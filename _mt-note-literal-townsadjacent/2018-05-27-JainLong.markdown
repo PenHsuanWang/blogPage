@@ -14,10 +14,10 @@ tags:
   - 郊山
 
 feature_row:
-  - image_path: https://lh3.googleusercontent.com/TZ52k6rsMobt1EQHq-ZNvhmfvNkCkcPrLXRRh8wADLxhYtnhiPUb-Y2WQ6x5t6HhZacn1Brf6sY1eivkTDo=w640-h480
-    title: "[圖文] 20200201 治茆巒安堂-前篇 治茆山未竟"
+  - image_path: https://2.bp.blogspot.com/-LbZMuAUrfnQ/WwvKBEfvcWI/AAAAAAAA2ps/xurFJbq5cU8mLBzM7RqWVQUvZG8X5EW1ACLcBGAs/s1600/_MG_7486.JPG
+    title: "[圖文] 20180527 黃金稜線-劍龍稜 登無耳茶壺山"
     excerpt: "跟眾多百岳名峰比起來，治茆山可能沒甚麼太大的名氣。但其實她地處於濁水溪的南岸，如從溪谷拔地而起，短短的距離直接從海拔約只有500公尺的濁水溪谷地一路上升到2909公尺，這裡也是玉山山脈的起點。"
-    url: "/mt-note-photo/XiLuan_Day1/"
+    url: "/mt-note-photo-townsadjacent/JainLong/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 

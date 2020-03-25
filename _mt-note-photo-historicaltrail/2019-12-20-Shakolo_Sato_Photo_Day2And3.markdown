@@ -41,8 +41,8 @@ author_profile: true
 
 佐藤警官駐在所是根本古道上規模最大的駐在所，總共有兩層，原本根本古道上的大門下方還有早期的山葵園。佐藤駐在所遺址疑留下了大量的酒瓶、一部分的電線礙子、陶瓷彩繪碗盤等...。以前聽登山社的學長姐提到佐藤警官駐在所，都是利用"大量的"、"隨手可撿的"等形容詞來描述散落的遺留物，可是這次來到現場看，除了大量地酒瓶以外，有彩繪的陶瓷碗盤跟酒杯的數量非常稀少，而且沒完整的，大多是碎片。可能完整的瓷器都被撿光了吧QQ
   
-<a href="/mountaineeringNote/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
-<a href="/mountaineeringPhoto/Shakolo_Sato_Photo_Day1/" class="btn btn--warning">前篇圖文</a>
+<a href="/mt-note-literal/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/mt-note-photo-historicaltrail/Shakolo_Sato_Photo_Day1/" class="btn btn--warning">前篇圖文</a>
 
 
 ## Day2 佐藤駐在所->佐藤山->霞喀羅大山->霞喀羅古道->五峰尖石鄉界，轉向霞山稜線->H2120峰 C2
@@ -222,5 +222,5 @@ author_profile: true
   <figcaption> 準備下山，看見產業道路與菜園。可見新竹後山的部落 </figcaption>
 </figure> 
 
-<a href="/mountaineeringNote/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
-<a href="/mountaineeringPhoto/Shakolo_Sato_Photo_Day2And3/" class="btn btn--warning">後篇圖文</a>
+<a href="/mt-note-literal/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/mt-note-photo-historicaltrail/Shakolo_Sato_Photo_Day1/" class="btn btn--warning">後篇圖文</a>

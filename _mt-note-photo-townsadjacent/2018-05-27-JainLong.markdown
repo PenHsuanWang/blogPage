@@ -15,7 +15,7 @@ tags:
   - 郊山
 
 header:
-  image: https://lh3.googleusercontent.com/TZ52k6rsMobt1EQHq-ZNvhmfvNkCkcPrLXRRh8wADLxhYtnhiPUb-Y2WQ6x5t6HhZacn1Brf6sY1eivkTDo=w3000-h920-c
+  image: https://lh3.googleusercontent.com/aUtsM8tkunTYQUKs0sQJ9iuC--OyXQkJJSRhQlpCp2EbEJI89peSYWpndgfN2bJbzYVdtZu_CyPvFimPiuo=w2000-h1800
   image_description: "治茆山南峰山頂的鐵杉林"
   overlay_filter: 0.5
 

@@ -24,14 +24,14 @@ feature_row:
   - image_path: https://1.bp.blogspot.com/-FTo16FofSZo/Xihx_4L14tI/AAAAAAAA740/iMO8p0cUNKEDdojfLHtwHlFdejrhv4SmACKgBGAsYHg/s1600/DSC_2130.JPG
     title: "探訪佐藤駐在所 圖文"
     excerpt: "探訪佐藤警官駐在所"
-    url: "/mountaineeringPhoto/Shakolo_Sato_Photo_Day1/"
+    url: "/mt-note-photo-historicaltrail/Shakolo_Sato_Photo_Day1/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-PSLBWUE6H-8/Xiq5ZQXw7cI/AAAAAAAA8Cg/xK7QUGIE34IcoiT1xW7_PNlAI0RmjNxXgCKgBGAsYHg/s1600/DSC_2238.JPG
     title: "霞喀羅連走霞山 圖文"
     excerpt: "霞喀羅古道連走霞山，新竹大後山"
-    url: "/mountaineeringPhoto/Shakolo_Sato_Photo_Day2And3/"
+    url: "/mt-note-photo-historicaltrail/Shakolo_Sato_Photo_Day2And3/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
