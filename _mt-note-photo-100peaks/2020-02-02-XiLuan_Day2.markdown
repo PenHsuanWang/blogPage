@@ -12,8 +12,7 @@ classes: wide
 permalink: /:categories/:title/
 
 tags:
-  - 中級山
-    - 南投
+  - 玉山山脈
 
 header:
   image: https://lh3.googleusercontent.com/TZ52k6rsMobt1EQHq-ZNvhmfvNkCkcPrLXRRh8wADLxhYtnhiPUb-Y2WQ6x5t6HhZacn1Brf6sY1eivkTDo=w3000-h920-c
