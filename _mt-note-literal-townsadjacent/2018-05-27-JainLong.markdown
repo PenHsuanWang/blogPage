@@ -1,5 +1,5 @@
 ---
-title:  "[行程記錄] 20180527 黃金稜線-劍龍稜 登無耳茶壺山"
+title:  "[行程記錄] 20180527 瑞芳黃金稜線-劍龍鋸齒稜 登無耳茶壺山"
 excerpt: "北海岸的黃金稜線中，風景最美也是最刺激的一段路。從南雅社區登上劍龍稜，這一段稜線是由岩壁瘦稜所組成。風景非常棒，但頂著大太陽爬這條稜線要帶足飲用水。"
 
 date:   2018-05-27 09:00:00 +0800
@@ -15,8 +15,8 @@ tags:
 
 feature_row:
   - image_path: https://2.bp.blogspot.com/-LbZMuAUrfnQ/WwvKBEfvcWI/AAAAAAAA2ps/xurFJbq5cU8mLBzM7RqWVQUvZG8X5EW1ACLcBGAs/s1600/_MG_7486.JPG
-    title: "[圖文] 20180527 黃金稜線-劍龍稜 登無耳茶壺山"
-    excerpt: "跟眾多百岳名峰比起來，治茆山可能沒甚麼太大的名氣。但其實她地處於濁水溪的南岸，如從溪谷拔地而起，短短的距離直接從海拔約只有500公尺的濁水溪谷地一路上升到2909公尺，這裡也是玉山山脈的起點。"
+    title: "[圖文] 20180527 瑞芳黃金稜線-劍龍鋸齒稜 登無耳茶壺山"
+    excerpt: "北海岸的黃金稜線中，風景最美也是最刺激的一段路。從南雅社區登上劍龍稜，這一段稜線是由岩壁瘦稜所組成。風景非常棒，但頂著大太陽爬這條稜線要帶足飲用水。"
     url: "/mt-note-photo-townsadjacent/JainLong/"
     btn_class: "btn--primary"
     btn_label: "Go to"

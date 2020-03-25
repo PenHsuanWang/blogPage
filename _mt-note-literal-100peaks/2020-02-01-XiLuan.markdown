@@ -15,8 +15,6 @@ tags:
     - 南投
 
 
-
-
 feature_row:
   - image_path: https://1.bp.blogspot.com/-_bNvomAbkMc/Xj1ffM9HYFI/AAAAAAAA9W4/-jIEMnzXD1w4qU3KVMl5kPD8PRptWP3nwCKgBGAsYHg/s1600/DSC_2681.JPG
     title: "治茆巒安堂-前篇 治茆山未竟 圖文"

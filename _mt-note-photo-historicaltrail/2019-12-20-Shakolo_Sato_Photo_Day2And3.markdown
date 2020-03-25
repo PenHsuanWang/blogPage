@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "[圖文] 191221 霞喀羅縱走-後篇 霞霞連走"
-excerpt: "這次我們走一條很奇耙的路線，從石鹿登山口登霞喀羅大山後續行前往佐藤拜訪佐藤警官駐在所，雖然我們一度考慮走白石古道或是出檜山，但又怕自身能力不足以應付過多的崩塌地形，加上大家都在上班了，對自己的體力也不太有學生時代時的那種把握了!因此我們安排原路回到霞喀羅古道後再從古道4.5k處轉接霞山，經錦屏山、石麻達、屯野生台山，從屯野生台大水塔登山口下山。"
+title:  "[圖文] 20191221 霞喀羅縱走-後篇 霞霞連走"
+excerpt: "這次我們走一條很奇耙的路線，從石鹿登山口登霞喀羅大山後續行前往佐藤拜訪佐藤警官駐在所，並原路回到霞喀羅古道後再從古道4.5k處轉接霞山，經錦屏山、石麻達、屯野生台山，從屯野生台大水塔登山口下山。"
 
 
 date:   2019-12-21 06:00:00 +0800
@@ -22,28 +22,39 @@ header:
   overlay_filter: 0.5
 
 author_profile: true
+
+
+feature_row:
+  - image_path: https://1.bp.blogspot.com/-QZ3w4i0c8O8/Xihx_7sAOII/AAAAAAAA740/ZssZ7GF9Svgf9dxXLNq0UpiPjwK9RW3eQCKgBGAsYHg/s1600/DSC_2013.JPG
+    title: "[行程紀錄] 20191220 霞喀羅-佐藤警官駐在所 出霞山"
+    excerpt: "佐藤警官駐在所是根本古道上規模最大的駐在所，總共有兩層，原本根本古道上的大門下方還有早期的山葵園。佐藤駐在所遺址疑留下了大量的酒瓶、一部分的電線礙子、陶瓷彩繪碗盤等"
+    url: "/mt-note-literal/Shakolo_Sato_Note/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-FTo16FofSZo/Xihx_4L14tI/AAAAAAAA740/iMO8p0cUNKEDdojfLHtwHlFdejrhv4SmACKgBGAsYHg/s1600/DSC_2130.JPG
+    title: "[圖文] 20191220 霞喀羅縱走-前篇 探訪佐藤警官駐在所"
+    excerpt: "多年前有查過從霞喀羅經佐藤山上檜山接大鹿林道的路線，也將探訪日治時代在新竹山區最大的'佐藤駐在所'排入計畫內多年，如今終於實現了。身為新竹人，竟然沒爬過霞喀羅古道實在說不過去"
+    url: "/mt-note-photo-historicaltrail/Shakolo_Sato_Photo_Day1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
 ---
 
 <figure style="width: 40%" class="align-right">
-  <img src="https://1.bp.blogspot.com/--zNcpe-32As/Xihx_3RFtSI/AAAAAAAA740/30OAznV1yv4FuyDdUQlHT2zzVu4_LAjPwCKgBGAsYHg/s1600/DSC_2092.JPG" alt="">
-  <figcaption>佐藤警官駐在所大門</figcaption>
+  <img src="https://1.bp.blogspot.com/-MCQMo_0tu00/Xiq5ZfTIbWI/AAAAAAAA8Cg/chvp-HJqgyY4lxr4GHtpLEO_T2VJp_mmwCKgBGAsYHg/s1600/DSC_2201.JPG" alt="">
+  <figcaption>霞山三角點</figcaption>
 </figure> 
 前一個月爬完霞山與油羅山O行縱走後，又打開了地圖看看新竹縣的山區還有哪些路可爬，看了一下霞山到霞喀羅古道之間的稜線好像可以走，雖然查了一下紀錄，這一段路沒什麼人在走，但從記錄上看起來好像也不難走，因此想要來開一隊"霞霞"連走XD 
 
+同這次我們走一條很奇耙的路線，從石鹿登山口登霞喀羅大山後續行前往佐藤拜訪佐藤警官駐在所，雖然我們一度考慮走白石古道或是出檜山，但又怕自身能力不足以應付過多的崩塌地形，加上大家都在上班了，對自己的體力也不太有學生時代時的那種把握了!因此我們安排原路回到霞喀羅古道後再從古道4.5k處轉接霞山，經錦屏山、石麻達、屯野生台山，從屯野生台大水塔登山口下山。  
 
-
-同時，多年前有查過從霞喀羅經佐藤山上檜山接大鹿林道的路線，也將探訪日治時代在新竹山區最大的"佐藤駐在所"排入計畫內多年，如今終於實現了。身為新竹人，竟然沒爬過霞喀羅古道實在說不過去，這次我們走一條很奇耙的路線，從石鹿登山口登霞喀羅大山後續行前往佐藤拜訪佐藤警官駐在所，雖然我們一度考慮走白石古道或是出檜山，但又怕自身能力不足以應付過多的崩塌地形，加上大家都在上班了，對自己的體力也不太有學生時代時的那種把握了!因此我們安排原路回到霞喀羅古道後再從古道4.5k處轉接霞山，經錦屏山、石麻達、屯野生台山，從屯野生台大水塔登山口下山。  
-
-<figure style="width: 40%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-FTo16FofSZo/Xihx_4L14tI/AAAAAAAA740/iMO8p0cUNKEDdojfLHtwHlFdejrhv4SmACKgBGAsYHg/s1600/DSC_2130.JPG" alt="">
-  <figcaption>日治時代的陶製碗盤</figcaption>
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-PSLBWUE6H-8/Xiq5ZQXw7cI/AAAAAAAA8Cg/xK7QUGIE34IcoiT1xW7_PNlAI0RmjNxXgCKgBGAsYHg/s1600/DSC_2238.JPG" alt="">
+  <figcaption>石麻達山稜線間的柳杉林</figcaption>
 </figure> 
-
-佐藤警官駐在所是根本古道上規模最大的駐在所，總共有兩層，原本根本古道上的大門下方還有早期的山葵園。佐藤駐在所遺址疑留下了大量的酒瓶、一部分的電線礙子、陶瓷彩繪碗盤等...。以前聽登山社的學長姐提到佐藤警官駐在所，都是利用"大量的"、"隨手可撿的"等形容詞來描述散落的遺留物，可是這次來到現場看，除了大量地酒瓶以外，有彩繪的陶瓷碗盤跟酒杯的數量非常稀少，而且沒完整的，大多是碎片。可能完整的瓷器都被撿光了吧QQ
   
-<a href="/mt-note-literal/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
-<a href="/mt-note-photo-historicaltrail/Shakolo_Sato_Photo_Day1/" class="btn btn--warning">前篇圖文</a>
-
+{% include feature_row %}
 
 ## Day2 佐藤駐在所->佐藤山->霞喀羅大山->霞喀羅古道->五峰尖石鄉界，轉向霞山稜線->H2120峰 C2
 
@@ -222,5 +233,4 @@ author_profile: true
   <figcaption> 準備下山，看見產業道路與菜園。可見新竹後山的部落 </figcaption>
 </figure> 
 
-<a href="/mt-note-literal/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
-<a href="/mt-note-photo-historicaltrail/Shakolo_Sato_Photo_Day1/" class="btn btn--warning">後篇圖文</a>
+{% include feature_row %}

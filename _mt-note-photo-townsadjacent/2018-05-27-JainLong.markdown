@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[圖文] 20180527 黃金稜線-劍龍稜 登無耳茶壺山"
+title:  "[圖文] 20180527 瑞芳黃金稜線-劍龍鋸齒稜 登無耳茶壺山"
 excerpt: "北海岸的黃金稜線中，風景最美也是最刺激的一段路。從南雅社區登上劍龍稜，這一段稜線是由岩壁瘦稜所組成。風景非常棒，但頂著大太陽爬這條稜線要帶足飲用水。"
 
 date:   2018-05-27 09:00:00 +0800
@@ -16,15 +16,24 @@ tags:
 
 header:
   image: https://lh3.googleusercontent.com/aUtsM8tkunTYQUKs0sQJ9iuC--OyXQkJJSRhQlpCp2EbEJI89peSYWpndgfN2bJbzYVdtZu_CyPvFimPiuo=w2000-h1800
-  image_description: "治茆山南峰山頂的鐵杉林"
+  image_description: "劍龍鋸齒稜，瑞芳黃金稜線"
   overlay_filter: 0.5
 
 author_profile: true
+
+feature_row:
+  - image_path: https://2.bp.blogspot.com/-b3Zl3hIKIAk/WwuwOCwTt3I/AAAAAAAA2kU/UTgI20tWH1w04VXQ-FXeWR-Yatp4i5REgCLcBGAs/s1600/_MG_7178.JPG
+    title: "[行程記錄] 20180527 瑞芳黃金稜線-劍龍鋸齒稜 登無耳茶壺山"
+    excerpt: "北海岸的黃金稜線中，風景最美也是最刺激的一段路。從南雅社區登上劍龍稜，這一段稜線是由岩壁瘦稜所組成。風景非常棒，但頂著大太陽爬這條稜線要帶足飲用水。"
+    url: "/mt-note-literal/JainLong/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
 ---
 
 2018年5月27日，這一天破了歷年來的五月最高溫紀錄。太平洋高壓籠罩在台灣上空，真不知道該說天氣很好還是很不好。出來玩總會祈禱遇到大晴天，可是天氣太晴朗也是會把人曬昏頭，尤其是劍龍稜上，。台北測到38.2度的高溫。那我猜我們在劍龍稜跟鋸齒稜上的溫度應該有超過40度。有幾段路都沒有植披，裸露的大岩石直接在大太陽上曝曬，溫度應該都超過50度了，抓在上面還會燙手。貼著滾燙燙的岩壁，頭頂著烈日，差點變成劍龍稜上的石板烤肉。在稜線上陡上前進，我開始思考這種天氣到底是好還是壞。
 
-<a href="/mt-note-literal/JainLong/" class="btn btn--primary">完整文字紀錄</a>
+{% include feature_row %}
 
 ## 南雅社區->劍龍稜->鋸齒稜->無耳茶壺山->勸濟堂
 
@@ -477,5 +486,5 @@ author_profile: true
 
 今天可以說是天氣很好，也很不好。可以飽覽風景(如果還沒被熱昏的話)。我們兩人總共帶了8升的水，但天氣很熱還是擔心8升不夠，所以喝得很減省，好加在後半段時有雲霧飄來幫我們遮陽一下，讓我們安然挺過這段酷熱的稜線，最後喝了6.5升。但以此為鑑，下次應該要再多帶一點水。重死或渴死的選擇題XD 
 
-<a href="/mt-note-literal/JainLong/" class="btn btn--primary">完整文字紀錄</a>
+{% include feature_row %}
 
