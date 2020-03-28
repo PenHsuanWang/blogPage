@@ -1,0 +1,388 @@
+---
+layout: single
+title: "[圖文] 20180627 玉山群峰-Day3 玉山南峰與南玉山"
+excerpt: "今天我們要踏上玉山群峰中最遙遠的一條路，很多人稱之為'鳥山'的鹿山。即使是夏天，海拔超過三千六的圓峰山屋凌晨的溫度可是只有個位數，要爬出睡袋需要下很大的決心。今天我們要爬的山包含東小南山以及鹿山，這兩座山為玉山群峰後四峰之中相對遙遠的兩座百岳。"
+
+date: 2018-06-26 06:00:00 +0800
+categories: mt-note-photo-100peaks
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 玉山山脈
+
+header:
+  image: https://lh3.googleusercontent.com/CZwg1Q418smnr34tP8W-sHM-Uy_HBuv3M6e4Kj9eWo4J6wHRlD7V0imQ-rgv2PJVv-p26R750UkI5YqSfj4=w2000-h1800
+  teaser: https://lh3.googleusercontent.com/3HkC6RWualvSIKF0_qY4tlRxrjs0i55jtbfLsLve75gYQZdKQTUvDXprd10pDBaip-xkEmNTno3xG65b8TI=w640-h480
+  image_description: "南玉山回望玉山南峰前的草坡"
+  overlay_filter: 0.5
+
+author_profile: true
+---
+
+<figure style="width: 40%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/EITRIniLzvMfANEoKCYcPE3KovmEPSwA-ekBOVGrsJRNDFR_HZhkPUGQ6AA-UaC9vZ7cKOgdvU-IzqLzs8Y=w640-h480" alt="通往南玉山的道路">
+  <figcaption>通往南玉山的道路</figcaption>
+</figure> 
+  
+玉山群峰的第三天，這一天我們要去攀登昨天漏掉的玉山南峰。鑑於昨天去東小南山的時候有稍稍探過路了，我們知道要攀登南峰可不容易，日出前摸黑爬可能不太好，於是我們打算睡晚一點，等到日出後再開始攀登南峰。攀登完南峰後我們回頭往岔路口，踏上南玉山的小徑。玉山山脈由主峰開始沿著南稜線往南延伸，至三叉峰後分岔成兩條，一條就是玉山南峰+東小南山的稜脈，另一條就是小南山+南玉山的稜脈。三叉峰位在三叉點上，是名符其實的三叉峰。
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/WBWC29Nf3tWCThzlyml5il1jR5iwliLHBMqAm129wOTZ7UK1hZGiFWFw8Ujqlmbn4f39ZacS0bBaoW4gG7E=w1920-h1080" alt="玉山南峰望向玉山主峰">
+  <figcaption> 玉山南峰望向玉山主峰 </figcaption>
+</figure> 
+
+
+
+<a href="" class="btn btn--primary">完整文字紀錄</a>
+
+## Day2 圓峰山屋->三叉峰->玉山南峰->三叉峰->南玉山->圓峰山屋
+
+凌晨3:30，山屋裡的大家開始陸續起床，有些山友們準備前往鹿山，有些則跟我們一樣要去拜訪南玉山，吃完飯後打點一下今天的行動水和行動糧，我們大約04:40出發。此時天空已經亮了，不太需要頭燈，可以節省一下電池。
+
+05:21 通過三叉峰後，我們看見太陽已經出現在東方的中央山脈之上了。
+玉山圓柏灌木叢跟杜鵑花被金黃色的太陽照耀。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-PHFBNI_yIVo/WzxICQOJrAI/AAAAAAAA290/-Tn57ew6Ci48hTBKyfsa9_DN_j3NGGzAACLcBGAs/s1600/_MG_8629.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-rPrbA1CwVIU/WzxIGckx4II/AAAAAAAA294/6OdnZFmPOMc5_T9OViuFlswPorpNuoSzgCLcBGAs/s1600/_MG_8630.JPG" alt="玉山圓柏灌木叢跟杜鵑花被金黃色的太陽照耀">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/F51x1rwZsO3WtuRAzt5js_yMY0m8pVAjJMqIayBGVIwVZVgOuOXRSUEExMqX-y2Pjfin07LruqZ8VB3-a5k=w1920-h1080" alt="早晨的日出與玉山的影子">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/KEEVLHYcBc-64Y1spFZIRzTOhTXfT5-aUVGlS523erepZ4ES76Dth5Ft3DrHHDqfNDSeTgW6ECDa7Xg3B5E=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+接近南峰，可以看到南方雲峰方向的山谷出現了一點點雲瀑。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/h8C3gDqam0rkxTymgyek2kg0aTaN_OHSoSFILT1o4B0b-xPi2r_5qNfEG9joH1-dfigWcNQmBsCkh34y0Zo=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/HTx_Y9hvAOWywZKc8sLzbAJm86Vu6dLasEfeF9H82eHXQ2vuRYR-SpzfLkFsy55BGwIgO0jvdz5sB5FAjuc=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/Gtk0VoXhHfgQv-lZ3dyvBlrtJ_D_fpAXVrGe2XFFR2Lo39P7yDEVDys7GUValzXIgjOdZokE5tw9BsY8AQM=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+前方第一顆岩石是三叉峰延伸往南峰的稜線的障礙，昨天我們摸黑經過這裡的時候還找了一下路，差一點就爬上去了，正途是要避過這塊岩石，由左方經碎石坡腰繞過去。
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/Rq-oY-QhtEoJ-K8uoOKo7_VhQl8ZcfQUp1ubWFw8YHs0QTOj7EIVtqZuS3y98ueuyLJ0oLPWam1RvVxk80Q=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+腰繞過第一塊岩石後，後方的連峰就是玉山南峰了。碎石坡一爬上去後即碰到一個"攀岩"的警告標示，前方約5公尺左右的地方在GPS航跡上標記為第一登山口。但這個第一登山口的路徑十分不明顯，找不到疊石跟路條。當下我很懷疑是不是走錯路了，但打開GPS發現自己是在路徑上。GPS有個5~10公尺的誤差也是合理的，在這種光禿禿的岩石上可能走偏個3~5公尺就找不太到路了，因此我左攀右攀、上攀下攀。來來回回了三次找路，但就是沒看到路條跟疊石。那ㄟ安捏! 我們兩人幾乎把第一登山口附近的岩石山壁搜了一遍，但就是沒看到像路徑的路。好吧! 我看這塊石頭還可以爬，我們就硬著頭皮自由攀登吧!
+由第一登山口起攀後，約莫10分鐘我們攀上了第一個岩石頂端，回望可見剛剛我們腰繞的碎石坡，後方即是小南山以及南玉山的稜脈，中間的溪谷是荖濃溪的支流。其實站在玉山南峰，四周所有溪谷都是荖濃溪的源頭(荖濃溪表示:全部都是我的)XD
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/Ewu9I0FnEyU8NWB8Que7Zp69VEYM0aWbM8OM__YTCBgG1uF_WO9q9uThi2jB37Kombk-EslpdB0zjWkuYTw=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/h8C3gDqam0rkxTymgyek2kg0aTaN_OHSoSFILT1o4B0b-xPi2r_5qNfEG9joH1-dfigWcNQmBsCkh34y0Zo=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-Wt5-6RKlU3M/WzxIgKb9JtI/AAAAAAAA2-c/5fVqiZk3kQQg5q0LAihMjI65WYWxCdgAgCLcBGAs/s1600/_MG_8651.JPG" alt="玉山群峰後四峰，玉山南峰的日出">
+  <figcaption>  </figcaption>
+</figure> 
+
+06:04 站在第一顆岩石的頂端，往東望可見第二顆岩石，比這邊稍高。當年鹿野忠雄好像也是循著這條路徑來攀登南峰的。當時還沒有明確的測量數字，只知道南峰是連峰但沒人知道到底哪一顆岩石才是真正的最高點。
+
+
+不愧是十峻的二哥，這一整片的岩壁爬起來可不簡單呢，還好今天的風勢不大，不然如此的暴露感加上強風的話，攀登起來對登山者造成的心理壓力確實不小。有幾段落差頗大的，下攀的過程中我們為了安全，什麼醜陋的姿勢都用上了，最後我們乾脆一屁股坐在岩石上，慢慢嚕下去，以前有位學長說這是沒有羞恥心的爬法。不過我想在南峰面前，人是不太需要羞恥心的。我們下到對面岩石前的鞍部，終於找到路了，這邊是跟第二登山口會合的點。找到路後我們也爬得比較安心了。
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/4DxXrVQdEJBDLv0SQnvPaI9CSZA5E04roRAmarhprIRlvOqeZiSorS1EDn-_xeHURDwLcBNR9bBCURUqY5Q=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/j6-URydh60ZyFG_cRRQCSB6mxOxNeWxn5pCWMv6duPgjf6i7LFyhnzVmF2FBiHfBB1m6jDy3hLHGSJ1qmII=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/Qi7wPkx2jtn-J02hymLJWXFxn4X4kOH5v_PefrkbKKLrFAPgldbzw4S33vFrAnA4MmFvzsENE4QIyzUQRdk=w1920-h1080" alt="">
+  <figcaption> 玉山南峰就在眼前 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/JOeZSnIhQQoiaUpxs2oybtrUR9vxSWrFY6_Nu25gL8286GCjOiaOOKbguJOHBqecS9kQhqscv79m55LgY4U=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/VJQ79L7EEM89qRYSWCuTF_9I5SNuPRE8Mr0-21DqjshyCBWt9A0nGE4LgG0SzWsTJyjQGjJwkyeknuxiJsU=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/k4ENagpkqfwWWvrNJ8Vv6zqwyIiM3bQrU0aBlpewiCPm-benO0uXZL7Zj2u6le7ugemI76DNNrTri6fkwFs=w1920-h1080" alt="玉山南峰為台灣百岳之一，十峻排名第二">
+  <figcaption> 玉山南峰頂上 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/Kv3CBRlQwxmwC8C9Q7qXtTBxkPXakaPftgq1kgy7JvEE6KeDtMOMWgY5PVuKt_EA10aTBcXtTaVmahmHxN4=w1920-h1080" alt="玉山群峰">
+  <figcaption> 玉山南峰望向三叉峰，這就是我們剛剛走來的稜線 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/1LJs1vmcogsyFEIYXbfbk-twUH4CEduijDCq2dryW26mScwkRfsHxTarmkI9JZMyy8YMTCf0iZMZLsvNlbg=w1920-h1080" alt="玉山南峰向南望，可見稜線綿延至東小南山。後方為南二段、南一段群峰。遠方可見新康橫斷。">
+  <figcaption> 玉山南峰向南望，可見稜線綿延至東小南山。後方為南二段、南一段群峰。遠方可見新康橫斷。 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/WBWC29Nf3tWCThzlyml5il1jR5iwliLHBMqAm129wOTZ7UK1hZGiFWFw8Ujqlmbn4f39ZacS0bBaoW4gG7E=w1920-h1080" alt="台灣屋脊玉山群峰">
+  <figcaption> 玉山南峰向北望去，可見玉山主東峰。 </figcaption>
+</figure> 
+
+06:20 登上南峰頂。台灣第五高峰，百岳#5，十峻#2
+天清晨的玉山南峰展望很好，昨天的東小南山展望我給9.5分，這邊我給9.9分XD
+為什麼不是10分? 10分是要留給明天的玉山主峰的。
+
+今天的早晨展望特佳，站在這裡可以遠觀四方，整個心胸好像也跟著寬大起來。
+我們待到06:40就下山了。今天我們還有另外一項任務，就是南玉山。
+其實，下次如果再來玉山南峰，我覺得可以站在峰頂待個一個早上欣賞台灣最高的風景。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://3.bp.blogspot.com/-EBKyZsfB2Vk/WzxLB5XBTTI/AAAAAAAA3Ac/_R3HVHfaJkgL7w8XH7_A_3SVMPAvcZ12QCLcBGAs/s1600/_MG_8688.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-4p06tIf5WQI/WzxLCH8DxRI/AAAAAAAA3Ag/QmTCaa2mOvcZIhnP-b27soXj4h6O6c2FwCLcBGAs/s1600/_MG_8689.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-o4D5O1oYwt4/WzxLPTg7AdI/AAAAAAAA3A8/Ho5P5wDoUhEuxsCj2MtxlUGgG7lXR7McQCLcBGAs/s1600/_MG_8693.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+我們回到第一登山口。此時太陽已經高掛，開始照耀南玉山稜脈的箭竹草坡了。
+站在這裡可以看整個溪谷，右側是南玉山，左側是東小南山。等等我們會先回到三叉峰，再從三叉峰西側腰繞過碎石坡，翻過岩石稜脈，下到南玉山支稜。
+
+鹿野忠雄當年來攀登南玉山的時候，這一帶被當時的"凶蕃"所控制，"凶蕃"是當時日本人給的稱號，或許有人喜歡稱他為"原住民抗日英雄"，拉荷．阿雷。當年大分發生抗日事件後，布農族的抗日英雄 拉荷．阿雷 帶領一批族人移居至玉穗山一帶，當時八通關警備道路以南的山區，涵蓋了南二段、玉山南方，都被 拉荷．阿雷 所控制。當年鹿野忠雄來攀登的時候，除了要注意地形和天氣，還要擔心被 拉荷．阿雷 的黨羽馘首。真得是刺激許多，當年，誰知道高大的箭竹叢中，是不是有一把銳利的彎刀正準備砍向脖子呢?
+還好我們現在不必擔心被砍，專心的走路就好XD。
+
+07:24 回到往南玉山的叉路口，從這邊我們要腰繞三叉峰西側的碎石坡，然後緩緩上升到前方的稜線，越過稜線後即可清楚看到我們今天的目標，南玉山。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://4.bp.blogspot.com/-RuQeVwkowaM/WzxLVhTzBaI/AAAAAAAA3BM/72wKsHwpiNIz_aMlvRS3eTji57M47AtpACLcBGAs/s1600/_MG_8695.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-fLb0A2gLsyI/WzyFfGhKwSI/AAAAAAAA3Eo/t6eKEQsjbho4Qu9TgIBzCXfMuR23ID4cACLcBGAs/s1600/_MG_8696.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/NpuoaRDTbeEc-soD_5LcV7Jg_LyomlaBM02DyscsYyqAh6B5r4t2HJAGKDqpm9unMOG9b91Qkvx_P_-y4Gc=w640-h480" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/aH2Em2Ck_wtG1PD-ka07TeebZMFiOLKvCt_jYCn_oNSoe-_nEFaiL5Qp3c5S7cn_IfkTrNJMrhWtoOVKbWI=w640-h480" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/E3kMRymrpDK9CSbaDWSnW-Jj8fzfxYzxQTiGkJUqNoZ7P-kkuWSkKV3ZbVBP3fa5nDuo390VOWFXvU4I1iY=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+07:38 翻上稜線的越稜點，離南玉山4.5k木樁，從這邊開始小南山跟南玉山進入目視範圍。
+
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/jkJbIsFdBX9p2fl4fCPg2Yiufwi-w4yyQ_pxizxHf9mCgXrYA4l2_ilnatC-xOqHJWoXxaS1leGgKtmX7EQ=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+由三叉峰過來，於海拔3760公尺左右越過稜線後開始一連串的陡下，這邊都是刀片岩，我們下降的時候小心翼翼、戰戰兢兢，前進的速度被拖慢了許多。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://4.bp.blogspot.com/-rkRllNGfw9c/WzxLf3oYZsI/AAAAAAAA3BY/fNPofF7KIC09zt3v5l1GZwqP637N3FvvACLcBGAs/s1600/_MG_8704.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://4.bp.blogspot.com/-X2SmZ6GTeIc/WzxL3ULLKAI/AAAAAAAA3B4/QRMpfp66DrUNSKDPQCWhXQhy-Ar55EiWACLcBGAs/s1600/_MG_8711.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-nk99n0zQ_Ts/WzxLw5m9O8I/AAAAAAAA3Bw/-IL7_a_lZZQr66Mt_6Ao8gL-QYOKrPfygCLcBGAs/s1600/_MG_8710.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+下降到約3550後開始沿著等高線腰繞橫渡過這些刀片岩壁。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://4.bp.blogspot.com/-xnysw-Re3WQ/WzxL2_nrG-I/AAAAAAAA3B0/KQ499KrxM5ERpFusanrKE6-tiLVwxRGXACLcBGAs/s1600/_MG_8714.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-cFgmls18tY4/WzxMJ4UaA0I/AAAAAAAA3CQ/8vFP_liy23YPDN1ZSTKnDcwcxk3_S5s7wCLcBGAs/s1600/_MG_8719.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/LUXoC5HOQEmO8Y1Cv4FxETBj9JwJCNRYI2qwsH5aMcURK796tMaYYOK4xbP0SO6l3yEgf0g_ZSqnSAI5vLI=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+最後終於離開這些岩壁了，我們大概花了兩個多小時在通過這些岩壁上。接下來是一片廣大的箭竹草原。
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/pZyfLtcJk_TdjvpierTqpFSgh1l3VzWymw5z8ypmV6REzJbitShnfPq9gJG-9GkKnrC7YbR4IxDq9uwKloQ=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+09:48 出現一望無際的大草原，看來接下來的路應該會好走很多
+這裡的山的形狀有一種相似的感覺... 這裏怎麼長得跟合歡山那邊那麼像XD
+從武嶺望相昆陽那一段。
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-qopdSJW_Toc/WzxMU6W7wmI/AAAAAAAA3Cc/Sac0I6ES6H4w5MFo7olB8s3777d0U6ZGgCLcBGAs/s1600/_MG_8723.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+前方為小南山，更後面的是南玉山。這一片稜脈是單面山。由玉山登山口至排雲山莊的那一段步道可以看見楠梓仙溪對岸陡峭的峭壁，即是南玉山以及小南山稜脈，其實峭壁的另一側是柔美的箭竹草坡。
+到達小南山前，有一處拗口，從這邊可以看看稜線另一側陡峭的山壁。
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://4.bp.blogspot.com/-iP3SZxya67c/WzxOxwTjiII/AAAAAAAA3DA/WGaJz9XhsPs67b2kbpOE-e_p5puwxpaywCLcBGAs/s1600/_MG_8725.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-V8gYpmB4MsA/WzxOwtsgxdI/AAAAAAAA3C4/HFwcKAZReK0DYPLpCQFeRHozSDD7lSQtwCLcBGAs/s1600/_MG_8726.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-9vxOdf2xmZI/WzxOxGL_ebI/AAAAAAAA3C8/mCtgbU-66aYS5PTVzhIKqbIc4DTLIVHAQCLcBGAs/s1600/_MG_8727.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+對面是玉山西峰?
+因為先前過那些刀片岩壁花掉了不少時間了，因此我們決定先不去小南山，先直直朝南玉山前進，回程再看看時間決定要不要去攀登小南山。
+
+回望玉山南峰跟對面的東小南山稜脈，覺得我們今天回程也會是一場硬仗QQ
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/VbAzZNyoimK9840DMqrIeSGoS0OchXkNyZwe-vnlcx_CpMUDyU24bgFRn_sPDWs8MYeRR-fNtkbPQHwFFWo=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+11:15 我們登頂南玉山頂。四周被冷杉所包圍，山頂附近長了些刺柏跟圓柏的灌木叢，這裡也是單面山。三角點後面一點點的地方有一座岩石，應該是最高點，不過岩石的另一側是深谷，下方長了幾棵冷杉。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-h1OTqAL0PzA/WzxPN0_WoNI/AAAAAAAA3DY/aPxmzdmdsd0fbD13Hys2bi3kNdFrT9MTwCLcBGAs/s1600/_MG_8733.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://4.bp.blogspot.com/-wWecHgHHqO4/WzxPgHr3i6I/AAAAAAAA3Ds/lZa1YH39HXocvGDPrx7Gp8oYNsPfCkO5gCLcBGAs/s1600/_MG_8736.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/NY0BYJFzSZFv5hdc8hlSCoK-IguKzJ5obmHOCKNJVDrMO22zWOBG8iPBerfza9hRTWcXfY3qmYRwc88B-2Y=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+我們在南玉山頂上休息了一下，煮一點東西來吃，12:00整我們就啟程往回走了。往回望去，剛剛我們走來的那一大片草坡現在準備被雲霧覆蓋了。由楠梓仙溪來的雲氣翻上稜線後，不敵由荖濃溪谷吹來的東風，又被吹回西邊了。
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/W2hFo0gf1Fa9V0KyMMH_8au3enNef0N7-Xt2AUenWTMl9RsS7_Dk76c1Fi5WKCiBJrC-cjfG8qEXBGOHiy0=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+於是有趣的現象出現了，稜線右側的深谷卡了霧氣上不來，深谷被雲霧所填滿，好像巨大的棉花糖機一般。
+後來我們看時間好像有一點晚了，同時很擔心會下雨，最後我們決定放棄小南山，在下雨前趕快回到山屋為妙。通過前往小南山的岔路口後，我們就快回到刀片岩區域了。從這邊往上看，回去的路要翻上這個稜脈，上方即是三叉峰與玉山南峰。這毫無疑問是到巨大的天險啊= =" (累)
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/UFqPxvnXVnDly6vtEzuaVCg-UlSIee__DJweYip1Blgd00RiNtETh7lbLKwj7FXWPcEEFepDAH9zXQjBOjk=w640-h480" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/xK0RyvM7PKu3ekYaoxYJMALsbJFfwHBK3SDb_E55MSLUI5WjiATfUB04fhL1EAcdmXTHgXr12qLTjn88K7Q=w640-h480" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-_NZJwMrzh-8/WzzCdHeMuWI/AAAAAAAA3Fs/v9z68HYBO7wBwbd6WNM3vOR6Z8OQWzPawCKgBGAs/s1600/2018-07-04.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-gDhZh7lZb_c/WzzCiCYZi6I/AAAAAAAA3Fw/4PvhwZEEm704LXFYcuJIksKdl2HBE9wYACKgBGAs/s1600/2018-07-04.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+通過最後一片箭竹後，準備開始迎接刀片岩。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://2.bp.blogspot.com/-gH7DD7L3Y0M/WzzCknD1ZUI/AAAAAAAA3F0/n84X2cOMrD8eCPpW4e-wq3RUEjslV0VwQCKgBGAs/s1600/2018-07-04.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-fRm5kBsgXNw/WzzCnCu3TAI/AAAAAAAA3F4/MpdDkcXza8MybZu6YdifJEx4eGY5p6J-ACKgBGAs/s1600/2018-07-04.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-qSJahKYSF44/WzzCqVxhJ8I/AAAAAAAA3F8/vMPMNkmNoLUbc1k4gzagb_UZ4t8N14iXACKgBGAs/s1600/2018-07-04.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+16:22 我們翻上稜線，此時開始飄下了霧雨，我們一喜一憂，喜是這邊已經離山屋不遠了，真是慶幸不是在攀岩前就開始下了(不然我們攀岩難度會增加)，憂是最後一段路是碎石坡，我們一路上都在祈禱希望霧雨不要變大，如果變成強降雨，我看最後一段碎石坡路會難度三級跳吧!
+還好我們最後走出來，只飄了一點點霧雨。
+16:30 我們回到了岔路口，安全達陣。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-HFevj_u92HM/WzzCuO3DjxI/AAAAAAAA3GA/EPPRM1PsO8EbaDj2Fw2RMtp798G_BJGMACKgBGAs/s1600/2018-07-04.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+真好，今天在五點前就回到山屋了，今天去鹿山的山友還沒回來，真不知道南峰另一側的鹿山天氣好不好，已經開始飄霧雨了，希望雨不要變大。
+接著五點到六點半，前往鹿山攀登的山友大哥們陸陸續續回來了。果真，爬完鹿山後的臉色真的會變得不好看(應該說沒表情?)累都累癱了，誰還管臉色好不好看XD
+
+晚上八點後，天空放晴，皎潔的月光照著這片山坡，很清楚可以見到東側山谷的雲在翻騰，南峰巨大的剪影座落在南方，溫度降到只剩下4度。我穿上我的防風外套，從山屋往南峰方向走了幾十公尺，享受月光。只可惜我沒帶腳架，我只能用山屋旁的路牌放相機。能夠取景的角度不夠。下一次如果能再來，我會希望可以悠哉的待在圓峰山屋，帶個腳架，捕捉這邊的美景並且帶下山。
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/Hbj5hOewa4J1iDbkspsq16Lr2ufwr2YIqbZsDDUs6ms3gYj4lHSufeNZOPpdRuHxEtRdhxhS-9XSQLGrFP0=w1920-h1080" alt="">
+  <figcaption>  </figcaption>
+</figure> 

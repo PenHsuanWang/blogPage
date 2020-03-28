@@ -1,0 +1,471 @@
+---
+layout: single
+title: "[圖文] 20180627 玉山群峰-Day4 圓峰山屋經南稜線攀登玉山主東"
+excerpt: "循著玉山南稜線前往玉山主峰。玉山南稜線從由玉山主峰往南延伸到圓峰，東西兩側一起侵蝕這條稜線，使得這條稜線的地質破碎，走在南稜線上，往左往右看都是斷崖。如果想要知道自己有沒有懼高症，來一趟南稜線就對了。"
+
+date: 2018-06-28 06:00:00 +0800
+categories: mt-note-photo-100peaks
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 玉山山脈
+
+header:
+  image: https://lh3.googleusercontent.com/3z9N7_Dgg8jQR_RqGqSSktU1yy_LBWY-EcjIjDbzZPexe9Z7m-lOokau7FvnonZTJ3122P0UigNL4TDf-98=w2000-h1800
+  teaser: https://lh3.googleusercontent.com/ebwKS67filHmXB1lBC-13ZtNvAgqWlloBhDr4feUL_j7zVgq-NVXrjWCgUgq9mMwNrwp9OJuB4CZShyrm9Y=w640-h480
+  image_description: "玉山南稜線"
+  overlay_filter: 0.5
+
+author_profile: true
+---
+
+<figure style="width: 40%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-BIf1Ci7cTvg/Wz2Sx33HSFI/AAAAAAAA3Is/w35xNGwV1WgkhukcQ_vtSoYvA3Q_y9oTwCLcBGAs/s1600/_MG_8877.JPG" alt="玉山主峰">
+  <figcaption>玉山主峰</figcaption>
+</figure> 
+  
+玉山群峰行程的第四天，這一天我們要告別圓峰山屋、告別玉山後四峰。我們整理好裝備，準備循著玉山南稜線前往玉山主峰。玉山南稜線從由玉山主峰往南延伸到圓峰，東西兩側一起侵蝕這條稜線，使得這條稜線的地質破碎，走在南稜線上，往左往右看都是斷崖。如果想要知道自己有沒有懼高症，來一趟南稜線就對了(只不過走了一半以後，既使知道自己有懼高症也來不及了XD)。有些紀錄說南稜線暴露感大但小心走沒有問題，也因此我們一開始規劃是重裝走南稜線，但我們在圓峰山屋與幾位大哥聊天討論後，他們建議我們不要重裝上，橫渡一些地形的時候大背包確實礙事，最後我們決定在圓峰山屋0.3k的路標附近下背包，輕裝上玉主東，回程下主南岔路口後在上到稜線上拿裝備。東想西想這樣的行程真的很不順路= =，早知道就連續四晚申請圓峰山屋了。
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-38vt0o0EoHA/Wz2SOlJ6xYI/AAAAAAAA3IE/d0PN9U9fH5830P8uTz--24hmlS_oQxXjgCPcBGAYYCw/s1600/_MG_8794.JPG" alt="玉山主峰南稜線">
+  <figcaption> 玉山南稜線的早晨 </figcaption>
+</figure> 
+
+
+
+<a href="" class="btn btn--primary">完整文字紀錄</a>
+
+## Day4 圓峰山屋->玉山南稜線->玉山主峰->玉山東峰->玉山主峰->圓峰->排雲山莊
+
+早上06:20從圓峰山屋出發 
+06:30 到達距離圓峰山屋0.3k的路標下背包，輕裝前往南稜線
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/LqvVFsk--KxiWTAAYJpIWBgxHCASZaUAmliWA8yfuOY_C2SCYMDgZb18M-_Aonn_g8crJqJ7yqv9l7aPZis=w330-h220-rw" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-TUfYGK0KidY/Wz2SOImB81I/AAAAAAAA3Gg/XSN5PgtPudIxIFL6urXf33ny_CFCeO4bACLcBGAs/s640/_MG_8792.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-38vt0o0EoHA/Wz2SOlJ6xYI/AAAAAAAA3Go/l9U5iO8TPwwyiNDItGkF6edAUy5pj2_bwCLcBGAs/s1600/_MG_8794.JPG" alt="早晨的日出與玉山的影子">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+站上南稜線的第一顆山頭，回望玉山圓峰，此時朝陽正滿慢慢的照進楠梓仙溪谷，玉山南稜線的影子投射在溪谷之中。溪谷左手邊的玉山圓峰、後方的小南山、溪谷左側的玉山西峰。
+
+前方就是台灣的最高點，玉山主峰。
+
+
+前方第一顆岩石是三叉峰延伸往南峰的稜線的障礙，昨天我們摸黑經過這裡的時候還找了一下路，差一點就爬上去了，正途是要避過這塊岩石，由左方經碎石坡腰繞過去。
+回望玉山圓峰以及玉山南峰，從此處看過去，玉山南峰的地勢好像更險峻了，真難想像我們昨天才從那個碎石坡腰繞過去@@
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://4.bp.blogspot.com/-pilOCQbGtBs/Wz2SOxNz8hI/AAAAAAAA3Gs/neMDGgtIheomjV8_HF6NmA_l9vYUK_gmACLcBGAs/s640/_MG_8795.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://4.bp.blogspot.com/-AZahFL0i7uU/Wz2SPJeFeYI/AAAAAAAA3Gw/fq0UUXRR-VkEwKEHs3RfN6OLlGiTQZRJwCLcBGAs/s640/_MG_8799.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-lv7lz7kMFBU/Wz2SPTp57LI/AAAAAAAA3G0/6QMTcLS4F5sufpWOtw7SFrKKxbP5gmKSQCLcBGAs/s1600/_MG_8803.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+往東望去，太陽已經高高掛在中央山脈之上了。右手邊的玉山南峰，稜線延伸下去，就是我們前天去的鹿山。現在回想起來還是覺得很疲累XD。兩天前我們去了海拔最低的百岳，現在我們走在臺灣最高的稜線。  
+前方出現一塊平坦地，感覺這邊可以紮一、兩頂四人帳篷，不過水源就是問題，不然這裡應該可以變成全台灣最高營地!! (這附近應該也不能亂紮營)
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://2.bp.blogspot.com/-MXkor-I08sI/Wz2SP0LqGUI/AAAAAAAA3G4/0pjrAu8I0ZUA3DFT11P_5A3C0POT4OEcQCLcBGAs/s640/_MG_8807.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-qDHhpg9jNVA/Wz2SQKEsneI/AAAAAAAA3G8/628zRMIyL6sUtRqHvpXDnfODI58-q2zJQCLcBGAs/s640/_MG_8810.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-fwliI1Z7gD0/Wz2SQJeLHRI/AAAAAAAA3HA/FeGQ8c5Y69IjjoZz7G7NGlZibyGY6SzxgCLcBGAs/s1600/_MG_8818.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+玉山南稜線，翻過大石頭。
+玉山東峰，十峻之首。從背光處看過去只看得到一片黑的剪影，看起來更可怕了。
+
+玉山南稜線上的瘦稜。左側為楠梓仙溪源頭侵蝕的碎石坡，右側為荖濃溪源頭侵蝕的碎石坡。兩側一起侵蝕所形成的破碎地形，我們沿著稜右渡過這一片岩石。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://2.bp.blogspot.com/-r0BKpOjWAgw/Wz2SQRrpCwI/AAAAAAAA3HE/_eNfyD7QlO4HAS4biuLE2woRW3zKuoW8gCLcBGAs/s640/_MG_8822.JPG" alt="">
+  <figcaption> 玉山南稜線，翻過大石頭。 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-4TBs_hJmwfw/Wz2SQv7z9dI/AAAAAAAA3HI/cDtE08MFu70_Dmeb4_p5i4z1_JpJa8znwCLcBGAs/s640/_MG_8826.JPG" alt="">
+  <figcaption> 玉山東峰，十峻之首。從背光處看過去只看得到一片黑的剪影，看起來更可怕了。 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/--9GXT9bSjVw/Wz2SQ4QyS0I/AAAAAAAA3HQ/NJ3HarpFqMgRUcBFEaTUa_SUbG2Cc8WSQCLcBGAs/s1600/_MG_8829.JPG" alt="玉山南稜線破碎的地形">
+  <figcaption> 玉山南稜線破碎的地形 </figcaption>
+</figure> 
+
+玉山南稜線上的瘦稜。左側為楠梓仙溪源頭侵蝕的碎石坡，右側為荖濃溪源頭侵蝕的碎石坡。兩側一起侵蝕所形成的破碎地形，我們沿著稜右渡過這一片岩石。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/--hNn1mHJT3M/Wz2SRJM3CZI/AAAAAAAA3HU/jdpaESJMy9oKAjxHDWyxMNgocIG90jkqwCLcBGAs/s640/_MG_8832.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-nAiEO4zV5k0/Wz2SRc8TYLI/AAAAAAAA3HY/Qc1v3r2HOoE6HGnWFskvaVtaN_hTmrx-ACLcBGAs/s640/_MG_8842.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-oq1n8d0_i88/Wz2SSS9eB9I/AAAAAAAA3Hk/RuJQle8DNZMo3Rn616oMs7GehYHn1psogCLcBGAs/s1600/_MG_8855.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+前方的一座假山頭，越接近玉山主峰，稜線西側的地形越來越險峻。原本還只是碎石坡，現在已經變成斷崖了@@ 天阿，到達這個地方後，我開始腳軟了!! 原來我有一點懼高症啊XD ?  
+看這片碎石坡，好像可以直接接上玉山東峰的登山路線，只是前方有一片玉山圓柏，要從這邊腰繞過去應該也不容易。
+這一片玉山圓柏隨隨便便都是幾百年甚至到千年的歲數，還是不要隨便打擾的好。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-yvgDohLEX3A/XgjWMAenIVI/AAAAAAAA7G0/osCYPs4UDjMuJhmoKeGgjSDz0Q43cfcNgCLcBGAsYHQ/s1600/_MG_8820.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://4.bp.blogspot.com/-gdCCvpla9fg/Wz2SSz8LDGI/AAAAAAAA3Hs/bvzNa5LBlUwQ6rGy3yoW8-MIawqHQjNrQCLcBGAs/s640/_MG_8857.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-8brlqrfq_50/Wz2STHvbfWI/AAAAAAAA3Hw/OC0C5N4d3VoparqS86Td-tCYXLTiiwbzgCLcBGAs/s640/_MG_8858.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-2Xmg7P9eYF0/W1sOTLE7kwI/AAAAAAAA3MM/uddyWLiAKKcTIKXT_zZ9oeAXrTNyz39SwCLcBGAs/s640/_MG_8859.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+接近主東叉路口的地方是地形最險峻的地方，這一段有架設鐵鍊輔助攀登，在這邊真的是一失足成千古恨啊。我們就這樣在玉山的陰影下慢慢上攀這片破碎的石坡。  
+玉山的影子，投射在排雲山莊附近。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-IA2ronFK0u0/Wz2STYxyl7I/AAAAAAAA3H0/1eQVKHzdeuUTnWRJSIajY16s2i_xNspaQCLcBGAs/s640/_MG_8860.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-w8sS3vD63-A/W1sOR3gjaOI/AAAAAAAA3MI/TV-bYa2jrNQ41jSA3tAqaIPWHRlhm4_yQCLcBGAs/s640/_MG_8861.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-Sa0_gg1hjqE/Wz2STQ72qUI/AAAAAAAA3H4/_gDC_Oy3L0EmB1SEcDxdy4HcNijFZqNvACLcBGAs/s1600/_MG_8862.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+08:01 玉山主東岔路口，一個半小時通過玉山南稜線。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-TbzoFfriJ7M/Wz2SxIck2qI/AAAAAAAA3Ig/oQLpGVV-o90ufylBFb4MiLLftfTWU62VQCLcBGAs/s1600/_MG_8864.JPG" alt="玉山山脈主稜南稜線">
+  <figcaption> 回望剛剛上攀的碎石坡，從上方往下看還真是驚險 </figcaption>
+</figure> 
+
+玉山東峰由此去...
+看來這邊也不好爬呢!
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-7Bc6wmhMx4E/Wz2SxIafW6I/AAAAAAAA3Ik/aF0zzRmWoKgvC2m_ttMnZisIEXiNtmpgwCLcBGAs/s1600/_MG_8867.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+從主東岔路口回望，這一段玉山南稜線景觀真是壯觀，這可是台灣最高的稜線呀。人家都說玉山好爬，不難。我爬完南稜線後再也不覺得玉山好爬了...。玉山破碎的地形，其實是不容易接近的，只是玉山的名氣，讓西北側的碎石坡步道維護完善，還有各種安全設施，才會有玉山很好爬的錯覺，來走看看這樣原始的稜線，不知道還會有多少人覺得玉山好爬XD (至少我現在覺得玉山不好爬)
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-3VcZwHaHoq0/Wz2SxAuFo6I/AAAAAAAA3Io/VyoachdJNTMa5GY_gOVVDnVkb-mJvT9MwCLcBGAs/s1600/_MG_8869.JPG" alt="玉山主峰南稜線為鹿野忠雄當年首登南玉山的路線">
+  <figcaption> 玉山主峰南稜線，此條路線為鹿野忠雄當年首登南玉山的路線 </figcaption>
+</figure> 
+
+最近這幾天下午天氣說變就變，雖然我們已經在主東叉路口了，但我們想趁著天氣還好，趕快去玉山主峰拍照!
+通過玉主東叉路口後，往玉山主峰前去，前方有人在拍照的地方，就是玉山主峰了!!
+睽違了多年，終於要登上玉山主峰了!!
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-LkMF3FYw9WQ/W1sSdRpf-QI/AAAAAAAA3Mc/FCmlgiacPsI5HT1CHKNUqqmyJabqNE72wCLcBGAs/s1600/_MG_8873.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+08:16 玉山主峰頂
+我記得我三、四歲左右的時候，某一年冬天爸媽開車載我們一家去塔塔加走走。那一次去塔塔加的半路上，在新中橫上看到一整片的雲海，我對眼前的景象記憶深刻，因為我從來沒有看過這樣的景色，我那時心裡想人怎麼可能比雲還要高!!難道這是天堂!!正當我還沈浸在這片雲海之中，轉個彎我看到遠方的山上(即是玉山)蓋著皚皚白雪! 我沒有真的看過雪，頂多就是從卡通、童話故事裡面知道有堆雪人還有打雪仗這類的活動。我一直吵著要去那個有雪的地方玩雪! 我爸媽就一直安撫我說，那邊開車到不了，要用走的，而且要走好幾天...。我對那次的塔塔加之旅記憶深刻，過了近20年，我終於到了--玉山主峰，只可惜沒有雪可以讓我玩XD
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-BIf1Ci7cTvg/Wz2Sx33HSFI/AAAAAAAA3Is/w35xNGwV1WgkhukcQ_vtSoYvA3Q_y9oTwCLcBGAs/s1600/_MG_8877.JPG" alt="">
+  <figcaption> 玉山主峰頂 </figcaption>
+</figure> 
+
+站在玉山頂，還忘四周，可見玉山北峰氣象站，往東可見玉山東峰，向南可見今天走來的南稜線以及前兩天造訪的玉山後四峰。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/pQTJXIKOvrUDfKIByzvy2c42T4q9Gm5afziRQHcUfiHc2Z7qWz7BMhxI5RQnnPyb7Q9LCzGD6pd5UDRdXfg=w640-h480" alt="">
+  <figcaption> 陳有蘭溪谷，南投縣信義鄉以及遠方的水里鄉 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/fbL_4fIMym24RZOb8zVGFNn5tJcS2GYmc5BDeqrWPtoFRCtXmiONTQUILhidX9tEz0e28J4rNKJrPdMxI34=w640-h480" alt="">
+  <figcaption> 玉山北峰氣象站 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/Mnwiv9QqMzpbnW8UxCHg6KoxhKDS8UH5Arhdt_a5ERYWpjc0U8gs3zBs_9pfCyPBH-CpPOFKqOnlwZp_8DY=w640-h480" alt="">
+  <figcaption> 玉山東峰，十峻之首 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/W25pNmfQztg7oVawIh098qvTflRNKWSw6B1swyDvtknorctoSOZ3uYsmlFkLCexLQ6TjAOH_gBAJNOth8vI=w640-h480" alt="">
+  <figcaption> 玉山北壁下的荖濃溪谷 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://lh3.googleusercontent.com/L7kUZII9mZwaJ6v3pGynhrpiDPzIPkbn3_Mw5CdCWruAoLJy8wmULxYJuZwH7koHnNqvqyPvJU1TeK6hp78=w640-h480" alt="">
+  <figcaption> 玉山南稜線 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/ebwKS67filHmXB1lBC-13ZtNvAgqWlloBhDr4feUL_j7zVgq-NVXrjWCgUgq9mMwNrwp9OJuB4CZShyrm9Y=w640-h480" alt="">
+  <figcaption> 玉山主峰 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-8HwDPlZSq5o/Wz2SypnS8pI/AAAAAAAA3I4/wZBcRjpRVY0VGBdH4GcnNJHsIwi3cX6UQCLcBGAs/s1600/_MG_8909.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+暫時告別玉山主峰，準備單攻玉山東峰，回到主東峰叉路口，由玉山稜線東側開始下切，沿途的路不是很好走，在破碎的岩石地層上，有架設鐵鏈。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://2.bp.blogspot.com/-M4i0rlaF5PI/Wz2SzbT3b3I/AAAAAAAA3JA/nBzGgi5TP8gAH6PKzYtBIbx5i-LzgJbfQCLcBGAs/s640/_MG_8910.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-_56waBHfkzQ/Wz2SzS3BUAI/AAAAAAAA3I8/1Zn7pRyGiawMw6J4AWYvdFxG8agiYJcqgCLcBGAs/s640/_MG_8912.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://3.bp.blogspot.com/-1R3U6EAmGT4/Wz2Szt0B7nI/AAAAAAAA3JE/a-9nfxxgAxcLGFzd9PC71jCrjzeA2bIZACLcBGAs/s640/_MG_8916.JPG" alt="">
+  <figcaption> 看到玉山東峰好像就在眼前了 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-YA7fxdw4sU0/Wz2S0R0erMI/AAAAAAAA3JI/pkwzeh3HABksXZOlxX4JtAj_6AqMaF0iACLcBGAs/s640/_MG_8918.JPG" alt="">
+  <figcaption> 回望玉山主稜 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-WFfC-jZ1N2Q/W1wCeJH1HUI/AAAAAAAA3Ms/6TZbawe-PmchFxaFuPKLWehX8Pdb8frvACLcBGAs/s1600/_MG_8921.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+接近鞍部，從這邊可以清楚看到玉山東峰險惡的地形。我們從西側攀登感覺就已經夠難的了，當初鹿野忠雄是從北方荖濃溪谷中的新高駐在所，經由北面上攀玉山東峰!!鹿野忠雄的傳記裡有提到，由底部的碎石坡開始，慢慢向上，坡度就越來越陡，甚至還要上攀煙囪地形。跟以前鹿野忠雄爬過的北面比起來，我們要爬的路簡直就是小兒科。  
+鞍部過後，我們到達玉山東峰的的岩石底部，我們在此處休息一下吃點東西補充體力，等等把背包留在此處，無裝上攀十峻之首--玉山東峰。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://2.bp.blogspot.com/-brTRNzYyw6o/W1wCeQQeV7I/AAAAAAAA3Mw/ib0m-AFMJMc8AeveCuDYbG2246fYhB3-gCLcBGAs/s640/_MG_8922.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-hIsm3hZlnoQ/W1wCfDI_h3I/AAAAAAAA3M0/JYxjqfXR354ah-s6YCqsFSSfRMuBt4aEQCLcBGAs/s640/_MG_8923.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-MwhK3jtEAKk/W1wChpOxw_I/AAAAAAAA3M8/Ga_mH6DoakQr1fPlJCnC9pPQ5l-4T4B3ACLcBGAs/s1600/_MG_8927.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+真不愧是十峻之首。連續陡上，沿著岩壁直接上升100公尺，沿途都有架設鐵鍊。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-6aLmC40Oqtc/W1wCiBIzUXI/AAAAAAAA3NA/9IqtYE6n8786R9G_T7ymc6U5e9h0CSXuACLcBGAs/s640/_MG_8929.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-vCtkNgm6H1A/W1wIRSD2XpI/AAAAAAAA3NY/WH_reiLHVisrsmZj2aPOWRMK8B04Iw1NQCLcBGAs/s640/_MG_8930.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-grz2DrMEtNg/W1wIRx6Ti4I/AAAAAAAA3Nc/6T9E-1jFA9gjn8EUxJIE9zCFD68R-E1TQCLcBGAs/s1600/_MG_8932.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-YPVPPKu0ihY/W1wISWzqinI/AAAAAAAA3Ng/QbkE9TvtbH4P4HMqv9vay_d8-ONphBHkQCLcBGAs/s1600/_MG_8933.JPG" alt="">
+  <figcaption> 回望剛剛我們爬上來的第一段上攀。</figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-BIBGhWzgoaM/W1wIT1LzKAI/AAAAAAAA3Nk/BG0fxjRDYx4PLAlo6fCAEyd2PG4llXjFQCLcBGAs/s1600/_MG_8935.JPG" alt="">
+  <figcaption> 這邊的坡度稍微緩一點，走到東峰前在開始陡上Run2。 </figcaption>
+</figure> 
+
+東峰前，就快到了。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://4.bp.blogspot.com/-Y5pQ1ZFIOTU/W1wIUg7J6mI/AAAAAAAA3No/ui3c7DQa0CgcGDDLGox3Ddp13RkbDF3ygCLcBGAs/s640/_MG_8938.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-K0MgYTrxKb0/W1wIVK0RCaI/AAAAAAAA3Ns/gGYk5KTXoKwx9fzGVmUGjCIBW776jJqqwCLcBGAs/s640/_MG_8940.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-Cfy4ITaPDes/W1wM_CDttBI/AAAAAAAA3OI/yy4pY25GmrkHHWTyKERcUr8PPXHD3hTowCLcBGAs/s1600/_MG_8983.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+上來了，我們最後從一個看起來好像沒有路的地方登上了玉山東峰，真不愧是十峻之首。  
+09:40 登頂玉山東峰  
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/v0iXdeBOk66f1m4hHp9vOz5RQ6_2_FKy_Xk9MnVpK8RWOeywZYtifRx3WGLAa2s0unXj-kSm-7j3eF9xykw=w1920-h1080" alt="玉山東峰為台灣知名百岳之一">
+  <figcaption> 玉山東峰頂上 </figcaption>
+</figure> 
+
+我們在東峰附近走走，稍微往東走了一小段，東峰東側還有一座略矮的兄弟峰，離東峰最高峰很近，先暫時稱他為"東東峰"。當年鹿野忠雄其實是先登上了東東峰，登上東東峰後發現旁邊的山峰好像更高，才從東東峰爬過來，在通過玉山東東峰跟玉山東峰的鞍部時，鹿野忠雄發現奇怪的地質，是受到潮間帶海潮的影響而沉積的。這也證明了台灣是新的島嶼因板塊隱沒而從海底抬升。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://3.bp.blogspot.com/--GOylv0Uwdk/W1wP7VogS7I/AAAAAAAA3Ok/SFjN_0J4Md41gPqvhxXtEPqyrQTzWFLUwCLcBGAs/s640/_MG_8948.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://4.bp.blogspot.com/-qNgBC7rUWgg/W1wP7wkp3UI/AAAAAAAA3Oo/W_jR29-b9_QUdc7v9H9WIlXBGVyLUSM5gCLcBGAs/s640/_MG_8953.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://4.bp.blogspot.com/-01mUqPnae_w/W1wQT6b5qwI/AAAAAAAA3O4/5I-ouwrxD1cgiOLhTcyUm9KCA_VnNzLIACLcBGAs/s640/_MG_8943.JPG" alt="由玉山東峰望向玉山南峰">
+  <figcaption> 由玉山東峰望向玉山南峰。 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-ICJbPWzYKXE/W1wQUMZdObI/AAAAAAAA3O8/y0OA5Vonl4ssUCsni7Zbw_BnSj8RNHMugCLcBGAs/s640/_MG_8957.JPG" alt="玉山東峰頂，後方為玉山主峰">
+  <figcaption> 玉山東峰頂，後方為玉山主峰 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-ek4bIFuop8U/W1wQVYu2vDI/AAAAAAAA3PA/Vci-hAAWjxkVH4GhPtz9eTl76CXPeG9AwCLcBGAs/s1600/_MG_8975.JPG" alt="玉山東峰頂，後方為玉山主峰">
+  <figcaption> 由玉山東峰望向玉山主峰 </figcaption>
+</figure> 
+
+10:17 離開玉山東峰，準備回程  
+途中，我們看到北邊的玉山北峰氣象站，有直升機接近，可能是運補或是例行性的訓練?(在北峰停機坪將落後又起飛，繞了一圈後又降落一次)
+
+11:40 回到主東叉路口，看看時間好像也晚了(我們好像走得有一點慢= =)。而且北峰的天氣好像已經轉壞了，很怕下起大雷雨。最後我們決定直接下山不去北峰了(這種天氣去北峰沒景可看好像也沒意思了)  
+由主峰往東北方看，荖濃溪溪谷，右側為玉山東峰，左側為玉山北峰。此時的雲氣由溪谷中湧上，我們頭頂上的積雲好像越來越厚了!!拜託別下雨啊啊啊啊。  
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://2.bp.blogspot.com/-739W66sJtsc/W2rKp5kedbI/AAAAAAAA3P4/YVagerBY4cYqOkJnUvY6avvJHX2ZeihLwCLcBGAs/s640/_MG_8994.JPG" alt="玉山主東叉路口">
+  <figcaption> 玉山主東叉路口 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-jn92A_dpfxw/W2rKqV8t32I/AAAAAAAA3QA/PZ1RThOyPd4vyTk5EO1H_z4qGxb0Wx94QCLcBGAs/s640/_MG_8995.JPG" alt="荖濃溪溪谷">
+  <figcaption> 荖濃溪溪谷 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-UUjcYK5md9k/W2rKq4YyxSI/AAAAAAAA3QE/E4EzourNZ74wvVW4_ywsl4Pd8j9QewSXQCLcBGAs/s1600/_MG_9008.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+回到主峰後，雲霧整個罩過來，早上看到的超讚環景完全消失在這一片濃霧之中!  
+我們坐在主峰頂，剛好有另一位大哥也從東峰回來。我們就坐在峰頂休息聊天，順便交換看一下這幾天的照片XD 感覺每位來爬玉群的人都收穫滿滿。  
+12:34 離開主峰，準備下山。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://2.bp.blogspot.com/-D-on1nZAP5I/W2rKrEqqwUI/AAAAAAAA3QI/PT6FfvDI918bp4x0682w-DXCfrAvXmn0ACLcBGAs/s640/_MG_9012.JPG" alt="">
+  <figcaption> 12:34 離開主峰，準備下山 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-sT6T-8-apnA/W2rKrdm-sPI/AAAAAAAA3QM/CHmg6oftAJcXGGybta1cYRaZSpwD9I6hwCLcBGAs/s640/_MG_9013.JPG" alt="">
+  <figcaption> 12:49 主北叉路 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-WWl6NAmT-Rw/W2rKrig6tiI/AAAAAAAA3QQ/p2d_6fnFXSQsWz_WWzSXJ8D9iXDv8yY-wCLcBGAs/s640/_MG_9015.JPG" alt="玉山主峰的碎石坡">
+  <figcaption> 回望主峰前的碎石坡 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-jzV2T86FNeQ/W2rKr3wRzQI/AAAAAAAA3QU/uQ1Hcf-oDngupZdFzlI_OjeQEcSOg2DCwCLcBGAs/s640/_MG_9016.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-FDieung9f8c/W2rKsL2xBoI/AAAAAAAA3QY/glf6lsGwWLsODgw-UP1HdKRgAmLdnTybwCLcBGAs/s1600/_MG_9017.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+我們下到主南岔路後，任務可還沒結束呢!! 因為我們的重裝還在稜線上QQ
+早知道今天就不要申請排雲山莊了，應該要連續四天晚上申請圓峰山屋。
+我們大約13:30左右到主南岔路口，休息一下，20分鐘後無裝啟程往圓峰去取回裝備。
+約15:00左右回到主南岔路口。
+
+15:40左右到達排雲山莊。
+
+後來我發現，最後一天住排雲山莊可真不是好主意，因為多數人凌晨一點就起床準備吃早餐，兩點多出發去主峰看日出。而且我覺得排雲山莊睡起來不是很舒服(我還是喜歡小而巧的圓峰山屋)。當晚我大概只睡了4個小時，凌晨被吵醒後想說就出去賞個月吧。凌晨三點多，原本吵雜的山屋回到了原本的寧靜，接著陸陸續續有單攻的山友出現。
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://2.bp.blogspot.com/-fbzkFerPCKc/W2rKse7a0pI/AAAAAAAA3Qc/MkkomikWPZYgbXBN976bvX0dTdG8HYjPQCLcBGAs/s640/_MG_9023.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-jnZ_wnhvgyo/W2rKsyXdusI/AAAAAAAA3Qg/XJlgUjw5WnoYJ2r4k9zKfuWd7VtthZ3OgCLcBGAs/s640/_MG_9025.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-vUZ2Zeyw6lE/W2rKtG5eJDI/AAAAAAAA3Qk/NXAnw8K8qzcjATTdWOrRQi1dW7QRaGbHgCLcBGAs/s640/_MG_9030.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/Rwo2PbLKQyV8hKdkUZN5VfmldGz3fXS7v_8-vGljm-y7Rs6Db1amLqdffXEs7euMtNO7TU3RUJRbDqc-spM=w640-h480" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-jf-IO0fbZe8/W2rKtTiV_2I/AAAAAAAA3Qo/1M7URCGonW87MTpPb6rkkaDkpKpNSp_6gCLcBGAs/s1600/_MG_9036.JPG" alt="">
+  <figcaption> 遠處嘉南平原的燈火 </figcaption>
+</figure> 
+
+就這樣，我坐在排雲門前的椅子上賞月，等待日出。
