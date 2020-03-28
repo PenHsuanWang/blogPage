@@ -15,8 +15,9 @@ tags:
   - 玉山山脈
 
 header:
-  image: 
-  image_description: ""
+  image: https://lh3.googleusercontent.com/dek_BvkaE9eKtc5fFiMTiQfoimqGkQub7UBCjzytf6WGke785a8PFUZFPeOf72KVaSpKJ1se6Vrzt9q0p0A=w2000-h1800
+  teaser: https://lh3.googleusercontent.com/Rq-oY-QhtEoJ-K8uoOKo7_VhQl8ZcfQUp1ubWFw8YHs0QTOj7EIVtqZuS3y98ueuyLJ0oLPWam1RvVxk80Q=w640-h480
+  image_description: "玉山後四峰的日出"
   overlay_filter: 0.5
 
 author_profile: true

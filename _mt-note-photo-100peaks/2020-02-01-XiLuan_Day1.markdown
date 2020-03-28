@@ -12,31 +12,16 @@ classes: wide
 permalink: /:categories/:title/
 
 tags:
-  - 玉山山脈
+  - 中級山
+    - 南投
 
 header:
   image: https://lh3.googleusercontent.com/TZ52k6rsMobt1EQHq-ZNvhmfvNkCkcPrLXRRh8wADLxhYtnhiPUb-Y2WQ6x5t6HhZacn1Brf6sY1eivkTDo=w3000-h920-c
-  image_description: "佐藤警官駐在所"
+  teaser: https://lh3.googleusercontent.com/yV8DFQvuG-cyMQH8zWDTG0x-lJgHNU44SXado2K22WIcfnckPv2WoiHaOXw26OaNBxZMXK1pMSwXXr4rjqk=w640-h480
+  image_description: "治茆山日落"
   overlay_filter: 0.5
 
 author_profile: true
-
-feature_row:
-  - image_path: https://lh3.googleusercontent.com/ZsWfUJz2Bg1KPiCl_5Ws8So670Ws2kyYiAczMs9UozbAa98Hr_Fc_0kFhiYcPAKcD0VAye9xizI6KR6sowI=w640-h480
-    title: "[行程紀錄] 20200201 治茆-鑾安堂 登西巒大山"
-    excerpt: "跟眾多百岳名峰比起來，治茆山可能沒甚麼太大的名氣。但其實她地處於濁水溪的南岸，如從溪谷拔地而起，短短的距離直接從海拔約只有500公尺的濁水溪谷地一路上升到2909公尺，這裡也是玉山山脈的起點。"
-    url: "/mt-note-literal-100peaks/XiLuan/"
-    btn_class: "btn--primary"
-    btn_label: "Go to"
-
-  - image_path: https://lh3.googleusercontent.com/UQvNSv2RmROUA6Drs-gpbNgUKqB8x44Su2OVqefhE0t89A8p2TIVvMZGMetoAj8OW-JeFNwsqBHSRfIUSGA=w640-h480
-    title: "霞治茆巒安堂-後篇 巒安堂上西巒 圖文"
-    excerpt: "巒安堂位在信義鄉山區的森林深處，在早年伐木盛行的時代，林道在這片森林之中穿梭，這次我們從雙龍部落街上人倫林道後，徜徉在松樹林間，慢慢挺進這座被被遺棄多年的深山土地公廟。"
-    url: "/mt-note-photo-100peaks/XiLuan_Day2/"
-    btn_class: "btn--primary"
-    btn_label: "Go to"
-
-
 ---
 
 <figure style="width: 40%" class="align-right">
@@ -55,7 +40,8 @@ feature_row:
 </figure> 
 
 
-{% include feature_row %}
+<a href="/mountaineeringNote/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/mountaineeringPhoto/Shakolo_Sato_Photo_Day2And3/" class="btn btn--warning">後篇圖文</a>
 
 ## Day1 雙龍林道->停機坪->治茆南峰->停機坪 C1
 
@@ -261,7 +247,7 @@ feature_row:
   <figcaption> 夕陽西下，準備下山去。 </figcaption>
 </figure>
 
-{% include feature_row %}
 
-
+<a href="/mountaineeringNote/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/mountaineeringPhoto/Shakolo_Sato_Photo_Day2And3/" class="btn btn--warning">後篇圖文</a>
 

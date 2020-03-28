@@ -13,6 +13,11 @@ permalink: /:categories/:title/
 tags:
   - 玉山山脈
 
+header:
+  image: https://lh3.googleusercontent.com/TZ52k6rsMobt1EQHq-ZNvhmfvNkCkcPrLXRRh8wADLxhYtnhiPUb-Y2WQ6x5t6HhZacn1Brf6sY1eivkTDo=w3000-h920-c
+  teaser: https://lh3.googleusercontent.com/UQvNSv2RmROUA6Drs-gpbNgUKqB8x44Su2OVqefhE0t89A8p2TIVvMZGMetoAj8OW-JeFNwsqBHSRfIUSGA=w640-h480
+  image_description: "巒安堂"
+  overlay_filter: 0.5
 
 feature_row:
   - image_path: https://1.bp.blogspot.com/-_bNvomAbkMc/Xj1ffM9HYFI/AAAAAAAA9W4/-jIEMnzXD1w4qU3KVMl5kPD8PRptWP3nwCKgBGAsYHg/s1600/DSC_2681.JPG
