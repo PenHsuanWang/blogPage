@@ -32,7 +32,7 @@ feature_row:
     btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-_bNvomAbkMc/Xj1ffM9HYFI/AAAAAAAA9W4/-jIEMnzXD1w4qU3KVMl5kPD8PRptWP3nwCKgBGAsYHg/s1600/DSC_2681.JPG
-    title: "治茆巒安堂-前篇 治茆山未竟 圖文"
+    title: "[圖文] 20200201 治茆巒安堂-前篇 治茆山未竟"
     excerpt: "跟眾多百岳名峰比起來，治茆山可能沒甚麼太大的名氣。但其實她地處於濁水溪的南岸，如從溪谷拔地而起，短短的距離直接從海拔約只有500公尺的濁水溪谷地一路上升到2909公尺，這裡也是玉山山脈的起點。"
     url: "/mt-note-photo-100peaks/XiLuan_Day1/"
     btn_class: "btn--primary"

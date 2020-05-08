@@ -32,7 +32,7 @@ feature_row:
     btn_label: "Go to"
 
   - image_path: https://lh3.googleusercontent.com/UQvNSv2RmROUA6Drs-gpbNgUKqB8x44Su2OVqefhE0t89A8p2TIVvMZGMetoAj8OW-JeFNwsqBHSRfIUSGA=w640-h480
-    title: "霞治茆巒安堂-後篇 巒安堂上西巒 圖文"
+    title: "[圖文] 20200202 霞治茆巒安堂-後篇 巒安堂上西巒"
     excerpt: "巒安堂位在信義鄉山區的森林深處，在早年伐木盛行的時代，林道在這片森林之中穿梭，這次我們從雙龍部落街上人倫林道後，徜徉在松樹林間，慢慢挺進這座被被遺棄多年的深山土地公廟。"
     url: "/mt-note-photo-100peaks/XiLuan_Day2/"
     btn_class: "btn--primary"

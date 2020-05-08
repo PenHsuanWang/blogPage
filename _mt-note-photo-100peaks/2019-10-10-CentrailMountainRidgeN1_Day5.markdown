@@ -16,11 +16,55 @@ tags:
 
 header:
   image: https://lh3.googleusercontent.com/MWFpxblKVqTEO7kb_n6prVg541edr6PSwLeisUNFtsf-my284EJqPd16dFNarGh_GIFaxE5KcSwaZ9lL4UQ=w2000-h1080
-  teaser: https://lh3.googleusercontent.com/7u9LHHJsEwG2B_owaKVuyXOL5o5Q4pbqj7m1MK_RM4SGVVEQLx0o_AZfundT8Fjzrz8nodz0YfxkxccjLHo=w640-h480
+  teaser: https://1.bp.blogspot.com/-fJShOY_7i2I/XfJK-XeEZdI/AAAAAAAA6PQ/XuSZ3S7LVLQ8GHH1vcSEL0j-89DQDFM2ACLcBGAsYHQ/s640/_MG_3125.JPG
   image_description: ""
   overlay_filter: 0.5
 
 author_profile: true
+
+feature_row:
+  - image_path: https://1.bp.blogspot.com/-4rkxnWIHgis/XfJLGn1zYwI/AAAAAAAA6QA/yr-OaGmWBBwIXJZcjCEhjD8JdE3Y28ZxQCLcBGAsYHQ/s640/_MG_3168.JPG
+    title: "[行程紀錄] 20191006 中央山脈北一段 南湖中央尖"
+    excerpt: "跟眾多百岳名峰比起來，治茆山可能沒甚麼太大的名氣。但其實她地處於濁水溪的南岸，如從溪谷拔地而起，短短的距離直接從海拔約只有500公尺的濁水溪谷地一路上升到2909公尺，這裡也是玉山山脈的起點。"
+    url: "/mt-note-literal-100peaks/CentrailMountainRidgeN1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://lh3.googleusercontent.com/gqUzrsbkraQoLe0So4jRjbVM2B2gahQRCbU4_Cg9Cyrt4aKI8xZabmgPoxBlzGZh5KdbVSTfuZ01FNlllso=w640-h480
+    title: "[圖文] 北一段縱走-Day1 前進雲稜山屋"
+    excerpt: "前進南湖大山，第一天我們搭公車從宜蘭轉運站到勝光橋，展開為期7天的中央山脈北一段之旅。越過多家屯山，往雲稜山屋前進，今天的天氣非常的好，還可以看見蘭陽平原的雲海，希望未來7天能滿滿的收穫。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://lh3.googleusercontent.com/80ctEsOI-3r3n4j-OE_NeY4hUHR58RRrQjGB2uxcGcZjka9BiunVVdUVdHkIPk1-R3Y_P2HUSAG1dQsirJ4=w640-h480
+    title: "[圖文] 北一段縱走-Day2 南湖北山、五岩鋒、前進南湖圈谷"
+    excerpt: "南湖中央尖O型縱走第二天，我們由雲稜山莊出發登上了中央山脈主稜。南湖北山為中央山脈主稜上最北的一座百岳。今天可以清楚看見南湖大山與中央尖山的輪廓，這座山有著帝王之山的稱號，於此地可以感受到他的氣勢。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://lh3.googleusercontent.com/jYJu2M26A0WK0GXQdTXNYwXyfsGmyH0ffvoiQ2uzTADvDtEm9AYpR8NFaC82yMO-4FLEAUIgJvnmnvlj21M=w640-h480
+    title: "[圖文] 北一段縱走-Day3 南湖大山東峰、馬比杉山"
+    excerpt: "踏上南湖大山東峰向東延伸出來的這條稜線，走向花蓮縣境內，跟在圈谷內的景色很不一樣，兩旁是廣大海拔較低的中級山域。一早從山屋出發前往南湖大山東峰，通過上圈谷並翻越稜線後，迎接我們的是中央山脈東面的一片雲海。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day3/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-HqaEyr-bb8c/XfD-tPR7bAI/AAAAAAAA6I0/Jf3M0XQkXXwGGXcmzUn75eRc5qCHcbTbgCLcBGAsYHQ/s640/_MG_2961.JPG
+    title: "[圖文] 北一段縱走-Day4 南湖大山南峰、巴巴山"
+    excerpt: "離開南湖圈谷前，拜訪了帝王之山，南湖大山，中央山脈北一段的一等三角點，於此遙望雪山，以及南方的中央尖山，稱霸於北台灣的三座名峰。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day4/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-jNYWSMoXrBk/XqG7PrfuOlI/AAAAAAABC1w/NCqkRe1Xf84becyh-ukAh0j3lXxIMji_ACLcBGAsYHQ/s640/DSC_0873.jpg
+    title: "[圖文] 南湖中央尖 北一段縱走-Day6 歸賦-與中央尖溪道別"
+    excerpt: "北一段南湖中央尖的旅程接近尾聲了，然而今天要面對的是這幾天下來遇過最複雜的地形，有滑得要命的獨木橋，很陡的高繞加上很滑的橫渡。如果在這邊有個失手，可能較要去玩中央尖溪滑水道了。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day6/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
 ---
 
 <figure style="width: 40%" class="align-right">
@@ -326,7 +370,4 @@ author_profile: true
 終於，爬完北一段所有百岳名峰了，但我們的行程才完成一半而已，明天早上我們還要跟中央尖溪奮鬥呢，而且越往下游，水量還會越大。到達香菇寮後，還要高繞越稜，下到南湖溪後還要在爬回木杆鞍部。總之，今晚還是要養精蓄銳，明天回家的路也是不輕鬆呢。
 
 
-
-<a href="/mountaineeringNote/Shakolo_Sato_Note/" class="btn btn--primary">完整文字紀錄</a>
-<a href="/mountaineeringPhoto/Shakolo_Sato_Photo_Day2And3/" class="btn btn--warning">後篇圖文</a>
-
+{% include feature_row %}
