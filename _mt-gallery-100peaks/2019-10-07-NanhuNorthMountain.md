@@ -18,13 +18,13 @@ sidebar:
     image_alt: "南湖北山為蘭陽溪的源頭，這裡是中央山脈主稜上由北向南數來的第一座百岳。"
     text: "南湖北山為蘭陽溪的源頭，這裡是中央山脈主稜上由北向南數來的第一座百岳。"
 gallery:
-  - url: 
+  - url: /mt-note-photo-100peaks/CentrailMountainRidgeN1_Day1/
     image_path: https://3.bp.blogspot.com/-wryJ7ztrSyI/Xb7N3ixeREI/AAAAAAAA5VY/BiWhvPQYcTws6v4TqZijaTCixXDa4TLFwCLcBGAsYHQ/s1600/_MG_2267.JPG
     alt: "松楓嶺"
-  - url: 
+  - url: /mt-note-photo-100peaks/CentrailMountainRidgeN1_Day1/
     image_path: https://1.bp.blogspot.com/-R2qbJKE4j8E/Xb7OeHBrJSI/AAAAAAAA5Vw/khSZJLXrgu89EywwSUet67EEjP4qFAQ3gCLcBGAsYHQ/s1600/_MG_2293.JPG
     alt: "多家屯山屋前"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
+  - url: /mt-note-photo-100peaks/CentrailMountainRidgeN1_Day2/
     image_path: https://1.bp.blogspot.com/-1zOpcNSjU1I/XcB64nfRylI/AAAAAAAA5aI/Ijbo3JY2-II6E5J_j35oQoC71F8snwPWwCLcBGAsYHQ/s1600/_MG_2613.JPG
     alt: "五岩峰"
 ---

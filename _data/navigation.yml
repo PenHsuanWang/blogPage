@@ -28,7 +28,7 @@ main:
     url: /mt-gallery/
     children:
       - title: "高山百岳"
-        url: /mountainGallery/mountain100peakGallery
+        url: /mt-gallery-100peaks/
 
 
 #  - title: "About"

@@ -83,7 +83,7 @@ feature_row:
 </figure> 
 
 
-<a href="" class="btn btn--primary">完整文字紀錄</a>
+<a href="/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
 
 ## Day4 南湖圈谷山屋->南湖大山主峰->南湖大山南峰->巴巴山->回南峰->中央尖溪木屋
 

@@ -82,6 +82,8 @@ feature_row:
 
 早上從宜蘭出發時還下著大雨。我們穿著雨衣走到宜蘭轉運站，搭乘國光客運。還沒踏上登山口，但我們已經淋了一身的雨水。不過隨著客運沿著台七甲線，沿著蘭陽溪谷挺進大同山區，雨不只停了，再經過南山村之後還露出了陽光。好加在東北風沒有很強，雲霧的海拔大概不超過2000公尺吧，等我們翻越過思源啞口進入到台中和平區之後，是一片晴朗。
 
+<a href="/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
+
 ## Day1 勝光橋->710林道6.8k登山口->松風嶺->雲稜山莊
 
 <figure style="width:75%" class="align-center">

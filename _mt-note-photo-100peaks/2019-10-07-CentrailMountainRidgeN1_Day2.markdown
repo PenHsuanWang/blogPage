@@ -65,6 +65,18 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
 
+
+gallery:
+  - url: /mt-gallery-100peaks/NanhuNorthMountain/
+    image_path: https://1.bp.blogspot.com/-KA8MlOensi0/XcB6T0IapUI/AAAAAAAA5ZE/DymurgIUENkRQxd284R5MuV9ieNdbXx8QCLcBGAsYHQ/s1600/_MG_2502.JPG
+    alt: "南湖北山"
+  - url: /mt-gallery-100peaks/NanhuMainPeak/
+    image_path: https://1.bp.blogspot.com/-Y3sRZUpWD_Q/XfD_Ir9j_tI/AAAAAAAA6JA/MfVnJC_mZpA2DsBB01qZaSjU0O5KauXSACLcBGAsYHQ/s1600/_MG_2965.JPG
+    alt: "南湖大山主峰"
+  - url: /mt-gallery-100peaks/NanhuEastPeak/
+    image_path: https://1.bp.blogspot.com/-o2UxVovgXUo/XcK5gGnDzhI/AAAAAAAA5c0/y7DUPxt0qwQMgSGes2j3jwgJQFcXF0VdgCLcBGAsYHQ/s1600/_MG_2752.JPG
+    alt: "南湖大山東峰"
+
 ---
 
 <figure style="width: 40%" class="align-right">
@@ -82,7 +94,7 @@ feature_row:
 早上從宜蘭出發時還下著大雨。我們穿著雨衣走到宜蘭轉運站，搭乘國光客運。還沒踏上登山口，但我們已經淋了一身的雨水。不過隨著客運沿著台七甲線，沿著蘭陽溪谷挺進大同山區，雨不只停了，再經過南山村之後還露出了陽光。好加在東北風沒有很強，雲霧的海拔大概不超過2000公尺吧，等我們翻越過思源啞口進入到台中和平區之後，是一片晴朗。
 
 
-<a href="" class="btn btn--primary">完整文字紀錄</a>
+<a href="/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
 
 ## Day2 雲稜山莊->審馬陣山->南湖北山->五岩峰->南湖圈谷山屋
 

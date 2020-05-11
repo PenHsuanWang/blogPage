@@ -7,12 +7,12 @@ header:
   overlay_image: https://1.bp.blogspot.com/-6ObULrUCMuo/Xirf8EBhe6I/AAAAAAAA8Ig/9h-_sjEHJRsNPuLP_3Ltxgsf9Rhtf7lqACKgBGAsYHg/s1600/_MG_3538.JPG
   actions:
     - label: "<i class='fab fa-instagram'></i> Follow"
-      url: "https://www.instagram.com/pwang9401"
+      url: "https://www.instagram.com/benwang.photo"
 excerpt: >
   走向大山，看見台灣<br />
   
 feature_row:
-  - image_path: https://scontent.ftpe5-1.fna.fbcdn.net/v/t1.0-9/10570539_933009796713522_2602630063866572815_n.jpg?_nc_cat=101&_nc_ohc=_25FAoV2_skAX94bXzw&_nc_ht=scontent.ftpe5-1.fna&oh=906996da019818713db160dc80d0ce06&oe=5EB4E5AF
+  - image_path: https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/10570539_933009796713522_2602630063866572815_n.jpg?_nc_cat=101&_nc_sid=7aed08&_nc_ohc=Q2lkItc6I40AX8M2w5e&_nc_ht=scontent.ftpe7-4.fna&oh=7879d95dd34aa1301f62096d53349daf&oe=5EDFDDD1
     alt: "Mountaineering Notes"
     title: "文字紀錄"
     excerpt: "詳細行程 時間地形紀錄請參照"
