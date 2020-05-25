@@ -1,0 +1,492 @@
+---
+layout: single
+title:  "[圖文] 20180527 瑞芳黃金稜線-劍龍鋸齒稜 登無耳茶壺山"
+excerpt: "北海岸的黃金稜線中，風景最美也是最刺激的一段路。從南雅社區登上劍龍稜，這一段稜線是由岩壁瘦稜所組成。風景非常棒，但頂著大太陽爬這條稜線要帶足飲用水。"
+
+date:   2018-05-27 09:00:00 +0800
+categories: mt-note-photo-townsadjacent
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 郊山
+  - 地區
+    - 新北
+
+header:
+  image: https://lh3.googleusercontent.com/aUtsM8tkunTYQUKs0sQJ9iuC--OyXQkJJSRhQlpCp2EbEJI89peSYWpndgfN2bJbzYVdtZu_CyPvFimPiuo=w2000-h1800
+  image_description: "劍龍鋸齒稜，瑞芳黃金稜線"
+  overlay_filter: 0.5
+
+author_profile: true
+
+feature_row:
+  - image_path: https://2.bp.blogspot.com/-b3Zl3hIKIAk/WwuwOCwTt3I/AAAAAAAA2kU/UTgI20tWH1w04VXQ-FXeWR-Yatp4i5REgCLcBGAs/s1600/_MG_7178.JPG
+    title: "[行程記錄] 20180527 瑞芳黃金稜線-劍龍鋸齒稜 登無耳茶壺山"
+    excerpt: "北海岸的黃金稜線中，風景最美也是最刺激的一段路。從南雅社區登上劍龍稜，這一段稜線是由岩壁瘦稜所組成。風景非常棒，但頂著大太陽爬這條稜線要帶足飲用水。"
+    url: "/mt-note-literal/JainLong/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+---
+
+2018年5月27日，這一天破了歷年來的五月最高溫紀錄。太平洋高壓籠罩在台灣上空，真不知道該說天氣很好還是很不好。出來玩總會祈禱遇到大晴天，可是天氣太晴朗也是會把人曬昏頭，尤其是劍龍稜上，。台北測到38.2度的高溫。那我猜我們在劍龍稜跟鋸齒稜上的溫度應該有超過40度。有幾段路都沒有植披，裸露的大岩石直接在大太陽上曝曬，溫度應該都超過50度了，抓在上面還會燙手。貼著滾燙燙的岩壁，頭頂著烈日，差點變成劍龍稜上的石板烤肉。在稜線上陡上前進，我開始思考這種天氣到底是好還是壞。
+
+{% include feature_row %}
+
+## 南雅社區->劍龍稜->鋸齒稜->無耳茶壺山->勸濟堂
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-7hNJA0n6Ggs/WwuoY_VcgLI/AAAAAAAA2hM/daO1VKO4HKcxFj4fuVm3K6WWuEV_NIHpQCKgBGAs/s1600/_MG_7135.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+休息一下後開始本日的行程，由南新宮的這條巷子進入，通過民宅後可以到達登山口，由南雅社區旁的菜園望去，可以看到今天我們要走的路線:劍龍稜+鋸齒稜。看到這個晴天，想必我們上去稜線上後肯定會被曬死吧。
+登山口就在產業道路盡頭的路旁，一開始路還滿好走的，過了水泥橋後開始進入森林陡上。這種天氣下，森林裡悶熱到不行。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-KNHcykel83c/WwuoMNowpYI/AAAAAAAA2hE/FvSkCr4fRp4xkD0oESzo56acHYuVqqDcgCKgBGAs/s1600/_MG_7124.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-Mvk4JFZIR38/WwuoUgzUhfI/AAAAAAAA2hI/wBDQwiGIRrgAYnjQHyIShs9i2cVfRk3mgCKgBGAs/s1600/_MG_7126.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-vM_cUYupPH0/WwupLxVuJHI/AAAAAAAA2hk/y09AzOSOAWgP97KUiHeTZ3SfQk1G43PaQCKgBGAs/s1600/_MG_7138.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-a1BGILKbDcw/Wwur1eajUsI/AAAAAAAA2iE/rrDEzzF7urkZoTbWVg4-uXKLDWR_-gE-ACLcBGAs/s1600/_MG_7139.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-RNyArXhcyA4/Wwur1FM4ykI/AAAAAAAA2iA/iLV9l_qlbQERoEzLro-hDFJWl7enatt5QCLcBGAs/s1600/_MG_7140.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://4.bp.blogspot.com/-6zYeN5jqR4Y/Wwur1IpUpyI/AAAAAAAA2h8/xLOoqCjCgyUzUeJ1Hdzyzy73rLDUanCbwCLcBGAs/s1600/_MG_7142.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-lJ4D495yi0E/Wwur16IBOJI/AAAAAAAA2iM/nRcyuVhY2HgcWr_EELAAbT2VJxDBrUR_gCLcBGAs/s1600/_MG_7143.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-kIrWGk23q7Y/Wwur11su1PI/AAAAAAAA2iI/do3WZMTtf8UzFgxj3lXJetqWC9GpUB7ngCLcBGAs/s1600/_MG_7146.JPG" alt="劍龍稜起點為南雅社區">
+  <figcaption> 結束第一段叢林路，回望南雅社區 </figcaption>
+</figure> 
+
+翻上稜線後，回望南雅社區，我們已經上升到海拔約120公尺左右了。我們踏踏實實上升了120m，因為我們是從海平面開始爬的XD 
+在稜線上走一會兒，由右手邊下切前往半平溪。下切半平溪的路很陡，又是黃土地，很滑。還可以看到溪的對岸前往劍龍稜的陡上。
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-28fyVlNbVMk/Wwus4W6vIbI/AAAAAAAA2io/ZArnNO2QzRc_mO3ZgQDRa_oDAGryaQUngCLcBGAs/s1600/_MG_7151.JPG" alt="劍龍稜起點，下切半平溪">
+  <figcaption> 準備下切半平溪，可見對面的劍龍稜了 </figcaption>
+</figure> 
+
+09:19到達半平溪，天氣很熱真的很想直接跳進水裡。這時看到有人正在上朔半平溪要前往小鬼瀑布。真的好想跟他們一起走阿。
+由半平溪望向保羅尖，好高聳的感覺。
+繼續前往劍龍鋸齒稜。這是第一段的攀岩陡上，有拉繩不難走。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-I_ENoYyHd9w/Wwus5EiEpzI/AAAAAAAA2is/kXoABiirgAEy4Ll5OWDfAosMTcLWD49WgCLcBGAs/s1600/_MG_7156.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-yNGWpvcPp2Q/Wwus5nCTFmI/AAAAAAAA2iw/kjDeFQSQTiAAWO9H8Z3HvRL58pK3I4LtgCLcBGAs/s1600/_MG_7158.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://4.bp.blogspot.com/-6-SqG5UiIn0/Wwus5nn4tuI/AAAAAAAA2i0/XF93Do-cV5AGKuu0e662n4sgEoYhvhblACLcBGAs/s1600/_MG_7160.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-HDQBHKV9kQA/Wwus52RbZMI/AAAAAAAA2i4/7dvhXWvi43UI8Ubn33Vn6M6nosQnprlQwCLcBGAs/s1600/_MG_7161.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-nSo3Aa6p2pI/Wwus6l_UYRI/AAAAAAAA2i8/MwddmK094-EnCARa7TjVufhF_caYlI6FACLcBGAs/s1600/_MG_7165.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+我們已經離開森林的庇祐了。接下來我們一路上都要承受酷辣的太陽，狠狠的曬我們。
+繞過這個草坡後，印入眼簾的是北濱公路跟大海。就地理上的劃分來講這一片海應該叫做東海。但管他的我想叫他太平洋。下方是哩咾的建築物。旁邊為半平溪的出海口。
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-K6nQm2P9Zb8/WwuvVZT4MjI/AAAAAAAA2kI/HzlotNOrZAQCS2h7o3Q-YcYEfeONkiGagCLcBGAs/s1600/_MG_7170.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+不知不覺我們已經上升到比保羅尖還要高的地方了。剛剛在溪底還覺得保羅尖十分高聳，但我們現在站得更高拉XD。看著下方半平溪清涼的溪水，很羨慕朔溪隊的大家阿QQ
+遠遠眺望前方的稜線。左邊跟右邊兩條稜線上都有路，這兩條路在H381交會。
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-kG1PzjtbVgY/WwuuH_LTlaI/AAAAAAAA2js/l3hAnHhjz-k4xBPtSsSOuXrq6OultmaRQCLcBGAs/s1600/_MG_7180.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-b3Zl3hIKIAk/WwuwOCwTt3I/AAAAAAAA2kU/UTgI20tWH1w04VXQ-FXeWR-Yatp4i5REgCLcBGAs/s1600/_MG_7178.JPG" alt="黃金稜線第一段，劍龍稜">
+  <figcaption> 出現了，第一段鋸齒狀稜線。 </figcaption>
+</figure> 
+
+這一大片岩石真的超級燙，找到手點抓上去後不能抓太久，不然手會被燙到超痛的。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://1.bp.blogspot.com/-836zm4qN6X0/Wwuww1a6ALI/AAAAAAAA2kc/kFZmZdWeoYEh24shnEMEuPkHaRjgWC6wgCLcBGAs/s1600/_MG_7191.JPG" alt="黃金稜線第一段路">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://4.bp.blogspot.com/--LtW0-_M27g/WwuuIp-ai2I/AAAAAAAA2j0/TdhKFqS1ieEJLMnymxdpAIqzPbfhPD8FwCLcBGAs/s1600/_MG_7197.JPG" alt="黃金稜線上的劍龍稜">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-G2_TFei7Wzs/WwuxFQVkxqI/AAAAAAAA2ks/8GzVMXRLEGsbWCE8N_Tz2cv63lcH9SghwCLcBGAs/s1600/_MG_7202.JPG" alt="劍龍稜回望北海岸">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-3NSuSTswcUg/WwuxE0RueXI/AAAAAAAA2ko/2sNi2IGhqOAV1AFBfkELHA_nqUfy6lcfgCLcBGAs/s1600/_MG_7203.JPG" alt="瑞芳北海岸的風景映入眼簾">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-TFbbRenWebQ/WwuxFW11lRI/AAAAAAAA2kw/zvnhMCy_pYYLjx7BsIw_9kiVg3oCskqBACLcBGAs/s1600/_MG_7204.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+天氣很好風景也不錯，但就是太熱了。看到前方開始有雲出現了。趕快飄到我們這邊吧!!求求你。
+看到前方的381峰跟更後方的555峰。遠處右手邊的是無耳茶壺山。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://1.bp.blogspot.com/-_bnUasQexhk/WwuxF8ydqfI/AAAAAAAA2k0/pIUnWiLtl0QCVBHW94mzJ0NYKikTmkWxACLcBGAs/s1600/_MG_7209.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-YrYTZ-VHa-g/Wwuxz7Q6_9I/AAAAAAAA2lM/Nni_u7egt4cVYLK9MXON8oiks3uBwNK_wCLcBGAs/s1600/_MG_7219.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-aw7uA3Yvje0/Wwuxz-YogyI/AAAAAAAA2lQ/ThhfLAxX1hso9TCgfZVgFnUPBszgC5cEACLcBGAs/s1600/_MG_7223.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+接近381峰開始出現芒草。應該要穿長袖來的。高度繼續上升，可以看到水湳洞陰陽海。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-uRV25yHfRMY/Wwuxz1Xe_CI/AAAAAAAA2lI/R5zBiC9-6iYpPvtmdvtr7ZjEcG5_LYEfwCLcBGAs/s1600/_MG_7225.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-EXN4Jei8_uo/WwuyybCSxzI/AAAAAAAA2lo/4u3bNlHB50EWjMWrjqp13P2AS7dR8brxwCLcBGAs/s1600/_MG_7228.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-MUuLiEe01bY/Wwuyyf1r6MI/AAAAAAAA2lk/rfAFbmtPrAAwR4JFJg-C-w6mQKBykcpHACLcBGAs/s1600/_MG_7232.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+回望一下剛剛走過來曬到令人煎熬的稜線。背景的這片海岸真的很漂亮。
+記得小時候雪隧還沒開通前，要去宜蘭玩都必須經過這條北濱公路。經過的時候不是很早就是很晚。很少有時間可以慢慢品味北海岸。
+在接近400公尺高的地方看到這些岩層上的洞洞，感覺很像是海蝕地形，說不定是山腳下南雅奇岩的前輩XD
+這一顆一顆很像火山狀的東西該不會是討人厭的藤壺吧!!
+小時候在海邊看到這種東西都會有密集恐懼的感覺= =
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-I1eEdGqm-zo/WwuyyQS4TlI/AAAAAAAA2ls/d6spQEsZH3UHceD4__AgBjBz2xqiVhZuQCLcBGAs/s1600/_MG_7244.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://4.bp.blogspot.com/-xTJndrCfXds/Wwuyy5Do5kI/AAAAAAAA2lw/VZq3f6tKzj02JJ-ZcPlG8CwM_GmQRpfNQCLcBGAs/s1600/_MG_7246.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-YHcOYbh8Kjk/WwuyzEU0lWI/AAAAAAAA2l0/uJNqLsxeYfsIcYVHKvNGfEoAmHkdqZwkgCLcBGAs/s1600/_MG_7268.JPG" alt="鋸齒稜">
+  <figcaption> </figcaption>
+</figure> 
+
+這一段斜面朝向稜左的岩石角點不清楚，但又不敢爬太高，因為另一側就直接下去了!!
+過了一小段後要翻過這塊岩石，有一小段要從稜左到稜右。這邊不太好走，沒有很明確的腳點，而且心理壓力比之前幾段還要大。
+繞過這一片岩石後就到達往右下接水管路的岔路口了，不取不休繼續走。聽過叉路口後回到稜左。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://2.bp.blogspot.com/-w9iiTkFnkQ0/WwvBl2lCX_I/AAAAAAAA2mM/FZW23MF8BrgN9fMOirO_oQCi1vyP6yGWACLcBGAs/s1600/_MG_7270.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-tvanJ7XtxwE/WwvBly8C1FI/AAAAAAAA2mU/OQwzRw2HhH40uB4mkX8kIH_EpgwVAePsgCLcBGAs/s1600/_MG_7274.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-BWkcFEHPBMg/WwvBlygrU5I/AAAAAAAA2mQ/JXM1vgjV0uUdDorBWbd74foCuQeMxTlowCLcBGAs/s1600/_MG_7276.JPG" alt="鋸齒稜">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://1.bp.blogspot.com/-rFpGTCruUIA/WwvCRJbSjAI/AAAAAAAA2ms/DOLJgh2nuXQpWsdrXWPrarVgYMRgi9NgQCLcBGAs/s1600/_MG_7279.JPG" alt="">
+  <figcaption> 前面那塊岩石堆要拉繩陡上，後方為555峰。 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-kxhcmTIWvzs/WwvCRI_fhAI/AAAAAAAA2mo/xXTogssnf00W1awopwExyM7tXxOMXrggACLcBGAs/s1600/_MG_7280.JPG" alt="鋸齒稜">
+  <figcaption> 要跨過這片岩層確實還有一點怕 </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-4uzJVkzxKgw/WwvCRNi0DjI/AAAAAAAA2mw/GXhK6yDqdn868dA_QQ5jFwqfgQTtdmfGACLcBGAs/s1600/_MG_7284.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-Bm9vpuMTqNU/WwvDPdlBgjI/AAAAAAAA2nM/mpqQMkpJjK8SmuIf6LKW0jOcygzfv7FCQCLcBGAs/s1600/_MG_7285.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-U2qoQra2hVg/WwvDRbTw2II/AAAAAAAA2ns/yDcf_lCjtaMm4oXz5b_usi_ekZiiQJ2EgCLcBGAs/s1600/_MG_7316.JPG" alt="北海岸黃金稜線上的登山客">
+  <figcaption> </figcaption>
+</figure> 
+
+過了剛剛那塊拉繩陡上的大石頭後我們找個好地方坐下來吃個東西。正午了，還好太陽暫時被雲遮住。
+休息的時候換上長焦鏡頭偷偷來拍一下這條稜線的山友。長焦鏡在這條稜線真的可以拍出很壯麗的人物照。我們只有兩人，而且距離不夠所以沒辦法互相拍出很猛的帥照。
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-tVru82tSSCs/WwvDQh9i41I/AAAAAAAA2nc/AFYtZ4RI2q4XL_uHluEtlL6flA2xJFrSQCLcBGAs/s1600/_MG_7299.JPG" alt="於鋸齒稜上，回望南雅社區">
+  <figcaption> 於鋸齒稜上，回望南雅社區 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-Js1CYO_gFY0/WwvDRcA7AoI/AAAAAAAA2no/ffKs3wQpr_s2VG2GwtTcGTzT1vuOyB_3QCLcBGAs/s1600/_MG_7310.JPG" alt="水湳洞陰陽海">
+  <figcaption> 水湳洞陰陽海 </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://4.bp.blogspot.com/-zcJq8jnYt3g/WwvDQP0tXdI/AAAAAAAA2nU/Oy93uPD9yFceRJBK4LXTKuiCUISidMf3ACLcBGAs/s1600/_MG_7293.JPG" alt="黃金稜線，鋸齒稜與劍龍稜">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-LDRaVAmKPtA/WwvDQRfgWgI/AAAAAAAA2nY/XmujaNmhLLQxktofHcLJx7KRg74tOyhHQCLcBGAs/s1600/_MG_7294.JPG" alt="劍龍稜">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-EE60B6RD_wI/WwvDSOrX9BI/AAAAAAAA2nw/ob9IRA3TPU0htPusJIEy825iAkY5LqfuACLcBGAs/s1600/_MG_7317.JPG" alt="劍龍稜上的登山客">
+  <figcaption>  </figcaption>
+</figure>
+
+接近555峰，開始出現芒草，回望我們走過來的稜線。覺得很有成就感。
+到達555峰，周圍被芒草包圍，中間有一棵樹。太熱了，喝個水不休，繼續走。
+
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://2.bp.blogspot.com/-xBOFJN5N0Vw/WwvFD3vWqiI/AAAAAAAA2og/WXpncbob1EYZW11gCEe6EdLH-pFpinzvwCLcBGAs/s1600/_MG_7338.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-k4YX8AHoXFM/WwvFEU53wnI/AAAAAAAA2ok/j3MzHzIZarkr6TS5FMh9MyTDWKhYbC9xQCLcBGAs/s1600/_MG_7340.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-_31mWcv8T0Q/WwvFEdSHY0I/AAAAAAAA2oo/H3yKmFdbNhMGpIUUsvMqGfvTU6QaIChsACLcBGAs/s1600/_MG_7342.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+離開555峰後鑽出芒草區，可往下望水管腰繞路，由左而右、近而遠為無耳茶壺山、基隆山、基隆嶼。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://2.bp.blogspot.com/-gpDgzoBLJZM/WwvJ94LtK0I/AAAAAAAA2o8/MMoHeqg7Lzc7qDTS1Iq1uZn0aClNsaozgCLcBGAs/s1600/_MG_7351.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-7zGrUDiY2As/WwvJ-E0ub4I/AAAAAAAA2pE/WwdRqGM2EaMphyBJogRwVNWyuRTHNxMcgCLcBGAs/s1600/_MG_7353.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-R573mjrBHrY/WwvJ_TVpP0I/AAAAAAAA2pM/xv3aHAkuLYQtfPmdoOq2V7e3m7FYThbxgCLcBGAs/s1600/_MG_7391.JPG" alt="劍龍稜上眺望北海岸">
+  <figcaption> 回望北海岸，這裡是海景第一排 </figcaption>
+</figure> 
+
+繼續前行，遇到這個刀鋒般的瘦稜，有一小段走在寬度約30公分的稜線上。我不確定下面是不是有路，但就粗略的看一下沒看到路。
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-fbBsvsUCWzU/WwvKAoPJ6NI/AAAAAAAA2pg/GXSdX0n6ojk8BZZlb6rJddDaBRYhtIgHQCLcBGAs/s1600/_MG_7476.JPG" alt="鋸齒稜準備接上茶壺山">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://4.bp.blogspot.com/-DJJgA4gtlp4/WwvKAxh_9BI/AAAAAAAA2pk/4FsiUCRTiG8Ik5g4MIhG4tMr1OIKLOuLQCLcBGAs/s1600/_MG_7478.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-NoePqsXGXoU/WwvKBDLpiTI/AAAAAAAA2po/FbYDmM5QHm0lOgT0QFXva3cydXxIwKK_ACLcBGAs/s1600/_MG_7484.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-LbZMuAUrfnQ/WwvKBEfvcWI/AAAAAAAA2ps/xurFJbq5cU8mLBzM7RqWVQUvZG8X5EW1ACLcBGAs/s1600/_MG_7486.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+我覺得這一段路是整條稜線上走起來最驚險的一段，但同時也是風景最好的地方。可以看到茶壺山在稜線右側，後方的大海。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://1.bp.blogspot.com/-bNxWJXLalGk/WwvKBncxehI/AAAAAAAA2pw/Rinc6ju9ZugiROY5Aruh0wsDl_w5l2i9QCLcBGAs/s1600/_MG_7490.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-q4w67GqBgmw/WwvKBrIuwRI/AAAAAAAA2p0/Ry051R_Z9VwjIcWz_Oq6aoBoolEjRXPCwCLcBGAs/s1600/_MG_7493.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/--3TUWa5NcOY/WwvNER2BsNI/AAAAAAAA2qs/DZ7bh_-tCx0uXzpUCfmBb6Sg3PdfAMMpgCLcBGAs/s1600/_MG_7517.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://1.bp.blogspot.com/-Ln_NE5gjAQY/WwvNEeHZ7QI/AAAAAAAA2qw/tcFOB_XDbls25zuwvDKIGUgi71P0B-R0wCLcBGAs/s1600/_MG_7519.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-HU4xD_p54wg/WwvNFC0wyrI/AAAAAAAA2q4/CVwVgX14xnEcetYfUQHiS1MJyhwsVFX2gCLcBGAs/s1600/_MG_7525.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-eod8AP4U71s/WwvNFI8aFTI/AAAAAAAA2q8/XRQ69Z8m_Y4Eu-PWApm3B5BDrNdtMPJAACLcBGAs/s1600/_MG_7534.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+遠處可望海風將水氣帶入，爬過基隆山後凝結成雲。曬了一整天，看到這個景象覺得有一種涼涼的感覺XD
+14:43 準備下山，前往無耳茶壺山。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://1.bp.blogspot.com/-rB74TxsqAHg/WwvOV0F2huI/AAAAAAAA2rQ/C6GA3Pufacg876ndfHSi10sGxX8GoOntACLcBGAs/s1600/_MG_7537.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-I_HzMAEhAFI/WwvOWNtOheI/AAAAAAAA2rY/D5PWf_aVvkkofrn7H-Udeff1fGD03R_UwCLcBGAs/s1600/_MG_7538.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-nHZrHGvpd1I/WwvOWIg2nhI/AAAAAAAA2rU/ADoNJi9PCEYvT1Cd3XU2lSRRxO-HGOyAwCLcBGAs/s1600/_MG_7541.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://3.bp.blogspot.com/-Jrr8_Rjkxbs/WwvOWw-FD1I/AAAAAAAA2rc/LeBo5y-bi0wCDgViQUBgF1d0TBLeL8gggCLcBGAs/s1600/_MG_7543.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://1.bp.blogspot.com/-FJS1u4kU6Qs/WwvOXFeipnI/AAAAAAAA2rg/_o24Mf8F5lgVxIz2zlsi59Nf4kSS5zk1QCLcBGAs/s1600/_MG_7546.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-HDAWCw3L4jw/WwvOXbHt62I/AAAAAAAA2ro/VIWYHLmCGe0qNKILXJqLadollGa_DeVggCLcBGAs/s1600/_MG_7553.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-3MQpl_M8nzU/WwvOXpvpJgI/AAAAAAAA2rs/ZcbZsIRbyvosn1hU3GzS1IUuVL_Nuro-ACLcBGAs/s1600/_MG_7557.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://1.bp.blogspot.com/-TekklqAcC8Q/WwvOXlMa5nI/AAAAAAAA2rw/-SR9e-vpKpoReI4oEnmukczeqp5X4C45ACLcBGAs/s1600/_MG_7560.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-I3lRcoGkZMo/WwvOYCb9WaI/AAAAAAAA2r0/Z2J0pW9IIn8gU5uiQGSwdEtiHjvlQh0PQCLcBGAs/s1600/_MG_7565.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://4.bp.blogspot.com/-n2-2zbI377A/WwvOYS3VTQI/AAAAAAAA2r4/KF0JCs1PsLoA1uK_2l9jOC1mLCTfjyj8wCLcBGAs/s1600/_MG_7567.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-zQfdTqiC6aM/WwvOYS-C_wI/AAAAAAAA2r8/E3GLc4LOqXY4SlovO_NOrmVwCJ8dHKNxQCLcBGAs/s1600/_MG_7570.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-EwFrynqaiG0/WwvOZHr_DKI/AAAAAAAA2sE/8dMTXiC8xRc1o4fyo7xECxF-XrVLLOV1gCLcBGAs/s1600/_MG_7574.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+回到產業道路上的停車場。左轉沿著產業道路往下到朝寶亭。
+沿路有階梯，跟早上的劍龍稜比起來，這邊根本是高速公路。
+
+<figure style="width: 45% " class="align-left">
+  <img src="https://3.bp.blogspot.com/-iAYYKE8rS80/WwvOZQySrJI/AAAAAAAA2sI/2cX6ix-bgqMcuzMeCzkV-mZzrKU-AdlNgCLcBGAs/s1600/_MG_7575.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://2.bp.blogspot.com/-XdF3j1QY0A4/WwvOZpYiP5I/AAAAAAAA2sM/p44Zes5lWKoXZ1ugwERp5YquFhLixdSQgCLcBGAs/s1600/_MG_7581.JPG" alt="">
+  <figcaption> </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-k2MsfOVwqiE/WwvOafSQh1I/AAAAAAAA2sY/haI8LNxpoHQvUUyykMtPFP1yRdxAXFY0QCLcBGAs/s1600/_MG_7592.JPG" alt="">
+  <figcaption> </figcaption>
+</figure> 
+
+15:51 回到勸濟堂。梳洗一下準備搭車回家囉。
+
+今天可以說是天氣很好，也很不好。可以飽覽風景(如果還沒被熱昏的話)。我們兩人總共帶了8升的水，但天氣很熱還是擔心8升不夠，所以喝得很減省，好加在後半段時有雲霧飄來幫我們遮陽一下，讓我們安然挺過這段酷熱的稜線，最後喝了6.5升。但以此為鑑，下次應該要再多帶一點水。重死或渴死的選擇題XD 
+
+{% include feature_row %}
+

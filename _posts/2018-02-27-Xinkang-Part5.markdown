@@ -1,0 +1,347 @@
+---
+layout: single
+title:  "[圖文] 新康橫斷-Day6 新康山與天宮堡壘"
+excerpt: "前往新康山，沿途會經過一些地形，需要一點攀岩的技巧。太陽出來之際，影子可以投射在松樹上，天氣很好，雲的高度都比新康山低，太陽有辦法水平照過來，聽說繼續往前的天宮堡壘展望更棒，所以我們先行往天宮堡壘推進"
+
+date:   2018-02-27 06:00:00 +0800
+categories: mt-note-photo-100peaks
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 中央山脈新康橫斷
+
+header:
+  image: https://lh3.googleusercontent.com/VrSbXzOzVgwAZ5-Ch1ISsK80mO3-q9KlwWgd1CQUCI6sfHo0gd5DeTa3D2p7knXx1qp3qD0AJ5mZFnHClKQ=w2000-h1080
+  teaser: https://4.bp.blogspot.com/-BaPZvz4YEK8/WvfWoWaIIBI/AAAAAAAA1-w/hUFP5MXZq7IG1k8SxEQkrQ51lMqsbQsGwCPcBGAYYCw/s640/_MG_6418.JPG
+  image_description: ""
+  overlay_filter: 0.5
+
+author_profile: true
+
+feature_row:
+  - image_path: https://2.bp.blogspot.com/-EUsHA-LxNyg/WvXCf26pm2I/AAAAAAAA16I/i7v5xgQbwHIdC4QYDCbUAzJ2TfpB6bV1ACLcBGAs/s1600/_MG_6291.JPG
+    title: "[圖文] 新康橫斷-Day1,2 戒茂斯上嘉明湖"
+    excerpt: "戒茂斯山由南橫公路160.5k的登山口進入，沿線是非常漂亮的中級山森林。戒茂斯山的登山口海拔只有2000多，還要翻過H2500左右的戒茂斯山稜，在下切到H2250左右的新武呂溪，然後才繼續上升接往中央山脈主稜。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://4.bp.blogspot.com/-BaPZvz4YEK8/WvfWoWaIIBI/AAAAAAAA1-w/hUFP5MXZq7IG1k8SxEQkrQ51lMqsbQsGwCPcBGAYYCw/s640/_MG_6418.JPG
+    title: "[圖文] 新康橫斷-Day3 戒茂斯上嘉明湖"
+    excerpt: "嘉明湖在台灣是個小有名氣高山湖泊，一提到嘉明湖大家想到的應該就是寶藍色的湖泊鑲嵌在廣大高山草原之中的景象吧。嘉明湖對我來說意義重大。我第一次的高山過夜隊伍就是去嘉明湖。"
+    url: "/mt-note-photo-100peaks/Xinkang-Part2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-MiWsoQFIRg0/Wp0yCEGwc1I/AAAAAAAA0wY/R_I_24Tv9HAKr4qZjMCvF9LHGBq4jPhcgCPcBGAYYCw/s640/_MG_6524.JPG
+    title: "[圖文] 新康橫斷-Day4 來回布拉克桑山"
+    excerpt: "布拉克桑山無疑是深山中的深山。但打開地圖來看，布拉克桑山其實很接近南橫公路了!!礙於登山路徑，我們必須要進到嘉明湖、接上新康橫斷，才能踏上拜訪布拉克桑山的入口。"
+    url: "/mt-note-photo-100peaks/Xinkang-Part3/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://4.bp.blogspot.com/-2P441t7pyL4/WvhBOpbICjI/AAAAAAAA2Dc/mV6JsRZnac8CyhuOH8_YIMGUjc0csYHMQCLcBGAs/s640/_MG_6582.JPG
+    title: "[圖文] 新康橫斷-Day5 前往新康山之路"
+    excerpt: "結束了一天的布拉克桑山單攻，我們一行五人繼續東行，前往新康山。沿途我們會先經過大大小小的山頭，腰繞連理山西峰、桃源營地、連理山、新仙山，最後才能到達這趟行程的目的地，東台一霸–新康山。"
+    url: "/mt-note-photo-100peaks/Xinkang-Part4/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+---
+
+<figure style="width: 40%" class="align-right">
+  <img src="https://4.bp.blogspot.com/-o_EWeA-v-6E/WvhJj2Eh08I/AAAAAAAA2HE/cjtp444K0Es1ExO5A3jcHov_7JN1W-QkQCLcBGAs/s640/_MG_6687.JPG" alt="新康山望向天宮堡壘">
+  <figcaption> 由新康山望向天宮堡壘 </figcaption>
+</figure> 
+  
+前往新康山，沿途會經過一些地形，需要一點攀岩的技巧。太陽出來之際，影子可以投射在松樹上，天氣很好，雲的高度都比新康山低，太陽有辦法水平照過來，聽說繼續往前的天宮堡壘展望更棒，所以我們先行往天宮堡壘推進。先下到中間的鞍部後在攀上天宮堡壘。最後一段岩壁暴露感比較大，再搭配上強風確實讓人緊張。現場有架一條細繩跟一條扁帶。不過我覺得不太好抓。於是我慢慢的找手點跟腳點上攀，平心靜氣下來爬是還好不會太困難，不過確實需要小心一點，畢竟fall的話感覺會滿慘的。天氣不好的時候攀登感覺困難度會大大提升。
+
+<figure style="width: 90%" class="align-center">
+  <img src="https://1.bp.blogspot.com/--rOg0t431aw/WvhLwpvSb9I/AAAAAAAA2H0/vdwewFudcJ0pnS4OwZJtN-wMBLGdqkAqACLcBGAs/s1600/_MG_6725.JPG" alt="天宮堡壘傲視群山">
+  <figcaption> 登天宮堡壘小天下 </figcaption>
+</figure> 
+
+
+## Day6 新仙山營地->新康山->天宮堡壘->新康山->新仙山->沙敦->抱崖山屋
+
+# Day6 2018.02.27
+
+04:00 起床，吃個早餐後準備前往新康山。  
+05:00許出發前往新康山。  
+沿途會經過一些地形，需要一點攀岩的技巧。
+05:50 到達一個需要下攀地形，大概下10米到15米左右，有架繩，不過抓著一些岩點跟樹根還滿好爬的，我下攀過程都沒使用到繩子，反倒覺得繩子很礙事擋路。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-t5gVU6qM2QM/WvhJhh_0nDI/AAAAAAAA2Gs/oO77kJ4oU1IK-QkgAfTs7rRQ9Wy9kOQIACLcBGAs/s1600/_MG_6660.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-seYtH7t6So8/WvhJh00NMyI/AAAAAAAA2Gw/DNN8KWQKBOAHxJfu04JTWZLfbM6SrTMYACLcBGAs/s1600/_MG_6663.JPG" alt="新康山頂">
+  <figcaption> 07:10 旭日東昇之際到達新康山頂上 </figcaption>
+</figure> 
+
+太陽出來之際，影子可以投射在松樹上，天氣很好，雲的高度都比新康山低，太陽有辦法水平照過來。  
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-tooNKYmWjiY/WvhJincyp-I/AAAAAAAA2G4/E2hlyyPMlp4T7wzWzypA3a1Yc5ZgIO90gCLcBGAs/s1600/_MG_6669.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-7rqx4-cc9Yk/WvhJjcDM-OI/AAAAAAAA2HA/nWSeTHCnX9IEl5Ea4N-dT25CJ-MZC0pfgCLcBGAs/s1600/_MG_6679.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+聽說繼續往前的天宮堡壘展望更棒，所以我們先行往天宮堡壘推進，等回程到新康山在合照。  
+07:20 繼續往天宮堡壘推進  
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-o_EWeA-v-6E/WvhJj2Eh08I/AAAAAAAA2HE/cjtp444K0Es1ExO5A3jcHov_7JN1W-QkQCLcBGAs/s1600/_MG_6687.JPG" alt="由新康山望向天宮堡壘">
+  <figcaption> 由新康山望向天宮堡壘以及日出 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-kvIwAtPBVGw/WvhJklG6ofI/AAAAAAAA2HI/55sjeLr1XAMGaHF-A6Lu7DlLsYr0GQRyQCLcBGAs/s1600/_MG_6695.JPG" alt="">
+  <figcaption> 路邊的一顆奇石 </figcaption>
+</figure> 
+
+先下到中間的鞍部後在攀上天宮堡壘。最後一段岩壁暴露感比較大，再搭配上強風確實讓人緊張。現場有架一條細繩跟一條扁帶。不過我覺得不太好抓。於是我慢慢的找手點跟腳點上攀，平心靜氣下來爬是還好不會太困難，不過確實需要小心一點，畢竟fall的話感覺會滿慘的。天氣不好的時候攀登感覺困難度會大大提升。  
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/--heiuoParLc/WvhJk_ZKnLI/AAAAAAAA2HM/640VOG_P8dkwbTCgnxW1Vb9li2TQteOAACLcBGAs/s1600/_MG_6707.JPG" alt="天宮堡壘岩壁">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-0i_aIeC1luY/WvhJkhAXZqI/AAAAAAAA2HQ/mGDIfN_Vm9MW7-J6NgufZ7HGk_r0bTSAgCLcBGAs/s1600/_MG_6714.JPG" alt="攀登天宮堡壘">
+  <figcaption> 上攀天宮堡壘 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-ocEEJnQ_6Ak/WvhLv1BfXjI/AAAAAAAA2Hw/GTAR2spzM1smwmHVpef1ejb2YL-X0V9cACLcBGAs/s1600/_MG_6716.JPG" alt="登頂天宮堡壘">
+  <figcaption> 07:42 登上天宮堡壘 </figcaption>
+</figure> 
+
+展望100分，這樣的景色只用360度的環景來形容已經不夠了，我覺得要用立體角4π來形容XD。天宮堡壘的展望可不是浪得虛名。
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-3lomxGiAhtA/WvhLvu1VekI/AAAAAAAA2Hs/4OF_Gohl1Cw1KA-vtFjE3KmxyCc019eQgCLcBGAs/s1600/_MG_6718.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-1Dm3l1VR4cg/WvhLvrB47XI/AAAAAAAA2Ho/VusfZKv_5_I1dxHla9MYn3tnIPCUFpEDwCLcBGAs/s1600/_MG_6723.JPG" alt="天宮堡壘望向花東縱谷方向">
+  <figcaption> 花東縱谷方向，視野一級棒 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/--rOg0t431aw/WvhLwpvSb9I/AAAAAAAA2H0/vdwewFudcJ0pnS4OwZJtN-wMBLGdqkAqACLcBGAs/s1600/_MG_6725.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-c_vSwG3sEkY/WvhLxH6p-eI/AAAAAAAA2H4/ceh5TH9rJxAlIVugFZbxot64RahGs5LgwCLcBGAs/s1600/_MG_6731.JPG" alt="">
+  <figcaption> 往南方向望去 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-LrYewtbKycQ/WvhLxAjzEJI/AAAAAAAA2H8/LEc0cRgNJ3oRwwbZbNe2RqHZ1jCGaLqxQCLcBGAs/s1600/_MG_6740.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/--c4wTWyJJsw/WvhLxanNsdI/AAAAAAAA2IA/MWSPlQMkt1gMg_AYfpYsAEvIGOpr4tB7wCLcBGAs/s1600/_MG_6743.JPG" alt="新康山以及後方的玉山群峰">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-1_aXs4vlFa4/WvhLyAlPlSI/AAAAAAAA2IE/9VwOd9jIBq4CJp2oT6aETfMsk0XB5PK3wCLcBGAs/s1600/_MG_6747.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-sRWB5rBJflk/WvhLyFApDgI/AAAAAAAA2II/1-jJQq2s6poLGFgPy6itfQucVIiAVMkgwCLcBGAs/s1600/_MG_6755.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-3X4N4w5mc8Y/WvhLykrrD7I/AAAAAAAA2IM/F6zIkX0IwFYjhhwcF_h6R_MS3OFQxmuHgCLcBGAs/s1600/_MG_6763.JPG" alt="新康橫斷天宮堡壘合照">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-Gd5ZkyGMUqU/WvhMlnkbv-I/AAAAAAAA2Is/fl5ocCTDRosjkNPeAbWF66bz818B2VrzgCLcBGAs/s1600/_MG_6760.JPG" alt="新康橫斷最高點">
+  <figcaption>  </figcaption>
+</figure>
+
+我們大約於08:04開始回程，下攀天宮堡壘對心裡的壓力好像大了一點。不過還在可以接受的範圍。
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-pP361I_3Htc/WvhMl8XeFuI/AAAAAAAA2Iw/IjTp7inG128cKTCEQX68VwYY2U5BZL2sgCLcBGAs/s1600/_MG_6769.JPG" alt="">
+  <figcaption> 下攀天宮堡壘 </figcaption>
+</figure>
+
+回到稍早拍攝天空堡壘的位置，太陽的仰角又上去了一點，原本金黃色的晨曦也變成亮白色了。 
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-Xa5hJO85MBc/WvhMm9lFX9I/AAAAAAAA2I4/K858DIxz9_IYkVXdAcLhHDm0xJgQxvyCACLcBGAs/s1600/_MG_6789.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+08:50我們由新康山啟程回去新仙山營地。
+在山上闖蕩了六天，經過了種種挑戰，最後在第六天的早晨看到最高的美景，每個人現在都心滿意足了。此時大家都歸心似箭，回家模式被打開了，回程的路上走得超快。
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-xgrE7Zwr11U/WvhMo9xDzkI/AAAAAAAA2JE/vYfXa_7fpM8pqNecNIG8X7H0xbXTd7FKgCLcBGAs/s1600/_MG_6803.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-inYAcpjWk1c/WvhMpIZfSMI/AAAAAAAA2JM/lSucJPuVhNYoWumGkeuua9YQqhcuk44qwCLcBGAs/s1600/_MG_6815.JPG" alt="新康山前10米岩壁">
+  <figcaption> 09:38 再次經過10米多的岩壁，準備上攀。 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="" alt="">
+  <figcaption> 回望岩壁，到底有多高呢，大概跟旁邊這棵松樹一樣高。 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-YNhQBpKPep0/WvhMpJc0kaI/AAAAAAAA2JI/lkhTdOT5XqYuGhRZhofoIFaGQAb6CLUYACLcBGAs/s1600/_MG_6817.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+10:15回到新仙山營地。準備拔營。
+留守營地隊友說我們離開營地後，她聽到帳篷外有聲音，很像是有動物在翻我們的塑膠袋。她探頭查看的時候有看到兩隻黃鼠狼來翻我們的袋子。這裡的黃鼠狼大哥看到塑膠袋就幹走，連裝爐頭的袋子也不放過，我們徹徹底底地被洗劫了。接著我們在新仙山北稜的山坡尋回被丟棄的爐頭，不過有些食物(麥片、餅乾)可能已經被吃下肚了...。除了塑膠袋，我們昨天晚上沒吃完的麵還放在桶鍋裡，原本有蓋上蓋子，結果袋子被打開丟在一旁，裡麵的麵大概只剩一口的份量。原本我們要背下山的廚餘，黃大哥幫我們清了，維中對著北方的森林大喊了一聲 "謝謝你!!!"。我說 "他們很北爛，要吃還不吃完，留一口幹嘛"。維中轉頭再對森林大喊一聲"你們為什麼不多吃一點!!!"。除了麵，原本我外婆送我們的一包臘肉也不翼而飛，我們猜應該也是被黃大哥幹走了，原本想說今晚加菜的說。我妹就說"就當作是進貢給山神吧!!"。維中說"甚麼山神，他們是宵小!!"。(結果我們誤會黃鼠狼大哥了，原來是被維中打包到背包深處了，還說人家是宵小XD)。  
+這裡的黃鼠狼很多。把東西收一收後，於10:50啟程。從新仙山北稜下沙敦。
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-TExDU0pzkqQ/WvhMqG9M4uI/AAAAAAAA2JQ/ee8OsYu_ggwvyS7SoZ4Nnph5yuuqBywAQCLcBGAs/s1600/_MG_6822.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-5QM8LD5iT5o/WvhMqxVMaeI/AAAAAAAA2JU/7tCL5a8AwQ0H9AXFcSFjAlkdLnTdLCPiQCLcBGAs/s1600/_MG_6825.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-Qhj6o52-PiY/WvhMrVUoz-I/AAAAAAAA2JY/Al20Jdz6zs8b2stDGUmh47JQ3LtcyAKagCLcBGAs/s1600/_MG_6829.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-kTUN5pSdmZk/WvhMrVMGHQI/AAAAAAAA2Jc/-4wrUZAcIWExB5R74j3NSqRwF3-HfknMACLcBGAs/s1600/_MG_6832.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+回到雲霧區了，我們走進了早上看到的雲海之中。
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-5EoDktndAyQ/WvhMsaMWHzI/AAAAAAAA2Jg/4aLOQkVVdBw2dHjXoAoOw8cWADizrf3sQCLcBGAs/s1600/_MG_6837.JPG" alt="">
+  <figcaption> 最後於14:48到達八通關新康叉路口 </figcaption>
+</figure>
+
+走了這麼久的路，回到八通關，真的有一種康莊大道的感覺。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-WnWicnDMmG8/WvlroVs6fwI/AAAAAAAA2Kw/QQFKc6oPi-Qk0btIMY5VNQYkV4bdS9fCgCLcBGAs/s1600/_MG_6838.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+往抱崖的路上經過一條溪溝停下來煮麵，大家都渴兩天了，看到活水就是要給他喝到飽。
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-rXO9Jh9vpVA/WvlrCQkjcvI/AAAAAAAA2KU/Ev_UzivwfakHMacqL0tq_T3WERQMd4f3ACLcBGAs/s1600/_MG_6839.JPG" alt="八通關古道東段">
+  <figcaption> 16:04 石洞，這是1920年日本開闢八通關警備道路的時候鑿穿的 </figcaption>
+</figure>
+
+石洞過後的石洞吊橋，原本有一座日本人蓋的鐵線橋稱"朝日橋"。現在叫石洞吊橋。
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-3uUKHuECfOA/WvlrCPKoOVI/AAAAAAAA2KY/T0THB-ajufYvhPcpGEknK-pRQXJhZ5oZQCLcBGAs/s1600/_MG_6841.JPG" alt="日治八通關古道朝日橋現址">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://3.bp.blogspot.com/-HnpYADWWh-0/WvlrB-ys7lI/AAAAAAAA2KQ/4lUlLRYk238Rv8wWG-i9dTOOFveyxnBIQCLcBGAs/s1600/_MG_6842.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-F_IgxqUAnIA/WvlrDfWedaI/AAAAAAAA2Kc/gvW_OZDCIZMs2-0i5ZoaryLjYEBQ8tcoQCLcBGAs/s1600/_MG_6847.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-xNxmM0-Ryfs/Wvltbbk24NI/AAAAAAAA2LA/VXlHoJEejekRTNn3aZPOdpvaeL3XpIUDwCLcBGAs/s1600/_MG_6850.JPG" alt="抱崖山屋前溪谷">
+  <figcaption> 抱崖山屋前方的溪谷地 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-289yHmyDCkA/WvltbK6PbJI/AAAAAAAA2K8/Vmvxs88RjLAtooHm5cevApXIFC5QhSzlwCLcBGAs/s1600/_MG_6851.JPG" alt="">
+  <figcaption> 16:30左右到達抱崖山屋 </figcaption>
+</figure>
+
+晚上在抱崖山屋還有一項驚魂記。  
+七時許大家準備要睡覺了，我是最後一個把頭燈關掉的人。我躺平後頓時變得好安靜，耳鳴的聲音突然變得很大。這時，我聽到山屋外廁所門被關起來的聲音! 不對啊，今天只有我們五人住山屋，怎麼會有奇怪的聲音!   我心裡第一個想法是"慘了，遇到了，我忘記帶到附身符啊=口="。再過兩秒，我同學說:"那是什麼聲音"。我稍微安心了一下，還好不只有我聽到。  
+我妹說:"是黑熊!! 要趕快把鐵窗放下來" (抱崖山屋的窗戶外有鐵板用來防熊，不過為了保持通風，我們睡前沒放下來)  
+這時，聽到腳步聲從山屋右側往左側走去，接著聽到連續幾聲超大聲地撞門聲  
+我妹說:"天阿，真的是黑熊，不放下鐵窗我會睡得不安穩"  
+我同學問我說:"你比較怕動物還是怕鬼？"  
+我回:"我比較怕鬼!"  
+我同學:"那如果外面是動物，你就去解決牠"  
+登山社學妹回他說:"那如果外面是鬼，你要去解決它嗎?"  
+我同學:"不要，兩個我都怕"  
+吼!這時候原本可怕的氛圍變成很好笑。突然不害怕了，不知道是哪裡來的熊心豹子膽，為了先製造一些聲響把黑熊嚇跑，我同學先對窗外大喊:"回家吃自己~~"，然後我們慢慢的從窗戶探頭看看外面的狀況，還好什麼也沒看見。很快速的把鐵窗放下來後，我們才安心的回去睡覺。能製造出這種巨大聲響的動物，應該只有黑熊了，不然就是鬼。不過我們什麼也沒看到，至今這個聲音的來源還是個謎XD  
+
+## Day7 抱崖山屋->玉里
+
+# Day7 201.02.28  
+早上03:00起床，03:50從抱崖出發回程。  
+不知道是大家思鄉過度還是怎樣，回家的路走起來特別起勁。  
+04:30通過石洞駐在所。  
+05:10通過十里駐在所。  
+08:30就到瓦拉米山屋了。這速度也太快了吧，根本是在趕火車。  
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-bBmbemmL4iI/WvluIpOJghI/AAAAAAAA2LM/4GfD0Fe80gE0aI5NQYCPaPvzf9-i8voRwCEwYBhgL/s1600/_MG_6852.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://4.bp.blogspot.com/-08GxoSditB8/WvluIxi4KYI/AAAAAAAA2LQ/2Y-UvcBL0pwSKov145ZID_Q9GGSw4eHKQCEwYBhgL/s1600/_MG_6856.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-eWuoye4Sh40/WvluIyMM3kI/AAAAAAAA2LU/51yQCFqN8doqCkuEHyDHY_wbh1UY02zMgCEwYBhgL/s1600/_MG_6859.JPG" alt="八通關古道東段為台灣黑熊保育重地">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-xt_h1RP0paY/WvluKr6LfNI/AAAAAAAA2Lc/ciSuMYDZj1Eu8utrNkQNV9Ih2s0Kme4PgCEwYBhgL/s1600/_MG_6866.JPG" alt="八通關古道東段">
+  <figcaption> 11:30到達佳心，我跑去把髒褲子換掉 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-1dNX2aVi5kI/WvluKdQW32I/AAAAAAAA2LY/21jLoJn8IjM47tr36WraovwGVSfZwfwGACEwYBhgL/s1600/_MG_6868.JPG" alt="八通關古道玉里登山口">
+  <figcaption> 13:10就到登山口了 </figcaption>
+</figure>
+
+最後大家搭上14:50的普悠瑪返程。
+真難想像12小時前還在抱崖山屋跟黑熊搏鬥，我們真的超快踢出八通關，果真大家歸心似箭啊XD
+
+<figure class="align-center">
+  <img src="https://2.bp.blogspot.com/-ymS0mqVp3E0/WvlumqNjo7I/AAAAAAAA2Lw/HJP0aZFmFIIKoOo_hEWjRtXqgwH_ifq2ACLcBGAs/s1600/_MG_6869.JPG" alt="">
+  <figcaption> 普悠瑪列車回程 </figcaption>
+</figure>
+
+
+
+{% include feature_row %}

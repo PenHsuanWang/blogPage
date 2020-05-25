@@ -1,0 +1,442 @@
+---
+layout: single
+title:  "[圖文] 20191008 南湖中央尖 北一段縱走-Day3 南湖大山東峰、馬比杉山"
+excerpt: "踏上南湖大山東峰向東延伸出來的這條稜線，走向花蓮縣境內，跟在圈谷內的景色很不一樣，兩旁是廣大海拔較低的中級山域，相較之下這條稜線好像跟天一樣高。南湖中央尖行程的第三天，一早從山屋出發前往南湖大山東峰，通過上圈谷並翻越稜線後，迎接我們的是中央山脈東面的一片雲海。"
+
+date:   2019-10-08 06:00:00 +0800
+categories: mt-note-photo-100peaks
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 中央山脈北一段
+
+header:
+  image: https://lh3.googleusercontent.com/MWFpxblKVqTEO7kb_n6prVg541edr6PSwLeisUNFtsf-my284EJqPd16dFNarGh_GIFaxE5KcSwaZ9lL4UQ=w2000-h1080
+  teaser: https://lh3.googleusercontent.com/jYJu2M26A0WK0GXQdTXNYwXyfsGmyH0ffvoiQ2uzTADvDtEm9AYpR8NFaC82yMO-4FLEAUIgJvnmnvlj21M=w640-h480
+  image_description: ""
+  overlay_filter: 0.5
+
+author_profile: true
+
+feature_row:
+  - image_path: https://1.bp.blogspot.com/-4rkxnWIHgis/XfJLGn1zYwI/AAAAAAAA6QA/yr-OaGmWBBwIXJZcjCEhjD8JdE3Y28ZxQCLcBGAsYHQ/s640/_MG_3168.JPG
+    title: "[行程紀錄] 20191006 中央山脈北一段 南湖中央尖"
+    excerpt: "登頂素有帝王之山稱號的南湖大山，也算是完成了我從大學加入登山社以來的心願了。尤其在這秋高氣爽的天氣下，登上中央山脈北一段的最高峰，還有雲海相伴，先前四天揹著20多公斤重的背包，一步一步走上來的辛勞，在這一刻都值得了。"
+    url: "/mt-note-literal-100peaks/CentrailMountainRidgeN1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://lh3.googleusercontent.com/gqUzrsbkraQoLe0So4jRjbVM2B2gahQRCbU4_Cg9Cyrt4aKI8xZabmgPoxBlzGZh5KdbVSTfuZ01FNlllso=w640-h480
+    title: "[圖文] 北一段縱走-Day1 前進雲稜山屋"
+    excerpt: "前進南湖大山，第一天我們搭公車從宜蘭轉運站到勝光橋，展開為期7天的中央山脈北一段之旅。越過多家屯山，往雲稜山屋前進，今天的天氣非常的好，還可以看見蘭陽平原的雲海，希望未來7天能滿滿的收穫。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://lh3.googleusercontent.com/80ctEsOI-3r3n4j-OE_NeY4hUHR58RRrQjGB2uxcGcZjka9BiunVVdUVdHkIPk1-R3Y_P2HUSAG1dQsirJ4=w640-h480
+    title: "[圖文] 北一段縱走-Day2 南湖北山、五岩鋒、前進南湖圈谷"
+    excerpt: "南湖中央尖O型縱走第二天，我們由雲稜山莊出發登上了中央山脈主稜。南湖北山為中央山脈主稜上最北的一座百岳。今天可以清楚看見南湖大山與中央尖山的輪廓，這座山有著帝王之山的稱號，於此地可以感受到他的氣勢。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-HqaEyr-bb8c/XfD-tPR7bAI/AAAAAAAA6I0/Jf3M0XQkXXwGGXcmzUn75eRc5qCHcbTbgCLcBGAsYHQ/s640/_MG_2961.JPG
+    title: "[圖文] 北一段縱走-Day4 南湖大山南峰、巴巴山"
+    excerpt: "離開南湖圈谷前，拜訪了帝王之山，南湖大山，中央山脈北一段的一等三角點，於此遙望雪山，以及南方的中央尖山，稱霸於北台灣的三座名峰。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day4/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-fJShOY_7i2I/XfJK-XeEZdI/AAAAAAAA6PQ/XuSZ3S7LVLQ8GHH1vcSEL0j-89DQDFM2ACLcBGAsYHQ/s640/_MG_3125.JPG
+    title: "[圖文] 南湖中央尖 北一段縱走-Day5 中央尖山"
+    excerpt: "中央尖山為北一段最南邊的百岳，與大霸尖山、達芬尖山並稱為三尖，為三尖之首。今天要從中央尖溪山屋出發，爬上又長又陡的碎石坡，才能登上中央尖山。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day5/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-jNYWSMoXrBk/XqG7PrfuOlI/AAAAAAABC1w/NCqkRe1Xf84becyh-ukAh0j3lXxIMji_ACLcBGAsYHQ/s640/DSC_0873.jpg
+    title: "[圖文] 南湖中央尖 北一段縱走-Day6 歸賦-與中央尖溪道別"
+    excerpt: "北一段南湖中央尖的旅程接近尾聲了，然而今天要面對的是這幾天下來遇過最複雜的地形，有滑得要命的獨木橋，很陡的高繞加上很滑的橫渡。如果在這邊有個失手，可能較要去玩中央尖溪滑水道了。"
+    url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day6/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+---
+
+<figure style="width: 40%" class="align-right">
+  <img src="https://lh3.googleusercontent.com/0Mcfqxp8mjPqVoxbokGjyHI8YG7O2ZA2gy31WRPyiVngUnJef2-YpyFYAUm9lBvazfuVIaXwXUtSYyjmm_U=w640-h480" alt="陶塞峰">
+  <figcaption> 陶塞峰 </figcaption>
+</figure> 
+  
+踏上南湖大山東峰向東延伸出來的這條稜線，走向花蓮縣境內，跟在圈谷內的景色很不一樣，兩旁是廣大海拔較低的中級山域，相較之下這條稜線好像跟天一樣高。南湖中央尖行程的第三天，一早從山屋出發前往南湖大山東峰，通過上圈谷並翻越稜線後，迎接我們的是中央山脈東面的一片雲海。今天的行程會通過兩座百岳，分別為南湖大山東峰以及馬比杉山。但如果不是為了蒐集百岳的山頭控，我覺得更有特色的是另外兩座山頭，陶塞峰以及南湖大山東南峰。陶塞峰無基石，而東南峰上則有一顆不鏽鋼基點。這兩座都沒被選入百岳之中，但山形獨特，景色壯闊，我覺得比百岳更值得一訪。登山究竟為了甚麼?每個人所追求的都不一樣，也沒有對錯。有些人可能喜歡登頂百岳，這也無訪。但那些山能入選百岳，其實是早年前輩制定的，他們有自己的主觀想法，採選了這一百座山頭當座百岳。但其實更有特色的山頭比比皆是。相較於跟著別人走，能走出自己想走的路，也是一番風味。
+
+<figure style="width: 90%" class="align-center">
+  <img src="https://lh3.googleusercontent.com/jYJu2M26A0WK0GXQdTXNYwXyfsGmyH0ffvoiQ2uzTADvDtEm9AYpR8NFaC82yMO-4FLEAUIgJvnmnvlj21M=w1000-h800" alt="南湖大山東南峰">
+  <figcaption> 南湖大山東南峰 </figcaption>
+</figure> 
+
+
+<a href="/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
+
+## Day3 南湖圈谷山屋->南湖大山東峰->陶塞峰->南湖大山東南峰->馬比杉山->和平南溪谷地->南湖圈谷山屋
+
+今天的路程很長，早上五點鐘天色還沒亮，我們便啟程前往馬比杉山。先往上圈谷前進，在行經四叉路後腰繞南湖大山東峰的東北側上到稜線，原先還想要到東峰欣賞日出的，但我們沒趕上，在切上稜線的時候還走偏了一點，不小心走進了一叢又一叢的灌木之中。被刺了好幾下。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-X4EcJZpb32U/XcK4ruHVWLI/AAAAAAAA5bo/8apnnWRUgjsq_rB2e0eHyVvwY1NOcHQHQCLcBGAsYHQ/s640/_MG_2712.JPG" alt="">
+  <figcaption> 清晨之際，南湖上圈谷 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-VlsWZhjM81c/XcK4raw-KZI/AAAAAAAA5bk/dZPfT-SG-ec4aAlo5mwKDMjQAXRInpR2wCLcBGAsYHQ/s640/_MG_2714.JPG" alt="">
+  <figcaption> 四叉路，和平南溪谷方向 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-udBIMhogfHA/XcK4y6GVS4I/AAAAAAAA5b0/MlQokY6M4tclqS5uz_1JnnSDhN5mrc1hwCLcBGAsYHQ/s640/_MG_2724.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-MwoSvty6GZs/XcK4yhnc6DI/AAAAAAAA5bw/Let71TJgIowRWyaBN5xUf3r4KidHsnscgCLcBGAsYHQ/s640/_MG_2725.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-cggEvu7R4O4/XcK4_AT1ilI/AAAAAAAA5cI/Ak9-nS3arCof-EaHiXNGTzvRFbe0fa26QCLcBGAsYHQ/s1600/_MG_2729.JPG" alt="">
+  <figcaption> 太陽照上稜線。走向前方的南湖大山東峰 </figcaption>
+</figure> 
+
+隨著太陽慢慢升起，稜線兩旁的景色開始清晰了起來
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-FEqXbXVNNaQ/XcK4-fLUDyI/AAAAAAAA5cE/x7zRfV70bGA4asAzQg24wuIAmNgkFN57gCLcBGAsYHQ/s1600/_MG_2730.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+今天的天氣也是十分晴朗，可以看見朵朵白雲在稜向兩側的溪谷中，而稜線上方則是整片晴空。空氣非常的乾淨，雪山山脈清晰可見。從雪山主峰、北稜角開始，聖稜線往北延伸、雪山北峰、謬特勒布山、一路延伸到大小霸。南湖群峰的影子，則投影到雪山山脈腳下，慢慢照亮大甲溪谷地。於此還可見我們昨天走過的五岩峰，從南湖東峰望過去，可以清楚看見和平北溪這側的崩壁，想像我們昨天從這上面走過來的樣子，想想也是挺驚險的。
+
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-lVrPBSHAWek/XcK5Hu-b7-I/AAAAAAAA5cQ/v--G5YYklI8AIxvhAKGMzx8Ev565cHbDwCLcBGAsYHQ/s1600/_MG_2737.JPG" alt="">
+  <figcaption> 南湖大山東峰陰影下的南湖圈谷以及對面的聖稜線 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-6ZHy7rXh9Gw/XcK5NwL5yjI/AAAAAAAA5cY/VC39_mnu7b4bM3U0L4D6uTmFR9S80MlsACLcBGAsYHQ/s1600/_MG_2739.JPG" alt="">
+  <figcaption> 南湖大山東峰向北望去，右側為和平北溪溪谷，左側為南湖上圈谷 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-GFXXtp5C_aM/XcK5VHe3n6I/AAAAAAAA5co/wMZJP4ss8dUYR1XV-n9WQe9HmOKNw5nlACLcBGAsYHQ/s1600/_MG_2743.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+我們於早上06:20登上南湖大山東峰。南湖大山東峰頂的腹地不廣，基本上就是一整片傾斜岩層的頂端，在這邊風真的很大，不過還好太陽已經出來的，要不然在這邊等日出，肯定冷到發抖。東峰位在上圈谷東側，可以清楚看見整個圈谷地形，以及明天要去造訪的南湖大山主峰。
+
+![image](https://1.bp.blogspot.com/-YxHqcOQKeC0/XcK5fe0OVBI/AAAAAAAA5cw/N3lqzZlelIwatJJW0XC8Thd9be78QeZIwCLcBGAsYHQ/s1600/_MG_2750.JPG)
+
+往南方望過去，可以看見南湖大山中峰附近的寬闊的平台，感覺下次找個時間來南湖圈谷悠閒的度個假，順道過去那附近晃晃，真的是挺不錯的。而後方則是中央尖山，台灣三間之首。看到那中央尖山主峰與東峰之間的碎石坡，於早晨之時，太陽還照不進去，感覺起來是一片深邃的黑。希望我們後天攀登中央尖山時可以順利。而中央尖山後方，則是奇萊東稜，稜線的輪廓清晰可見，今天的能見度真的很好。
+
+我們在東峰不敢休息太久，因為今天的路途還很遙遠。看著向東延伸過去的稜線好像沒有盡頭似的，直直延伸向溪谷，今天也將是一場硬仗吧。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-yIp41I2z85U/XcK4-G6eETI/AAAAAAAA5cA/T4wyMjTLQmYqhg06Jk2zlr3hBCTXJA2uQCLcBGAsYHQ/s640/_MG_2733.JPG" alt="和平北溪流域雲海">
+  <figcaption> 和平北溪流域的雲海 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-gjNKz-XERoU/XcK5LIuhtBI/AAAAAAAA5cU/RKvmVU5ejw83pEisoAY_Esshq4TQ1H-YQCLcBGAsYHQ/s640/_MG_2741.JPG" alt="南湖大山東峰望相馬比杉山稜線">
+  <figcaption> 南湖大山東峰延伸向馬比杉山的稜線 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-o2UxVovgXUo/XcK5gGnDzhI/AAAAAAAA5c0/y7DUPxt0qwQMgSGes2j3jwgJQFcXF0VdgCLcBGAsYHQ/s1600/_MG_2752.JPG" alt="南湖大山東峰前往馬比杉山">
+  <figcaption> 南湖大山東峰前往馬比杉山 </figcaption>
+</figure> 
+
+從南湖大山東峰沿著稜線前往馬比杉山的這一條路沿線會經過陶塞峰跟南湖大山東南峰，這兩座奇峰雖然不是百岳，但景色卻一點也不輸百岳。從南湖東峰過來，會先到陶塞峰的西側，這一側的陶塞峰是接近九十度垂直的大岩壁，早上來的時候剛好是背陽面，因為背光的關係，這巨大的奇石佇立在海拔3000公尺以上的稜線搭配上陰影，看起來格外的難以親近。想要攀登陶塞峰，必須要先沿著路徑腰繞到陶塞峰的東側，東側為一整片岩石構成的坡面，從東側上攀容易許多。峰頂沒有基石，只有一顆石頭上寫著"陶塞前峰"字樣。但我覺得在陶塞峰看到的風景比南湖大山東南峰還要棒，往西望去可以看見南湖大山東峰以及一路延伸過來的稜線，左右兩側展望極佳，可以眺望整片溪谷，和平北溪流域、以及水草豐美和平南溪谷地中的獵寮水源地。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-K9QdGziEVyM/XcK5s1eJvqI/AAAAAAAA5dM/B4qjS-cXfywALnzLviZIMKe8Q_X3G3PuQCLcBGAsYHQ/s1600/_MG_2772.JPG" alt="陶塞峰望相獵寮水源地">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-7Jj-rjB-j2Q/XcK5pzEFUwI/AAAAAAAA5dI/ZeKeYL_uGKIKJi-wg4zx6nN6_nI8uCEdACLcBGAsYHQ/s1600/_MG_2774.JPG" alt="陶塞峰">
+  <figcaption> 陶塞峰 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-ZBurnAvh6mI/XcK6CrHaQSI/AAAAAAAA5ds/2Zp6hmhKqfEaW8o9RjfaQaQ9paKbfdJ5QCLcBGAsYHQ/s640/_MG_2795.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-hdl5xgXmrWk/XcK6CnC4hHI/AAAAAAAA5dw/CpVZCIGyfmsYxuoSoE3MTs2p9hvkDKakgCLcBGAsYHQ/s640/_MG_2796.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-yf4urIbFXYM/XcK53WAE7_I/AAAAAAAA5dc/LTgZviUP5I8WIaCxJ5HD2q2qffP0H-V8wCLcBGAsYHQ/s1600/_MG_2787.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-2gWkue7gwl4/XcK6EX3pulI/AAAAAAAA5d0/f3GAs5N8P0cU6Q1Paed2Dzv12B70HluPwCLcBGAsYHQ/s1600/_MG_2797.JPG" alt="陶塞峰頂與南湖大山主峰">
+  <figcaption> 陶塞峰頂望向南湖大山 </figcaption>
+</figure> 
+
+陶塞前峰頂上 無基點 但是視野滿分。 後方為南湖大山主峰以及東峰  
+往東望去，前方為南湖大山東南峰  
+踏上南湖大山東峰向東延伸出來的這條稜線，走向花蓮縣境內，跟在圈谷內的景色很不一樣，兩旁是廣大海拔較低的中級山域，相較之下這條稜線好像跟天一樣高，尤其是站在陶塞峰這塊奇岩上，真的很有"小天下"的感覺，能站在這裡放空大腦還真幸福。  
+但是不能在這邊放空大腦太久，今天的行程還是要趕。不久，陶塞峰出發後遇到的一處拉繩攀岩著。岩點穩固不難走。 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-tFMiBBLSN64/XcK6MLwmv-I/AAAAAAAA5eE/5EDevjiFgDgtGFCOVODy-NwgmHLOZamSwCLcBGAsYHQ/s640/_MG_2802.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-dOumIxB6d3I/XcK6NWyjOeI/AAAAAAAA5eI/w7i6fwW09N4YgrjssZLKSjH05aEWpwLVgCLcBGAsYHQ/s640/_MG_2804.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>  
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-Uo5XPxiPs34/XcK6R1ZNDbI/AAAAAAAA5eM/0U-29x0uKxwhy4QgWJVX7BsCZCgr3XSkgCLcBGAsYHQ/s640/_MG_2806.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-Ngcg9NiGASg/XcK6aZXFofI/AAAAAAAA5eY/fv4ixzjaOUcMGL9D-t_UNBgZzjN0ZuqOQCLcBGAsYHQ/s640/_MG_2809.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-alKomRtz_qA/XcK6ecd_6ZI/AAAAAAAA5eg/ZojPJgbXRVEWue8Kn1kr7c7eJES_-PQ9wCLcBGAsYHQ/s1600/_MG_2823.JPG" alt="南湖大山群峰以及陶塞峰">
+  <figcaption> 由陶塞峰前行，通過第一段岩壁後回望 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-n14yeLMdgWg/XcK6ofEyODI/AAAAAAAA5es/ucXHMx6C0o4aP5s-ScjnglmteuiZ0pbBgCLcBGAsYHQ/s1600/_MG_2825.JPG" alt="南湖大山群峰之馬比杉山之行望相南湖大山東南峰">
+  <figcaption> 稜線上，準備前往南湖大山東南峰 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-JdrND8LfRlo/XcK6m_HpTYI/AAAAAAAA5eo/oudNI5I_LmQRPKaNaBU5jjLtkpt_yWtMACLcBGAsYHQ/s1600/_MG_2826.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-bGu7OR4PTvk/XcK6x-UsSyI/AAAAAAAA5fA/H9mYmJvmNLg_yHQfvie4eU7_6IoAdPcvgCLcBGAsYHQ/s1600/_MG_2828.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-qLna3Gw3hK8/XcK62Dpw5kI/AAAAAAAA5fI/RZNKq-WxEOoJmrLNwrGRfN77g6ye2G9aQCLcBGAsYHQ/s640/_MG_2837.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-atEAsSz9bnY/XcK7CCluh8I/AAAAAAAA5fQ/f4S5bFrDmK4Cco9PVz2CEP09mLNfYWgeQCLcBGAsYHQ/s640/_MG_2842.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-mAw_ASRCJNI/XcK7D05BpvI/AAAAAAAA5fc/fkSWMTN5zy41NliVMlLC47UBs477mK32gCLcBGAsYHQ/s1600/_MG_2847.JPG" alt="南湖大山群峰前往馬比杉山的稜線">
+  <figcaption> 南湖大山東南峰前，由南側往下看，可以看見和平南溪谷往十洞獵寮的岔路，以及一個大池塘。 </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-hOuRwhah5D8/XcK7C3Z_B5I/AAAAAAAA5fY/8-d5g6N7CSwpIv0lYSUag4V1_O3BpRVNQCLcBGAsYHQ/s640/_MG_2838.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-INeDSEk0FNc/XcK7NNYZHEI/AAAAAAAA5fk/KsZwRbz3FPYF9qO_y4wmLul6E6s-rENaQCLcBGAsYHQ/s640/_MG_2848.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-Oeu3Ax_Vz_A/XcK7Uy2s2BI/AAAAAAAA5fw/GKWbUTg76J427MHpk0q2sO6_2j1AxT-hwCLcBGAsYHQ/s1600/_MG_2851.JPG" alt="南湖大山東南峰">
+  <figcaption> 南湖大山東南峰 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-UW8o7tv2S80/XcK7VUqrBSI/AAAAAAAA5f0/b8O-jk6C1A4Q2Sf1rKF1OGlmA_KTuWy3wCLcBGAsYHQ/s640/_MG_2852.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-g9886IFT8OY/XcK7hhy38JI/AAAAAAAA5gA/FJ_EjLaHt28rp_jwdb5ewikGBT7IsUgGgCLcBGAsYHQ/s640/_MG_2854.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-Z3I6RwWPrGY/XcK7ZP-ouSI/AAAAAAAA5f4/mBiKwBczVmAIqv0riCbZECdqfusyq3IiwCLcBGAsYHQ/s1600/_MG_2853.JPG" alt="南湖大山東南峰">
+  <figcaption> 南湖大山東南峰 </figcaption>
+</figure> 
+
+南湖大山東南峰為巨石堆所堆疊而成，最大的一塊石頭頂端立有不鏽鋼基點。遠遠看，南湖東南峰像是一小塊方形的會灰色豆腐，但接近後發現，走在我們前面的幾位大哥已經登頂，跟人對比起來才發現，東南峰可不是"一小塊"。這也是一座非常有特色的山頭之一。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-5imnuar-lOk/XcK7gTUoIEI/AAAAAAAA5f8/WODLGXJzfA0cTEc8Bl9IhlomUiboTG1JgCLcBGAsYHQ/s1600/_MG_2858.JPG" alt="南湖大山東南峰不鏽鋼基點">
+  <figcaption> 南湖大山東南峰上的不鏽鋼基點 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-ielXAcJ82m8/XcK7kKBV2tI/AAAAAAAA5gE/VMRwga2Fml8GVhQWPc8LIaSbPB07nL2BgCLcBGAsYHQ/s1600/_MG_2867.JPG" alt="南湖大山東南峰回望南湖大山">
+  <figcaption> 回望，南湖群峰以及陶塞峰 </figcaption>
+</figure> 
+
+通過南湖大山東南峰後，由此這條稜線高度急速下降。往東望去沒有見到一座明顯的山峰。接下來的路，要從高度3462的東南峰開始一路陡降，經過往和平南溪谷的叉路口後，繼續下降到海拔3060左右的最低鞍部，在登上海拔3211公尺的馬比杉山。這段路除了遠以外，回程還要爬坡QQ。
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-2tAH25FXscY/XcK7qorbp5I/AAAAAAAA5gM/_vrlSFkhDG0qrZpzal71vwHYs6RCWHWXACLcBGAsYHQ/s640/_MG_2868.JPG" alt="">
+  <figcaption> 南湖東南峰，往東望去沒有見到一座明顯的山峰 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-qpYSsWn7ryw/XcK7sf7Ab9I/AAAAAAAA5gQ/dkE9L-1YyjkNFqdITkn150fJLUZ8yG77gCLcBGAsYHQ/s640/_MG_2872.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-klOT2NJYjSI/XcK70reineI/AAAAAAAA5gY/a54k9r313tQftRfr_G8LF7dtUl5XWyQ6wCLcBGAsYHQ/s1600/_MG_2873.JPG" alt="遠眺馬比杉山">
+  <figcaption> 通過東南峰，遠眺馬比杉山 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-t7QLZyEETgg/XcK76-MpkuI/AAAAAAAA5gg/rCxyU8B86ccLopEGRIrbeyTB5ZxbPV-lQCLcBGAsYHQ/s640/_MG_2874.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-BeQhtC6g588/XcK8CsQkn1I/AAAAAAAA5gs/_za5GLeTYRkUk9EFUpwk4MDYp2rpHcm2QCLcBGAsYHQ/s640/_MG_2878.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-3yGuCwXqh1o/XcK8OKvyDlI/AAAAAAAA5g8/o_eupqSFAm0YDtzNaxpCHKOpak9XsgQ8QCLcBGAsYHQ/s640/_MG_2879.JPG" alt="">
+  <figcaption> 過了岔路口後進到鐵杉林 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-QEPcmKMlrJY/XpxYRqzY0aI/AAAAAAABCbs/HZmvtRmJGNs0nTRbinZvVnA6J_oyniJNwCLcBGAsYHQ/s640/_MG_2880.JPG" alt="">
+  <figcaption> 最低鞍部附近的舊路牌 </figcaption>
+</figure>
+
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-h6uu8Kr4xno/XcK8M1YMAjI/AAAAAAAA5g4/nSsU28w2E8QihzYEb_8KRXCxQCq68iVYACLcBGAsYHQ/s1600/_MG_2882.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+馬比杉山，三等三角點，為台灣最東的一座百岳。從和平南溪叉路口來到這裡約一個小時，回程也約一個小時。途中下到最低鞍部3030公尺，從和平南溪叉路口到馬比杉山來回時間都差不多。
+
+馬比杉山為一片和緩的箭竹草坡，這裡是南湖群峰向東延伸過來的稜線上最後一顆3000公尺等級的山頭，這條稜線由此繼續向東延伸過去並隱沒於雲海之中。馬比杉山的基點峰上有立國家公園的木樁，但真正的最高點則是北側一點點的山頭。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-DVc5WwpclAM/XfZJrtExWNI/AAAAAAAA6os/ri1qIX7_GfYodAKc-YV1gpj3N_DaHCnJgCLcBGAsYHQ/s640/_MG_2893.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-U6g9BxzAl3U/XpxZsBgxoxI/AAAAAAABCb4/nRHCm7GUBvkchyTjXn3WydQf2rRGgpYMQCLcBGAsYHQ/s640/_MG_2902.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+![image](https://1.bp.blogspot.com/-IF-6hRWGebc/XpxaK6pRb8I/AAAAAAABCcI/UtQhSZ7h12oPwCL6BzNJ2fFzWp6YLaskACLcBGAsYHQ/s1600/_MG_2903.JPG)
+
+回程我們行經和平南溪谷地往南湖圈谷回去，一開始是沿著山坡地腰繞，不久後可以到達和平南溪谷地。這個谷地底部是一片箭竹草坡，草坡中央有一個大水池，山谷的兩旁即是陡峭的山壁，從回程方向來看，右手邊的山壁上面，即是我們早上走來的稜線。我們來到大水池旁邊，可以看到水池旁邊有一條乾溪溝，這裡就是獵寮水源的岔路口，水源即在乾溪溝的下游處。我們在這裡稍作休息，但因為有一點累了，不想要在下去取水了，所以我們決定就地取水池的水，再用濾水器過濾即可。看看時間已經下午兩點了，我們回程可能有一點時間壓力，但這裡的景色與早上在稜線上相比，也別有一番風味，長滿箭竹草坡的谷地，順著兩旁山壁地形所生長的杉木，高聳的岩石絕壁。這裡的景色讓我回想起之前在瑞士看到的風景。這邊大概只缺歐式小木屋了吧。  
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-LNFsLpFlevA/XpxaKbW55iI/AAAAAAABCcE/KI_GytUbg9grVdraaS56RaVW3xIKF38gACLcBGAsYHQ/s1600/_MG_2906.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+這一天爬這條路線的人不多，除了我們以外，另外兩隊加起來，人數也不超過十人。回程的時候跟其他兩隊的距離也拉開了。這一天沒有風、沒有鳥鳴，這個溪谷地格外的安靜，大概只剩下我們兩人坐在乾河床的岩石上吃餅乾的聲音了吧，能夠享受這寧靜的片刻，也別有一番風味。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-8xSZriEBpbo/XcK8g7aw1UI/AAAAAAAA5hc/1txJZWgdSo0wJLvp8YkCivHSmbXqccORACLcBGAsYHQ/s640/_MG_2918.JPG" alt="南湖大山群峰之馬比杉山之行">
+  <figcaption> 沿著河床向上行 </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-Bf8eBGoOl0M/XcK8fnEjq2I/AAAAAAAA5hU/a5iyhO6-QkwgILt-7ut_923w9s1EwqI_wCLcBGAsYHQ/s640/_MG_2917.JPG" alt="和平南溪谷地景觀">
+  <figcaption> 和平南溪谷，右側山坡上面的稜線即是陶塞峰 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-yybdB1eEvXU/XpxaJEV6_OI/AAAAAAABCcA/blppwu6_cjAS_EcZhPMO0pkqIJUtGkPKwCLcBGAsYHQ/s1600/_MG_2909.JPG" alt="">
+  <figcaption> 陶塞峰 </figcaption>
+</figure> 
+
+
+休息過後，我們緣溪行，繼續往南湖圈谷方向前進，河床大抵平緩，直到一處峽谷水源後，要往右側山坡陡上，這坡度對於已經在稜線上征戰一天的人來說，真的很陡，現在時間下午三點，用四個字來形容我們現在的體力就是"強弩之末"了吧!我們走沒幾步就停下來休息一下，再看一下時間，很擔心我們今天回到山屋的時候會摸黑。這一段路，有幾處展望點，還可以看到陶塞峰以及南湖大山東南峰。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-1usuvx6D_IA/XcK9E1R02lI/AAAAAAAA5hw/88yplmO5asMt9wx_9HsHZUvnFanIMW8xwCLcBGAsYHQ/s1600/_MG_2921.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+結束最陡的一段上坡後，我們又接回乾溪床了，這邊很接近水源了，溪床的寬度變得很窄，兩旁岩石山壁，有幾處長了樣子泛黃的杜鵑，我不確定杜鵑在這個時節葉子變黃是不是正常的，至少我以前沒有注意到，不過這枯黃的葉子看起來還挺漂亮的。
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-921QjPO2GdI/XcK9MN2MROI/AAAAAAAA5h0/L6Q4bJlyJ6kbZu8o1tFzgNMSQgQwdFEYACLcBGAsYHQ/s640/_MG_2923.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-aYBps0YkncI/XcK9iVMhJuI/AAAAAAAA5iI/CRwjcjBivqkEPNv1T1s4UP4_qCW2_Y0JQCLcBGAsYHQ/s640/_MG_2926.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-tPv8XX2Y_aI/XcK9P8X2PGI/AAAAAAAA5h4/_CdK44jB4VwE4zVVQ7_LoGGhWnbELzPxgCLcBGAsYHQ/s1600/_MG_2925.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+接近下午五點，我們終於到達了最後水源地，這裡是和平南溪的源頭。後面就是最後一段陡坡，這片碎石坡上去後,就可以到達四岔路口。越過這最後的碎石坡後，就回到南湖上圈谷囉!  
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://1.bp.blogspot.com/-KmybDJotV9s/XcK9l6RNtzI/AAAAAAAA5iM/VrzjXwHg2P062VVOJcpvIIpsJevBEO-7gCLcBGAsYHQ/s640/_MG_2929.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://1.bp.blogspot.com/-PZgiyoYmNdo/XcK94XIfCgI/AAAAAAAA5iY/VD8DS7Rr5yYFEvq8EPDfAHDLqusJ-c7TQCLcBGAsYHQ/s640/_MG_2931.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-9z6fpsdZa4M/XcK97ozRxwI/AAAAAAAA5ig/4OT85G61vQQkSFgzRKfbS9aQFToG2CL0wCLcBGAsYHQ/s1600/_MG_2933.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-01PjI3WXytY/XcK96uF7YgI/AAAAAAAA5ic/a1r8iKb0g9Qv-LUAA26vCqk3-cpcRBawQCLcBGAsYHQ/s1600/_MG_2936.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+我們回到圈谷的時間剛剛好，正是夕陽通紅的時刻，不想馬上回山屋，我們還在上圈谷繞了一下。上圈谷靠東峰這一側山坡上的圓柏巨木被夕陽照得通紅。  
+坐在上圈谷欣賞南湖日暮的風光，仔細的在腦海中回味一下今天這趟路走來的風景，還真是意猶未盡，特別是早上在稜線上，以及回程行經和平南溪谷地，如果不去馬比杉山的話，或許可以很悠閒的在獵寮水源那邊午睡一下，哈哈。明天一早後我們就要告別南湖山屋，往中央尖山前進了，但我們已經默默的在心裡決定好，下次要來安排一個悠哉的度假之旅，佛系登山不登頂，行到水窮處，坐看雲起時，悠哉享受山景即可。
+
+<figure class="align-center">
+  <img src="https://1.bp.blogspot.com/-3CLbvnidf0M/XcK-BQeKPmI/AAAAAAAA5io/B0NzvTUHGjQeQdxa0UAc13Gi6j3f_GhnQCLcBGAsYHQ/s1600/_MG_2942.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+{% include feature_row %}

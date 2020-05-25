@@ -1,6 +1,6 @@
 ---
 title: 攝影圖文記錄
-layout: collection
+layout: archive
 permalink: /mt-note-photo/
 collection: mt-note-photo
 author_profile: true

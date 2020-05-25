@@ -17,13 +17,13 @@ main:
     url: /mt-note-photo-home/
     children:
       - title: "高山百岳"
-        url: /mt-note-photo-100peaks/
+        url: /categories/mt-note-photo-100peaks/
       - title: "古道遺跡"
-        url: /mt-note-photo-historicaltrail/
+        url: /categories/mt-note-photo-historicaltrail/
       - title: "中級山"
-        url: /mt-note-photo-midalt/
+        url: /categories/mt-note-photo-midalt/
       - title: "郊山"
-        url: /mt-note-photo-townsadjacent/
+        url: /categories/mt-note-photo-townsadjacent/
   - title: "山岳攝影"
     url: /mt-gallery/
     children:

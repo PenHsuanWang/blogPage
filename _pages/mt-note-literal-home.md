@@ -11,7 +11,7 @@ sidebar:
   nav: "main"
 
 feature_row1:
-  - image_path: https://lh3.googleusercontent.com/ZshwhL5MJnxMkgHWyFwP22eAq8XYo-5f5h69VcO6RQo_3ocCcwo_6St8SX17MMfdTeRqCEDJ-45TE7mrPPM=w3000-h2000
+  - image_path: https://lh3.googleusercontent.com/ZshwhL5MJnxMkgHWyFwP22eAq8XYo-5f5h69VcO6RQo_3ocCcwo_6St8SX17MMfdTeRqCEDJ-45TE7mrPPM=w640-h480
     alt: "高山百岳"
     title: "高山百岳文字紀錄"
     excerpt: '台灣百岳、高山風景．行程文字紀錄'
@@ -27,7 +27,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path:	https://lh3.googleusercontent.com/OcB8x_NVl6m43qtf0plWZaWZ3KF5UAbI97n2_kqYD7sqGXfvaynwDflkEIZr961Cb3rLM0Q17F4w9R4FZQc=w3000-h2000
+  - image_path:	https://lh3.googleusercontent.com/OcB8x_NVl6m43qtf0plWZaWZ3KF5UAbI97n2_kqYD7sqGXfvaynwDflkEIZr961Cb3rLM0Q17F4w9R4FZQc=w640-h480
     alt: "台灣中級山文字紀錄"
     title: "中級山"
     excerpt: '中級山、森林探險'
@@ -36,7 +36,7 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: https://lh3.googleusercontent.com/gV1wboTJV0s6BuX0pOo1CjRC4qjqa2bjkouaI6-NW457IzbxmCjw8pXTu-lx_KNG7cC5R2nMNRu5Y5kubNg=w3000-h2000
+  - image_path: https://lh3.googleusercontent.com/gV1wboTJV0s6BuX0pOo1CjRC4qjqa2bjkouaI6-NW457IzbxmCjw8pXTu-lx_KNG7cC5R2nMNRu5Y5kubNg=w640-h480
     alt: "郊山 文字行程紀錄"
     title: "郊山 文字行程紀錄"
     excerpt: '郊山 文字行程紀錄分享'
