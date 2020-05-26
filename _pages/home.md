@@ -100,7 +100,7 @@ feature_row:
     border: solid 5px white;
     border-color: white;
     color: white;
-    font-size: 30px;
+    font-size: auto 2vw;
     padding: auto;
     cursor: pointer;
     border-radius: 7px;
@@ -114,15 +114,15 @@ feature_row:
 
   .container .btn2 {
     position: absolute;
-    top: 85%;
-    left: 73%;
+    top: 20%;
+    left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     background-color: rgba(0,0,0, .50);
     border: solid 2px white;
     border-color: white;
     color: white;
-    font-size: 20px;
+    font-size: auto 1vw;
     padding: auto;
     cursor: pointer;
     border-radius: 5px;
@@ -143,7 +143,7 @@ feature_row:
 
   <div class="container">
     <img src="https://lh3.googleusercontent.com/MWFpxblKVqTEO7kb_n6prVg541edr6PSwLeisUNFtsf-my284EJqPd16dFNarGh_GIFaxE5KcSwaZ9lL4UQ=w2000-h1080" alt="全站登山圖文紀錄總分類" style="width:100%">
-    <button class="btn" onclick="location.href='/categories/'">前往文章分類</button>
+    <button class="btn" onclick="location.href='categories/'">前往文章分類</button>
   </div>
 
   <table align="center">
@@ -153,28 +153,28 @@ feature_row:
           <h3> 前往百岳分類首頁 </h3>
           <div class="container">
             <img src="https://lh3.googleusercontent.com/ZshwhL5MJnxMkgHWyFwP22eAq8XYo-5f5h69VcO6RQo_3ocCcwo_6St8SX17MMfdTeRqCEDJ-45TE7mrPPM=w640-h480" alt="登山圖文紀錄以百岳分類" style="width:100%">
-            <button class="btn2" onclick="location.href='/categories/mt-note-photo-100peaks_tag/'">百岳</button>
+            <button class="btn2" onclick="location.href='categories/mt-note-photo-100peaks_tag/'">百岳</button>
           </div>
         </td>
         <td halign="right">
           <h3> 前往中級山分類 </h3>
           <div class="container">
             <img src="https://lh3.googleusercontent.com/ON44zjY37Pt-yb1EBHxkR2dDh4s5Z_pcPoJ4zD3ZH25V3Yg5qGhJkGnUdBK4gp-VUwJd_nxq6--4-qSn8VI=w640-h480" alt="登山圖文紀錄以中級山分類" style="width:100%">
-            <button class="btn2" onclick="location.href='/categories/mt-note-photo-midalt_tag/'">中級山</button>
+            <button class="btn2" onclick="location.href='categories/mt-note-photo-midalt_tag/'">中級山</button>
           </div>
         </td>
         <td halign="right">
           <h3> 前往古道探險分類 </h3>
           <div class="container">
             <img src="https://lh3.googleusercontent.com/zOHAok7vAKpmOz_f5HgtienuN_MO9ZTTRTEPRrjvDUuqDaUVdEQhYinuq8EIwn5ZDHJ16K5j7sDADT7rbuk=w640-h480" alt="登山圖文紀錄以古道相關分類" style="width:100%">
-            <button class="btn2" onclick="location.href='/categories/mt-note-photo-historicaltrail_tag/'">古道</button>
+            <button class="btn2" onclick="location.href='categories/mt-note-photo-historicaltrail_tag/'">古道</button>
           </div>
         </td>
         <td halign="right">
           <h3> 前往郊山分類 </h3>
           <div class="container">
             <img src="https://lh3.googleusercontent.com/gV1wboTJV0s6BuX0pOo1CjRC4qjqa2bjkouaI6-NW457IzbxmCjw8pXTu-lx_KNG7cC5R2nMNRu5Y5kubNg=w640-h480" alt="登山圖文紀錄以郊山分類" style="width:100%">
-            <button class="btn2" onclick="location.href='/categories/mt-note-photo-townsadjacent_tag/'">郊山</button>
+            <button class="btn2" onclick="location.href='categories/mt-note-photo-townsadjacent_tag/'">郊山</button>
           </div>
         </td>
       </tr>
@@ -185,7 +185,7 @@ feature_row:
   <p>登高而望遠，台灣有268座高山，站在高處，可以看見平時見不到的風景。這或許也是高山迷人的地方吧! 我從大一加入登山社開始，登山時幾乎都會背上我的單眼相機，雖然讓背包重上許多，但能夠記錄下這些讓人驚艷的時刻，再重也值得。</p>
   <div class="container">
     <img src="https://1.bp.blogspot.com/-HqaEyr-bb8c/XfD-tPR7bAI/AAAAAAAA6I0/Jf3M0XQkXXwGGXcmzUn75eRc5qCHcbTbgCLcBGAsYHQ/s1600/_MG_2961.JPG" alt="登山百岳攝影集" style="width:100%">
-    <button class="btn" onclick="location.href='/mt-gallery-100peaks/'">前往百岳攝影集</button>
+    <button class="btn" onclick="location.href='mt-gallery-100peaks/'">前往百岳攝影集</button>
   </div>
 
 </body>
