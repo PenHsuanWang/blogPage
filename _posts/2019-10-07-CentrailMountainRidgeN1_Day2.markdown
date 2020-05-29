@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[圖文] 20191007 南湖中央尖 北一段縱走-Day2 南湖北山、五岩鋒、前進南湖圈谷"
+title:  "南湖中央尖 北一段縱走-Day2 南湖北山、五岩鋒、前進南湖圈谷"
 excerpt: "南湖中央尖O型縱走第二天，我們由雲稜山莊出發登上了中央山脈主稜。南湖北山為中央山脈主稜上最北的一座百岳。前進南湖圈谷前，還需要經過五岩峰，五岩峰的東側是和平北溪源頭侵蝕出來的大崩壁。今天可以清楚看見南湖大山與中央尖山的輪廓，這座山有著帝王之山的稱號，於此地可以感受到他的氣勢。"
 
 date:   2019-10-07 06:00:00 +0800
@@ -80,14 +80,14 @@ gallery:
 ---
 
 <figure style="width: 40%" class="align-right">
-  <img src="https://lh3.googleusercontent.com/zM8Cs7ZN4hMjoIuYm10g6LSwfe4wRlIEZxCSuzBB8AxliGfi5mtcDqqf_mcOyjfvr8OxIxtYWVRoYtJzdzU=w640-h480" alt="五岩峰為進入南湖圈谷必經的路線">
+  <img src="https://i.imgur.com/11emdL6.jpg" alt="五岩峰為進入南湖圈谷必經的路線">
   <figcaption> 五岩峰 </figcaption>
 </figure> 
   
 南湖中央尖O型縱走第二天，我們由雲稜山莊出發登上了中央山脈主稜。我們今天會先去造訪南湖群峰中的前兩座百岳。審馬陣山以及南湖北山。再經由五岩峰進入南湖圈谷。南湖北山是中央山脈主稜上最北端的百岳，同時也是台中市、宜蘭縣與花蓮縣的交界。此處同時為三條河流的源頭，分別為蘭陽溪、大甲溪以及和平溪。山頂有一顆刻有"蘭陽溪源頭"的石頭。想想也真是神奇，落在這邊的雨水可能只有幾公尺之差，在這個地方將會分道揚鑣，分別流進台中港跟花蓮海岸線。
 
 <figure style="width: 90%" class="align-center">
-  <img src="https://lh3.googleusercontent.com/P13Wlg7RoJGiQzU9_71Gfs9byToH492KfvaC69q4UvsUrDfUMlmyeEffSlymTteisYGtAORQnUyYPC0RKbw=w1000-h800" alt="由南湖北山前望向中央山脈北段的主稜">
+  <img src="https://i.imgur.com/ChUJFGg.jpg" alt="由南湖北山前望向中央山脈北段的主稜">
   <figcaption> 望向中央山脈主稜 </figcaption>
 </figure> 
 

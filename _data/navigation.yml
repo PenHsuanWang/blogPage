@@ -14,7 +14,7 @@ main:
       - title: "郊山"
         url: /mt-note-literal-townsadjacent/
   - title: "圖文記錄"
-    url: /mt-note-photo-home/
+    url: /categories/
     children:
       - title: "高山百岳"
         url: /categories/mt-note-photo-100peaks/
