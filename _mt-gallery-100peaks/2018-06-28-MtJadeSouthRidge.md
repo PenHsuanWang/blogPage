@@ -11,7 +11,7 @@ classes: wide
 
 header:
   image: https://lh3.googleusercontent.com/L7kUZII9mZwaJ6v3pGynhrpiDPzIPkbn3_Mw5CdCWruAoLJy8wmULxYJuZwH7koHnNqvqyPvJU1TeK6hp78=w1920-h1080
-  teaser: https://lh3.googleusercontent.com/L7kUZII9mZwaJ6v3pGynhrpiDPzIPkbn3_Mw5CdCWruAoLJy8wmULxYJuZwH7koHnNqvqyPvJU1TeK6hp78=w1920-h1080
+  teaser: https://lh3.googleusercontent.com/L7kUZII9mZwaJ6v3pGynhrpiDPzIPkbn3_Mw5CdCWruAoLJy8wmULxYJuZwH7koHnNqvqyPvJU1TeK6hp78=w330-h220
 sidebar:
   - title: "玉山南稜線"
     image: https://lh3.googleusercontent.com/uz8MURQ9n4LIKN0Zou-U8oo_zqP3XmgogFPBN2l0sm6yjAPbYL4u78nmCkctqmub40E-x0MjZYyr4E9O9tg=w1920-h1080

@@ -30,7 +30,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://lh3.googleusercontent.com/gqUzrsbkraQoLe0So4jRjbVM2B2gahQRCbU4_Cg9Cyrt4aKI8xZabmgPoxBlzGZh5KdbVSTfuZ01FNlllso=w640-h480
+  - image_path: https://i.imgur.com/HZM8E2p.jpg
     title: "[圖文] 北一段縱走-Day1 前進雲稜山屋"
     excerpt: "前進南湖大山，第一天我們搭公車從宜蘭轉運站到勝光橋，展開為期7天的中央山脈北一段之旅。越過多家屯山，往雲稜山屋前進，今天的天氣非常的好，還可以看見蘭陽平原的雲海，希望未來7天能滿滿的收穫。"
     url: "/mt-note-photo-100peaks/CentrailMountainRidgeN1_Day1/"

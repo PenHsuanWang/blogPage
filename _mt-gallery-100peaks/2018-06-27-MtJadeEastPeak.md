@@ -11,7 +11,7 @@ classes: wide
 
 header:
   image: https://lh3.googleusercontent.com/8G7v5tjCucYL7JZdemi4NJxV5lrYyp8c3IGke7lMUYSFTGdAX7EjYQGS1wjkpv1OQUX7bZc4nkpMrKDQDxo=w1920-h1080
-  teaser: https://lh3.googleusercontent.com/8G7v5tjCucYL7JZdemi4NJxV5lrYyp8c3IGke7lMUYSFTGdAX7EjYQGS1wjkpv1OQUX7bZc4nkpMrKDQDxo=w1920-h1080
+  teaser: https://lh3.googleusercontent.com/8G7v5tjCucYL7JZdemi4NJxV5lrYyp8c3IGke7lMUYSFTGdAX7EjYQGS1wjkpv1OQUX7bZc4nkpMrKDQDxo=w330-h220
 sidebar:
   - title: "玉山東峰"
     image: https://lh3.googleusercontent.com/v0iXdeBOk66f1m4hHp9vOz5RQ6_2_FKy_Xk9MnVpK8RWOeywZYtifRx3WGLAa2s0unXj-kSm-7j3eF9xykw=w1920-h1080

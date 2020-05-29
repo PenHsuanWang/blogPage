@@ -10,22 +10,22 @@ classes: wide
   - dark-theme
 
 header:
-  image: https://1.bp.blogspot.com/-Y3sRZUpWD_Q/XfD_Ir9j_tI/AAAAAAAA6JA/MfVnJC_mZpA2DsBB01qZaSjU0O5KauXSACLcBGAsYHQ/s1600/_MG_2965.JPG
-  teaser: https://1.bp.blogspot.com/-Y3sRZUpWD_Q/XfD_Ir9j_tI/AAAAAAAA6JA/MfVnJC_mZpA2DsBB01qZaSjU0O5KauXSACLcBGAsYHQ/s1600/_MG_2965.JPG
+  image: https://i.imgur.com/ZSAASzM.jpg
+  teaser: https://i.imgur.com/ZSAASzM.jpg
 sidebar:
   - title: "南湖大山 五嶽"
-    image: https://1.bp.blogspot.com/-tIXVarfPzUY/XfEIbyCeNuI/AAAAAAAA6Jc/tDRELv0jtmwIxZrRd8OhqzDJbfK906IiwCLcBGAsYHQ/s1600/_MG_2979.JPG
+    image: https://i.imgur.com/0m14LpK.jpg
     image_alt: "南湖大山山頂。南湖大山又稱為帝王之山，台灣五嶽之一 ，同時為一等三角點，中央山脈北一段最高點"
     text: "南湖大山山頂。南湖大山又稱為帝王之山，台灣五嶽之一 ，同時為一等三角點，中央山脈北一段最高點"
 gallery:
-  - url: 
-    image_path: https://1.bp.blogspot.com/-oUH22d-CtRg/XfD_Bz_UB0I/AAAAAAAA6I8/M7x24PORMxYHG1IJCwN80BEZxSqqDOkawCLcBGAsYHQ/s1600/_MG_2960.JPG
+  - url: mt-note-photo-100peaks/CentrailMountainRidgeN1_Day4/
+    image_path: https://i.imgur.com/UXNDAKz.jpg
     alt: "登頂南湖大山前的巨石堆"
-  - url: 
-    image_path: https://1.bp.blogspot.com/-HqaEyr-bb8c/XfD-tPR7bAI/AAAAAAAA6I0/Jf3M0XQkXXwGGXcmzUn75eRc5qCHcbTbgCLcBGAsYHQ/s1600/_MG_2961.JPG
+  - url: mt-note-photo-100peaks/CentrailMountainRidgeN1_Day4/
+    image_path: https://i.imgur.com/LHH7MQr.jpg
     alt: "漫步雲端"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: https://1.bp.blogspot.com/-PAUtu1MCClo/XfEH_yfOTqI/AAAAAAAA6JQ/Qs4TDVj12eIT-GOOow2ORSYwUUoW3D8DACLcBGAsYHQ/s1600/_MG_2967.JPG
+  - url: mt-note-photo-100peaks/CentrailMountainRidgeN1_Day5/
+    image_path: https://i.imgur.com/Fj1kpXp.jpg
     alt: "中央尖山"
 ---
 

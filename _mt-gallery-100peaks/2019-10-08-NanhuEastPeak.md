@@ -11,20 +11,20 @@ classes: wide
 
 header:
   image: https://1.bp.blogspot.com/-o2UxVovgXUo/XcK5gGnDzhI/AAAAAAAA5c0/y7DUPxt0qwQMgSGes2j3jwgJQFcXF0VdgCLcBGAsYHQ/s1600/_MG_2752.JPG
-  teaser: https://1.bp.blogspot.com/-o2UxVovgXUo/XcK5gGnDzhI/AAAAAAAA5c0/y7DUPxt0qwQMgSGes2j3jwgJQFcXF0VdgCLcBGAsYHQ/s1600/_MG_2752.JPG
+  teaser: https://1.bp.blogspot.com/-o2UxVovgXUo/XcK5gGnDzhI/AAAAAAAA5c0/y7DUPxt0qwQMgSGes2j3jwgJQFcXF0VdgCLcBGAsYHQ/s320/_MG_2752.JPG
 sidebar:
   - title: "南湖大山東峰"
     image: https://1.bp.blogspot.com/-GFXXtp5C_aM/XcK5VHe3n6I/AAAAAAAA5co/wMZJP4ss8dUYR1XV-n9WQe9HmOKNw5nlACLcBGAsYHQ/s1600/_MG_2743.JPG
     image_alt: "南湖大山東峰，為南湖群峰之一。台灣百岳，位在南湖圈谷東側，向東延伸的支稜可以通往馬比杉山。"
     text: "南湖大山東峰，為南湖群峰之一。台灣百岳，位在南湖圈谷東側，向東延伸的支稜可以通往馬比杉山。"
 gallery:
-  - url: 
+  - url: mt-note-photo-100peaks/CentrailMountainRidgeN1_Day3/
     image_path: https://1.bp.blogspot.com/-6ZHy7rXh9Gw/XcK5NwL5yjI/AAAAAAAA5cY/VC39_mnu7b4bM3U0L4D6uTmFR9S80MlsACLcBGAsYHQ/s1600/_MG_2739.JPG
-    alt: "登頂南湖大山前的巨石堆"
-  - url: 
+    alt: "望向南湖北山以及五岩峰的山稜"
+  - url: mt-note-photo-100peaks/CentrailMountainRidgeN1_Day3/
     image_path: https://1.bp.blogspot.com/-tPv8XX2Y_aI/XcK9P8X2PGI/AAAAAAAA5h4/_CdK44jB4VwE4zVVQ7_LoGGhWnbELzPxgCLcBGAsYHQ/s1600/_MG_2925.JPG
-    alt: "漫步雲端"
-  - url: 
+    alt: "和平南溪谷地"
+  - url: mt-note-photo-100peaks/CentrailMountainRidgeN1_Day3/
     image_path: https://1.bp.blogspot.com/-2gWkue7gwl4/XcK6EX3pulI/AAAAAAAA5d0/f3GAs5N8P0cU6Q1Paed2Dzv12B70HluPwCLcBGAsYHQ/s1600/_MG_2797.JPG
     alt: "陶塞峰"
 ---

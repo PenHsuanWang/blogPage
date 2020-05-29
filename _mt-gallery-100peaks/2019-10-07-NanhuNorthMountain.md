@@ -11,7 +11,7 @@ classes: wide
 
 header:
   image: https://1.bp.blogspot.com/-KA8MlOensi0/XcB6T0IapUI/AAAAAAAA5ZE/DymurgIUENkRQxd284R5MuV9ieNdbXx8QCLcBGAsYHQ/s1600/_MG_2502.JPG
-  teaser: https://1.bp.blogspot.com/-KA8MlOensi0/XcB6T0IapUI/AAAAAAAA5ZE/DymurgIUENkRQxd284R5MuV9ieNdbXx8QCLcBGAsYHQ/s1600/_MG_2502.JPG
+  teaser: https://1.bp.blogspot.com/-KA8MlOensi0/XcB6T0IapUI/AAAAAAAA5ZE/DymurgIUENkRQxd284R5MuV9ieNdbXx8QCLcBGAsYHQ/s320/_MG_2502.JPG
 sidebar:
   - title: "南湖北山 蘭陽溪源頭"
     image: https://1.bp.blogspot.com/-YUs6084PdBU/XcB6cn89JbI/AAAAAAAA5ZU/otQAyqDfjjIOt_Vqc_xYruSS0kPaGe7_ACLcBGAsYHQ/s1600/_MG_2526.JPG
