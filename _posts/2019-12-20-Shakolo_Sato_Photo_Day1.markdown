@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[圖文] 20191220 霞喀羅縱走-前篇 探訪佐藤警官駐在所"
+title:  "霞喀羅縱走-前篇 探訪佐藤警官駐在所"
 excerpt: "多年前有查過從霞喀羅經佐藤山上檜山接大鹿林道的路線，也將探訪日治時代在新竹山區最大的'佐藤駐在所'排入計畫內多年，如今終於實現了。身為新竹人，竟然沒爬過霞喀羅古道實在說不過去"
 
 date:   2019-12-20 06:00:00 +0800
@@ -12,9 +12,7 @@ classes: wide
 permalink: /:categories/:title/
 
 tags:
-  - 中級山
-  - 地區
-    - 新竹
+  - 新竹
 
 header:
   image: https://1.bp.blogspot.com/-B2HNJxDzaqM/XihzENo613I/AAAAAAAA75Q/WvyDCHvc5-c91wzTpr8ZQ12NaSKUyYvGACKgBGAsYHg/s1600/DSC_2074.JPG

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[圖文] 20191221 霞喀羅縱走-後篇 霞霞連走"
+title:  "霞喀羅縱走-後篇 霞霞連走"
 excerpt: "這次我們走一條很奇耙的路線，從石鹿登山口登霞喀羅大山後續行前往佐藤拜訪佐藤警官駐在所，並原路回到霞喀羅古道後再從古道4.5k處轉接霞山，經錦屏山、石麻達、屯野生台山，從屯野生台大水塔登山口下山。"
 
 
@@ -13,9 +13,7 @@ classes: wide
 permalink: /:categories/:title/
 
 tags:
-  - 中級山
-  - 地區
-    - 新竹
+  - 新竹
 
 header:
   image: https://1.bp.blogspot.com/-B2HNJxDzaqM/XihzENo613I/AAAAAAAA75Q/WvyDCHvc5-c91wzTpr8ZQ12NaSKUyYvGACKgBGAsYHg/s1600/DSC_2074.JPG

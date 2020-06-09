@@ -10,9 +10,7 @@ classes: wide
 permalink: /:categories/:title/
 
 tags:
-  - 中級山
-  - 地區
-    - 桃園
+  - 桃園
 
 header:
   image: https://1.bp.blogspot.com/-IlSPoVBQjLY/Xi2gxvoGhxI/AAAAAAAA8TQ/rAj3aNVSt1sSNQvTd_Gg3tvklhecIm1hwCLcBGAsYHQ/s1600/DSC_0972.jpg

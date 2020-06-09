@@ -1,0 +1,214 @@
+---
+layout: single
+title:  "霧鹿伊加之蕃（四）：再見下馬谷"
+excerpt: "又是在天未亮之際，被每天準時起床的郁嵐叫醒，摸索著戴上放在枕邊的頭燈，在寒冷的空氣中點起瓦斯爐頭煮熱水。等水熱的時候把頭探出天幕，發現天空中還是繁星點點。今天將要離開大崙溪，上切到東邊的馬蕃粕山稜線，也要拜訪本次大家最期待的－－上中下馬三谷地。"
+
+date:   2020-01-28 06:00:00 +0800
+categories: mt-note-photo-midalt
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 台東
+
+header:
+  teaser: https://miro.medium.com/max/875/1*y137N1JDB3ufJWPv68RoRQ.jpeg
+  image_description: "台東卑南，霧鹿伊加之蕃"
+  overlay_filter: 0.5
+
+author: Weiru Wang
+author_profile: true
+
+feature_row:
+  - image_path: 
+    title: "霧鹿伊加之蕃（一）：迫降除夕夜"
+    excerpt: "清晨五點半，天色還一片黑我們就戴起頭燈出發，要從12.5K一路走到24.5K的屯古嶺登山口。一開始走，心裡對過年上山啊、家庭責任這些心事，還掛記得很重，整個人都有點無法進入狀況，好像想不起當初那麼渴望上山的心情是什麼，邊走也邊跟冠瑜說：現在好像對於上山沒有那麼強烈的渴望了。"
+    url: "/mt-note-photo-midalt/WuLu_Day1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（二）：三過大崙溪"
+    excerpt: "最終選擇了去跟成大航跡，我們沿著崩溝邊緣往下，這一下就下了很多，幾乎都快回到大崙溪了。眼見崩溝崩塌的情況慘不忍睹，考慮到腰繞路後面還有兩三個溝要過，擔心也會一樣難以下切，索性又重新回到大崙溪底，直接沿溪下溯，改從其他稜線上切，把爬了兩個小時的高度又重新吐回去。"
+    url: "/mt-note-photo-midalt/WuLu_Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（三）：陽光灑落於伊加之蕃"
+    excerpt: "今天就要走到伊加之蕃遺址了。天未亮起床，樹林間霧氣濕氣濃重，有種風雨來臨前的肅殺。等我們收拾好營地，揹上背包點起頭燈摸黑出發，天空就開始下雨。"
+    url: "/mt-note-photo-midalt/WuLu_Day3/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（五）：當冰雪封山的時候"
+    excerpt: "昨天晚上聯絡留守，得知今天將會是天氣最不好的一天，明天開始才會漸漸好轉，溫度也會上修。睡前大家就稍微討論了幾個可能的方案：天氣真的很差的話，可能只能推到松林營地，說不定還得用到預備天才能出去；如果狀況好的話，也可能直接越過卑南主，住到三叉營地去，但真的是要拿出生命來走了。行前一天，因為過年期間的天氣預報很不樂觀，詣淳加上了一條備用路線，是萬一卑南主峰積雪，就改從呂禮山往東轉入相原溪、延平林道出台東，大概也是再花三天可以走出去。"
+    url: "/mt-note-photo-midalt/WuLu_Day5/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（六）：全心全意愛你"
+    excerpt: "在極度寒冷的空氣中瑟瑟發抖起床，這個早晨是幾天以來讓人最感刺骨寒冷的了。今天的目標是拿出生命狂走，希望能紮到延平林道，後天才能夠準時下山。"
+    url: "/mt-note-photo-midalt/WuLu_Day6/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（七）：延平林道走一次不夠，那你有走三次嗎？"
+    excerpt: "還記得，大一時走大鬼湖橫斷，最後也是走延平林道出來，走到最後心裡就想著：以後真不想再走一次！殊不知，才過了兩年，我就走了第二次。然後再過了三年，現在要走第三次了.…..話真的是不要說得太果決！"
+    url: "/mt-note-photo-midalt/WuLu_Day7/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+
+---
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  .container {
+    position: relative;
+    width: 100%;
+  }
+
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .container .btn {
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgba(0,0,0, .50);
+    border: solid 5px white;
+    border-color: white;
+    color: white;
+    font-size: auto 2vw;
+    padding: auto;
+    cursor: pointer;
+    border-radius: 7px;
+    text-align: center;
+  }
+
+  .container .btn:hover {
+    background-color: #7FFFD4;
+    opacity: 0.7;
+  }
+
+    </style>
+</head>
+
+  <h2>本系列轉載自</h2>
+  <p>一葉汪洋</p>
+  <div class="container">
+    <img src="https://miro.medium.com/max/1400/1*pUKj34VWMKwdqUoxfF1XmA.jpeg" alt="一葉汪洋部落格" style="width:100%">
+    <button class="btn" onclick="location.href='https://medium.com/一葉汪洋?fbclid=IwAR0a6p462IttVpIAs8LSWkxm4nmYJCSVYXw-Uidh5tz2XSsqStcJbKfjrEo'">前往部落格</button>
+  </div>
+</html>
+
+## 霧鹿伊加之蕃（四）：再見下馬谷
+
+又是在天未亮之際，被每天準時起床的郁嵐叫醒，摸索著戴上放在枕邊的頭燈，在寒冷的空氣中點起瓦斯爐頭煮熱水。等水熱的時候把頭探出天幕，發現天空中還是繁星點點。  
+
+啊！是好天氣！  
+
+今天將要離開大崙溪，上切到東邊的馬蕃粕山稜線，也要拜訪本次大家最期待的－－上中下馬三谷地。  
+
+廣闊的谷地，天氣好的時候是天堂，天氣不好的時候卻會變成地獄。本來已經抱著可能會在寒風冷雨的谷地中瑟瑟發抖的準備，沒想到卻讓我們撿到了一天的大好天氣。  
+
+有些慵懶地收拾好營地及裝備，出發前往要上切的稜線。這條稜線在地圖等高線上看起來超陡超密，實際走起來也是陡的有點像要飛簷走壁，但整體林相卻很不錯，當初開發這條稜線走法的人真的是神來一筆。  
+
+從海拔1700的溪底要一路陡上到海拔2200的主稜，一路頗有效率的陡陡陡陡上，最後在接上主稜前，繞掉了一個岩壁地形，踏上陽光普照的松林。  
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://miro.medium.com/max/625/1*_jr121BuLzBd6GGNAPq0SA.jpeg" alt="">
+  <figcaption> 天氣陽光好好，主稜是平緩的松林，走起來十分舒服 </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://miro.medium.com/max/625/1*bItxMUSIk1mpkYKJTpfxaQ.jpeg" alt="">
+  <figcaption> 讓人心曠神怡，緊繃的心情都放鬆下來了（Photo credit:詣淳） </figcaption>
+</figure>
+
+三年前走這段稜線的時候，我自己的身心狀況都不太好，除了好累好辛苦之外沒有特別多的印象，此番再訪，才發現這是一條多麼美麗的稜線。大家一路蹦蹦跳跳地走著，跟前兩天超哈扣的行程比起來，難得是比較放鬆的時候。  
+
+十一點二十分，登頂我們此趟的第一顆基點峰：馬蕃粕山。   
+
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*xBAG6rUMPPeoDg8diJSjrA.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+還記得上次之前紹安登頂這裡的時候，發現三角點編號是七字頭，很興奮地要留守Tag詣淳，聽說七字頭的三角點，都是特別荒僻偏遠難到達的。的確啊！走了四天費盡千辛萬苦才走到這裡呢。  
+  
+雖然陽光燦爛，其實氣溫還是頗低，且稜線上風很大很冷。稍作停留補充行動糧，不敢讓身體冷去太久，我們懷抱著期待的心情，前往上中下馬谷！  
+
+大概一兩個月前，我因為騎腳踏車的關係膝蓋受傷，在那之後一直沒有好好認真休養讓傷恢復，時不時還很不乖跑去攀岩，在出隊前沒有讓腳傷回復到最好的狀態，導致這次上山後大概走了兩三天，膝蓋就開始復發，感覺怪怪的，雖然每天晚上休息後會稍微好轉，走了一天後到下午就會開始惡化疼痛。離開馬蕃粕山後，又開始覺得腳不舒服了。很感謝彥廷聽到我腳痛，馬上借了護膝給我穿。  
+
+往南走一段，很快就看到右手邊出現了閃閃發亮的上馬谷，需要陡下切一段才能抵達谷地。我們沿著旁邊稜線，又繼續走到中馬谷，才決定下切到谷地中。  
+
+然後，就是一連串的驚艷，驚嘆，再多的大吼大叫都無法完全表達我們對此眼前景色的讚嘆與身歷其境的快樂。中馬谷真、的、好、大！真的是讓人詞窮到難以形容的谷地！也可能是我們前三天真的都過得太辛苦了，今天又是預期之外賺到的好天氣，讓這瞬間的快樂都無限放大了也不一定，但總之，身在谷地的我們真的是太太太太快樂太興奮了。  
+
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*ttKJGu9k_2SRegKjwWOmTQ.jpeg" alt="">
+  <figcaption> 照片難以框住的壯闊 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*xcZoxj3ihSxz_w2UL64ADQ.jpeg" alt="">
+  <figcaption> 喜歡這張，笑開來的大家 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*tP8CkPkYUC9dPBdb30aeVA.jpeg" alt="">
+  <figcaption> 藍天、白雲、綠油油的谷地 </figcaption>
+</figure>
+
+對我來說，走在中馬谷中，更有種一解多年遺憾的意義吧。三年前來到這裡，因為行程很趕，我們只有在下馬谷稍微休息取水後，就直接走稜線匆匆經過了中馬谷跟上馬谷，並沒有來看中馬谷。當時真的覺得很懷疑人生，想著為什麼我花費這麼多力氣準備、開隊、好不容易抵達這裡，卻只能匆匆一瞥下馬谷後就離去？我到底在幹嘛？  
+
+停留的時間或許不是讓我一直感到遺憾的關鍵，而是當時自己狀況不好，又加上身為領隊，第一次開縱走隊又是對我來說難度太高的隊伍，整個人背負了太大的壓力，身陷在情緒中，完全沒有辦法好好享受、感受眼前景色的遺憾。  
+
+能夠再次來到這裡，走在中馬谷中，跟著身旁快樂真摯的同伴們一起大呼大叫、跳上跳下，真的很開心很開心很開心。終於沒有一點遺憾了。  
+
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*-qXxOODgj5oUhqPOriPABQ.jpeg" alt="">
+  <figcaption> 翻閱之間的稜線後，來到下馬谷 </figcaption>
+</figure>
+
+抵達下馬谷的水源，詣淳宣布了一個噩耗……「因為之後天氣不穩定，希望可以多往前推一點，我們取完水，到賽車跑道紮營吧。」  
+
+登登登！當下彷彿可以聽到背景劈下閃電的聲音！老實說我心裡也有很大很大的私心想要住在下馬谷，前面都累了那麼多天，難道現在不能享有一點悠閒的時刻嗎？雖然以理性考量，詣淳的決定非常合情合理，可是、可是......當下實在有點說不出話來，我們失望的表情應該都寫在臉上吧，只見大家沉默不語，只有冠瑜附和著：「以探勘的原則來說的確是能多走就多走…。」  
+
+認命地拿出水瓶，取滿了往後兩天的用水。下一次再取水就是三叉營地的看天池或是石山林道了。我跟彥廷一口氣灌了300ml的水。「喝爆！！都給它喝爆！！」（後來發現這樣一次狂灌很快又尿光光，實在沒什麼用）  
+
+不知道是不是最近跑戶外都比較習慣了及時行樂，頓時對這硬漢的決策有些難以接受。但是往後回想起來，這真的是一個非常理性、冷靜又有勇氣的決定，也大概是只有身在領隊、嚮導位置，才有肩膀扛起的決定。  
+
+第一天，若不是堅持著多走到大崙溪，我們可能會因為卡在下溪而Delay；第二天，若不是抱著要前進到伊加之蕃的氣勢，我們可能會因為過不了預期之外的崩溝而Delay；而今天，不紮在下馬谷繼續往前推進到賽車跑道鞍部，這短短多走的兩個小時，更成為我們隔天及時撤退離開寒冷稜線不致失溫的關鍵吧。  
+
+雖然每一個「如果」的背後，都可能是不一樣的劇情。可能不致於太過悽慘，卻不見得會更順利。這就是爬山過程中的決策吧，沒有絕對正確的選擇，只有各種風險優劣，放在天秤上的衡量，做出決定的人，需要有厚實經驗累積出的洞見跟魄力。  
+
+而做出此決定的詣淳，是憑著身為領隊的責任，用更宏觀的視角衡量所做出的判斷，與此同時也必須壓下自己想要輕鬆玩樂的渴望，還要承擔大家失望的反應。了解這些之後，真的是打從心底肅然起敬，也深深感到自己還有許多要學習的地方。  
+
+雖然不能住在下馬谷，但能夠再訪此處，已經沒有任何遺憾。再見了！下馬谷！不知何時會有緣再訪深深山中的此處嗎？  
+
+往南爬上陡坡、經過呂禮北峰、再陡下到賽車跑道鞍部。我的腳走越不舒服，尤其是下坡，腳只要彎曲再伸直就疼痛難耐，只能用一種掰咖的姿勢走路，不知不覺跟丟了前面的詣淳跟彥廷，最後由冠瑜帶著腳痛的我跟感覺累壞了的郁嵐跟奕均，隨後抵達賽車跑道鞍部。詣淳他們已經在鞍部東側找到一塊稍微避風一點的營地，天色漸暗而狂風四起，憑著一股想取暖的渴望，彥廷跟冠瑜很不可思議地仍然升起火。  
+
+這天營地大概是這幾天最戰鬥的了。冷風一直吹火也烤不太暖，早早就鑽進天幕底下睡覺，一躺下就感到寒氣透過單薄的睡墊一直傳上來，讓人整夜輾轉難眠。  
+
+今天讓我們賺到了一天好天氣，而明天，大概就沒這麼好運了。  
+  
+
+{% include feature_row %}

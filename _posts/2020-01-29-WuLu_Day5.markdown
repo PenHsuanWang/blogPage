@@ -1,0 +1,195 @@
+---
+layout: single
+title:  "霧鹿伊加之蕃（五）：當冰雪封山的時候"
+excerpt: "昨天晚上聯絡留守，得知今天將會是天氣最不好的一天，明天開始才會漸漸好轉，溫度也會上修。睡前大家就稍微討論了幾個可能的方案：天氣真的很差的話，可能只能推到松林營地，說不定還得用到預備天才能出去；如果狀況好的話，也可能直接越過卑南主，住到三叉營地去，但真的是要拿出生命來走了。行前一天，因為過年期間的天氣預報很不樂觀，詣淳加上了一條備用路線，是萬一卑南主峰積雪，就改從呂禮山往東轉入相原溪、延平林道出台東，大概也是再花三天可以走出去。"
+
+date:   2020-01-28 06:00:00 +0800
+categories: mt-note-photo-midalt
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 台東
+
+header:
+  teaser: https://miro.medium.com/max/875/1*y137N1JDB3ufJWPv68RoRQ.jpeg
+  image_description: "台東卑南，霧鹿伊加之蕃"
+  overlay_filter: 0.5
+
+author: Weiru Wang
+author_profile: true
+
+feature_row:
+  - image_path: 
+    title: "霧鹿伊加之蕃（一）：迫降除夕夜"
+    excerpt: "清晨五點半，天色還一片黑我們就戴起頭燈出發，要從12.5K一路走到24.5K的屯古嶺登山口。一開始走，心裡對過年上山啊、家庭責任這些心事，還掛記得很重，整個人都有點無法進入狀況，好像想不起當初那麼渴望上山的心情是什麼，邊走也邊跟冠瑜說：現在好像對於上山沒有那麼強烈的渴望了。"
+    url: "/mt-note-photo-midalt/WuLu_Day1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（二）：三過大崙溪"
+    excerpt: "最終選擇了去跟成大航跡，我們沿著崩溝邊緣往下，這一下就下了很多，幾乎都快回到大崙溪了。眼見崩溝崩塌的情況慘不忍睹，考慮到腰繞路後面還有兩三個溝要過，擔心也會一樣難以下切，索性又重新回到大崙溪底，直接沿溪下溯，改從其他稜線上切，把爬了兩個小時的高度又重新吐回去。"
+    url: "/mt-note-photo-midalt/WuLu_Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（三）：陽光灑落於伊加之蕃"
+    excerpt: "今天就要走到伊加之蕃遺址了。天未亮起床，樹林間霧氣濕氣濃重，有種風雨來臨前的肅殺。等我們收拾好營地，揹上背包點起頭燈摸黑出發，天空就開始下雨。"
+    url: "/mt-note-photo-midalt/WuLu_Day3/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（四）：再見下馬谷"
+    excerpt: "又是在天未亮之際，被每天準時起床的郁嵐叫醒，摸索著戴上放在枕邊的頭燈，在寒冷的空氣中點起瓦斯爐頭煮熱水。等水熱的時候把頭探出天幕，發現天空中還是繁星點點。今天將要離開大崙溪，上切到東邊的馬蕃粕山稜線，也要拜訪本次大家最期待的－－上中下馬三谷地。"
+    url: "/mt-note-photo-midalt/WuLu_Day4/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（六）：全心全意愛你"
+    excerpt: "在極度寒冷的空氣中瑟瑟發抖起床，這個早晨是幾天以來讓人最感刺骨寒冷的了。今天的目標是拿出生命狂走，希望能紮到延平林道，後天才能夠準時下山。"
+    url: "/mt-note-photo-midalt/WuLu_Day6/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（七）：延平林道走一次不夠，那你有走三次嗎？"
+    excerpt: "還記得，大一時走大鬼湖橫斷，最後也是走延平林道出來，走到最後心裡就想著：以後真不想再走一次！殊不知，才過了兩年，我就走了第二次。然後再過了三年，現在要走第三次了.…..話真的是不要說得太果決！"
+    url: "/mt-note-photo-midalt/WuLu_Day7/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+---
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  .container {
+    position: relative;
+    width: 100%;
+  }
+
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .container .btn {
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgba(0,0,0, .50);
+    border: solid 5px white;
+    border-color: white;
+    color: white;
+    font-size: auto 2vw;
+    padding: auto;
+    cursor: pointer;
+    border-radius: 7px;
+    text-align: center;
+  }
+
+  .container .btn:hover {
+    background-color: #7FFFD4;
+    opacity: 0.7;
+  }
+
+    </style>
+</head>
+
+  <h2>本系列轉載自</h2>
+  <p>一葉汪洋</p>
+  <div class="container">
+    <img src="https://miro.medium.com/max/1400/1*pUKj34VWMKwdqUoxfF1XmA.jpeg" alt="一葉汪洋部落格" style="width:100%">
+    <button class="btn" onclick="location.href='https://medium.com/一葉汪洋?fbclid=IwAR0a6p462IttVpIAs8LSWkxm4nmYJCSVYXw-Uidh5tz2XSsqStcJbKfjrEo'">前往部落格</button>
+  </div>
+</html>
+
+## 霧鹿伊加之蕃（五）：當冰雪封山的時候
+
+這一夜睡得很不安穩，除了真的冷到睡不著外，聽著一陣一陣打在天幕帳上的雨聲，想到今天將是一整天走在寒風直吹的稜線上登上卑南主，也讓人心情心裡越聽越涼，輾轉難眠。  
+
+昨天晚上聯絡留守，得知今天將會是天氣最不好的一天，明天開始才會漸漸好轉，溫度也會上修。睡前大家就稍微討論了幾個可能的方案：天氣真的很差的話，可能只能推到松林營地，說不定還得用到預備天才能出去；如果狀況好的話，也可能直接越過卑南主，住到三叉營地去，但真的是要拿出生命來走了。行前一天，因為過年期間的天氣預報很不樂觀，詣淳加上了一條備用路線，是萬一卑南主峰積雪，就改從呂禮山往東轉入相原溪、延平林道出台東，大概也是再花三天可以走出去。  
+
+一切都要看天亮後的天氣狀況與人員狀況來決定。  
+
+好不容易捱到早晨，為了要盡量防風而把天幕搭得很低，結果大家起身要坐著吃早餐時，都只能用頭頂著天幕，後來紛紛表示這種感覺超不爽的XD  
+
+等到我們哆嗦著爬出帳外，發現天幕的角落、還有附近的枯木灌叢，一夜之間結了不少霜。收東西收到一半，天空開始飄霧雨……等等，這霧雨怎麼有結晶？而且，是六角形的冰晶？  
+
+「是雪花！！！」  
+
+現在居然在下雪！看著少見的六角形雪花，一群熱帶島嶼的孩子們頓時忘了對於嚴峻寒流的緊張，興奮地拍起照來。  
+  
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*PuzH79R3lcvxyCZcHFhcnQ.jpeg" alt="看見雪花而無比興奮">
+  <figcaption> 瑟瑟發抖的早晨，卻為看見雪花而無比興奮（Photo credit：詣淳） </figcaption>
+</figure>
+
+沒有想到，當我們動身往呂禮山稜線上走去，走著走著，灑在身上的不再是零星的幾顆雪花，而是真正的大雪紛飛！回過頭，遠方的山巒景色，不知何時皆已經被紛飛的白雪景色遮蔽。  
+
+「這太扯了吧......」  
+
+此行探勘，走到第五天，怎麼每一天都有不同的主題，崩潰的時候超崩潰、開心的時候又超開心，根本是超濃縮版本的探勘啊。  
+
+「郁嵐，這是探勘也不一定會遇到的事啊！」  
+
+「上天對你很好，第一次走探勘就什麼都讓你體驗到了。」  
+
+「不不不拜託不要再來更崩潰的了！」  
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*nqAfLSOAF__3UbKdqTeGww.jpeg" alt="">
+  <figcaption> Photo credit：郁嵐 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*VZCyPFanRsU4GFuVXxEjMg.jpeg" alt="">
+  <figcaption> Photo credit：詣淳 </figcaption>
+</figure>
+
+彥廷說我們來唱一些跟雪有關的歌，卻怎麼也想不到台灣有什麼歌詞裡面有講到雪。這果然不在我們尋常的文化經驗裡啊！一直到最後一天走延平林道，才想到幾首中國東北歌手的歌，是跟下雪有關。  
+
+「明天冰雪封山的時候，我會光著雙腳，站在你翻山越嶺的盡頭，正當年少。」（宋東野－鴿子）  
+
+正在下雪的時候其實反而沒那麼冷，我們蹦蹦跳跳地拍照、驚嘆彼此身上的積雪。如果連這裡都下雪了，那麼遠方更高的卑南主、南一段稜線，此刻應該也下的亂七八糟吧？  
+
+當下的我們或許也沒想的那麼多，而是沉醉在難得一見的雪景中。直到原本輕飄飄的雪花，漸漸轉為風雨，濕透我們的衣物，體感溫度也開始急速下降。  
+
+九點左右，走到呂禮山附近的2775峰，也是撤退轉從台東出的關鍵交叉路口。在體溫不斷流失的風雨中，我們必須快速做出決定，是要繼續朝著卑南主山推進，還是撤退？  
+
+最終詣淳做出決定：我們撤退吧！  
+
+請郁嵐打了一通衛星電話連絡留守，告知我們要走撤退路線，接下來就是像逃難一般衝下了相原溪，這一路我只覺得真的是好冷！雖然應該不是目前為止爬山遇過雨最大風最冷的情況，但不知為何這次只要身體濕掉就會覺得特別冷，乾脆一直催眠自己「當作是在溯溪、游深潭」。這波寒流似乎是由西邊吹來，往東下之後，風雨明顯小了許多，在箭竹裡游泳、抓方位，狼狽地走了一兩個小時左右吧，終於看到了優美的相原溪。  
+
+到了溪邊，大家冷得直發抖，好像吃什麼東西都無法讓身體重新變暖和，乾脆開始煮熱水，甜湯鹹湯全部丟下去煮，一碗接著一碗狂煮狂喝，才讓神智逐漸恢復過來，不知道誰還帶頭開始做起救命外丹功，聽說對於暖身體有顯著的效果XD  
+
+大概因為實在太冷了，相原池其實也不是避風的營地，詣淳提議我們今天就紮在相原溪畔，好好生把火把全身烤乾烤暖，但相對條件是「明天要拿出生命來走到延平林道喔！」（這幾天到底預支了多少生命了啊啊啊）  
+
+逃難後的人們，開始行動遲緩地沿相原溪上溯。相原溪溪水清澈，溪岸的樹木青苔綠油油的，有一種小精靈住在裡面的感覺，從下溪處（第三匯流口）走到隔日要上切的第一匯流口，只有一個十米瀑布要從溪左岸高遶，其他小地形大都可以直接攀爬通過。  
+
+第一匯流口岸邊生長著幾株巨大的檜木，猶如山裡的神靈，守護著此處。  
+
+我們在其中一棵巨木腳邊歇腳搭建營地，升火專家們開始升火，撿柴組也拚了命到溪流各處挖掘乾柴，就是為了想要有燃燒一晚的溫暖營火可以取暖。  
+  
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*Qf7npf0_AJfKAhKmgsfh5g.jpeg" alt="">
+  <figcaption> 烤屁股實在太療癒了（Photo credit：郁嵐） </figcaption>
+</figure>
+
+從下午一直烤到晚上，襪子啊鞋子啊雨衣雨褲啊背包啊，終於才逐一烤乾，但雨也是不太客氣地一陣一陣下，甚至在吃晚餐的時候，還一度下起了冰雹...看著打在身上的小冰塊，有點哭笑不得，天啊這一趟到底有什麼東西沒有經歷到？  
+
+「明天讓我們看看彩虹好不好？」  
+
+這一趟每天都過得大喜大悲極度濃烈得探勘之旅，的確還沒有放過我們的意思。雖然沒有彩虹，卻有著不輸彩虹的神聖風景，在明天等著我們。  
+
+
+{% include feature_row %}

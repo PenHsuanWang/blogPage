@@ -1,5 +1,5 @@
 ---
-title:  "[圖文] 2020029 清水大山"
+title:  "砂卡噹三雄 清水大山"
 date:   2020-02-29 08:00:06 +0800
 categories: mt-note-photo-midalt
 classes: wide
@@ -8,9 +8,7 @@ classes: wide
 permalink: /:categories/:title/
 
 tags:
-  - 中級山
-  - 地區
-    - 花蓮
+  - 花蓮
 
 header:
   image: https://lh3.googleusercontent.com/FCCtmeXYnQckDXz3duiDeYMVfmZiiZwuRl_tAN8j2H66ywExnV1UJT_0DSpup5LUj7U_Ve5WS3iHgt8aSXk=w2000-h1800

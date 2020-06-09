@@ -1,0 +1,195 @@
+---
+layout: single
+title:  "霧鹿伊加之蕃（二）：三過大崙溪"
+excerpt: "最終選擇了去跟成大航跡，我們沿著崩溝邊緣往下，這一下就下了很多，幾乎都快回到大崙溪了。眼見崩溝崩塌的情況慘不忍睹，考慮到腰繞路後面還有兩三個溝要過，擔心也會一樣難以下切，索性又重新回到大崙溪底，直接沿溪下溯，改從其他稜線上切，把爬了兩個小時的高度又重新吐回去。"
+
+date:   2020-01-26 06:00:00 +0800
+categories: mt-note-photo-midalt
+
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 台東
+
+header:
+  teaser: https://miro.medium.com/max/875/1*y137N1JDB3ufJWPv68RoRQ.jpeg
+  image_description: "台東卑南，霧鹿伊加之蕃"
+  overlay_filter: 0.5
+
+author: Weiru Wang
+author_profile: true
+
+feature_row:
+  - image_path: 
+    title: "霧鹿伊加之蕃（一）：迫降除夕夜"
+    excerpt: "清晨五點半，天色還一片黑我們就戴起頭燈出發，要從12.5K一路走到24.5K的屯古嶺登山口。一開始走，心裡對過年上山啊、家庭責任這些心事，還掛記得很重，整個人都有點無法進入狀況，好像想不起當初那麼渴望上山的心情是什麼，邊走也邊跟冠瑜說：現在好像對於上山沒有那麼強烈的渴望了。"
+    url: "/mt-note-photo-midalt/WuLu_Day1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（三）：陽光灑落於伊加之蕃"
+    excerpt: "今天就要走到伊加之蕃遺址了。天未亮起床，樹林間霧氣濕氣濃重，有種風雨來臨前的肅殺。等我們收拾好營地，揹上背包點起頭燈摸黑出發，天空就開始下雨。"
+    url: "/mt-note-photo-midalt/WuLu_Day3/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（四）：再見下馬谷"
+    excerpt: "又是在天未亮之際，被每天準時起床的郁嵐叫醒，摸索著戴上放在枕邊的頭燈，在寒冷的空氣中點起瓦斯爐頭煮熱水。等水熱的時候把頭探出天幕，發現天空中還是繁星點點。今天將要離開大崙溪，上切到東邊的馬蕃粕山稜線，也要拜訪本次大家最期待的－－上中下馬三谷地。"
+    url: "/mt-note-photo-midalt/WuLu_Day4/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（五）：當冰雪封山的時候"
+    excerpt: "昨天晚上聯絡留守，得知今天將會是天氣最不好的一天，明天開始才會漸漸好轉，溫度也會上修。睡前大家就稍微討論了幾個可能的方案：天氣真的很差的話，可能只能推到松林營地，說不定還得用到預備天才能出去；如果狀況好的話，也可能直接越過卑南主，住到三叉營地去，但真的是要拿出生命來走了。行前一天，因為過年期間的天氣預報很不樂觀，詣淳加上了一條備用路線，是萬一卑南主峰積雪，就改從呂禮山往東轉入相原溪、延平林道出台東，大概也是再花三天可以走出去。"
+    url: "/mt-note-photo-midalt/WuLu_Day5/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（六）：全心全意愛你"
+    excerpt: "在極度寒冷的空氣中瑟瑟發抖起床，這個早晨是幾天以來讓人最感刺骨寒冷的了。今天的目標是拿出生命狂走，希望能紮到延平林道，後天才能夠準時下山。"
+    url: "/mt-note-photo-midalt/WuLu_Day6/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: 
+    title: "霧鹿伊加之蕃（七）：延平林道走一次不夠，那你有走三次嗎？"
+    excerpt: "還記得，大一時走大鬼湖橫斷，最後也是走延平林道出來，走到最後心裡就想著：以後真不想再走一次！殊不知，才過了兩年，我就走了第二次。然後再過了三年，現在要走第三次了.…..話真的是不要說得太果決！"
+    url: "/mt-note-photo-midalt/WuLu_Day7/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+
+---
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  .container {
+    position: relative;
+    width: 100%;
+  }
+
+  .container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .container .btn {
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgba(0,0,0, .50);
+    border: solid 5px white;
+    border-color: white;
+    color: white;
+    font-size: auto 2vw;
+    padding: auto;
+    cursor: pointer;
+    border-radius: 7px;
+    text-align: center;
+  }
+
+  .container .btn:hover {
+    background-color: #7FFFD4;
+    opacity: 0.7;
+  }
+
+    </style>
+</head>
+
+  <h2>本系列轉載自</h2>
+  <p>一葉汪洋</p>
+  <div class="container">
+    <img src="https://miro.medium.com/max/1400/1*pUKj34VWMKwdqUoxfF1XmA.jpeg" alt="一葉汪洋部落格" style="width:100%">
+    <button class="btn" onclick="location.href='https://medium.com/一葉汪洋?fbclid=IwAR0a6p462IttVpIAs8LSWkxm4nmYJCSVYXw-Uidh5tz2XSsqStcJbKfjrEo'">前往部落格</button>
+  </div>
+</html>
+
+## 霧鹿伊加之蕃（二）：三過大崙溪
+
+天亮起床，有些口渴地啃了早餐的乾糧，心懷忐忑開始面對今日的挑戰：下溪。  
+  
+因為我跟冠瑜昨天帶回的判斷是，原本的下溪路太危險不太可能走，於是今天打算從地圖上其他等高線看起來比較平緩的地方試試看。  
+
+我們先往上爬，想要繞到隔壁看起來一個還蠻緩的寬溝去。沿著溪流轉折處的稜線往上爬，邊走邊從透空處眺望對面的寬溝，接著絕望地發現等高線上看起來緩緩的地方，居然都被河流侵蝕成一整片嚇人的碎石崩壁。  
+
+昨天是從稜左的小溝下，那若試試看從稜右或是正稜尾下呢？沿著稜右邊邊往下，一路都是超陡的坡，走到稜尾，登登，整個是大斷稜。  
+
+此路不通，我們又再次回到了昨天下切不成的地方。看起來這四周都沒有其他破口了......大崙溪畔居然都崩的這麼徹底。望著昨天天黑之際，讓我們怕得發抖的下切路，是要再試一次看看呢？還是要另尋其他可能性，花上半天甚至一天的時間，繞到其他稜線去看看？  
+
+重新討論了一下架繩的策略，我們決定再試一次。或許是因為已經探過一次，加上天色明亮、體力也重新補滿，這次我們過地形比昨天順暢且有信心許多，好像沒有昨天感受到的那麼害怕且危險。這次只花了20米繩就架完3米橫渡跟5米垂直岩壁，用剩下10米繩探了昨天那條芒草崩溝，小心翼翼踩著碎石下，然後、發現可以就這樣走下溪底！！！帶著激動翻湧的心情爬回平台，此時跟我們一起下來探路的郁嵐，指著另一條昨天我們沒發現的石坡，說那邊好像可以走，實際探探看，發現比芒草崩溝還好走，可以一路走下大崙溪底！  
+
+確認好下溪路線，探路隊歡天喜地回去報喜，可以下溪了！！結果彥廷跟奕均他們居然已經都討論好了要撤退改去泡轆轆溫泉的計畫，聽到可以下溪反而還有點失望！？（不過轆轆溫泉這個備案真的好吸引人啊…XD）  
+
+沒辦法，路好不容易都走通了！只好繼續開始我們的硬派旅程，由冠瑜幫忙來回背大背包、其他人輕裝橫渡、再吊背包下地形，小心翼翼地操作，差不多花了一個小時，早上九點半，所有人安全抵達大崙溪支流溪畔，站在清澈的溪水邊，只覺恍如隔世。  
+  
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*D4uBNk0Vv_GdfKIlKmSk3A.jpeg" alt="架繩路">
+  <figcaption> 架繩路 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*t_g9q8vc69usJjPTTyRRDw.jpeg" alt="">
+  <figcaption> 崩得亂七八糟的尾稜 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*NPxLckhAf_FYuXOXpuHX5g.jpeg" alt="思思慕幕的大崙溪">
+  <figcaption> 終於下到思思慕幕的大崙溪！痛快洗把臉 </figcaption>
+</figure>
+
+終於能夠喝到大崙溪的水，過溪到對岸後快樂地喝飽吃飽洗洗臉（還有人跌進水裡），既然是硬派隊伍，沒有太多鬆懈的時間，今天的目標是－－繼續殺到伊加之蕃去！  
+
+士氣尚算高昂，我們背起背包，爬上稜線，上升到差不多海拔1800開始往南腰繞。腰繞了一陣子，眼前出現一條崩得很碎的陡峭溪溝，我們又再次面臨了下切不了的窘境，而溪溝對岸的坡壁看起來也是很不好惹，看不太出來哪裡有辦法上切。對照GPS，發現我們離成大的航跡高了有海拔5、60公尺，看是要選擇乾脆繼續往上爬到稜線頂、高繞掉整個崩溝，還是要往下走，重新去跟成大的航跡？  
+
+最終選擇了去跟成大航跡，我們沿著崩溝邊緣往下，這一下就下了很多，幾乎都快回到大崙溪了。眼見崩溝崩塌的情況慘不忍睹，考慮到腰繞路後面還有兩三個溝要過，擔心也會一樣難以下切，索性又重新回到大崙溪底，直接沿溪下溯，改從其他稜線上切，把爬了兩個小時的高度又重新吐回去。  
+
+忙了半天上上下下，眼看時間大概已經不夠到伊加之蕃了……再次站在大崙溪畔廣闊的沙洲地，溪水幽靜動人，心裡再次浮現就地紮營的渴望跟動搖，而詣淳依然冷靜堅定地指示大家揹足晚餐跟行進水，再次上稜。  
+  
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*YP2EgSIk6T0nGssrB3OwDA.jpeg" alt="">
+  <figcaption> 這片溪水好美呀 </figcaption>
+</figure>
+
+下溯一小段後，從途經第二條崩溝的左側上切，想不到這一段尾稜極為陡峭，稜左是崩得亂七八糟的碎石，稜右雖然長著箭竹植被，卻也是要手腳並用使勁全力往上爬，一不小心就會掉落。下午兩點開始上切，在陡稜地形上奮戰了一個半小時，三點半翻過最後一個地形，才終於抵達比較平緩的稜線。第一次走強度這麼高的探勘路線的郁嵐，顯得很崩潰，「覺得快要死掉了！」那大概是一種把自己暴露在預期承受的風險之外的崩潰，聽郁嵐說著「年紀越大越怕死」，回想昨天傍晚探下溪路的過程，以及一路走來過各種地形的心態，重新想了一下風險評估這件事。自己是不是真的太憨膽不怕死，會把風險承受的邊界推得太外面，或是某種程度逞強，而暴露在不可承受的危險中？  
+  
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*iRGGMKAFJFtNAKjI1G3qVw.jpeg" alt="">
+  <figcaption> 破碎無比的稜線 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*YP2EgSIk6T0nGssrB3OwDA.jpeg" alt="">
+  <figcaption> 這片溪水好美呀 </figcaption>
+</figure>
+
+另一個悲劇是，當我們奮力爬地形到一半，我突然發現自己雙手空空的…「咦？我的手套呢？」我居然把那雙3M手套忘在溪底了！！眼見我們已經爬了這麼高，根本不可能再回去拿，我回過頭對走在身後的彥廷哀號：「我的手套忘在溪底了…」想不到彥廷聽了也跟著哀號：「我也把手套忘在溪底！！」兩個犯蠢的人，就這樣把手套遺留在大崙溪底，長相廝守了…而之後一路手冷到發凍加上被植物刮得亂七八糟，更加倍懷念我們那留在溪底手套QQ（還好後來詣淳看不下去，借了我們備用手套）  
+
+踏著疲憊的腳步繼續往上，四點左右，來到海拔1900附近稜線較平緩處，領隊慈悲心大發，宣布找營地紮營。今天的營地大概是這幾天最舒服的了，位在避風的林間，軟軟的泥土落葉地睡起來好溫暖。  
+
+出發前因為負責料理晚餐的菜單一職從缺遲遲沒有人補上，一周前冠瑜私訊我要不要接下這個任務，想一想我應該算是出隊前比較有空閒餘裕可以準備的人，就接下了，但其實準備的過程頗煩躁跟焦慮，對自己亂七八糟的廚藝很沒自信，除了需要盡量減輕食材重量、精算份量達到輕量化，又覺得縱走隊這麼多天，大家每天一定都會期待吃到美味的晚餐，但我的玻璃心承受不了萬一大家吃下去時失望的眼神啊～～～  
+
+昨天迫降沒有煮晚餐，原本預計要煮的年夜飯就延到了今天，忐忑煮完飯直到大家吃下去第一口之前，我的內心小宇宙真是緊張到要爆炸了，拜託不要露出失望的眼神喔喔喔喔喔也不要沉默不語或是尷尬地說鼓勵我的話拜託！！！直接說難吃都會讓我心裡好一點！！！  
+
+就這樣在心裡反覆小宇宙爆發，沒想到卻得到很好吃的肯定，也讓原本忐忑不安的玻璃心放下了。感謝大家這幾天都很用力稱讚我，讓我對於料理的自信心大增，這次開菜單的嘗試，也是這趟一個很可貴的練習。  
+
+今天也是過得很曲折，爬上爬下，從第一天到今天，兩天之內好像就經歷了許多挫折、與想辦法突破挫折，才第二天，就已經有像走了五天的感覺。  
+
+夜裡聯絡留守，得知明日白天的累計降雨量是15mm，預想會是個又陰又濕又冷的天氣，此刻的乾燥與營火頓時變得十分可貴，蹉跎在火邊不肯輕易睡去，還聽了成熟姐姐的人生經驗，可以說是這一趟在心靈成長部分，另類的收穫吧XD  
+  
+<figure class="align-center">
+  <img src="https://miro.medium.com/max/875/1*Rb5YsO0CyhLLwz99FbgIHg.jpeg" alt="">
+  <figcaption> 戀戀不捨暖烘烘的炭火 </figcaption>
+</figure>
+
+{% include feature_row %}

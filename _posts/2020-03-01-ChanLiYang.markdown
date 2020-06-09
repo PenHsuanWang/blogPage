@@ -1,5 +1,5 @@
 ---
-title:  "[圖文] 20200301 千里眼山"
+title:  "砂卡噹三雄 千里眼山"
 date:   2020-03-01 08:00:06 +0800
 categories: mt-note-photo-midalt
 classes: wide
@@ -8,9 +8,7 @@ classes: wide
 permalink: /:categories/:title/
 
 tags:
-  - 中級山
-  - 地區
-    - 花蓮
+  - 花蓮
 
 header:
   image: https://lh3.googleusercontent.com/DZMUXL7_B5q0z_EL2xeyaHAYoroH50TYtSwHBwKmHi5q2gPsgGq4OGj7pkQ4Raz9nPR3lD2d098C2Kej8RM=w2000-h1800
