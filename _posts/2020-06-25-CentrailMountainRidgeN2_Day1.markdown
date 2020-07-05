@@ -55,7 +55,7 @@ feature_row:
 </figure> 
 
 
-<a href="/mt-note-literal-100peaks/CantralN2/" class="btn btn--primary">完整文字紀錄</a>
+<a href="mt-note-literal-100peaks/CantralN2/" class="btn btn--primary">完整文字紀錄</a>
 
 ## Day1 730林道9K->24k水源前營地C1
 

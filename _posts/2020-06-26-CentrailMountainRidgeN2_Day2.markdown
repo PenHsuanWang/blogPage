@@ -53,7 +53,7 @@ feature_row:
 </figure> 
 
 
-<a href="/mt-note-literal-100peaks/CantralN2/" class="btn btn--primary">完整文字紀錄</a>
+<a href="mt-note-literal-100peaks/CantralN2/" class="btn btn--primary">完整文字紀錄</a>
 
 ## Day2 鈴鳴山->黑水塘取水(N 24&deg; 14.124', E 121&deg; 21.162')->北畢祿前小空地 C2
 
