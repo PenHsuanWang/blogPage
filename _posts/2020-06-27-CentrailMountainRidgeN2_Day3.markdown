@@ -55,7 +55,7 @@ feature_row:
 </figure> 
 
 
-<a href="mt-note-literal-100peaks/CantralN2/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/blogPage/mt-note-literal-100peaks/CantralN2/" class="btn btn--primary">完整文字紀錄</a>
 
 ## Day3 畢祿山->畢羊連稜->鉅山->鉅山第五峰前鞍部空地 C3
 
