@@ -67,18 +67,6 @@ feature_row:
 
 ---
 
-<figure style="width: 40%" class="align-right">
-  <img src="" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-  
-
-
-<figure style="width: 90%" class="align-center">
-  <img src="" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
 
 <a href="/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
 
