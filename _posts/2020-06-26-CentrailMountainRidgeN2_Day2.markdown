@@ -34,7 +34,7 @@ feature_row:
   - image_path: https://lh3.googleusercontent.com/DgciWx5OnFK9aqVB83-UQR68e-HkFj8yAOKh1SyHrlF905IK-XfwiFkFb3ZfpEBuT4NwszTcjZQdiD6Q2MM=w640-h320-rw
     title: "北二段縱走-畢祿羊頭縱走"
     excerpt: "結束了鈴鳴畢祿縱走，抵達畢祿山後，猶如回到文明社會，大條的路加上一整路的里程樁。接下來我們要沿著畢羊連稜走向羊頭山。造訪此行最後一座百岳。"
-    url: "mt-note-photo-100peaks/CentrailMountainRidgeN2_Day2/"
+    url: "mt-note-photo-100peaks/CentrailMountainRidgeN2_Day3/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 

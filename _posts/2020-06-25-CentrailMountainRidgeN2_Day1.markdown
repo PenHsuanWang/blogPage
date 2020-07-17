@@ -34,7 +34,7 @@ feature_row:
   - image_path: https://lh3.googleusercontent.com/DgciWx5OnFK9aqVB83-UQR68e-HkFj8yAOKh1SyHrlF905IK-XfwiFkFb3ZfpEBuT4NwszTcjZQdiD6Q2MM=w640-h320-rw
     title: "北二段縱走-畢祿羊頭縱走"
     excerpt: "結束了鈴鳴畢祿縱走，抵達畢祿山後，猶如回到文明社會，大條的路加上一整路的里程樁。接下來我們要沿著畢羊連稜走向羊頭山。造訪此行最後一座百岳。"
-    url: "mt-note-photo-100peaks/CentrailMountainRidgeN2_Day2/"
+    url: "mt-note-photo-100peaks/CentrailMountainRidgeN2_Day3/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
@@ -117,7 +117,7 @@ feature_row:
   <figcaption>  </figcaption>
 </figure> 
 
-接近栓山登山口，展望點可見北一段南湖中央尖。  
+接近閂山登山口，展望點可見北一段南湖中央尖。  
 
 最後我們於10:43抵達24k紅磚水源前營地紮營。大家計畫從金明真路上閂山，但我前一晚沒睡，實在很累，最後我留守營地睡覺，其他隊友上山。今天走到中午前就可以紮營補眠真的很讚，為了明後兩天的行程儲備一點體力，順便還一下睡眠債。
 
@@ -191,7 +191,7 @@ feature_row:
 
 <figure class="align-center">
   <img src="https://i.imgur.com/CjwBvng.jpg" alt="攀登畢祿山">
-  <figcaption> 上攀畢祿山 </figcaption>
+  <figcaption> 上攀鈴鳴山 </figcaption>
 </figure> 
 
 <figure class="align-center">

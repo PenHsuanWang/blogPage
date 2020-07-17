@@ -38,7 +38,7 @@ feature_row:
   - image_path: https://lh3.googleusercontent.com/DgciWx5OnFK9aqVB83-UQR68e-HkFj8yAOKh1SyHrlF905IK-XfwiFkFb3ZfpEBuT4NwszTcjZQdiD6Q2MM=w640-h320-rw
     title: "北二段縱走-畢祿羊頭縱走"
     excerpt: "結束了鈴鳴畢祿縱走，抵達畢祿山後，猶如回到文明社會，大條的路加上一整路的里程樁。接下來我們要沿著畢羊連稜走向羊頭山。造訪此行最後一座百岳。"
-    url: "mt-note-photo-100peaks/CentrailMountainRidgeN2_Day2/"
+    url: "mt-note-photo-100peaks/CentrailMountainRidgeN2_Day3/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
@@ -87,10 +87,7 @@ feature_row:
 雪山山脈的聖稜線就在眼前，可以清楚看見雪山以及雪山圈谷，但看不見大霸尖山。休息到09:28。  
 09:47 鈴鳴山頂，拍照玩耍到10:17後繼續出發，踏上鈴鳴-畢祿連稜。  
 10:26 岩石路結束，準備進到箭竹叢中，找了一下路。  
-10:50 箭竹叢中找路，準備切進森林。  
-09:42 上背出發。  
-09:44 出發沒多久，隨即上切西巒。在松樹林間zig-zag陡上。  
-10:33 上稜，H2930，轉向西南南稜線，有展望，可見我們昨天紮營的停機坪以及治茆。大修了一下。此處開始有積雪。  
+10:50 箭竹叢中找路，準備切進森林。   
 10:59 松林間休息至11:18。接下來的路徑不明，箭竹叢甚高，必須注意找路，有幾處有很新交大路條。   
 12:06 鞍部，往左下切黑水塘。   
 12:16 黑水塘休息取水吃午餐，這裡是稜線上的唯一水源，水質看起來不是很好，但這是唯一的水源，記得帶上濾水器喔。  
