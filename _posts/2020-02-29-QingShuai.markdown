@@ -12,6 +12,7 @@ tags:
 
 header:
   image: https://lh3.googleusercontent.com/FCCtmeXYnQckDXz3duiDeYMVfmZiiZwuRl_tAN8j2H66ywExnV1UJT_0DSpup5LUj7U_Ve5WS3iHgt8aSXk=w2000-h1800
+  teaser: https://cdntwrunning.biji.co/1024_fa4f06b0013e6be426764bee14ed7094.jpg
   image_description: "清水大山"
   overlay_filter: 0.5
 ---

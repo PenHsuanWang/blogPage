@@ -12,6 +12,7 @@ tags:
 
 header:
   image: https://lh3.googleusercontent.com/DZMUXL7_B5q0z_EL2xeyaHAYoroH50TYtSwHBwKmHi5q2gPsgGq4OGj7pkQ4Raz9nPR3lD2d098C2Kej8RM=w2000-h1800
+  teaser: https://cdntwrunning.biji.co/1024_6372088d0c09f1c889125279d311aa95.jpg
   image_description: "千里眼山"
   overlay_filter: 0.5
 ---

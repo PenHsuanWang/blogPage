@@ -16,14 +16,14 @@ tags:
 
 header:
   image: https://lh3.googleusercontent.com/PjaMYrWlPssGlzt4UTGnAK-KdlY-xGuBMrYnYrtzyHv7SgCbLRrLuXNkdYevAKmJ0IV6SVmCO6oWC3XVbpc=w2000-h1000-rw
-  teaser: https://lh3.googleusercontent.com/DgciWx5OnFK9aqVB83-UQR68e-HkFj8yAOKh1SyHrlF905IK-XfwiFkFb3ZfpEBuT4NwszTcjZQdiD6Q2MM=w640-h320-rw
+  teaser: https://cdntwrunning.biji.co/1024_4f4b0bc7d29d4f88be89f4f9f7edc94c.jpg
   image_description: ""
   overlay_filter: 0.5
 
 author_profile: true
 
 feature_row:
-  - image_path: https://lh3.googleusercontent.com/23-PImgVfTOZ52k7hR6x47OQ9DvnMMZDUid8ImBTzNrXPgDURfrUGuLextv4FyW7NBdoT7-YrzRt79o6jGI=w640-h320-rw
+  - image_path: https://cdntwrunning.biji.co/1024_1445297c39c36c6c57089d2a9ba2c370.jpg
     title: "北二段縱走-造訪人待山與鈴鳴山"
     excerpt: "這次除了鈴鳴山以外，我們從林道26k崩塌高繞路頂繼續向上攀登人待山北峰。  
 人待山原本是百岳之一，人待山的展望也不錯，一個和緩的箭竹山坡，可從這個角度眺望閂山以及未來兩天要造訪的畢祿山，以及險峻的畢祿斷崖。"
@@ -31,8 +31,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://lh3.googleusercontent.com/4ylTkuLp6_x8trMaFgXci5WTuS55dQdYlVnSaCs-p4bTQPUVePIGUaUqUz1KB3-hgNrmmHf-GxCbVTy6_fU=w640-h320-rw
-    title: "北二段縱走-北二段主稜與畢祿斷崖"
+  - image_path: https://cdntwrunning.biji.co/1024_fa733a0ad0e33f5a42aa50601f39fd85.jpg
+    title: "北二段縱走-鈴鳴連走畢祿山"
     excerpt: "鈴鳴山頂繼續往畢祿山前進，中央山脈北二段的稜線由此繼續向南延伸，箭竹比人高、充滿刺柏與咬人貓的稜線，找路不易，又缺乏水源，以至於山友們通常採取單攻的模式，不會把畢祿羊頭跟北二段其他百岳一起納入行程中，也導致人家常說的北二段好像不包含畢祿羊頭。"
     url: "mt-note-photo-100peaks/CentrailMountainRidgeN2_Day2/"
     btn_class: "btn--primary"
