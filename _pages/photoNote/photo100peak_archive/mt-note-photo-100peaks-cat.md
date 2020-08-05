@@ -24,5 +24,5 @@ header:
 
 ---
 
-<a href="/categories/mt-note-photo-100peaks_tag/" class="btn btn--primary">標籤分類</a>
-<a href="/categories/mt-note-photo-100peaks_date/" class="btn btn--primary">日期分類</a>
+<a href="/blogPage/categories/mt-note-photo-100peaks_tag/" class="btn btn--primary">標籤分類</a>
+<a href="/blogPage/categories/mt-note-photo-100peaks_date/" class="btn btn--primary">日期分類</a>
