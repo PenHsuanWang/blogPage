@@ -82,7 +82,7 @@ feature_row:
 </figure> 
 
 
-<a href="/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/blogPage/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
 
 ## Day6 中央尖溪山屋->香菇寮遺址->南湖溪山屋->木杆鞍部->多家屯山->松風嶺
 

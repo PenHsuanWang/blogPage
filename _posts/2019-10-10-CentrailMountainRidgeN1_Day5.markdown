@@ -68,7 +68,7 @@ feature_row:
 ---
 
 
-<a href="/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/blogPage/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
 
 ## Day5 中央尖溪山屋->中央尖山->中央尖溪山屋
 

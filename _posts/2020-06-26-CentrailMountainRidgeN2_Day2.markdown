@@ -15,7 +15,7 @@ tags:
   - 中央山脈北二段
 
 header:
-  image: https://lh3.googleusercontent.com/ycvq8Upe-Vm6Ojeq2P8OlfhTig4wbfCt56ktdDIYtfCoeWUHhIzJmXPlKz7ODo6FiOPzHhZote3BVr3wurc=w2000-h1000-rw
+  image: https://i.imgur.com/XfeIp0A.jpg
   teaser: https://cdntwrunning.biji.co/1024_fa733a0ad0e33f5a42aa50601f39fd85.jpg
   image_description: ""
   overlay_filter: 0.5

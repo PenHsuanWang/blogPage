@@ -80,7 +80,7 @@ feature_row:
 </figure> 
 
 
-<a href="/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
+<a href="/blogPage/mt-note-literal-100peaks/CentrailMountainRidgeN1/" class="btn btn--primary">完整文字紀錄</a>
 
 ## Day3 南湖圈谷山屋->南湖大山東峰->陶塞峰->南湖大山東南峰->馬比杉山->和平南溪谷地->南湖圈谷山屋
 

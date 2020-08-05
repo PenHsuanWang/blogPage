@@ -10,8 +10,8 @@ classes: wide
   - dark-theme
 
 header:
-  image: https://i.imgur.com/g12GY2L.jpg
-  teaser: https://cdntwrunning.biji.co/1024_2bd3ce6ebf12ec4bb7ad39fc389e36d1.jpg
+  image: https://i.imgur.com/fvfswAU.jpg
+  teaser: https://i.imgur.com/fvfswAU.jpg
   image_description: "由鈴鳴山縱走畢祿山行經的中央山脈主稜，是被人遺忘的北二段稜線，由此連結鈴鳴山與畢祿山，沿途植披茂密，不時有高大的箭竹、刺柏灌木擋住了去路，偶有咬人貓躲藏在其中，是一片原始的高山環境。"
 
 sidebar:
