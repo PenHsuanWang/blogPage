@@ -18,7 +18,7 @@ header:
 
 ---
 
-<a href="/categories/mt-note-photo-100peaks_tag/" class="btn btn--primary">標籤分類</a>
+<a href="/blogPage/categories/mt-note-photo-100peaks_tag/" class="btn btn--primary">標籤分類</a>
 
 <ul class="taxonomy__index">
 	{% assign postsInYear = site.categories.mt-note-photo-100peaks | reverse | group_by_exp: 'post', 'post.date | date: "%Y"' %}
