@@ -64,7 +64,7 @@ feature_row:
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/x4Qz0ag.jpg" alt="730林道為閂山鈴鳴、甘藷無明等北二段名風的登山起點">
+  <img src="https://1.bp.blogspot.com/-LTRr-I1-5QQ/X6vomnbROpI/AAAAAAABJsk/FE9iB3paCrgBvhLIg98u45YBXr9NkqssgCLcBGAsYHQ/s2048/IMG_2674.JPG" alt="730林道為閂山鈴鳴、甘藷無明等北二段名風的登山起點">
   <figcaption> 整夜沒睡，730林道9k，凌晨4點準備出發 </figcaption>
 </figure> 
 
@@ -79,41 +79,41 @@ feature_row:
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/JprYf8u.jpg" alt="730林道知名景點，廢汽機車">
+  <img src="https://1.bp.blogspot.com/-HGB2PvVOGVY/X6vonrbuAVI/AAAAAAABJso/68_MheGlNu40wwCJsB7UwVP3dzJ39BFtgCLcBGAsYHQ/s2048/IMG_2688.JPG" alt="730林道知名景點，廢汽機車">
   <figcaption> 知名景點，廢棄suzuki機車 </figcaption>
 </figure> 
 
 林道廢棄機車再往前走一段路後有一處展望點，可以看見馬武佐野郡山的大火(2020.06.24晚間發生的野火燒山事件)
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/Q2JHfzz.jpg" alt="2020年馬武佐野郡山大火">
+  <img src="https://1.bp.blogspot.com/-DFsqR20zVVs/X6von8q4xyI/AAAAAAABJss/UMsNtqAlnss8AQg6s7IC0eutIp01E771wCLcBGAsYHQ/s2048/IMG_2690.JPG" alt="2020年馬武佐野郡山大火">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/98JwNWN.jpg" alt="優美的730林道">
+  <img src="https://1.bp.blogspot.com/-DOPL8KOSDJw/X6vpH1Y8HhI/AAAAAAABJs4/QSzjUzUOP1Q04djGnzyEEpceXTNOr9DygCLcBGAsYHQ/s2048/IMG_2692.JPG" alt="優美的730林道">
   <figcaption> 優美的730林道 </figcaption>
 </figure> 
 
 730林道知名景點之二，閂山之門
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/h2t7Qic.jpg" alt="閂山之門">
+  <img src="https://1.bp.blogspot.com/-TXg1l1jRjQ4/X6vpKguQi_I/AAAAAAABJtA/YyrI4BEYHiIaL2MDeHx3-PiNFPn4IL70ACLcBGAsYHQ/s2048/IMG_2696.JPG" alt="閂山之門">
   <figcaption> 閂山之門 </figcaption>
 </figure> 
 
 <figure style="width: 45%" class="align-left">
-  <img src="https://i.imgur.com/c34dsp6.jpg" alt="閂山之門">
+  <img src="https://1.bp.blogspot.com/-ee5Xvh9SvDA/X6vpITxkSSI/AAAAAAABJs8/jFy45eEqarkmrgGXofP3jZYZJMPfu0UxACLcBGAsYHQ/s2048/IMG_2698.JPG" alt="閂山之門">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://i.imgur.com/w83yj69.jpg" alt="松果">
+  <img src="https://1.bp.blogspot.com/-A_7evGy_VNA/X6vpXyPy_rI/AAAAAAABJtM/fUc23JjER9IyJbLtYouZUy9l0jwLeO5RQCLcBGAsYHQ/s2048/IMG_2700.JPG" alt="松果">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/8lviSsx.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-VcXqXFCBIdE/X6vpXqCbOAI/AAAAAAABJtI/apP3jV79aE0Sk-SHNKXXLQvEQZuzYBF1wCLcBGAsYHQ/s2048/IMG_2715.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -128,50 +128,50 @@ feature_row:
 人待山原本是百岳之一，但中央山脈大縱走南北會師於七彩湖後，便把人待山剔除，改列六順山為百岳。個人覺得，百岳也不是甚麼神聖標地，就只是前人定的一個山頭列表，人待山的展望也不錯，一個和緩的箭竹山坡，可從這個角度眺望閂山以及未來兩天要造訪的畢祿山，以及險峻的畢祿斷崖。  
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/zoFkcPp.jpg" alt="鈴鳴山前的高遶">
+  <img src="https://1.bp.blogspot.com/-VZ_yv0C494w/X6vpjV3PVFI/AAAAAAABJtY/0rlMT3ZFeEwUyI7hHqRjGi_kcPajrKwvgCLcBGAsYHQ/s2048/IMG_2718.JPG" alt="鈴鳴山前的高遶">
   <figcaption> 高繞點繼續上攀前往人待山北峰 </figcaption>
 </figure> 
 
-![image](https://i.imgur.com/DkNfX6n.jpg)
+![image](https://1.bp.blogspot.com/-a6U7KpiRF6k/X6vp3XPbPVI/AAAAAAABJto/9C6fgskLYqMEqCdpI6p74IY_CkiCr3j1ACLcBGAsYHQ/s2048/IMG_2719.JPG)
 
 前往人待山的路箭竹叢密集，要小心找路。
 
 <figure  class="align-center">
-  <img src="https://i.imgur.com/BFhTi8o.jpg" alt="人待山北峰頂">
+  <img src="https://1.bp.blogspot.com/-MyFWvru6PSM/X6vp4wsukpI/AAAAAAABJts/kzvb6ysEPEMjIhS6fJEe4B9_XuJvbQa-ACLcBGAsYHQ/s2048/IMG_2723.JPG" alt="人待山北峰頂">
   <figcaption> 人待山北峰頂，附近為箭竹叢，有幾處箭竹密集，要小心找路 </figcaption>
 </figure> 
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/nTt8HWu.jpg" alt="北二段縱走行經人待山，可見畢祿山以及畢祿斷崖">
+  <img src="https://1.bp.blogspot.com/-yMQVCKF-sys/X6vp08F1_NI/AAAAAAABJtk/lt4Gx3OHnd4U81OxomjeqvNuQ5HkdMQKwCLcBGAsYHQ/s2048/IMG_2727.JPG" alt="北二段縱走行經人待山，可見畢祿山以及畢祿斷崖">
   <figcaption> 人待山前的箭竹草坡，此處可見合歡山群峰，以及巍峨的畢祿斷崖 </figcaption>
 </figure> 
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/1M1LbRS.jpg" alt="人待山往向畢祿山以及畢祿斷崖">
+  <img src="https://1.bp.blogspot.com/-IZioV_QkW2I/X6vqGRtInSI/AAAAAAABJtw/tCUgzLpnXHI-2WBPUEtcZsR_uhld-ZnmQCLcBGAsYHQ/s2048/IMG_2728.JPG" alt="人待山往向畢祿山以及畢祿斷崖">
   <figcaption> 那邊就是我們明天要通過的畢祿斷崖 </figcaption>
 </figure> 
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/KetfiKs.jpg" alt="人待山山頂">
+  <img src="https://1.bp.blogspot.com/-mh2Hwqh0mL4/X6vqL0_73QI/AAAAAAABJuA/07BFge7UL0QIXICbsoiN3ruz80NExzCOQCLcBGAsYHQ/s2048/IMG_2737.JPG" alt="人待山山頂">
   <figcaption> 人待山頂，無基石 </figcaption>
 </figure> 
 
 <figure style="width: 45%" class="align-left">
-  <img src="https://i.imgur.com/MUAUFtc.jpg" alt="人待山頂路條">
+  <img src="https://1.bp.blogspot.com/-JNKNXWfTKUU/X6vqKNdB00I/AAAAAAABJt8/dSfj7QoGDg8FYz7H4NLvzYSGZOB7RIpGwCLcBGAsYHQ/s2048/IMG_2753.JPG" alt="人待山頂路條">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://i.imgur.com/hqOKYvP.jpg" alt="望向畢祿山">
+  <img src="https://1.bp.blogspot.com/-OxId-w2J-tc/X6vqWdW4pcI/AAAAAAABJuE/Zlf-BroZ7tg1TgpG0M7W8nZG_mvtauY1QCLcBGAsYHQ/s2048/IMG_2754.JPG" alt="望向畢祿山">
   <figcaption>  </figcaption>
 </figure> 
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/QWREWf4.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-Z3u_9hNsvfg/X6vqhcxKcdI/AAAAAAABJuQ/BcvYVOgFXOk5j0kGzTuGrEIELOwpKbXMQCLcBGAsYHQ/s2048/IMG_2762.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -180,17 +180,17 @@ feature_row:
 上到草坡地後又休息了很久，這邊的展望很好，可以看到北邊的無明山以及無明斷崖，後方的中央尖山與死亡稜線。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/TCSGolI.jpg" alt="回望人待山與人待山北峰">
+  <img src="https://1.bp.blogspot.com/-STuN3iubdRM/X6vqwXJYkdI/AAAAAAABJuY/FLFsTZ0NJQMSynHp_tRuY1cKBnGrGIx2gCLcBGAsYHQ/s2048/IMG_2770.JPG" alt="回望人待山與人待山北峰">
   <figcaption> 回望人待山 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/FNRpJgh.jpg" alt="準備攀登鈴鳴山">
+  <img src="https://1.bp.blogspot.com/-uzEcmwv2M4g/X6vqyQxMrSI/AAAAAAABJug/p6wNfOBbwJwTrgc4BNbejXOrMovWoyVCACLcBGAsYHQ/s2048/IMG_2769.JPG" alt="準備攀登鈴鳴山">
   <figcaption> 前往鈴鳴山前的上坡 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/CjwBvng.jpg" alt="攀登畢祿山">
+  <img src="https://1.bp.blogspot.com/-ElNeq6BpdpI/X6vq67N6hZI/AAAAAAABJuk/1F1kiClVVxMrrVVTXUzPaBdMkU5OjNo8wCLcBGAsYHQ/s2048/IMG_2772.JPG" alt="攀登畢祿山">
   <figcaption> 上攀鈴鳴山 </figcaption>
 </figure> 
 
@@ -203,22 +203,22 @@ feature_row:
 雪山山脈的聖稜線就在眼前，可以清楚看見雪山以及雪山圈谷，但看不見大霸尖山。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/v9WWtZ8.jpg" alt="鈴鳴山前草坡休息地點眺望雪山山脈">
+  <img src="https://1.bp.blogspot.com/-SmK76L1ONVU/X6vrHSAGb4I/AAAAAAABJu0/W1aoUht0xJkXJEhTCdWeiRQeaTK3cHsMACLcBGAsYHQ/s2048/IMG_2797.JPG" alt="鈴鳴山前草坡休息地點眺望雪山山脈">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/TV25wjp.jpg" alt="遠眺的登山者">
+  <img src="https://1.bp.blogspot.com/-YKKZ98IwrOI/X6vrE3NrfbI/AAAAAAABJuw/6fJqUecmQt48ObEX134lMkecWHNbeIKZwCLcBGAsYHQ/s2048/IMG_2802.JPG" alt="遠眺的登山者">
   <figcaption> 我們昨天就在那裏(閂山)，指 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/KN6ybSL.jpg" alt="遠眺雪山山脈的登山者">
+  <img src="https://1.bp.blogspot.com/-ssRdWzBCCEc/X6vrI-N5JJI/AAAAAAABJu4/jgqJRNCz0v4IujFfSHjHyUDdLJJka9miACLcBGAsYHQ/s2048/IMG_2805.JPG" alt="遠眺雪山山脈的登山者">
   <figcaption> 來幫聖稜線點名 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/3uWwsRN.jpg" alt="山上的登山者">
+  <img src="https://1.bp.blogspot.com/-JoqbK62Sbss/X6vrMgIK0wI/AAAAAAABJvA/4S8Pdqxcuy85piM0cyX7GsXT6gMTP0WjACLcBGAsYHQ/s2048/IMG_2806.JPG" alt="山上的登山者">
   <figcaption> 昨天不是已經補眠了嗎? </figcaption>
 </figure> 
 

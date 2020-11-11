@@ -60,19 +60,19 @@ feature_row:
 從鈴鳴山出發，離開了傳統路，前面的路徑不明，充滿帶刺植物，從這邊開始要發揮找路的本領，還要做足會被刺得滿身傷的準備，如果自認是細皮嫩肉的人，別來這個地方!  
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/KoHz61e.jpg" alt="鈴鳴山頂望向畢祿山以及畢羊連稜中間的鋸山">
+  <img src="https://1.bp.blogspot.com/-Rpe_A-bEJno/X6qU07jxavI/AAAAAAABJng/qSsWOJIeSJolmD4o3HN_NE9oXOM_7zQ6QCPcBGAYYCw/s2048/IMG_2877.JPG" alt="鈴鳴山頂望向畢祿山以及畢羊連稜中間的鋸山">
   <figcaption> 鈴鳴山頂合照，背景為畢祿斷崖以及畢羊連稜中間的鋸山 </figcaption>
 </figure> 
 
 從畢祿山出發，離開傳統路，眼前的是看似和緩的稜線，但其實之間的植披讓這條路的難度上升，光是要找好走的路，就必須花上一番工夫。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/TjtN6PT.jpg" alt="中央山脈北二段主稜，鈴鳴山往畢祿山">
+  <img src="https://1.bp.blogspot.com/-PuLSmbo-CcM/X6qVNzD7dKI/AAAAAAABJnw/Zsv88J-zlwYNTHbAq4a13AaWcrxiHpraACLcBGAsYHQ/s2048/IMG_2910.JPG" alt="中央山脈北二段主稜，鈴鳴山往畢祿山">
   <figcaption> 鈴鳴山通往畢祿山 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/xOsM4L5.jpg" alt="由鈴鳴山前往畢祿山">
+  <img src="https://1.bp.blogspot.com/-PCCOQc4QkRQ/X6qU5tdUMgI/AAAAAAABJnc/HYwmxfdsa70tVdJMUUELLIHBW5S_2VStACLcBGAsYHQ/s2048/IMG_2904.JPG" alt="由鈴鳴山前往畢祿山">
   <figcaption> 由鈴鳴山啟程前往畢祿山 </figcaption>
 </figure> 
 
@@ -95,12 +95,12 @@ feature_row:
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/KwtRMKM.jpg" alt="中央山脈北二段">
+  <img src="https://1.bp.blogspot.com/-MqaTM9ElQg8/X6qU3lwF6oI/AAAAAAABJnY/M9fZ8YcETJAvMA7iCL13vgcO-Y3fD49NQCLcBGAsYHQ/s2048/IMG_2903.JPG" alt="中央山脈北二段">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/xOk7iSA.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-7h1a9bZrW2Q/X6qXM9UzqSI/AAAAAAABJoM/O9X6GCZFfNIP6FIT2S7q_TlwZDRDa_tlQCLcBGAsYHQ/s2048/IMG_2919.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -113,27 +113,27 @@ feature_row:
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/6ZoW47a.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-jJoXEm6iQk0/X6qXJ-7dBzI/AAAAAAABJoI/VcTgiM_Vs1MeBwtdTyen42MRZobCeFjRQCLcBGAsYHQ/s2048/IMG_2939.JPG" alt="">
   <figcaption> 接近鞍部，準備進入樹林 </figcaption>
 </figure> 
 
 <figure style="width: 45%" class="align-left">
-  <img src="https://i.imgur.com/gE0B1xH.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-QpYPOU0IyGI/X6qXfGLAoJI/AAAAAAABJoY/MZqUtgr4EgIzUKGorvej8iWqa1-Hnqb3ACLcBGAsYHQ/s2048/IMG_2944.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://i.imgur.com/yyqap7E.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-bHwwVehFZGs/X6qXDqrWmYI/AAAAAAABJoE/RVOwM3Yx9pMBIXdSnJKJTgNGbOdUiLd9wCLcBGAsYHQ/s2048/IMG_2941.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/B1Y9teE.jpg" alt="刺柏灌木叢">
+  <img src="https://1.bp.blogspot.com/-p-JYWDgTQew/X6qVLTTFraI/AAAAAAABJns/9I5-Dvec7J8hLRrFUh_wpNui6fbeKiuywCLcBGAsYHQ/s2048/IMG_2921.JPG" alt="刺柏灌木叢">
   <figcaption> 刺柏，我們一路上就是被它刺QQ </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/PubmAjQ.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-iTH9SdaQaFI/X6qXkJH0b3I/AAAAAAABJoc/FCwmzOxrRIA0XXElNMWzhNI0MlUhMniQQCLcBGAsYHQ/s2048/IMG_2947.JPG" alt="">
   <figcaption> 鈴鳴山南鞍黑水塘 </figcaption>
 </figure> 
 
@@ -141,7 +141,7 @@ feature_row:
 我們在此休息了一個多小時，濾水順便煮個泡麵當午餐。  
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/yiVERYi.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-k-xYxMHktGU/X6qXkeb7XbI/AAAAAAABJog/VA3_cIPD49gwWjvkHFzFWlxqIrieYZwRQCLcBGAsYHQ/s2048/IMG_2951.JPG" alt="">
   <figcaption> 鈴鳴山南鞍黑水塘 </figcaption>
 </figure> 
 
@@ -149,23 +149,23 @@ feature_row:
 原本我們是打算要推到北畢祿營地，但下午三點半左右，天氣看起來越來越糟，聽到稜線東側的溪谷方向傳來悶雷的聲音。討論過後決定，接下來只要看到有適合的營地就準備紮營。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/fwP4Gw7.jpg" alt="鈴鳴畢祿縱走">
+  <img src="https://1.bp.blogspot.com/-1ob7tMZ_54c/X6qX1C-KeaI/AAAAAAABJow/ACpVJP0g2rEylP216ts3wJuHET96CBFnACLcBGAsYHQ/s2048/IMG_2955.JPG" alt="鈴鳴畢祿縱走">
   <figcaption> 沿著稜線東側腰繞不上稜 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/L7jWwTp.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-2_hkiQWR5Ug/X6qYCKZnPsI/AAAAAAABJo4/6YXgYMN0y5EJ2VY66zA_v4Avyuynhj9agCLcBGAsYHQ/s2048/IMG_2960.JPG" alt="">
   <figcaption> 下午四點找到一塊勉強可以住6個人的營地 </figcaption>
 </figure> 
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/T1iKYXZ.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-9t7U3RFUUA4/X6qX4p4vHXI/AAAAAAABJo0/6HjY0QnhMmACWcSv8cYu40BTGhpHStZ0QCLcBGAsYHQ/s2048/IMG_2964.JPG" alt="">
   <figcaption> 兩頂雙人帳+天幕一張 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/U2HhvLW.jpg" alt="畢祿斷崖">
+  <img src="https://1.bp.blogspot.com/-tkve9rQKm5w/X6qYFgOLAHI/AAAAAAABJpA/pIy_murvXYc9qdmBf2pj6USN2T55RZj3wCLcBGAsYHQ/s2048/IMG_2971.JPG" alt="畢祿斷崖">
   <figcaption> 晚間六點天氣放晴，畢祿斷崖 </figcaption>
 </figure> 
 
@@ -174,7 +174,7 @@ feature_row:
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/2VQoYhV.jpg" alt="畢祿斷崖">
+  <img src="https://1.bp.blogspot.com/-ilqWqKgFLeA/X6qYL1myLvI/AAAAAAABJpI/j9eTSG2y3T4bF377u9BVYcSPNUWABpwZQCLcBGAsYHQ/s2048/IMG_2973.JPG" alt="畢祿斷崖">
   <figcaption> 第三天一早天氣晴 </figcaption>
 </figure> 
 
@@ -182,7 +182,7 @@ feature_row:
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/wKDsmi6.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-DRNueCp1t0w/X6qYacUcrTI/AAAAAAABJpQ/wUnPip2ZgsYE70wSbzVJ99tMO1hCpv0EACLcBGAsYHQ/s2048/IMG_2976.JPG" alt="畢祿北稜營地">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -190,80 +190,80 @@ feature_row:
 一路上走來還挺順利的，很快地，我們通過畢祿北前鞍部。但在繼續向前的路我們走偏了，應該要繼續腰繞，但我們不小心往稜線上走，一開始只是箭竹越來越茂密，但整體來說還好，沒有甚麼困難地形，於是我們想那乾脆就繼續向前，邊往前走邊試著往左找路看有沒有適合腰繞的地方。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/7ilrSZi.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-M5OZGsfV7CU/X6qYcbEZXdI/AAAAAAABJpY/-gcmV623hEUDS2-F1wqcAZP-XnhfG8YQQCLcBGAsYHQ/s2048/IMG_2996.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 當我們沿著稜線繼續向上到海拔約3050那條等高線後發現繼續往稜線的路長滿灌木，無法通行，右側是崩壁，於是我們不得不往左腰繞找路，找著找著，竟然找到咬人貓的家= =，滿地的咬人貓，還好我穿雨鞋，但手還是不小心會被咬到。在這邊真的要步步為營。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/F4tx25k.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-m2MikQuVT1M/X6qYj5k0VAI/AAAAAAABJpc/HT7yWmHuPNgf9WAm_4bJGJZe1Z2iSW_YACLcBGAsYHQ/s2048/IMG_2999.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 接回航跡上的路徑後繼續向上往北畢祿山。途中一處岩石坡面的展望點很好，可以回望鈴鳴山。從這個角度看北二段主稜，真的非常漂亮。可能是剛剛才經歷了高大箭竹叢加上咬人貓，現在可以這樣舒服的賞景，心裡真是感動阿。在鈴鳴山、無明西峰與無明山之間的鞍部，還可看見中央尖山。由無明山直下溪谷的崩壁。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/g12GY2L.jpg" alt="北畢祿山前回望鈴鳴山與北二段主稜">
+  <img src="https://1.bp.blogspot.com/-6UyuUwLvzD4/X6qYw59dCPI/AAAAAAABJpk/vM-c6gPI7lEMVJ_KASFN9bqngukbT5VyQCLcBGAsYHQ/s2048/IMG_3006.JPG" alt="北畢祿山前回望鈴鳴山與北二段主稜">
   <figcaption> 北畢祿山前回望中央篩慢北二段主稜 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/bsjqbq0.jpg" alt="鈴鳴畢祿縱走">
+  <img src="https://1.bp.blogspot.com/-Hqpt8kBo89k/X6qY11P8jpI/AAAAAAABJpo/Gkybwgwi5mwQuH6_dtXDNobTBdnoBhvWgCLcBGAsYHQ/s2048/IMG_3015.JPG" alt="鈴鳴畢祿縱走">
   <figcaption> 繼續向上前往北畢祿山 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/SaNJPod.jpg" alt="中央山脈北二段縱走">
+  <img src="https://1.bp.blogspot.com/-b5rj0oRndm8/X6qY5fJ4q6I/AAAAAAABJps/gafd9BknrtsbthlbUF8FLIX73L7NztaRwCLcBGAsYHQ/s2048/IMG_3027.JPG" alt="中央山脈北二段縱走">
   <figcaption> 上到岩壁頂，回望鈴鳴山，還可以清楚看到人待山 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/rlCbPLZ.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-mvVON6vmo_k/X6qZEC3N_9I/AAAAAAABJp0/8SA5TZ2ZrbcaWlVUQJFQfXrH7brmsCZMgCLcBGAsYHQ/s2048/IMG_3032.JPG" alt="">
   <figcaption> 早上八點整，抵達北畢祿山頂 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/lFWjQ56.jpg" alt="">
-  <figcaption> 北畢祿營地 </figcaption>
+  <img src="https://1.bp.blogspot.com/-VM1Y1ulRBdc/X6qZRcv2F9I/AAAAAAABJqA/TiOl-Qw18GA1220qDeGLb7bMqoREmimUgCLcBGAsYHQ/s2048/IMG_3038.JPG" alt="北畢祿營地位在北畢祿山頂旁邊">
+  <figcaption> 北畢祿營地，營地無水 </figcaption>
 </figure> 
 
 通過北畢祿營地後，要先上到一處岩石瘦稜，這裡展望也很好。這裡大概可以算是前往畢祿斷崖前的小試身手吧。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/vPq6MrI.jpg" alt="中央山脈北二段縱走，通過北畢祿山後的地形">
+  <img src="https://1.bp.blogspot.com/-vsYQK5mVWTc/X6qZQJfHcoI/AAAAAAABJp8/rXgDcMwnw6E4RAfbFSyzBBwM6V_1Csd2ACLcBGAsYHQ/s2048/IMG_3042.JPG" alt="中央山脈北二段縱走，通過北畢祿山後的地形">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/CSYAELC.jpg" alt="北畢祿山後的岩石瘦稜">
+  <img src="https://1.bp.blogspot.com/-Fk3ZjOdxbBc/X6qZTtz0JJI/AAAAAAABJqE/_oYL8o3Q7-IxSRSbE0mjGAJXmPmcT3OrACLcBGAsYHQ/s2048/IMG_3044.JPG" alt="北畢祿山後的岩石瘦稜">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/L3wQlD8.jpg" alt="中央山脈北二段岩稜">
+  <img src="https://1.bp.blogspot.com/-NJffj3ErznU/X6qZbduwl9I/AAAAAAABJqI/HWc1zS46uCUUnG7G-24MuqdWwo4C6TFTACLcBGAsYHQ/s2048/IMG_3045.JPG" alt="中央山脈北二段岩稜">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/ic3CR5e.jpg" alt="前往畢祿崩壁">
+  <img src="https://1.bp.blogspot.com/-p092o9s-slo/X6qZbeKCSdI/AAAAAAABJqM/kXsqBjsKElg8rL-PfVBYfUfpMxxO9YBnACLcBGAsYHQ/s2048/IMG_3047.JPG" alt="前往畢祿崩壁">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/giTy6D2.jpg" alt="前往畢祿崩壁">
+  <img src="https://1.bp.blogspot.com/-xPsGGc8wCOQ/X6ql820kicI/AAAAAAABJqo/sPXmk9JfjBA4hEPPfpJkURx3SXKozf34ACLcBGAsYHQ/s2048/IMG_3058.JPG" alt="前往畢祿崩壁">
   <figcaption> 畢祿斷崖已經在眼前了，加油! </figcaption>
 </figure> 
 
 第二處瘦稜陡上，雖然長滿杉樹比較沒有暴露感，但稜線右側是很陡的箭竹坡，左側是岩石斷崖，行經還是得注意，這裡算是潛在的重點地形。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/Yh9lyPl.jpg" alt="畢祿斷崖前得瘦稜">
+  <img src="https://1.bp.blogspot.com/-4_Yx_DDoK48/X6ql_qndDVI/AAAAAAABJqs/hyvodC0wIOIPoCNL4AalwCyXuZXY2gL3QCLcBGAsYHQ/s2048/IMG_3066.JPG" alt="畢祿斷崖前的瘦稜">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/QXJOppU.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-JJYntdoOfp0/X6ql8WJce3I/AAAAAAABJqk/BgE_nEAjhvUsaS4S0e3sDBFOSSlJJ7X8wCLcBGAsYHQ/s2048/IMG_3088.JPG" alt="">
   <figcaption> 畢祿斷崖前的休息點，吃完東西後準備通過畢祿斷崖 </figcaption>
 </figure> 
 
@@ -272,53 +272,53 @@ feature_row:
 出樹林後，眼前就是一片陡峭的碎石坡，我們已經到達畢祿斷崖的下緣了。  
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/fvfswAU.jpg" alt="北二段縱走必經的畢祿斷崖">
+  <img src="https://1.bp.blogspot.com/-c_bpufUjCbw/X6qmUe8sG3I/AAAAAAABJq8/PyYOeCeIJ3cWzIyn-W1cFhBEF-ZT8t0KwCLcBGAsYHQ/s2048/IMG_3093.JPG" alt="北二段縱走必經的畢祿斷崖">
   <figcaption> 準備橫渡碎石坡 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/W1eoltG.jpg" alt="中央山脈縱走畢祿斷崖">
+  <img src="https://1.bp.blogspot.com/-fP42ZSeUNM0/X6qmV5LqD5I/AAAAAAABJrA/iKkTXiF3mVIqrOwr_jix9PqF6WEN1s4LgCLcBGAsYHQ/s2048/IMG_3094.JPG" alt="中央山脈縱走畢祿斷崖">
   <figcaption> 先通過一段碎石後，前方有拉繩 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/WTec00T.jpg" alt="由畢祿斷崖回望北二段稜線">
+  <img src="https://1.bp.blogspot.com/-c-Mf0rJ29aY/X6qmZ8YMZyI/AAAAAAABJrE/nyG9tOh3dyUMJku-yarGRrI7OOK-AR3vQCLcBGAsYHQ/s2048/IMG_3098.JPG" alt="由畢祿斷崖回望北二段稜線">
   <figcaption> 出樹林後回望，可見稜線東側是一瀉千里的碎石坡 </figcaption>
 </figure> 
 
 由此處回望可以清楚看見我們一路走來的稜線，還有重重山巒的感覺。我們身處於崩壁斷崖之上，看向氣勢磅礡的無明山，以及遠方的中央尖山由無明山肩上探出頭，隨著海拔上山，原本被稜線遮住的南湖大山也可以清楚看見了。台灣是一座壅擠的小島(尤其是前幾天堵在雪隧的時候感受特別強烈)，但在兩座熱門的百岳之間，卻有如此原始的稜線，有如無人之境。翻過這個碎石坡之後，我們就可以回到傳統路了，雖然我們在這條路上的時間累積起來也還沒超過24小時，但一路走來，探路、鑽箭竹、找營地，六個人的小探險，真的非常有趣。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/Qpox94i.jpg" alt="畢祿斷崖上望向雪山山脈">
+  <img src="https://1.bp.blogspot.com/-x6PlZD5KboY/X6qmtCAjD0I/AAAAAAABJrY/1gZVVOIIVQs7IkfWRf9OeVmh-FBsdUsAgCLcBGAsYHQ/s2048/IMG_3128.JPG" alt="畢祿斷崖上望向雪山山脈">
   <figcaption> 隔著大甲溪谷相望雪山山脈稜線 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/89EDtUh.jpg" alt="畢祿斷崖碎石坡拉繩">
+  <img src="https://1.bp.blogspot.com/-TeyGibJ6TPQ/X6qmt9BixkI/AAAAAAABJrc/HPiLvPj8eb8MWRgPhW8rdze7ZVA2wc8dgCLcBGAsYHQ/s2048/IMG_3131.JPG" alt="畢祿斷崖碎石坡拉繩">
   <figcaption> 碎石坡橫渡向上 </figcaption>
 </figure> 
 
 畢祿斷崖中的碎石坡拉繩向上，其實這裡是稜線的西側，真的要說起來，這也不算是斷崖。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/0OwwvAi.jpg" alt="畢祿斷崖碎石坡拉繩">
+  <img src="https://1.bp.blogspot.com/-SFiW1spRWiY/X6qmqhF_jeI/AAAAAAABJrU/firRT-Siouofm8DD_qUt91u0lDMCCgnKQCLcBGAsYHQ/s2048/IMG_3120.JPG" alt="畢祿斷崖碎石坡拉繩">
   <figcaption> 拉繩通過，足下注意! </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/mC3EN7B.jpg" alt="鈴鳴畢祿縱走">
+  <img src="https://1.bp.blogspot.com/-WwLrkgopmIY/X6qnH49DCsI/AAAAAAABJrs/gKOSVu9SWXouB4Ie0TG8yKaSVNSjxKy5wCLcBGAsYHQ/s2048/IMG_3140.JPG" alt="鈴鳴畢祿縱走">
   <figcaption> 碎石坡頂回望 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/Y4OQ1Eu.jpg" alt="畢祿斷崖由此右轉找路">
+  <img src="https://1.bp.blogspot.com/-alJHnKNtoxU/X6qnGO44rgI/AAAAAAABJro/F93SxtP1DyQYG8_p_hG3_7hca-WBH6C1QCLcBGAsYHQ/s2048/IMG_3144.JPG" alt="畢祿斷崖由此右轉找路">
   <figcaption> 走錯路拉!! 路徑為杜鵑叢中紅色路條處右轉 </figcaption>
 </figure> 
 
 通過拉繩碎石坡後，在繼續向上沒幾步路，便會看見一棵杜鵑叢上的紅色路條，由此處右轉，沿著山壁腰繞。繼續沿著碎石向上的路很不好走!而且直接從這裡上稜的地形是瘦稜，直接上的話應該很危險。
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/nfUCKGw.jpg" alt="畢祿斷崖腰繞處">
+  <img src="https://1.bp.blogspot.com/-5uKI_BgN044/X6qnIcZ1izI/AAAAAAABJrw/CP5Hf22ikX8kHkDfcswSgfEbc-j_P-95gCLcBGAsYHQ/s2048/IMG_3146.JPG" alt="畢祿斷崖腰繞處">
   <figcaption> 腰繞路線有幾處的腳點甚小，還要小心背包，別被灌木叢敲到，這邊背包被敲到有向外摔落的風險 </figcaption>
 </figure> 
 
@@ -327,22 +327,22 @@ feature_row:
 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/4EO68ev.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-uWdGYoiYYVQ/X6qnecmiu8I/AAAAAAABJsI/Ul2eFM_qqLYp075ePKxNNb18aIUs1CpywCLcBGAsYHQ/s2048/IMG_3150.JPG" alt="">
   <figcaption> 腰繞結束，準備上切回稜線 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/SqW3ZMc.jpg" alt="畢祿斷崖頂">
+  <img src="https://1.bp.blogspot.com/-jkwzOHs2LFE/X6qndYDKBCI/AAAAAAABJsA/6_Y1uRILhHMG-PjcNdTsLnlZM0CIEuy4ACLcBGAsYHQ/s2048/IMG_3155.JPG" alt="畢祿斷崖頂">
   <figcaption> 切回稜線，到達畢祿斷崖頂 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/bwsXUQD.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-amTqjHHt5gc/X6qneMkKFVI/AAAAAAABJsE/gmQZS-Vdnv8knWdkAemjM6dY8DO3GDnuQCLcBGAsYHQ/s2048/IMG_3170.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://i.imgur.com/7aWjzmU.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-pv9FDuDLgcQ/X6qnmaebpPI/AAAAAAABJsM/415r2cDgI-weGn5rK7MZFwa2XZ-mj8_nwCLcBGAsYHQ/s2048/IMG_3176.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
