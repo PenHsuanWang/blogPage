@@ -10,11 +10,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/blogPage/gallery/Gallery2</loc>
-<lastmod>2020-12-24T21:14:44+08:00</lastmod>
+<lastmod>2021-01-04T22:38:15+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blogPage/gallery/Gallery3</loc>
-<lastmod>2020-12-24T21:14:44+08:00</lastmod>
+<lastmod>2021-01-04T22:38:15+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blogPage/gallery/Gallery4_191109</loc>
@@ -275,6 +275,10 @@
 <url>
 <loc>http://localhost:4000/blogPage/mt-note-photo-midalt/ShainShaAnimalHike/</loc>
 <lastmod>2020-12-13T08:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blogPage/mt-note-photo-midalt/LonDonHeMei/</loc>
+<lastmod>2020-12-27T08:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blogPage/categories/</loc>
