@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blogPage/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blogPage/" rel="alternate" type="text/html" /><updated>2021-01-04T22:38:15+08:00</updated><id>http://localhost:4000/blogPage/feed.xml</id><title type="html">二十毫秒之間</title><subtitle>An amazing website.</subtitle><author><name>P.H, Wang</name></author><entry><title type="html">黃金第十稜-龍洞稜 和美山苦命嶺連走草山</title><link href="http://localhost:4000/blogPage/mt-note-photo-midalt/LonDonHeMei/" rel="alternate" type="text/html" title="黃金第十稜-龍洞稜 和美山苦命嶺連走草山" /><published>2020-12-27T08:00:00+08:00</published><updated>2020-12-27T08:00:00+08:00</updated><id>http://localhost:4000/blogPage/mt-note-photo-midalt/LonDonHeMei</id><content type="html" xml:base="http://localhost:4000/blogPage/mt-note-photo-midalt/LonDonHeMei/">&lt;p&gt;位在北海岸的和美山可由多處起登，第一個登山口位在龍洞灣的蚊子坑，但此處路徑好像比較不明顯。第二個登山口是從龍洞灣岬公園的步道旁起登，第三個登山口是從北勢坑口起登。我們這次的行程是選擇從第二處，也就是循龍洞灣岬公園步道起登。&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blogPage/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blogPage/" rel="alternate" type="text/html" /><updated>2021-01-16T22:27:58+08:00</updated><id>http://localhost:4000/blogPage/feed.xml</id><title type="html">二十毫秒之間</title><subtitle>An amazing website.</subtitle><author><name>P.H, Wang</name></author><entry><title type="html">黃金第十稜-龍洞稜 和美山苦命嶺連走草山</title><link href="http://localhost:4000/blogPage/mt-note-photo-midalt/LonDonHeMei/" rel="alternate" type="text/html" title="黃金第十稜-龍洞稜 和美山苦命嶺連走草山" /><published>2020-12-27T08:00:00+08:00</published><updated>2020-12-27T08:00:00+08:00</updated><id>http://localhost:4000/blogPage/mt-note-photo-midalt/LonDonHeMei</id><content type="html" xml:base="http://localhost:4000/blogPage/mt-note-photo-midalt/LonDonHeMei/">&lt;p&gt;位在北海岸的和美山可由多處起登，第一個登山口位在龍洞灣的蚊子坑，但此處路徑好像比較不明顯。第二個登山口是從龍洞灣岬公園的步道旁起登，第三個登山口是從北勢坑口起登。我們這次的行程是選擇從第二處，也就是循龍洞灣岬公園步道起登。&lt;br /&gt;
 這條稜線從龍洞灣開始，上升至和美山，經由苦命嶺連向草山，這是雪山山脈尾稜延伸向龍洞的支稜，又名為黃金稜線第十稜(龍洞稜)。&lt;br /&gt;
 抵達苦命嶺後有其他路線可前往南雅山、門牙岩，這也是經典的黃金稜線攀登路線，下次可以再計畫從鼻頭角起登走一個O型縱走。&lt;br /&gt;
 這條路線也是我在台灣爬過最東北的山頭，以此紀念一下XD&lt;br /&gt;
@@ -2277,8 +2277,9 @@
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;中央山脈北二段-鈴鳴畢羊縱走-d3-航跡&quot;&gt;中央山脈北二段 鈴鳴畢羊縱走 D3 航跡&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Powered by Folium with TileLayer ‘OpenStreetMap’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TileLayer is supported by RudyMap&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;http://rudy.basecamp.tw/taiwan_topo.html&quot;&gt;
+Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;    
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
@@ -2331,20 +2332,11 @@
                     preferCanvas: false,
                 }
             );
-
-            
-
-        
-    
-            var tile_layer_10096dd0f4fe417596120a270c4e0148 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            ).addTo(map_9de4e956261c41ba940d2279f5d903df);
         
     
             var tile_layer_57791ce880584703a78994af302aa9e1 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
+                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_9de4e956261c41ba940d2279f5d903df);
         
     
@@ -3937,8 +3929,9 @@
 &lt;/html&gt;
 
 &lt;h2 id=&quot;中央山脈北二段-鈴鳴畢羊縱走-d4-航跡&quot;&gt;中央山脈北二段 鈴鳴畢羊縱走 D4 航跡&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Powered by Folium with TileLayer ‘OpenStreetMap’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TileLayer is supported by RudyMap&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;http://rudy.basecamp.tw/taiwan_topo.html&quot;&gt;
+Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;    
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
@@ -3990,19 +3983,11 @@
                 }
             );
 
-            
-
-        
-    
-            var tile_layer_5170feea443c4ed8a9a8376fd0fa8636 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            ).addTo(map_3eb5b21daad04477844a964ebadc9d2d);
         
     
             var tile_layer_951e807fc5074f15a09a696048e557ea = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
+                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_3eb5b21daad04477844a964ebadc9d2d);
         
     
@@ -5524,8 +5509,9 @@
 &lt;p&gt;我們接下來還要沿著畢羊連稜，通過鋸山，明天造訪此行的第三座百岳–羊頭山。&lt;/p&gt;
 
 &lt;h2 id=&quot;中央山脈北二段-鈴鳴畢羊縱走-d2-航跡&quot;&gt;中央山脈北二段 鈴鳴畢羊縱走 D2 航跡&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Powered by Folium with TileLayer ‘OpenStreetMap’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TileLayer is supported by RudyMap&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;http://rudy.basecamp.tw/taiwan_topo.html&quot;&gt;
+Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;    
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
@@ -5578,18 +5564,11 @@
             );
 
             
-
-        
-    
-            var tile_layer_29eeb468df1f4db6855bdc2495209e27 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            ).addTo(map_3e9e30279c0b444b8ab486d5a8fb0462);
         
     
             var tile_layer_0b3018b7037d432db4c2aa51105b70f2 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
+                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_3e9e30279c0b444b8ab486d5a8fb0462);
         
     
@@ -6611,8 +6590,10 @@
 &lt;/html&gt;
 
 &lt;h2 id=&quot;中央山脈北二段-鈴鳴畢羊縱走-d3-航跡&quot;&gt;中央山脈北二段 鈴鳴畢羊縱走 D3 航跡&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;TileLayer is supported by RudyMap&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;http://rudy.basecamp.tw/taiwan_topo.html&quot;&gt;
+Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Powered by Folium with TileLayer ‘OpenStreetMap’&lt;/em&gt;&lt;/p&gt;
 &lt;html&gt;
 &lt;head&gt;    
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
@@ -6666,19 +6647,10 @@
                 }
             );
 
-            
-
-        
-    
-            var tile_layer_10096dd0f4fe417596120a270c4e0148 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            ).addTo(map_9de4e956261c41ba940d2279f5d903df);
-        
     
             var tile_layer_57791ce880584703a78994af302aa9e1 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
+                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_9de4e956261c41ba940d2279f5d903df);
         
     
@@ -8545,7 +8517,10 @@
 
 &lt;h2 id=&quot;中央山脈北二段-鈴鳴畢羊縱走-d1-航跡&quot;&gt;中央山脈北二段 鈴鳴畢羊縱走 D1 航跡&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;Powered by Folium with TileLayer ‘OpenStreetMap’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TileLayer is supported by RudyMap&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;http://rudy.basecamp.tw/taiwan_topo.html&quot;&gt;
+Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
+
 &lt;html&gt;
 &lt;head&gt;    
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
@@ -8596,13 +8571,10 @@
                 }
             );
 
-            
-
-        
     
             var tile_layer_d103b23e4da444fd8fcb64ffeb698334 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
+                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_e1905d3c23654bb28de3214d52820208);
         
     
@@ -9607,7 +9579,10 @@
 
 &lt;h2 id=&quot;中央山脈北二段-鈴鳴畢羊縱走-d2-航跡&quot;&gt;中央山脈北二段 鈴鳴畢羊縱走 D2 航跡&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;Powered by Folium with TileLayer ‘OpenStreetMap’&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TileLayer is supported by RudyMap&lt;/em&gt;&lt;br /&gt;
+&lt;a href=&quot;http://rudy.basecamp.tw/taiwan_topo.html&quot;&gt;
+Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
+
 &lt;html&gt;
 &lt;head&gt;    
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
@@ -9659,19 +9634,11 @@
                 }
             );
 
-            
-
-        
-    
-            var tile_layer_29eeb468df1f4db6855bdc2495209e27 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            ).addTo(map_3e9e30279c0b444b8ab486d5a8fb0462);
         
     
             var tile_layer_0b3018b7037d432db4c2aa51105b70f2 = L.tileLayer(
-                &quot;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\&quot;http://www.openstreetmap.org/copyright\&quot;\u003eODbL\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
+                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_3e9e30279c0b444b8ab486d5a8fb0462);
         
     

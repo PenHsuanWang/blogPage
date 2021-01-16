@@ -369,8 +369,9 @@ feature_row:
 
 
 ## 中央山脈北二段 鈴鳴畢羊縱走 D2 航跡
-
-*Powered by Folium with TileLayer 'OpenStreetMap'*
+*TileLayer is supported by RudyMap*  
+<a href="http://rudy.basecamp.tw/taiwan_topo.html">
+Taiwan Topo Home Pages</a>
 <html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -423,18 +424,11 @@ feature_row:
             );
 
             
-
-        
-    
-            var tile_layer_29eeb468df1f4db6855bdc2495209e27 = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_3e9e30279c0b444b8ab486d5a8fb0462);
         
     
             var tile_layer_0b3018b7037d432db4c2aa51105b70f2 = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+                "http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudyMap-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_3e9e30279c0b444b8ab486d5a8fb0462);
         
     
@@ -1457,8 +1451,10 @@ feature_row:
 
 
 ## 中央山脈北二段 鈴鳴畢羊縱走 D3 航跡
+*TileLayer is supported by RudyMap*  
+<a href="http://rudy.basecamp.tw/taiwan_topo.html">
+Taiwan Topo Home Pages</a>
 
-*Powered by Folium with TileLayer 'OpenStreetMap'*
 <html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -1512,19 +1508,10 @@ feature_row:
                 }
             );
 
-            
-
-        
-    
-            var tile_layer_10096dd0f4fe417596120a270c4e0148 = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_9de4e956261c41ba940d2279f5d903df);
-        
     
             var tile_layer_57791ce880584703a78994af302aa9e1 = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+                "http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudyMap-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_9de4e956261c41ba940d2279f5d903df);
         
     

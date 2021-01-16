@@ -258,8 +258,9 @@ feature_row:
 
 
 ## 中央山脈北二段 鈴鳴畢羊縱走 D3 航跡
-
-*Powered by Folium with TileLayer 'OpenStreetMap'*
+*TileLayer is supported by RudyMap*  
+<a href="http://rudy.basecamp.tw/taiwan_topo.html">
+Taiwan Topo Home Pages</a>
 <html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -312,20 +313,11 @@ feature_row:
                     preferCanvas: false,
                 }
             );
-
-            
-
-        
-    
-            var tile_layer_10096dd0f4fe417596120a270c4e0148 = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_9de4e956261c41ba940d2279f5d903df);
         
     
             var tile_layer_57791ce880584703a78994af302aa9e1 = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+                "http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudyMap-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_9de4e956261c41ba940d2279f5d903df);
         
     
@@ -1918,8 +1910,9 @@ feature_row:
 </html>
 
 ## 中央山脈北二段 鈴鳴畢羊縱走 D4 航跡
-
-*Powered by Folium with TileLayer 'OpenStreetMap'*
+*TileLayer is supported by RudyMap*  
+<a href="http://rudy.basecamp.tw/taiwan_topo.html">
+Taiwan Topo Home Pages</a>
 <html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -1971,19 +1964,11 @@ feature_row:
                 }
             );
 
-            
-
-        
-    
-            var tile_layer_5170feea443c4ed8a9a8376fd0fa8636 = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_3eb5b21daad04477844a964ebadc9d2d);
         
     
             var tile_layer_951e807fc5074f15a09a696048e557ea = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+                "http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudyMap-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_3eb5b21daad04477844a964ebadc9d2d);
         
     
