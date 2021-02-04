@@ -205,7 +205,7 @@ feature_row:
 
 <figure class="align-center">
   <img src="https://1.bp.blogspot.com/-6UyuUwLvzD4/X6qYw59dCPI/AAAAAAABJpk/vM-c6gPI7lEMVJ_KASFN9bqngukbT5VyQCLcBGAsYHQ/s2048/IMG_3006.JPG" alt="北畢祿山前回望鈴鳴山與北二段主稜">
-  <figcaption> 北畢祿山前回望中央篩慢北二段主稜 </figcaption>
+  <figcaption> 北畢祿山前回望中央山脈北二段主稜 </figcaption>
 </figure> 
 
 <figure class="align-center">
