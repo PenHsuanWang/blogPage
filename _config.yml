@@ -20,7 +20,7 @@ title                    : "二十毫秒之間"
 title_separator          : "|"
 subtitle                 : "帶著相機去冒險"# site tagline that appears below site title in masthead
 name                     : "P.H, Wang"
-description              : "An amazing website."
+description              : "走向台灣大山，帶著相機紀錄點點滴滴."
 url                      : "https://penhsuanwang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /blogPage # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "P.H, Wang"
   avatar           : /image/bio_image.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "心血來潮跑來架設網站，文筆不好還請見諒。"
+  bio              : "中央山社OB, 物理105級.\n全職菜鳥工程師, 放假有山就爬. 隨意寫圖文記錄留念"
   location         : "Hsinchu, Taiwan"
   email            :
   links:
