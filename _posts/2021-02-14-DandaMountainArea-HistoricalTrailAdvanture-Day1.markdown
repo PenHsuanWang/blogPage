@@ -17,9 +17,9 @@ feature_row:
   - image_path: https://1.bp.blogspot.com/-QioGOW_V-c8/YC_YFKAq41I/AAAAAAABOH0/NdfRdkbTLfsPW8JCEc-YtdMTCmu9GaHvQCLcBGAsYHQ/s2048/IMG_6418.JPG
     title: "卡社山、加年端稜線縱走 (二) 卡社遺址與拉夫朗西北峰 關門古道西段探險前傳"
     excerpt: "卡社加年端稜線縱走行程第二天，由卡社山稜線路東行至拉夫朗西北峰沿途景色宜人，有多處石板駁坎遺址。"
-    #url: ""
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+    url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-IKwq_x8K44o/YDJrn0ttaEI/AAAAAAABORU/crwvU7JkVEQSrA1386dXS35wVMBXAerjwCLcBGAsYHQ/s2048/IMG_6866.JPG
     title: "卡社山、加年端稜線縱走 (三) 前往加年端 關門古道西段探險前傳"
@@ -51,7 +51,7 @@ gallery:
 
 header:
   image: https://1.bp.blogspot.com/-pQT4F3nsBo0/YDJio7HW4MI/AAAAAAABORI/-joNxPm1zwA6ylrMTJTvR8hQyxQSWHu8wCLcBGAsYHQ/s3236/IMG_6374.JPG
-  teaser : https://1.bp.blogspot.com/-OJL58cr9qV0/X-yJVmT0bpI/AAAAAAABK28/_4JJdGaxlm42mIY2q5sR2TzmKfuSJCcvQCLcBGAsYHQ/s4032/IMG_0916.JPG
+  teaser : https://1.bp.blogspot.com/-q_RpliYubYs/YC_WFTtWDGI/AAAAAAABOGM/kqSSS6kM924gzxCgAc3pXJQoaBiT-XhlACLcBGAsYHQ/s2048/IMG_6363.JPG
   image_description: ""
   overlay_filter: 0.5
 ---

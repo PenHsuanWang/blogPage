@@ -15,7 +15,7 @@ tags:
 
 header:
   image: https://1.bp.blogspot.com/-78utT44E3l4/X_XBf1mFioI/AAAAAAABLLg/ZRcl5o72hdIhMpjR03JmC_Sjp6ej8KKCwCLcBGAsYHQ/s3057/IMG_1736.heic
-  teaser : https://1.bp.blogspot.com/-OJL58cr9qV0/X-yJVmT0bpI/AAAAAAABK28/_4JJdGaxlm42mIY2q5sR2TzmKfuSJCcvQCLcBGAsYHQ/s4032/IMG_0916.JPG
+  teaser : https://1.bp.blogspot.com/-kBJUQSpi0l0/X_XMZcs21uI/AAAAAAABLME/0K3lF94pri84L8VQXgflbzuHnTNt0NylwCLcBGAsYHQ/s4032/IMG_1702.JPG
   image_description: ""
   overlay_filter: 0.5
 ---
