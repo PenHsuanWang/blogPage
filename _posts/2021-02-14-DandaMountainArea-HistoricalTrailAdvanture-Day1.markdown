@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "關門古道探險前傳-卡社加年端稜線縱走 (一) 卡社山"
+title:  "卡社山、加年端稜線縱走 (一) 卡社山 關門古道西段探險前傳"
 excerpt: "南投縣信義鄉一帶的丹大、郡大溪流域可謂是台灣的心臟地帶，近年隨著丹大林道的重新開放，這深遠的山域又恢復了人跡。相較於大北三、大南三一帶的高山，海拔1490的卡社山可算是最易到達的淺山之一，登山口位在丹大林道二分所前約500公尺左右的地方，由此登上丹大林道北側的山稜。登上卡社山的展望壯闊，此處群山環繞，可遠眺四面八方的名峰。"
 
 date:   2021-02-14 08:00:00 +0800
@@ -15,21 +15,21 @@ tags:
 
 feature_row:
   - image_path: https://1.bp.blogspot.com/-QioGOW_V-c8/YC_YFKAq41I/AAAAAAABOH0/NdfRdkbTLfsPW8JCEc-YtdMTCmu9GaHvQCLcBGAsYHQ/s2048/IMG_6418.JPG
-    title: "關門古道探險前傳-卡社加年端稜線縱走 (二) 卡社遺址與拉夫朗西北峰"
+    title: "卡社山、加年端稜線縱走 (二) 卡社遺址與拉夫朗西北峰 關門古道西段探險前傳"
     excerpt: "卡社加年端稜線縱走行程第二天，由卡社山稜線路東行至拉夫朗西北峰沿途景色宜人，有多處石板駁坎遺址。"
     #url: ""
     #btn_class: "btn--primary"
     #btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-IKwq_x8K44o/YDJrn0ttaEI/AAAAAAABORU/crwvU7JkVEQSrA1386dXS35wVMBXAerjwCLcBGAsYHQ/s2048/IMG_6866.JPG
-    title: "關門古道探險前傳-卡社加年端稜線縱走 (三) 前往加年端"
+    title: "卡社山、加年端稜線縱走 (三) 前往加年端 關門古道西段探險前傳"
     excerpt: "由拉夫朗山繼續向東行，更深入中央山脈深處，前往加年端山。此處可遠眺整段南三段稜線群峰，由關門北山開始向南延伸向丹大山的大南三線，並延伸向內嶺爾山-東巒大山的東郡橫斷，盡收眼底。"
     #url: ""
     #btn_class: "btn--primary"
     #btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-WNXeZIqyolU/YDJro3ddq_I/AAAAAAABORY/KZw3AwKdY0kdSXJr3eKDxRj8chq9g4NkQCLcBGAsYHQ/s2048/IMG_6922.JPG
-    title: "關門古道探險前傳-卡社加年端稜線縱走 (四) 加年端山大草原"
+    title: "卡社山、加年端稜線縱走 (四) 加年端山大草原 關門古道西段探險前傳"
     excerpt: "加年端山南側山坡地，是一整片枯黃蕨類植物所形成的山坡地，展望良好，可以飽覽丹大-東郡橫斷群峰。由此稜線向下切往丹大林道保線路，有如通往另一個美麗的世界。"
     #url: ""
     #btn_class: "btn--primary"
@@ -74,14 +74,20 @@ header:
 
 <figure style="width: 45%" class="align-right">
   <img src="https://1.bp.blogspot.com/-Wlu_psvy-bo/YDJHZQpIEGI/AAAAAAABONc/-AuYNMZwa4QGjpn5CqmvidSnP5DCR9j1ACLcBGAsYHQ/s2048/IMG_6626.JPG" alt="卡社山稜線眺望治茆山">
-  <figcaption>  </figcaption>
+  <figcaption> 卡社山稜線眺望治茆山 </figcaption>
 </figure> 
 
 除了自然景色優美之外，卡社山另一個精彩的地方是布農族部落遺跡，沿途有幾處可見傳統的石板對砌而成的駁坎，不太確定是家屋還是耕地。對於這些遺跡必須要尊重，我個人不專業的了解，先人傳統上會將過世的長輩葬於家屋的地底下，有些地方曾經可能是祭壇，看到這些遺址時，別亂採亂爬才是。退一步來說，我個人是不迷信啦，在登山的過程中可以親眼看到這些歷史遺跡文物等等，也是一種樂趣，希望這裡的環境可以被保存下來，基於公德心來看，沒水準的事情不要做，應該沒什麼好爭執的。
 
 
-我們這次的行程，除了要攀登卡社山之外，要繼續沿著稜線東行，行經拉夫朗西北峰、拉夫朗山、加年端山，再沿著南側山坡向下行至加年端社舊部落，並接回丹大林道。  
-這次一趟三天兩夜的行程。
+<figure style="width: 80%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-4G84v_lmUO0/YC_X90WtCfI/AAAAAAABOHs/dmdvtTmnvQE2TFww_L0PYBvPDmN8iFDhwCLcBGAsYHQ/s2048/IMG_6412.JPG" alt="卡社部落遺址">
+  <figcaption> 舊部落家屋遺址 </figcaption>
+</figure> 
+
+
+我們這次的行程，除了要攀登卡社山之外，要繼續沿著稜線東行，行經拉夫朗西北峰、拉夫朗山、加年端山，再沿著南側山坡向下行至加年端社舊部落，並接回丹大林道。
+這次一趟兩天兩夜的行程。
 
 ## 卡社山-加年端山稜線縱走 圖文紀錄
 
