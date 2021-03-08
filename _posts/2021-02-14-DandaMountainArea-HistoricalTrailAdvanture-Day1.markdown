@@ -15,21 +15,21 @@ tags:
 
 feature_row:
   - image_path: https://1.bp.blogspot.com/-QioGOW_V-c8/YC_YFKAq41I/AAAAAAABOH0/NdfRdkbTLfsPW8JCEc-YtdMTCmu9GaHvQCLcBGAsYHQ/s2048/IMG_6418.JPG
-    title: "卡社山、加年端稜線縱走 (二) 卡社遺址與拉夫朗西北峰 關門古道西段探險前傳"
+    title: "(二) 卡社遺址與拉夫朗西北峰"
     excerpt: "卡社加年端稜線縱走行程第二天，由卡社山稜線路東行至拉夫朗西北峰沿途景色宜人，有多處石板駁坎遺址。"
     url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-IKwq_x8K44o/YDJrn0ttaEI/AAAAAAABORU/crwvU7JkVEQSrA1386dXS35wVMBXAerjwCLcBGAsYHQ/s2048/IMG_6866.JPG
-    title: "卡社山、加年端稜線縱走 (三) 前往加年端 關門古道西段探險前傳"
+    title: "(三) 前往加年端"
     excerpt: "由拉夫朗山繼續向東行，更深入中央山脈深處，前往加年端山。此處可遠眺整段南三段稜線群峰，由關門北山開始向南延伸向丹大山的大南三線，並延伸向內嶺爾山-東巒大山的東郡橫斷，盡收眼底。"
-    #url: ""
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+    url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2-part2"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-WNXeZIqyolU/YDJro3ddq_I/AAAAAAABORY/KZw3AwKdY0kdSXJr3eKDxRj8chq9g4NkQCLcBGAsYHQ/s2048/IMG_6922.JPG
-    title: "卡社山、加年端稜線縱走 (四) 加年端山大草原 關門古道西段探險前傳"
+    title: "(四) 尋訪加年端遺址"
     excerpt: "加年端山南側山坡地，是一整片枯黃蕨類植物所形成的山坡地，展望良好，可以飽覽丹大-東郡橫斷群峰。由此稜線向下切往丹大林道保線路，有如通往另一個美麗的世界。"
     #url: ""
     #btn_class: "btn--primary"
