@@ -28,12 +28,12 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-WNXeZIqyolU/YDJro3ddq_I/AAAAAAABORY/KZw3AwKdY0kdSXJr3eKDxRj8chq9g4NkQCLcBGAsYHQ/s2048/IMG_6922.JPG
-    title: "(四) 尋訪加年端遺址"
-    excerpt: "加年端山南側山坡地，是一整片枯黃蕨類植物所形成的山坡地，展望良好，可以飽覽丹大-東郡橫斷群峰。由此稜線向下切往丹大林道保線路，有如通往另一個美麗的世界。"
-    #url: ""
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+  - image_path: https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s2048/IMG_7042.JPG
+    title: "(四) 加年端下切丹大林道 -- 遺世獨立"
+    excerpt: "加年端山南側是一整片枯黃蕨海山坡地，展望良好，可以飽覽丹大-東郡橫斷群峰。由此稜線向下切往丹大林道保線路，有如通往另一個美麗的世界。"
+    url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day3"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
 gallery:
   - url: 

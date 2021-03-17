@@ -21,19 +21,19 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-QioGOW_V-c8/YC_YFKAq41I/AAAAAAABOH0/NdfRdkbTLfsPW8JCEc-YtdMTCmu9GaHvQCLcBGAsYHQ/s2048/IMG_6418.JPG
+  - image_path: https://1.bp.blogspot.com/-Vyv1qkePdbI/YDIK8CUvwAI/AAAAAAABOK8/XwBjphAJNScLzJyatsdpW3Acw60P70yPgCLcBGAsYHQ/s2048/IMG_6498.JPG
     title: "(二) 卡社遺址與拉夫朗西北峰"
     excerpt: "卡社加年端稜線縱走行程第二天，由卡社山稜線路東行至拉夫朗西北峰沿途景色宜人，有多處石板駁坎遺址。"
     url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-WNXeZIqyolU/YDJro3ddq_I/AAAAAAABORY/KZw3AwKdY0kdSXJr3eKDxRj8chq9g4NkQCLcBGAsYHQ/s2048/IMG_6922.JPG
-    title: "(四) 尋訪加年端遺址"
-    excerpt: "加年端山南側山坡地，是一整片枯黃蕨類植物所形成的山坡地，展望良好，可以飽覽丹大-東郡橫斷群峰。由此稜線向下切往丹大林道保線路，有如通往另一個美麗的世界。"
-    #url: ""
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+  - image_path: https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s2048/IMG_7042.JPG
+    title: "(四) 加年端下切丹大林道 -- 遺世獨立"
+    excerpt: "加年端山南側是一整片枯黃蕨海山坡地，展望良好，可以飽覽丹大-東郡橫斷群峰。由此稜線向下切往丹大林道保線路，有如通往另一個美麗的世界。"
+    url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day3"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
 header:
   image: https://1.bp.blogspot.com/-XkNeOREkA7s/YEY_ETvcsLI/AAAAAAABOh8/BXMslETPnUIdt00T1rgKPNxVb6173NR2QCLcBGAsYHQ/s3279/IMG_6990.JPG
@@ -50,7 +50,7 @@ header:
 
 多數人安排一日來回路線的話只會到拉夫朗山西北峰，這次行程我們要繼續向東行，經由拉夫朗山前往加年端山。接下來的路有一大段都是寬稜，大致都很好走，只是連續上坡累而已。我們要從海拔1611公尺高的拉夫朗西北峰開始，先登上2061公尺高的拉夫朗山，再繼續向海拔2357公尺高的加年端山挺進。接下來的路比較少人走，一路上沒甚麼路條，也沒有明顯的路跡，兩旁的森林多為栓皮櫟林，但也有幾處是針葉林。當上坡走累了，我們就卸下重裝備休息，再到兩旁的森林中晃晃探險，說不定可以找到鹿角XD。  
 
-這是一條適合傾聽大自然聲音的路線，也許每個人爬都都有自己的目標，或許是完成百岳？或許是要證明自己爬得很快?也或許沒為了特別的原因，就只是單純想爬山。  
+這是一條適合傾聽大自然聲音的路線，也許每個人爬山都有自己獨特的目標，或許是完成百岳？或許是要證明自己爬得很快?也或許沒為了特別的原因，就只是單純想爬山。  
 我個人一開始是單純喜歡親近自然，欣賞高山的風景。大學加入山社的時候都是爬高山百岳為主。但年輕氣盛的時候難免會有一點競爭的心態，一直想著要衝百岳數，或是想挑戰什麼很難的路線。但出了社會之後才又慢慢找回一開始想爬山的初衷。悠閒地踏過鋪滿落葉的森林之中，在森林裡面尋找各種動物留下來的痕跡，看看溪谷對岸的山巒，利用難得的假日進入大自然之中，好好欣賞自然美景，忘掉一堆有的沒的事情，未嘗不是一種幸福。  
 
 花了一天的時間慢慢走，我們趕在日落前到達了位在加年端山西側的黑水塘營地。還有一些時間，晚餐之前還可以四處探探。  
