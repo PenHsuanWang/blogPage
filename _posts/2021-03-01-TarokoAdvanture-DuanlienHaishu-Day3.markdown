@@ -1,990 +1,416 @@
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.18.1 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="en" class="no-js">
-  <head>
-    <meta charset="utf-8">
-
-<!-- begin _includes/seo.html --><title>鍛鍊海鼠O型縱走 Day1 攀登鍛鍊山前的試煉 | 二十毫秒之間</title>
-<meta name="description" content="鍛鍊山以及海鼠山位在花蓮太魯閣山區，多數人是分開來爬，但我們這次行程是從迴頭彎起登鍛鍊山，再循稜線縱走至海鼠山。迴頭彎起登後一開始碰到的崩壁先來給我們一個下馬威，再來還要渡過溪谷。鍛鍊山真得是在鍛鍊我們。 ">
-
-
-  <meta name="author" content="P.H, Wang">
-
-
-<meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="二十毫秒之間">
-<meta property="og:title" content="鍛鍊海鼠O型縱走 Day1 攀登鍛鍊山前的試煉">
-<meta property="og:url" content="http://localhost:4000/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day1/">
-
-
-  <meta property="og:description" content="鍛鍊山以及海鼠山位在花蓮太魯閣山區，多數人是分開來爬，但我們這次行程是從迴頭彎起登鍛鍊山，再循稜線縱走至海鼠山。迴頭彎起登後一開始碰到的崩壁先來給我們一個下馬威，再來還要渡過溪谷。鍛鍊山真得是在鍛鍊我們。 ">
-
-
-
-  <meta property="og:image" content="https://1.bp.blogspot.com/-5dmVC4Xf1xY/YFdiYGxe2VI/AAAAAAABOlQ/pZlCYAUets0fHzAKbogI38KHaTmXvh9CwCLcBGAsYHQ/s3001/B432BB9E-DF25-46E7-96B5-FE62024259F0.jpeg">
-
-
-
-
-
-  <meta property="article:published_time" content="2021-02-27T08:00:00+08:00">
-
-
-
-
-
-  
-
-  
-
-
-<link rel="canonical" href="http://localhost:4000/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day1/">
-
-
-
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    
-      "@type": "Person",
-      "name": "P.H, Wang",
-      "url": "http://localhost:4000/blogPage/"
-    
-  }
-</script>
-
-
-
-
-
-
-<!-- end _includes/seo.html -->
-
-
-<link href="/blogPage/feed.xml" type="application/atom+xml" rel="alternate" title="二十毫秒之間 Feed">
-
-<!-- https://t.co/dKP3o1e -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="/blogPage/assets/css/main.css">
-
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
-
-
-
-    <!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-  </head>
-
-  <body class="layout--single wide - landing - dark-theme">
-    <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
-  <ul>
-    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
-  </ul>
-</nav>
-
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
-
-    
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        
-        <a class="site-title" href="/blogPage/">
-          二十毫秒之間
-          <span class="site-subtitle">帶著相機去冒險</span>
-        </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/blogPage/" >Home</a>
-            </li><li class="masthead__menu-item">
-              <a href="/blogPage/mt-note-literal-home/" >文字紀錄</a>
-            </li><li class="masthead__menu-item">
-              <a href="/blogPage/categories/" >圖文記錄</a>
-            </li><li class="masthead__menu-item">
-              <a href="/blogPage/mt-gallery/" >山岳攝影</a>
-            </li></ul>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
-
-
-    <div class="initial-content">
-      
-  
-
-
-
-
-
-
-
-
-
-
-
-<div class="page__hero"
-  style=" "
->
-  
-    <img src="https://1.bp.blogspot.com/-5dmVC4Xf1xY/YFdiYGxe2VI/AAAAAAABOlQ/pZlCYAUets0fHzAKbogI38KHaTmXvh9CwCLcBGAsYHQ/s3001/B432BB9E-DF25-46E7-96B5-FE62024259F0.jpeg" alt="" class="page__hero-image">
-  
-  
-</div>
-
-
-
-
-  
-    
-
-
-
-<nav class="breadcrumbs">
-  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
-    
-    
-    
-      
-        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="http://localhost:4000/blogPage/" itemprop="item"><span itemprop="name">Home</span></a>
-          <meta itemprop="position" content="1" />
-        </li>
-        <span class="sep">/</span>
-      
-      
-        
-        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="/blogPage/categories/mt-note-photo-midalt" itemprop="item"><span itemprop="name">Mt note photo midalt</span></a>
-          <meta itemprop="position" content="2" />
-        </li>
-        <span class="sep">/</span>
-      
-    
-      
-      
-        <li class="current">鍛鍊海鼠O型縱走 Day1 攀登鍛鍊山前的試煉</li>
-      
-    
-  </ol>
-</nav>
-
-  
-
-
-<div id="main" role="main">
-  
-  <div class="sidebar sticky">
-  
-
-
-<div itemscope itemtype="https://schema.org/Person">
-
-  
-    <div class="author__avatar">
-      
-
-      
-        <img src="/blogPage/image/bio_image.png" alt="P.H, Wang" itemprop="image">
-      
-    </div>
-  
-
-  <div class="author__content">
-    
-      <h3 class="author__name" itemprop="name">P.H, Wang</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
-        <p>中央山社OB, 物理105級.
-全職菜鳥工程師, 放假有山就爬. 隨意寫圖文記錄留念</p>
-
-      </div>
-    
-  </div>
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Hsinchu, Taiwan</span>
-        </li>
-      
-
-      
-        
-          
-            <li><a href="https://www.instagram.com/benwang.photo" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-          
-        
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      <!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
-      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
-    </ul>
-  </div>
-</div>
-
-  
-    
-      
-      
-      
-      
-    
-    
-      
-
-<nav class="nav__list">
-  
-  <input id="ac-toc" name="accordion-toc" type="checkbox" />
-  <label for="ac-toc">Toggle menu</label>
-  <ul class="nav__items">
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/"><span class="nav__sub-title">Home</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/mt-note-literal-home/"><span class="nav__sub-title">文字紀錄</span></a>
-        
-
-        
-        <ul>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/mt-note-literal-100peaks/" class="">高山百岳</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/mt-note-literal-historicaltrail/" class="">古道遺跡</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/mt-note-literal-midalt/" class="">中級山</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/mt-note-literal-townsadjacent/" class="">郊山</a></li>
-          
-        </ul>
-        
-      </li>
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/categories/"><span class="nav__sub-title">圖文記錄</span></a>
-        
-
-        
-        <ul>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-100peaks/" class="">高山百岳</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-historicaltrail/" class="">古道遺跡</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-midalt/" class="">中級山</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-townsadjacent/" class="">郊山</a></li>
-          
-        </ul>
-        
-      </li>
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/mt-gallery/"><span class="nav__sub-title">山岳攝影</span></a>
-        
-
-        
-        <ul>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/mt-gallery-100peaks/" class="">高山百岳</a></li>
-          
-        </ul>
-        
-      </li>
-    
-  </ul>
-</nav>
-    
-  
-  </div>
-
-
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="鍛鍊海鼠O型縱走 Day1 攀登鍛鍊山前的試煉">
-    <meta itemprop="description" content="鍛鍊山以及海鼠山位在花蓮太魯閣山區，多數人是分開來爬，但我們這次行程是從迴頭彎起登鍛鍊山，再循稜線縱走至海鼠山。迴頭彎起登後一開始碰到的崩壁先來給我們一個下馬威，再來還要渡過溪谷。鍛鍊山真得是在鍛鍊我們。">
-    <meta itemprop="datePublished" content="2021-02-27T08:00:00+08:00">
-    
-
-    <div class="page__inner-wrap">
-      
-        <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">鍛鍊海鼠O型縱走 Day1 攀登鍛鍊山前的試煉
-</h1>
-          
-        </header>
-      
-
-      <section class="page__content" itemprop="text">
-        
-        <figure style="width: 45%" class="align-right">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156568232_4458710487476751_5883317634954461670_o.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=lm-dv0cgVlYAX9aqTM1&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=e7a25e93a54cdb6f41429123d52f9f89&amp;oe=607C35EE" alt="中橫迴頭彎開始攀登鍛鍊山" />
+---
+layout: single
+title:  "鍛鍊海鼠O型縱走 Day3 海鼠駐在所下文山"
+excerpt: "位在花蓮太魯閣山區的海鼠山有著十分豐富的自然景觀，可以遙望中央山脈北一段北二段除外，還可以欣賞壯麗的太魯閣峽谷。除了自然景觀，還有豐富的歷史遺跡。海鼠山駐在所、海鼠警備道、天狗岩、綠水文山步道。"
+
+date:   2021-03-01 08:00:00 +0800
+categories: mt-note-photo-midalt
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 花蓮
+
+feature_row:
+  - image_path: https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156173816_4458710187476781_6222102360528565092_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=--vCaMYifa0AX8RuVqT&_nc_ht=scontent.ftpe7-4.fna&oh=3752848079b857a1ddd87569b84e9cba&oe=607DA467
+    title: "攀登鍛鍊山前的試煉"
+    excerpt: "鍛鍊山縱走到海鼠山的稜線路人跡稀少，也因此格外生趣，找路鑽芒草在這裏是必備條件。沿途還可見三角錐山、大斷崖山、塔山，向東可見中央山脈主稜上的中央尖山。鍛鍊海鼠縱走的稜線上充滿驚喜"
+    url: "mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day1/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/163242413_4502395556441577_7956376386266452412_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=UldIXRM2NMUAX9ero4n&_nc_ht=scontent.ftpe7-4.fna&oh=338a0ab8e5cb6fcaf66d877e9c37971b&oe=607DE85E
+    title: "鍛鍊海鼠 鍛鍊自己"
+    excerpt: "鍛鍊山縱走到海鼠山的稜線路人跡稀少，也因此格外生趣，找路鑽芒草在這裏是必備條件。沿途還可見三角錐山、大斷崖山、塔山，向東可見中央山脈主稜上的中央尖山。鍛鍊海鼠縱走的稜線上充滿驚喜"
+    url: "mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+header:
+  image: https://1.bp.blogspot.com/-hxy50jlEIEI/YF6eXJGTIrI/AAAAAAABOo8/y7bvoJGpfC0ZAtqWna4f0XuLxjB8gcRRQCLcBGAsYHQ/s2944/113A47ED-E197-480D-89C4-DB2AE347829C.jpeg
+  teaser : https://1.bp.blogspot.com/-Vyv1qkePdbI/YDIK8CUvwAI/AAAAAAABOK8/XwBjphAJNScLzJyatsdpW3Acw60P70yPgCLcBGAsYHQ/s2048/IMG_6498.JPG
+  image_description: ""
+  overlay_filter: 0.5
+---
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/162108380_4502404043107395_5865688479429018601_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=LeMU_55tjb4AX_7CEcm&_nc_ht=scontent.ftpe7-1.fna&oh=64387cd2ef79a83bcc8b24581db98d03&oe=60823ABD" alt="">
   <figcaption>  </figcaption>
-</figure>
+</figure>  
 
-<p>2021年228連假再次來到花蓮太魯閣。繼去年的砂卡噹三雄，今年造訪更裡面的鍛鍊山以及海鼠山。<br />
-鍛鍊山以及海鼠山大家通常是分開來走，很少找到連在一起走的紀錄。而我們今年安排鍛鍊山縱走海鼠山的路線。由中橫公路迴頭彎開始起登，先經過沒有蓮花的蓮花池，再來渡一小段溪後攀登鍛鍊山，循稜線向南通往海鼠山，再循天狗岩綠水文山步道回到中橫公路，這是三天兩夜的行程。</p>
+結束了鍛鍊海鼠的縱走路線，到達海鼠山駐在所，與中央山社的學弟妹們於海鼠駐在所會師。我們在海鼠駐在所度過了愉快的一個晚上，看著中央山社大一的學弟們齊聚一堂打屁聊天，聊聊上個學期參加了哪些隊伍，未來還想要去哪些地方，聽起來真的很熱血XD。  
+從學弟們的身上散發出那種純粹想爬山的感覺，讓我好像看到了以前的自己一般。當學生真好，還可以討論與規劃寒暑假要去哪邊探險，走個十來天也不是問題。  
 
-<p>花蓮的山都是不太好惹的。這點我們去年爬清水大山已經體會到了。天氣是其中一個關鍵點，再來就是植披。從鍛鍊山通往海鼠山沿途稜線上有幾處茂密芒草區，登頂海鼠山後要下到海鼠駐在所這片山坡也長滿了茂密的芒草，看來也是一條會被刮得哇哇叫的路線呢。</p>
+翌日一早，我們先在附近晃晃，到水源地那邊看水牛墓。途中經過一處日本陸軍墓地。再來我們晃到台灣軍經理部的建設紀念碑，再往前走一點還有富田中尉墓。  
+海鼠駐在所附近也是有滿滿的遺址，還可見標示"TR"的紅磚。  
 
-<p>D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站露宿。翌日一早在走到台九線路旁的公車站搭乘花蓮客運1126路(花蓮火車站-洛韶)公車前往位在新中橫的”谷園”站。<br />
-從迴頭彎一開始起登的路就不太好走了，是一整片的崩塌地。先是通往沒有蓮花的蓮花池，再來是切下溪谷，還溯一段休督溪，方可抵達鍛鍊山登山口。但我們預估得太樂觀，隊友中有不太擅長過地形，因此行進速度大大打折。沒能住到預定營地，在溪旁找一處高地紮營迫降。雖然要溯溪的距離不長，但有幾處渡水水深會到大腿，看來帶上溯溪鞋還是比較方便。除了渡水，有兩處高繞通行不易，也因這條路走的人比較少，路徑不是很明顯，沿途也缺少路條，所以要自己找路。溪谷兩側的坡面都很陡，花蓮一帶山區又多雨潮濕，坡面溼滑，背著重裝備找路確實不好走。<br />
-通過溪谷後準備登上鍛鍊山的路好走很多，就只是陡而已，沒有困難地形一切都好解決。為了追上前一日delay的進度，我們一路狂飆爬向上，只在巴奇干社遺址附近休息了半小時。<br />
-登頂鍛鍊山，山頂東側的展望不錯，向東望去可見一片令人心生畏懼的大岩壁，大岩壁上方的稜線往南延伸至大斷崖山，向北延伸至海拔約2600公尺高的三角錐山。三角錐山。以及立霧溪太魯閣峽谷對岸的塔山。好加在今天天氣還不錯，從溪谷登上鍛鍊山後還有太陽可曬，但可惜我們不能休息太久，因為今天真正挑戰還沒開始呢! 接下來從鍛鍊山通往海鼠山的稜線路呢路徑不明，只有前一隊清大隊伍走過的紀錄，抓緊時間，準備出發。</p>
+由海鼠住在所出發，我們往天狗岩方向前進，這一處展望點可以看到壯麗的太魯閣峽谷，接近垂直的岩壁，直下深谷之中。對面的塔山看起來非常的高大。以前行經中橫公路的太魯閣峽谷，都是從溪谷中向上仰望這宛如天險的大理石白牆。而這次是從不一樣的視角欣賞太魯閣峽谷。雖然這裡的海拔不像中央山脈主脊一般動輒3000公尺，然而要體驗台灣的山高水深，此處想必是絕佳地點。  
+
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156173816_4458710187476781_6222102360528565092_o.jpg?_nc_cat=101&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=--vCaMYifa0AX8RuVqT&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=3752848079b857a1ddd87569b84e9cba&amp;oe=607DA467" alt="修督溪中的櫻花花瓣" />
+  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/161549649_4502403286440804_2457016305964979860_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=oFQWTkdmkocAX8K7V7C&_nc_ht=scontent.ftpe7-1.fna&oh=1a31619152e2303ca4b1527049fe405a&oe=60854BB7" alt="">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
-<h2 id="鍛鍊海鼠o型縱走-圖文紀錄">鍛鍊海鼠O型縱走 圖文紀錄</h2>
+## 鍛鍊海鼠O型縱走 圖文紀錄
 
-<div class="feature__wrapper">
+{% include feature_row %}
 
-  
+# 海鼠駐在所下文山
 
-    
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/163242413_4502395556441577_7956376386266452412_o.jpg?_nc_cat=101&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=UldIXRM2NMUAX9ero4n&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=338a0ab8e5cb6fcaf66d877e9c37971b&amp;oe=607DE85E" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">鍛鍊海鼠 鍛鍊自己</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>鍛鍊山縱走到海鼠山的稜線路人跡稀少，也因此格外生趣，找路鑽芒草在這裏是必備條件。沿途還可見三角錐山、大斷崖山、塔山，向東可見中央山脈主稜上的中央尖山。鍛鍊海鼠縱走的稜線上充滿驚喜</p>
-
-            </div>
-          
-
-          
-            <p><a href="/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day2/" class="btn btn--primary">Go to</a></p>
-          
-        </div>
-      </div>
-    </div>
-  
-
-    
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/162659342_4502402589774207_8050619797229637844_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=Pc7pivdJsP0AX_Qk7hp&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=05130bd2253b6afe8799b6e283c9df35&amp;oe=607F62BF" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">海鼠駐在所 天狗岩</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>位在花蓮太魯閣山區的海鼠山有著十分豐富的自然景觀，可以遙望中央山脈北一段北二段除外，還可以欣賞壯麗的太魯閣峽谷。除了自然景觀，還有豐富的歷史遺跡。海鼠山駐在所、海鼠警備道、天狗岩、綠水文山步道。</p>
-
-            </div>
-          
-
-          
-            <p><a href="/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day3/" class="btn btn--primary">Go to</a></p>
-          
-        </div>
-      </div>
-    </div>
-  
-
-</div>
-
-<h1 id="攀登鍛鍊山前的試煉">攀登鍛鍊山前的試煉</h1>
-
-<p>星期五晚間我們先搭乘普悠瑪號從台北出發，於晚上十點五十幾分到達新城火車站露宿。隔日一早我們走到台九線上的公車站牌搭乘1126路公車前往中橫公路谷園站。</p>
-
-<p>由谷園站下車後，還需要走一小段中橫公路方可抵達迴頭彎。體驗一下中橫縱走XD</p>
+早晨由海鼠山住在所出發，先循著就警備道向水源地前進，先是看到一處地上有散落一些磚頭，其中有在中央印製"TR"兩字的紅磚，此磚應該是由1913年成立的"台灣煉瓦株式會社"所製，TR磚為一級磚，密度為當年所產的磚頭中密度最高者。而TR磚好像還是日治時代的煉瓦株式會社所生產的磚頭之中，最為稀有的高級磚。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/p843x403/156962896_4458709040810229_5450145901505141455_o.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=A3sp7Ntjmm8AX8y5-s9&amp;_nc_ht=scontent.ftpe7-3.fna&amp;tp=6&amp;oh=bcdd7250bee2dc99c19aaba10bc30696&amp;oe=607720A5" alt="中橫大健走" />
+  <img src="https://cdntwrunning.biji.co/1024_7b881284eb28c43c2d4675d897c348a7.jpg" alt="海鼠駐在所紅磚遺跡">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_07e38f65549565b9b4c7e8e5907851a5.jpg" alt="海鼠住在所遺留的磚頭">
   <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156620370_4458713427476457_9057882126071152521_o.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=xb9f-Yxx378AX9e49cq&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=2aab33e00ea099a24912e90a052e3bd4&amp;oe=60773776" alt="中橫健行登山" />
+  <img src="https://cdntwrunning.biji.co/1024_e9c2e42b116d090b7b200c86904029c4.jpg" alt="台灣煉瓦株式會社">
   <figcaption>  </figcaption>
 </figure>
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156911780_4458712977476502_6441265133194335601_o.jpg?_nc_cat=100&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=NizyY16GKBgAX-Ywdnh&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=1a2f9bd9c199aa502a5ac7e4477ce347&amp;oe=6077BF81" alt="雲煙中的太魯閣峽谷" />
-  <figcaption> 雲煙中的太魯閣峽谷與中橫公路 </figcaption>
-</figure>
-
-<p>走約20分鐘到達迴頭彎，這裡是我們鍛鍊海鼠O型縱走的起點。</p>
+旁邊還有一塊灰白色水泥磚，上面印有正五角星。不知道出處為何?
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/155441119_4458713210809812_3234680067655388276_o.jpg?_nc_cat=106&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=CIaZyBfPnx4AX-qVXgT&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=0579937b23188300d25c2c409ba745a2&amp;oe=607A30CC" alt="中橫迴頭彎為攀登鍛鍊山的登山口" />
+  <img src="https://cdntwrunning.biji.co/1024_c7f04dab8eaab072da0fdfb3612a8514.jpg" alt="海鼠駐海鼠住在所遺留的磚頭在所紅磚遺跡">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156830723_4458711817476618_6239075868412420731_o.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=Bd8JZGcgFMQAX-WnYOU&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=588426153ecd35fdeabdaf84ad7bb4a4&amp;oe=6078EA40" alt="中橫公路迴頭彎" />
+  <img src="https://cdntwrunning.biji.co/1024_ea59698db1d8aca3b738994431eca3d2.jpg" alt="海鼠住在所附近的磚頭">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157302296_4458712844143182_781106395795386211_o.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=zmbnhCfK3BgAX_zH2lV&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=d6823b85500208c07aa14907734276d9&amp;oe=6078722F" alt="中橫公路迴頭彎開始攀登鍛鍊山" />
+  <img src="https://cdntwrunning.biji.co/1024_31fc9c76fa42a90d090b43af76b634f9.jpg" alt="海鼠駐在所旁邊的水泥建物">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
-<p>鍛鍊山給我們的鍛鍊考題，第一題。一剛開始從登山口起登就是這麼可怕的崩壁地形呀!!</p>
+從此處再往前走一段路便可看到以前日本陸軍士兵墓兩座。  
+墓碑上長滿青苔已經看不清楚上面的字了。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/155112405_4458712990809834_1695202370569433015_o.jpg?_nc_cat=105&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=JECu7zDTYMgAX_s4Wr2&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=eaec79a36b49ea8998e6885adbc3dd47&amp;oe=6077FB03" alt="鍛鍊山登山口" />
+  <img src="https://cdntwrunning.biji.co/1024_abaae7ca44cb0f628d41000bb1b4bb4a.jpg" alt="海鼠駐在所陸軍墓">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156568232_4458710487476751_5883317634954461670_o.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=WXSqI3Eftp4AX-9u3vt&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=f9a3e2561f2ddeff75fc80cc4c554b2c&amp;oe=6078416E" alt="鍛鍊山登山口一開始的崩塌路" />
+  <img src="https://cdntwrunning.biji.co/1024_74b42bc83a9a423ed21b6e245073fd78.jpg" alt="海鼠駐在所附近的陸軍墓">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
+
+再繼續前走到水源地後，往左轉向下走一點就可以到達水牛墓地。  
+這裡以前是花蓮牧場的放牧地，但之後墓場遷走了，留下了部分水牛。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/158108946_4458713814143085_1148866866207491743_o.jpg?_nc_cat=102&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=xwe5catWYhkAX8ehbIl&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=bef0a8051f305d0ae646be429fef6bc1&amp;oe=60770AE2" alt="鍛鍊山登山道路" />
-  <figcaption> 山洞中的廢棄速克達 </figcaption>
-</figure>
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157749583_4458714384143028_1568212450096093504_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=RjEQl0AquuMAX-_Ua0D&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=ded93d923fafd29d8a8e608a2767e89d&amp;oe=60783943" alt="清溪吊橋為中橫公路前往蓮花池會經過的第一座吊橋" />
-  <figcaption> 清溪吊橋 </figcaption>
-</figure>
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157478892_4458712144143252_5681735525620067781_o.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=887yJ7VdMx8AX9S14Uf&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=ae6e554f4cc9839d61177992b9a4837f&amp;oe=607870F2" alt="清溪吊橋風景" />
+  <img src="https://cdntwrunning.biji.co/1024_f4a4806925aed1332647e296c83c0a7d.jpg" alt="海鼠警備道水源">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156909605_4458711920809941_1888867759402342545_o.jpg?_nc_cat=104&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=8onx5bfJAtEAX_TvSsM&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=7fbafe2e1609f03cb50c22a07f37646b&amp;oe=607997F3" alt="清溪吊橋俯瞰峽谷地形" />
+  <img src="https://cdntwrunning.biji.co/1024_8c3262fe6cbac0f2b67bb3a7bbc065c9.jpg" alt="海鼠警備道附近的水牛墓">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157748242_4458712570809876_3207991460228034841_o.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=AxlPPlAVtQUAX_VjDpc&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=80bbb5f0380e629c5fc6fb75139e063c&amp;oe=6077CB96" alt="清溪吊橋吊橋頭" />
+  <img src="https://cdntwrunning.biji.co/1024_f476ab826b75380bcf1710f7ef69a4aa.jpg" alt="海鼠駐在所附近遺跡">
   <figcaption>  </figcaption>
-</figure>
-
-<p>通過了清溪吊橋後的崩壁地形，暴露感重，但對於大家平時都有走地形的經驗來說這一段崩壁其實還好，小心通過即可。</p>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157237244_4458710730810060_7200919673710432561_o.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=h_oCu4iIFLoAX_a4Jb5&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=e3012ac657431d7079e81046c4ec113d&amp;oe=607A58D3" alt="前往蓮花池前的崩壁地形" />
-  <figcaption> 通過清溪吊橋後的拉繩地形 </figcaption>
-</figure>
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156686487_4458714430809690_5800664468291596089_o.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=viJlB4Iy5fMAX9rfdSP&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=cf21f7ca46ae0cacde64e55c945589df&amp;oe=60799C02" alt="攀登鍛鍊山前往蓮花池前的碎石崩壁" />
+  <img src="https://cdntwrunning.biji.co/1024_7df329593d81fd0f7e037dffec59116a.jpg" alt="海鼠駐在所附近的水牛墓遺跡">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
-<p>通過九梅吊橋後就是上坡的開始，從這邊要翻過海拔約1100公尺高的越稜點，通往蓮花池。</p>
+水牛墓地向上走一點後有一片蕨海，其中有一塊巨石，我們在石頭上拍了幾張照片。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/156914930_4458714147476385_8164843583727356000_o.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=N63Xybb5P5EAX9APiT_&amp;_nc_oc=AQkkYrRk-iStx3HHU8_kD5Za_C6mjHh3G79nTBMKiiPbtNYtLioo8nMksDtyQ9BldPo&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=8fc5f47a98e59465520545cc418ad472&amp;oe=6079D781" alt="九梅吊橋" />
+  <img src="https://cdntwrunning.biji.co/1024_7c7b48c5038eb30dc6bb13ea35d28d43.jpg" alt="海鼠山">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156549160_4458711564143310_2769797980907945988_o.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=TUnPMF0clr8AX9CVBnk&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=93021571804a33049692bfff20b7994d&amp;oe=607941E2" alt="前往蓮花池的登山道路" />
+  <img src="https://cdntwrunning.biji.co/1024_f8819f89f8fbe375a4612ea651fda8b3.jpg" alt="海鼠駐在所">
   <figcaption>  </figcaption>
-</figure>
-
-<p>在林間看見了太陽。出發前看氣象預報提到花蓮會是陰雨的天氣，好加在沒下雨，還讓我們看見了太陽公公🌞</p>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156674011_4458710937476706_6212648593991258386_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=f8W4KNaLkYAAX99QfbD&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=ada88acdc248bfe9335b7859d45f22e3&amp;oe=60791D6F" alt="蓮花池登山道路" />
+  <img src="https://cdntwrunning.biji.co/1024_76e5a4900ef2e1ad9ff32ff3417263cf.jpg" alt="水晶蘭">
+  <figcaption> 回程途中路邊的水晶蘭 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_0c4de99595474dd100d5ac09cf02367b.jpg" alt="海鼠住在所附近的水晶蘭">
+  <figcaption> 路旁的水晶蘭 </figcaption>
+</figure> 
+
+再來是回到營地方向，我們去參觀了一下當年的建設紀念碑，立碑者是台灣軍經理部。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b447291b0f411bf6160a308ab8cf8aa5.jpg" alt="海鼠住在所附近的台灣建設紀念碑">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156767924_4458713667476433_7471193930941864934_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=8FO5lUGUNWsAX9EXzXw&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=f7a2de9c9393c08265e8ffa1eac60972&amp;oe=6076E1D2" alt="前往蓮花池的指標" />
-  <figcaption> 往蓮花池還有1.028K ! 測量精度有到10m XD </figcaption>
-</figure>
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157768914_4458710430810090_8802816891583111800_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=udr9EPH4zhEAX_6a8vK&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=d61c299d2440d0a454b9e3a3fc0cb76b&amp;oe=6079E6AC" alt="" />
-  <figcaption> 林間的梅子？ </figcaption>
-</figure>
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156161245_4458713537476446_3297514133521986522_o.jpg?_nc_cat=105&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=KMblYEdi1SQAX84MWcE&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=98ba8e60c70f399bc1352fcb339797c8&amp;oe=6078E59D" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_f9c2d3fc339381de68d6aa19857e61b1.jpg" alt="海鼠山警備道建設紀念碑">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157072312_4458713574143109_4672686659056333834_o.jpg?_nc_cat=105&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=EOSApgHrqDUAX-bobcT&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=8413d07247b544ab43e44dfc5c5c58b8&amp;oe=607AB759" alt="" />
-  <figcaption> 越稜點，可見對岸的舊部落平台 </figcaption>
-</figure>
-
-<p>到達蓮花池，這裡沒有蓮花呀!!</p>
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/155373207_4458711964143270_2255039982225052498_o.jpg?_nc_cat=104&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=u4lJogkGfHIAX8-ZwfN&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=63d5f8c38537f785a4dd23069d3ff9ee&amp;oe=6079F78D" alt="蓮花池" />
+  <img src="https://cdntwrunning.biji.co/1024_c051d6805b3f352a208dd9e09a95762d.jpg" alt="海鼠山警備道紀念碑遺跡">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156810838_4458713174143149_8354439924101567898_o.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=bBCXVLAMkIwAX9iYuHd&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=73eb579698bd9e43c41e31455b366b87&amp;oe=6079A7D6" alt="蓮花池" />
+  <img src="https://cdntwrunning.biji.co/1024_32c79332ae15f17edb6f467e837e0185.jpg" alt="海鼠山附近的花蓮農場界碑">
+  <figcaption> 駐在所上方，昔日花蓮農場界碑 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_92afe8b09245a80906d6e35c00632c19.jpg" alt="海鼠駐在所遺留的酒瓶">
+  <figcaption> AINIPPON </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_467aaf2a9eac137e4e14adc5f6c1f1ba.jpg" alt="海鼠駐在所散亂的文物">
+  <figcaption> AINIPPON </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_e3d7ba8d6fb0ce692580a27b81b87b00.jpg" alt="海鼠駐在所散亂的文物">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
+
+回到營地後，我們收拾營地，準備啟程。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157737223_4458709354143531_6978961612890265783_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=xcfZgbfy9ScAX99i0tB&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=dc5a7133b251a650498136f9cb57364c&amp;oe=607A534F" alt="中橫沿線深處的蓮花池" />
+  <img src="https://cdntwrunning.biji.co/1024_1c1a535bdd7903430ca6a6405149b31e.jpg" alt="海鼠駐在所蕨海望向中橫沿線群山">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
-<p>在蓮花池休息了約20分鐘吃了一點東西。</p>
+下山的方向會經過富田中尉墓，這是軍官階的墓地，墓碑的規模也不一樣。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157312438_4458712384143228_7751885049140452115_o.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=hZK0vSWxZuoAX9VCWyc&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=e4b9a57e3a41e0efa57d3981b0375ac1&amp;oe=60770DB4" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_7691def90310234ed49a5d34670901d9.jpg" alt="海鼠駐在所附近的富田中尉墓">
   <figcaption>  </figcaption>
-</figure>
-
-<p>水泥工寮群落。早年退輔會有在此開發過。</p>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/157540742_4458713380809795_4629740803707657567_o.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=NaPS8wLmzBgAX-AtNJ9&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=5d8c6f1c73efc2f93838aeaff3064c46&amp;oe=60772222" alt="退輔會蓮花池水泥房屋" />
+  <img src="https://cdntwrunning.biji.co/1024_dbe31aa7167db9f35a2a16e1b3b29039.jpg" alt="海鼠駐在所附近的遺跡文物">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
-<p>下切前往休督溪溪谷。</p>
+富田中尉墓前的展望很好，可以眺望塔山。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157784630_4458711324143334_2216658624033507285_o.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=zFULA2KjWPsAX-ciO0_&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=577d8b045b2c1d5e684616b21ba8fff2&amp;oe=60798976" alt="休督溪溪谷" />
+  <img src="https://cdntwrunning.biji.co/1024_e1d664e6ca419f15dd70fddd69076be5.jpg" alt="由海鼠駐在所望向塔山以及太魯閣峽谷">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
+
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/155386166_4458712730809860_5136038529156990741_o.jpg?_nc_cat=102&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=XBFTV7Hb7w0AX-6yott&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=539380efba80c3f947be84f41fc80b4d&amp;oe=60795BD6" alt="休督溪溪谷中的巨石" />
+  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/163233020_4502414279773038_2471169120183339717_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=0GXaDU5VtbAAX913jxt&_nc_ht=scontent.ftpe7-2.fna&oh=522990773df61f24ef703b0712749f9d&oe=607BD2B2" alt="海鼠駐在所蕨海眺望中央山脈北一段北二段群峰">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
+
+後方是一片蕨海，背景則是中央尖山往南，一整條北二段主稜盡收眼底。由無明山開始往南連到了比較大眾化的鈴鳴山，這是我們去年端午節造訪的北二I型起點，從這裡看到我們去年走的畢祿北稜，還心有戚戚焉，那條路真的是會被刺得亂七八糟的XD。  
+
+爬山有趣的地方在於，可以坐這山望那山，可以看一些還沒去過得路線，在跟志同道合的朋友們一起商量下一支隊伍，抑或是看著之前一起走過的路，再回想一下當年勇。在山上的時光，不管是美好的大景，還是痛苦的鍛鍊折磨，久了以後都會變成很珍貴的回憶呢!  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157307048_4458712344143232_8897773682754515416_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=YiN-g7UHVG8AX81QDi0&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=09d49e8e5d43be07724bdc65e1405a57&amp;oe=6077334B" alt="休督溪谷上溯準備前往鍛鍊山登山口" />
+  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/161374595_4502403426440790_5663418428236668991_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ndbL9ahBxcgAX_PTlqE&_nc_ht=scontent.ftpe7-4.fna&oh=d88f4b01cd0eaf7ea6d88fd0cb99e8b2&oe=607E0F55" alt="">
   <figcaption>  </figcaption>
-</figure>
-
-<p>切下溪谷。這一段溪谷上溯的距離不長，但有三處需要高繞的地方，其中第二處高繞以及第三處高繞需要小心一點。尤其是第三處高繞，繞上去的距離滿長的，而且路徑不明確。</p>
-
-<p>到達溪谷後整裝一下，隨後便啟程準備朝向鍛鍊山登山口前進。</p>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157545305_4458714207476379_4933279049809762179_o.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=gJM2g7uLhsUAX9Cm99l&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=b37419d9b0c8d1cf3cda0334366e00fe&amp;oe=607A8489" alt="" />
+  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/162541925_4502402709774195_2172073330015906112_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=_EN9AfuPTSgAX81R3M7&_nc_ht=scontent.ftpe7-3.fna&oh=6cadc34c92b6bb58e6d90a6f4660eff2&oe=607C69AD" alt="">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157061096_4458714407476359_5469284825819831185_o.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=sXL3ryx-sZUAX_O0zQ5&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=ca1752c828f7c7c57b4ea79d9ab1968a&amp;oe=6077640C" alt="" />
+  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/161680207_4502402436440889_5628560505168048887_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Q-B9wwgFLCIAX_F_2Iz&_nc_ht=scontent.ftpe7-4.fna&oh=7259157dd37587aeae268bf42e78702e&oe=607CD614" alt="由海鼠駐在所望向中橫公路以及背後的中央山脈北二段">
+  <figcaption> 中橫公路以及背後的中央山脈北二段 </figcaption>
+</figure> 
+
+再來我們到了今天路線的重點，天狗岩 👺  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/163300600_4502402596440873_369975012766167639_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=GDgLnfL7Y9IAX8B4799&_nc_ht=scontent.ftpe7-2.fna&oh=a288b9420a78020213f3124deb415242&oe=607BAC18" alt="海鼠山天狗岩">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
-<p>沿途有幾處這種需要渡水的地形，水深及膝</p>
+這一塊石頭成名於當年一張原住民先人站立於上。
+這塊石頭確切位置的資料在民國時期後遺失了一段時間。是直到2015年(最近沒多久!)才被尋回。  
+
+
+旁邊一塊從樹叢之中有展望的地方，可以看見整個壯麗的太魯閣峽谷!  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/155888552_4458713190809814_3800396100455195551_o.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=2H2eH6jRexsAX8KKn7d&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=cd98e623ead684d9b05bc0892f6f3299&amp;oe=6077C947" alt="休督溪溯溪地形為攀登鍛鍊山的道路" />
+  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/162508206_4502402859774180_7276185854884849704_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=qfVbrWUoPTAAX8Q_Yhy&_nc_oc=AQmIxPbkOTdsStunHzkxYAvtmL3XYRwll1_-yym3v06BbhwAGFxWViAfl0oW9I48ShY&_nc_ht=scontent.ftpe7-1.fna&oh=b12f1ecccae32c55ccf855d6f7fdfe8a&oe=607C1517" alt="由天狗岩望向太魯閣峽谷以及立霧溪谷">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
+
+以前都是從峽谷中的中橫公路向上仰望這兩堵天險般的大理石巨牆，今天換了一個角度，由山上往下眺望，看到的是太魯閣峽谷另外一個樣貌。這也是我喜歡爬山的原因。除了登頂的喜悅以外，多數行程間總是會有這種獨特的驚喜，從不同角度看台灣，可以看見以前所沒看過的景象，台灣雖然小，但地理景觀豐富，從不同角度看都有不同的風味呢!  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156856606_4458712040809929_9049605934240050698_o.jpg?_nc_cat=105&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=ibGwrICSsw8AX8ot-O-&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=9be541f5dfcedd7dd0d52e102c88f13d&amp;oe=607916B4" alt="" />
+  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/161469197_4502403059774160_5289614561913089418_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Z9eer3OOigkAX8GMYCQ&_nc_ht=scontent.ftpe7-3.fna&oh=d5bdfc302aee7087d01116827c786eac&oe=607E0D0F" alt="天狗岩望向太魯閣峽谷以及背後的塔山">
   <figcaption>  </figcaption>
-</figure>
-
-<p>這旁邊的水看起來很深喔!!</p>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/156868728_4458714344143032_3168338793519185874_o.jpg?_nc_cat=103&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=h7FG5nt2xNsAX9LYMhA&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=82703fed0861417213801ff76fdca6a1&amp;oe=6077F394" alt="" />
+  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/161536546_4502402819774184_3155755138654411839_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=9Nk4KGB3mLsAX9aBTWm&_nc_ht=scontent.ftpe7-3.fna&oh=e84963bca4c61344b06bfbc79bd3423a&oe=607E1095" alt="太魯閣峽谷">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
+
+在現場感受這壯觀的峽谷風景，花蓮一帶的中級山對我來說十分陌生，甚至有很多條路線是已經超過十年以上沒有紀錄了。  
+先前花了很多時間來認識台灣的百岳，想想以前大學登山社的嚮導考試前兩題還是很八股考“何謂三尖一奇”、"五嶽是哪五座"。現在想想，這類的背誦真的很無聊。    
+台灣的山有數千座，每一座都有其獨特的地方，不論是風景、地理、或是人文歷史。例如我們現在身處的海鼠山，這一代的警備道、駐在所、古早的社群聚落，都由其獨特的故事，雖然我也只能走馬看花，無法細細品味，但看看這裡的風景、駁坎遺跡，也算是對這裡有很粗淺的認識了。  
+中橫公路就在我們視野可見的山谷中，想想這裡離所謂的文明也不遠，但很令人驚訝的是，這條路以前沒什麼人走過，天狗岩甚至是到2015年才被找到。海鼠山周遭長滿了高大的芒草，要親近這座山可說是不容易。鍛鍊山、海鼠山的景致以及人文歷史豐富，但這條路線卻不如百岳熱門，雖然想為他抱屈，但後來想想，有覺得保持一點清淨或許也不錯。  
+
+
+在這波登山熱潮中看到有不少幽靜的地方被玩壞，難免也些痛心。  
+記憶中，大一上學期去過的松蘿湖、大二時去的加羅湖，是個美麗、清幽、遺世獨立的地方。  
+2018年二月去的戒茂斯還只是一條默默無聞的中級山路線，當時跟包車司機說"戒茂斯"登山口，司機頭上還狂冒出問號的感覺。  
+如今，昔日清幽的松蘿湖畔出現了許多不搭嘎的藍色水桶、加羅湖畔出現了一整排空蕩蕩的帳篷不拆，等待下一批客人上山、戒茂斯就夠不用講了，沿途搭起了與環境不搭嘎的炊事帳...  
+台灣坐擁豐富的地理景觀，但多數人對於戶外的觀念還是有待改進。  
+當年在念研究所時期，參與高能粒子物理實驗而有機會親自造訪瑞士。體會到了歐洲人對於戶外活動的重視。登山健行對於多數瑞士人來說可能已經是生活中不可分割的部分了。瑞士有發達的交通，縱橫交錯的登山纜車或高山鐵路，親近大山就跟在台灣喝珍珠奶茶一樣容易。瑞士的登山環境真的好，所有建設都跟地景搭配得很融洽，絕對不會在不該出現紅色水泥桶的地方出現紅色水泥桶，也不會在不該出現藍白相間的帆布炊事帳的地方出現炊事帳。  
+台灣相對於歐洲等先進國家來說，人民對於親近大自然這件事情的認識還只是剛起步的階段，我想未來一定會有更多與自然景觀相關的辯論出現。我個人是不反對在山上有所建設，甚至我認為，好的山屋建設，也許對自然保護有正向的幫助，例如，有一個完善的生態廁所，登山客也就不需要隨地大小便了...  
+我也不反對有商業登山活動，但我想，人們利用自然美景賺錢發大財的同時，應該也要想想永續經營。以瑞士來說，很多登山纜車或是山屋也都是私人經營的，但他們賺錢的同時也負責維護整體環境的乾淨、景觀和諧等工作。  
+
+人們想上山爬山，不外乎為的是欣賞美麗的風景(或只是單純想證明自己不是肥宅可以征服大山好棒棒?)。但所做所為卻是在破壞自然景觀，實為諷刺。
+
+---- 抱怨結束，現在每一篇都習慣來抒發一下心中對現狀的不滿XD 
+希望未來出國旅遊解封後，可以讓台灣的山清幽一點  
+
+由天狗岩出發，我們從綠水文山步道方向下山，下山一路好走，我們也抱持著想早早回家的心情，邁步向前。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156842396_4458710950810038_1979300829767741848_o.jpg?_nc_cat=100&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=cUodC1JXsUwAX_-HL_g&amp;_nc_oc=AQmjMPyiscWsj4WS3gGfNxHJeivK7JV0oEpCcc709iOAWJAtmsyN15OS_xNg5eo863I&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=cfe80cd3a38a616ce6d9f3ab1276a2fd&amp;oe=6078D767" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_d963f7dbcf851221482924554c04eb88.jpg" alt="">
   <figcaption>  </figcaption>
-</figure>
-
-<p>第二處高繞點，這裡的水潭很深，如果有帶足溯溪裝備也打算下水的話可能可以直接過吧?<br />
-但我們不打算弄太濕，所以從左側山壁高繞。</p>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157784639_4458713857476414_4968278569596136432_o.jpg?_nc_cat=101&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=V5vljIIuyDoAX9hcrx7&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=01ced72e9feff4400c3b0e926412d508&amp;oe=6079B637" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_9f19a8d6e57d9b011505da84d03bd574.jpg" alt="">
+  <figcaption> 廢棄流籠機具 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_bfe1351dd32d745e1785a5ba94fae173.jpg" alt="">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157030618_4458713084143158_7312214297342454856_o.jpg?_nc_cat=102&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=CrOjWQZmjFAAX9b7JQm&amp;_nc_ht=scontent.ftpe7-3.fna&amp;oh=d7cbe39eb629c6afe01e4afd926019b4&amp;oe=6079EFCA" alt="攀登鍛鍊山的溯溪路段" />
+  <img src="https://cdntwrunning.biji.co/1024_b6d42d6f4a39c73acee06f0afadf407d.jpg" alt="">
+  <figcaption> 駁坎遺跡 </figcaption>
+</figure>
+
+回到綠水文山步道，旁邊即是黑馬揚社遺址。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b019a7eb4ce341413748dcd4b3f002bc.jpg" alt="">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
+
+沿著綠水文山步道出發，一路上有幾處瘦稜也可以欣賞太魯閣峽谷的風光。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/155502249_4458710650810068_865677273750038075_o.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=RP2X58GScSEAX-doiL9&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=75b587802b599e2d4d7b24fd37aaeb53&amp;oe=6077016D" alt="休督溪溯溪地形" />
+  <img src="https://cdntwrunning.biji.co/1024_58fdd5c9dae3be12f2b31dbc49d64f1e.jpg" alt="綠水文山步道">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156646568_4458712507476549_8902803843042685247_o.jpg?_nc_cat=104&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=fYkktKZg96MAX8aCkJ3&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=24f99f75dd2d963d8192e6a88de23e8f&amp;oe=607712C9" alt="攀登鍛鍊山前的渡溪地形" />
+  <img src="https://cdntwrunning.biji.co/1024_3c2cc76d105e2424efaa596670b01346.jpg" alt="綠水文山步道望向太魯閣峽谷的風景">
   <figcaption>  </figcaption>
-</figure>
-
-<p>這一段路是也沒有到太困難，但不知到為什麼，上去架繩再加上大家一個一個拉繩過，竟然花掉快一個小時 = =<br />
-學弟還一個踉蹌滑倒，還好有抓到繩子，不然就要下去洗澡了…</p>
-
-<p>通過第二個高繞點後，我們繼續向前，但時間好像已經不太夠我們到達巴奇干社的預定營地了…<br />
-之前的時間預估得太樂觀</p>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156125364_4458712257476574_2717831131764163259_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=t893g-u6A9kAX_pmlzV&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=6cd3c2f42059aff271e9ad3e34c4dded&amp;oe=607A8ED4" alt="中橫鍛鍊山的朔溪路程" />
+  <img src="https://cdntwrunning.biji.co/1024_18d7f95763b583b633bde121c746eda1.jpg" alt="綠水文山步道附近的石板駁坎遺跡">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156222973_4458709097476890_8131439048808292455_o.jpg?_nc_cat=106&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=MuO-KmZpMOAAX9cTEyL&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=5752cf2f4e2f6cf5a05574ad2d548b2f&amp;oe=6079954A" alt="休督溪水中的櫻花瓣" />
+  <img src="https://cdntwrunning.biji.co/1024_c553a2d2a0cd6d73ba9daa0936660ccb.jpg" alt="綠水文山步道附近的石板駁坎遺跡">
   <figcaption>  </figcaption>
-</figure>
+</figure> 
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/155993939_4458710670810066_7471356701860545169_o.jpg?_nc_cat=106&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=eTTtKHq0NtcAX9Z2t6c&amp;_nc_oc=AQk5vGR7LFt2oLgsik70M2OjJ3TErcIKkSAagoA0J7XcGKGoiOteUDOv4pYWjrQSfbY&amp;_nc_ht=scontent.ftpe7-1.fna&amp;oh=5d5b67d3ea9c3f4d98dc81ac673e52d9&amp;oe=6076E4BB" alt="休督溪水中的櫻花瓣" />
-  <figcaption> 溪水中的櫻花瓣 </figcaption>
-</figure>
+太魯閣國家公園內還有許多兼具自然景觀以及人文歷史的路線可以參觀，對於登山者來說，除了可以運動、欣賞風景，可以透過一步一步走過這片土地，認識一下台灣的故事，看看這些不曾出現在課本上的歷史遺跡，這是登山過程中另一種收穫。  
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156173816_4458710187476781_6222102360528565092_o.jpg?_nc_cat=101&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=XyMuQB71c9QAX-MF9JB&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=f48e6cc09cb7ed0f5c57a89c60d5b509&amp;oe=6079AFE7" alt="" />
-  <figcaption>  </figcaption>
-</figure>
+{%include feature_row %}
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156109238_4458711097476690_3941642960804093846_o.jpg?_nc_cat=104&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=Oe-uD3fAZW0AX-D0vu5&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=20382077ba2a868476f5a79fbe5cb2ad&amp;oe=6077DE40" alt="" />
-  <figcaption>  </figcaption>
-</figure>
+## 行程紀錄
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156239371_4458711194143347_2615530347572311186_o.jpg?_nc_cat=109&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=zdg-CndUVb4AX_SbN0M&amp;_nc_ht=scontent.ftpe7-2.fna&amp;oh=ff0d6c6031d98cf75d5fc3be7966215f&amp;oe=6078343A" alt="" />
-  <figcaption>  </figcaption>
-</figure>
+# Day1 2021.02.27 :   
+08:25  花蓮客運 1126路線 谷園站下車  
+08:43  迴頭彎登山口 出發  
+09:00  清溪吊橋  
+09:06  拉繩小高繞  
+09:09  崩壁橫渡，有拉繩  
+09:25  九梅吊橋  
+09:57  電桿  
+10:23  越稜  
+10:30  蓮花池 休息吃東西至 11:00 出發  
+11:12  水泥屋  
+11:43  下切至休督溪畔  
+11:58  溪右青苔石壁高繞  
+12:10  溪畔午餐 至 13:00 出發  
+13:35  溪左山壁高繞點，有一條墨綠色扁帶。我們走前面的四人先高繞上攀約10米，在下切。後面另外四人直接沿著岩壁邊坡慢慢走過去，但需要拉繩。這邊幾位同學不太敢走，一個一個人拉繩通過，花了快一小時才全數通過，但對於有經驗者來說這裡應該只是小菜一碟。 14:50 全體隊員通過，繼續前進  
+15:38  巨石落差，這邊也不算困難地形，但一個一個人通過，還要幫忙拉背包，也花了不少時間  
+16:30  溪左高地，研判我們今天應該無法走上駁坎區了，決定在此地迫降。距離前面第三高繞點還需要約20分鐘路程  
 
-<h2 id="be-continued-">Be continued …</h2>
+# Day2 2021.02.28 :  
+05:45  C1迫降點出發  
+06:10  第三高繞點，溪左上切  
+第三高繞點是高繞距離最長的一段，沿途陡坡，也幾處地滑很難踩穩，要小心  
+06:49  乾溪溝，高繞結束，沿著乾溪溝下切  
+07:01  回到溪床邊，繼續緣溪行上溯  
+07:48  鍛鍊山登山口 上切  
+08:50  駁坎區，舊部落營地  
+09:10  巴其干社 警備道岔路  
+10:25  芒草區  
+10:47  鍛鍊山山頂，休息至11:40  
+11:40  鍛鍊山山頂沿著西南西方向前進  
+12:18  換稜  
+12:25  芒草 鞍部  
+12:50  密集芒草區  
+12:58  陡上結束  
+13:01  瘦稜  
+13:05  中場休息  
+14:01  海鼠山山頂，休息至14:15出發  
+14:58  密集芒草區結束  
+15:37  太魯閣路條 往南切  
+15:44  陡坡拉繩  
+16:05  蕨海  
+16:22  海鼠駐在所，C2  
 
-<div class="feature__wrapper">
+# Day3 2021.03.01 :
+輕裝樂活時間:  
+07:36  營地  
+07:37  活水  
+07:45  牛頭墓  
+07:51  日本帝國陸軍墓  
+回營地 整裝背包上肩，出發:  
+08:04  台灣軍經理部 建設紀念碑🪦  
+08:25  富田中尉墓  
+08:58  索道頭  
+09:30  駁坎  
+09:52  文山步道岔路  
+09:54  馬黑揚部落  
+10:51  陀優恩社  
+11:32  綠水地質館  
 
-  
 
-    
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/163242413_4502395556441577_7956376386266452412_o.jpg?_nc_cat=101&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=UldIXRM2NMUAX9ero4n&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=338a0ab8e5cb6fcaf66d877e9c37971b&amp;oe=607DE85E" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">鍛鍊海鼠 鍛鍊自己</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>鍛鍊山縱走到海鼠山的稜線路人跡稀少，也因此格外生趣，找路鑽芒草在這裏是必備條件。沿途還可見三角錐山、大斷崖山、塔山，向東可見中央山脈主稜上的中央尖山。鍛鍊海鼠縱走的稜線上充滿驚喜</p>
-
-            </div>
-          
-
-          
-            <p><a href="/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day2/" class="btn btn--primary">Go to</a></p>
-          
-        </div>
-      </div>
-    </div>
-  
-
-    
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/162659342_4502402589774207_8050619797229637844_o.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=0debeb&amp;_nc_ohc=Pc7pivdJsP0AX_Qk7hp&amp;_nc_ht=scontent.ftpe7-4.fna&amp;oh=05130bd2253b6afe8799b6e283c9df35&amp;oe=607F62BF" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">海鼠駐在所 天狗岩</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>位在花蓮太魯閣山區的海鼠山有著十分豐富的自然景觀，可以遙望中央山脈北一段北二段除外，還可以欣賞壯麗的太魯閣峽谷。除了自然景觀，還有豐富的歷史遺跡。海鼠山駐在所、海鼠警備道、天狗岩、綠水文山步道。</p>
-
-            </div>
-          
-
-          
-            <p><a href="/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day3/" class="btn btn--primary">Go to</a></p>
-          
-        </div>
-      </div>
-    </div>
-  
-
-</div>
-
-<h2 id="行程紀錄">行程紀錄</h2>
-
-<h1 id="day1-20210227-">Day1 2021.02.27 :</h1>
-<p>08:25  花蓮客運 1126路線 谷園站下車<br />
-08:43  迴頭彎登山口 出發<br />
-09:00  清溪吊橋<br />
-09:06  拉繩小高繞<br />
-09:09  崩壁橫渡，有拉繩<br />
-09:25  九梅吊橋<br />
-09:57  電桿<br />
-10:23  越稜<br />
-10:30  蓮花池 休息吃東西至 11:00 出發<br />
-11:12  水泥屋<br />
-11:43  下切至休督溪畔<br />
-11:58  溪右青苔石壁高繞<br />
-12:10  溪畔午餐 至 13:00 出發<br />
-13:35  溪左山壁高繞點，有一條墨綠色扁帶。我們走前面的四人先高繞上攀約10米，在下切。後面另外四人直接沿著岩壁邊坡慢慢走過去，但需要拉繩。這邊幾位同學不太敢走，一個一個人拉繩通過，花了快一小時才全數通過，但對於有經驗者來說這裡應該只是小菜一碟。 14:50 全體隊員通過，繼續前進<br />
-15:38  巨石落差，這邊也不算困難地形，但一個一個人通過，還要幫忙拉背包，也花了不少時間<br />
-16:30  溪左高地，研判我們今天應該無法走上駁坎區了，決定在此地迫降。距離前面第三高繞點還需要約20分鐘路程</p>
-
-<h1 id="day2-20210228-">Day2 2021.02.28 :</h1>
-<p>05:45  C1迫降點出發<br />
-06:10  第三高繞點，溪左上切<br />
-第三高繞點是高繞距離最長的一段，沿途陡坡，也幾處地滑很難踩穩，要小心<br />
-06:49  乾溪溝，高繞結束，沿著乾溪溝下切<br />
-07:01  回到溪床邊，繼續緣溪行上溯<br />
-07:48  鍛鍊山登山口 上切<br />
-08:50  駁坎區，舊部落營地<br />
-09:10  巴其干社 警備道岔路<br />
-10:25  芒草區<br />
-10:47  鍛鍊山山頂，休息至11:40<br />
-11:40  鍛鍊山山頂沿著西南西方向前進<br />
-12:18  換稜<br />
-12:25  芒草 鞍部<br />
-12:50  密集芒草區<br />
-12:58  陡上結束<br />
-13:01  瘦稜<br />
-13:05  中場休息<br />
-14:01  海鼠山山頂，休息至14:15出發<br />
-14:58  密集芒草區結束<br />
-15:37  太魯閣路條 往南切<br />
-15:44  陡坡拉繩<br />
-16:05  蕨海<br />
-16:22  海鼠駐在所，C2</p>
-
-<h1 id="day3-20210301-">Day3 2021.03.01 :</h1>
-<p>輕裝樂活時間:<br />
-07:36  營地<br />
-07:37  活水<br />
-07:45  牛頭墓<br />
-07:51  日本帝國陸軍墓<br />
-回營地 整裝背包上肩，出發:<br />
-08:04  台灣軍經理部 建設紀念碑🪦<br />
-08:25  富田中尉墓<br />
-08:58  索道頭<br />
-09:30  駁坎<br />
-09:52  文山步道岔路<br />
-09:54  馬黑揚部落<br />
-10:51  陀優恩社<br />
-11:32  綠水地質館</p>
-
-<h2 id="鍛鍊海鼠o型縱走-航跡">鍛鍊海鼠O型縱走 航跡</h2>
-<p><em>TileLayer is supported by RudyMap</em><br />
+## 鍛鍊海鼠O型縱走 航跡
+*TileLayer is supported by RudyMap*  
 <a href="http://rudy.basecamp.tw/taiwan_topo.html">
-Taiwan Topo Home Pages</a></p>
+Taiwan Topo Home Pages</a>
 <html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -998,11 +424,11 @@ Taiwan Topo Home Pages</a></p>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
-    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
     <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
     <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     
@@ -2763,268 +2189,8 @@ Taiwan Topo Home Pages</a></p>
     
 </script>
 
-<br /><br /><br />
+<br><br><br>
 
 </html>
 
 
-        
-      </section>
-
-      <footer class="page__meta">
-        
-        
-  
-
-
-  
-  
-  
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
-    <span itemprop="keywords">
-    
-      
-      
-      <a href="/blogPage/tags/%E8%8A%B1%E8%93%AE" class="page__taxonomy-item" rel="tag">花蓮</a>
-    
-    </span>
-  </p>
-
-
-
-
-  
-
-
-  
-  
-  
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
-    <span itemprop="keywords">
-    
-      
-      
-      <a href="/blogPage/categories/mt-note-photo-midalt" class="page__taxonomy-item" rel="tag">mt-note-photo-midalt</a>
-    
-    </span>
-  </p>
-
-
-        
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-02-27T08:00:00+08:00">February 27, 2021</time></p>
-        
-      </footer>
-
-      <section class="page__share">
-  
-    <h4 class="page__share-title">Share on</h4>
-  
-
-  <a href="https://twitter.com/intent/tweet?text=%E9%8D%9B%E9%8D%8A%E6%B5%B7%E9%BC%A0O%E5%9E%8B%E7%B8%B1%E8%B5%B0+Day1+%E6%94%80%E7%99%BB%E9%8D%9B%E9%8D%8A%E5%B1%B1%E5%89%8D%E7%9A%84%E8%A9%A6%E7%85%89%20http%3A%2F%2Flocalhost%3A4000%2FblogPage%2Fmt-note-photo-midalt%2FTarokoAdvanture-DuanlienHaishu-Day1%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
-
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2FblogPage%2Fmt-note-photo-midalt%2FTarokoAdvanture-DuanlienHaishu-Day1%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
-
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2FblogPage%2Fmt-note-photo-midalt%2FTarokoAdvanture-DuanlienHaishu-Day1%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
-</section>
-
-
-      
-  <nav class="pagination">
-    
-      <a href="/blogPage/mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day3/" class="pagination--pager" title="卡社山、加年端稜線縱走 (四) 加年端下切丹大林道 – 遺世獨立 關門古道西段探險前傳
-">Previous</a>
-    
-    
-      <a href="/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day2/" class="pagination--pager" title="鍛鍊海鼠O型縱走 Day2 鍛鍊自己
-">Next</a>
-    
-  </nav>
-
-    </div>
-
-    
-  </article>
-
-  
-  
-    <div class="page__related">
-      <h4 class="page__related-title">You may also enjoy</h4>
-      <div class="grid__wrapper">
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://1.bp.blogspot.com/-Vyv1qkePdbI/YDIK8CUvwAI/AAAAAAABOK8/XwBjphAJNScLzJyatsdpW3Acw60P70yPgCLcBGAsYHQ/s2048/IMG_6498.JPG"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day3/" rel="permalink">鍛鍊海鼠O型縱走 Day3 海鼠駐在所下文山
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">位在花蓮太魯閣山區的海鼠山有著十分豐富的自然景觀，可以遙望中央山脈北一段北二段除外，還可以欣賞壯麗的太魯閣峽谷。除了自然景觀，還有豐富的歷史遺跡。海鼠山駐在所、海鼠警備道、天狗岩、綠水文山步道。
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/161000664_4502395506441582_7837971863387440390_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=zwuUDkjUq7QAX_kdxmQ&_nc_ht=scontent.ftpe7-2.fna&oh=1966c1f0be7ad9b0c8730e5cd4d5fcb4&oe=607BD6EB"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day2/" rel="permalink">鍛鍊海鼠O型縱走 Day2 鍛鍊自己
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">鍛鍊山縱走到海鼠山的稜線路人跡稀少，也因此格外生趣，找路鑽芒草在這邊是必備條件。沿途還可見三角錐山、大斷崖山、塔山，向東可見中央山脈主稜上的中央尖山，鍛鍊海鼠稜線充滿驚喜
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s2048/IMG_7042.JPG"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day3/" rel="permalink">卡社山、加年端稜線縱走 (四) 加年端下切丹大林道 – 遺世獨立 關門古道西段探險前傳
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">加年端山南側是一整片枯黃蕨海所形成的山坡地，展望良好，可以飽覽丹大-東郡橫斷群峰。由此稜線向下切往丹大林道保線路，有如通往另一個美麗的世界。
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://1.bp.blogspot.com/-JXAMrgyR6K4/YELakUlDiSI/AAAAAAABOYU/q9BqilDAf-4OssuhjBuckxO_IdaRLPQFwCLcBGAsYHQ/s2048/IMG_7022.JPG"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2-part2/" rel="permalink">卡社山、加年端稜線縱走 (三) 前往加年端 關門古道西段探險前傳
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">由拉夫朗山繼續向東行，更深入中央山脈深處，前往加年端山。此處可遠眺整段南三段稜線群峰，由關門北山開始向南延伸向丹大山的大南三線，並延伸向內嶺爾山-東巒大山的東郡橫斷，盡收眼底。
-</p>
-  </article>
-</div>
-
-        
-      </div>
-    </div>
-  
-  
-</div>
-
-    </div>
-
-    
-
-    <div id="footer" class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-
-<!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-  <ul class="social-icons">
-    
-      <li><strong>Follow:</strong></li>
-    
-
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-
-    <li><a href="/blogPage/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; 2021 P.H, Wang. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-      </footer>
-    </div>
-
-    
-  <script src="/blogPage/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
-
-
-
-
-
-
-
-
-
-
-  </body>
-</html>

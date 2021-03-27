@@ -23,10 +23,10 @@ feature_row:
 
   - image_path: https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/162659342_4502402589774207_8050619797229637844_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Pc7pivdJsP0AX_Qk7hp&_nc_ht=scontent.ftpe7-4.fna&oh=05130bd2253b6afe8799b6e283c9df35&oe=607F62BF
     title: "海鼠駐在所 天狗岩"
-    excerpt: "位在花蓮太魯閣山區的海鼠山有著十分豐富的自然景觀，可以遙望中央山脈北一段北二段除外，還可以欣賞壯麗的太魯閣峽谷。除了自然景觀，還有豐富的歷史遺跡。"
-    #url: "TarokoAdvanture-DuanlienHaishu-Day3"
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+    excerpt: "位在花蓮太魯閣山區的海鼠山有著十分豐富的自然景觀，可以遙望中央山脈北一段北二段除外，還可以欣賞壯麗的太魯閣峽谷。除了自然景觀，還有豐富的歷史遺跡。海鼠山駐在所、海鼠警備道、天狗岩、綠水文山步道。"
+    url: "mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day3/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
 header:
   image: https://1.bp.blogspot.com/-0FQbexO8Acc/YF6e02a5tYI/AAAAAAABOpE/5u4cJ-meCx4lL4ovYwL06gTDy2DSjCTZwCLcBGAsYHQ/s3097/9A28E793-62C4-412D-9930-CBECDD3BB5C0.jpeg
