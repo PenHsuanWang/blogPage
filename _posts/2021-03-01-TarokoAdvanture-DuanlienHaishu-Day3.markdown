@@ -108,7 +108,7 @@ header:
 </figure> 
 
 再繼續前走到水源地後，往左轉向下走一點就可以到達水牛墓地。  
-這裡以前是花蓮牧場的放牧地，但之後墓場遷走了，留下了部分水牛。
+這裡以前是花蓮牧場的放牧地，但之後牧場遷走了，留下了部分水牛。
 
 <figure style="width: 95%" class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_f4a4806925aed1332647e296c83c0a7d.jpg" alt="海鼠警備道水源">

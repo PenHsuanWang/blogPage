@@ -2,24 +2,24 @@
 main:
   - title: "Home"
     url: /
-  - title: "文字紀錄"
-    url: /mt-note-literal-home/
-    children:
-      - title: "高山百岳"
-        url: /mt-note-literal-100peaks/
-      - title: "古道遺跡"
-        url: /mt-note-literal-historicaltrail/
-      - title: "中級山"
-        url: /mt-note-literal-midalt/
-      - title: "郊山"
-        url: /mt-note-literal-townsadjacent/
+#  - title: "文字紀錄"
+#    url: /mt-note-literal-home/
+#    children:
+#      - title: "高山百岳"
+#        url: /mt-note-literal-100peaks/
+#      - title: "古道遺跡"
+#        url: /mt-note-literal-historicaltrail/
+#      - title: "中級山"
+#        url: /mt-note-literal-midalt/
+#      - title: "郊山"
+#        url: /mt-note-literal-townsadjacent/
   - title: "圖文記錄"
     url: /categories/
     children:
       - title: "高山百岳"
         url: /categories/mt-note-photo-100peaks/
-      - title: "古道遺跡"
-        url: /categories/mt-note-photo-historicaltrail/
+#      - title: "古道遺跡"
+#        url: /categories/mt-note-photo-historicaltrail/
       - title: "中級山"
         url: /categories/mt-note-photo-midalt/
       - title: "郊山"
