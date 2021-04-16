@@ -66,7 +66,7 @@ header:
 卡社山扼守著丹大溪隘口，來自武界的濁水溪於此和丹大溪匯流，這裡是登山者們進入丹大溪山域時第一座可攀登的山頭。卡社山登山口位在丹大林道二分所前約500公尺左右，相較於隱居於中央山脈核心地區的群山。卡社山易達性相對高。有趣的地方在於他的海拔只有1481公尺高，四周環山都比他高，從西面日月潭方向的水社大山(2059公尺高)、西南方隔著濁水溪與我們相望的治茆山(2909公尺高)、東南側則是南三段的東巒大山、北方是干卓萬山塊。被巨人般的高山們環繞，但展望卻非常好! 打開地圖來看，北方剛好是濁水溪谷線的方向，向南方剛好是郡大溪的谷線方向，往西望去的視野又可跟著濁水溪進入水里一帶的淺山。
 
 <figure class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/151496085_4412065445474589_8739170787434717239_o.jpg?_nc_cat=104&ccb=3&_nc_sid=0debeb&_nc_ohc=XBCryTh_WmkAX-qjg3Z&_nc_ht=scontent.ftpe7-2.fna&oh=74cfb619ad069f2f6a52a14cdc7261ee&oe=60557DAC" alt="卡社山眺望玉山山脈群峰">
+  <img src="https://cdntwrunning.biji.co/1024_380bc38ccbcf61ccf8c57a23393a642d.jpg" alt="卡社山眺望玉山山脈群峰">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -99,41 +99,41 @@ header:
 農曆新年期間，在家吃吃喝喝，是也開出門活動活動筋骨了。大年初三，我們一行人先在水里火車站集合，再搭學長的便車前往丹大林道。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/150255323_4412048135476320_6469287972459298955_o.jpg?_nc_cat=102&ccb=3&_nc_sid=0debeb&_nc_ohc=HaAM9pMda3wAX_S1iCg&_nc_ht=scontent.ftpe7-3.fna&oh=60844ca138966d374beec4f46069fbba&oe=6056E9E4" alt="">
+  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/150255323_4412048135476320_6469287972459298955_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=_lu-pqLfCIQAX_bKvLJ&_nc_ht=scontent.ftpe7-3.fna&oh=79cad27c399ee4d2143b96d3eeda1f9f&oe=609D6531" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/150382310_4412047808809686_5655529229932845218_o.jpg?_nc_cat=104&ccb=3&_nc_sid=0debeb&_nc_ohc=86L29WjSWcYAX_tzpAs&_nc_ht=scontent.ftpe7-2.fna&oh=ef4bedadb2c7d4ae3f14387cdc677fa6&oe=605699F5" alt="">
+  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/150382310_4412047808809686_5655529229932845218_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=6eSIf2XhgMEAX8g_6el&_nc_ht=scontent.ftpe7-2.fna&oh=271e63c5c1830ee65e62a5e3a3f716b5&oe=60A09128" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/150469719_4412048112142989_8257726551524581497_o.jpg?_nc_cat=111&ccb=3&_nc_sid=0debeb&_nc_ohc=0rw79BmDenkAX-s1mPO&_nc_ht=scontent.ftpe7-2.fna&oh=5d0f391305ad4d1982cf68367ec74af0&oe=605373EB" alt="丹大林道起點孫海橋於納莉颱風風災後便中斷">
+  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/150469719_4412048112142989_8257726551524581497_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=87XhGLyXKrMAX9eoZmO&_nc_ht=scontent.ftpe7-2.fna&oh=bc62cd4bfce8a3b78dbd999917a65cbf&oe=60A09D3A" alt="丹大林道起點孫海橋於納莉颱風風災後便中斷">
   <figcaption>  </figcaption>
 </figure> 
 
 冬季限定，枯水期可以通過孫海橋便橋。 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/151240847_4412047992143001_1115863221058432456_o.jpg?_nc_cat=101&ccb=3&_nc_sid=0debeb&_nc_ohc=oc_kyqIaaWMAX_3wXec&_nc_ht=scontent.ftpe7-4.fna&oh=92ada05596575af66bbb21681aa9b343&oe=6056B159" alt="河流坪孫海橋為進入丹大山區的起點">
+  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/150469719_4412048112142989_8257726551524581497_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=87XhGLyXKrMAX9eoZmO&_nc_ht=scontent.ftpe7-2.fna&oh=bc62cd4bfce8a3b78dbd999917a65cbf&oe=60A09D3A" alt="河流坪孫海橋為進入丹大山區的起點">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/151907651_4412047855476348_8507371097841625822_o.jpg?_nc_cat=102&ccb=3&_nc_sid=0debeb&_nc_ohc=HcPeAMB5W80AX8pBYeb&_nc_ht=scontent.ftpe7-3.fna&oh=de5c9dd35969e3b31ef23ba7501f7b17&oe=605751F6" alt="丹大林道孫海橋入口">
+  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/151907651_4412047855476348_8507371097841625822_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=NIBrAFj2ZB0AX8Q9508&_nc_ht=scontent.ftpe7-3.fna&oh=b07ce3698266e1e373864e68931fb2b0&oe=60A0F527" alt="丹大林道孫海橋入口">
   <figcaption>  </figcaption>
 </figure> 
 
 由孫海橋過後行經約4公里左右的丹大林道後，抵達卡社山登山口，登山口過後約100公尺左右的道路右側有一處空地可停車(可停約三台左右)。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/150671110_4412047675476366_6190295427979535505_o.jpg?_nc_cat=108&ccb=3&_nc_sid=0debeb&_nc_ohc=8PZ6Di-S-gwAX-SVUgO&_nc_ht=scontent.ftpe7-3.fna&oh=713fba1899cc6510b8c769d810827550&oe=60560CA0" alt="丹大林道卡社山登山口">
+  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/150671110_4412047675476366_6190295427979535505_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ZiKmHSr1zdcAX8mI8Px&_nc_ht=scontent.ftpe7-3.fna&oh=66e316798f8a8e4c98fd2ee2314e70a7&oe=609D914D" alt="丹大林道卡社山登山口">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/151697584_4412047948809672_6918470994087043861_o.jpg?_nc_cat=104&ccb=3&_nc_sid=0debeb&_nc_ohc=7Sd3el-VKXYAX97prAC&_nc_ht=scontent.ftpe7-2.fna&oh=fd07bc26c7ac0e194e7242620e545677&oe=60550E98" alt="丹大機車連">
+  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/151697584_4412047948809672_6918470994087043861_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=X_pPmJCbrwMAX8JdEL_&_nc_ht=scontent.ftpe7-2.fna&oh=3a8969b135e497b7de042ea6ba4ee350&oe=609E27C5" alt="丹大機車連">
   <figcaption> 丹大機車連 </figcaption>
 </figure> 
 
