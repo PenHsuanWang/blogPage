@@ -66,7 +66,7 @@ header:
 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/157666530_4459426790738454_8424572290793745891_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=9YGhO0Qx1a4AX_EMiMA&_nc_ht=scontent.ftpe7-2.fna&oh=be8cce2428ddbef0d3639dea410ebb60&oe=606A8026" alt="加年端山可眺望全段中央山脈南三段群峰以及玉山山脈">
+  <img src="https://1.bp.blogspot.com/-MiZ5DjMX1YY/YIAy1_lKE1I/AAAAAAABO5E/tY81JNzmmw4AeUalcsuek8C0kFjU0Q26gCLcBGAsYHQ/s4032/IMG_3786.JPG" alt="加年端山可眺望全段中央山脈南三段群峰以及玉山山脈">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -107,83 +107,66 @@ header:
 這一連串的上升，累歸累，但其實也不無聊，沿途有幾處緩稜，可以到處晃晃，偏離一下稜線主脊，所以我們的航跡看起來歪七扭八的，不是GPS不準，而是我們真的東飄西飄的XD。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/157239607_4458975804116886_3789980044281184036_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=9p_nEQJzeikAX-t5UyU&_nc_ht=scontent.ftpe7-2.fna&oh=e8e92dece64256a2a35d22e836d96589&oe=606ABFC1" alt="加年端山稜線上的登山客">
+  <img src="https://cdntwrunning.biji.co/1024_75e85ff8e995d7a850958a5b70dd1f0c.jpg" alt="加年端山稜線上的登山客">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156516942_4458979580783175_783636980120315771_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=m6HKxvKOhG4AX8vr56u&_nc_ht=scontent.ftpe7-4.fna&oh=44c50dc49f0abf0ce1f796cdb9672db9&oe=606850A1" alt="南投中級山登山路線">
+  <img src="https://cdntwrunning.biji.co/1024_e4609abdcca50c72645c35148976ecd2.jpg" alt="南投中級山登山路線">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/157518066_4458981350782998_4126068039412761345_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1Z1_HSw4CHsAX9AoCMg&_nc_ht=scontent.ftpe7-2.fna&oh=dff287708c395e5248de6e8d9b7f485f&oe=606A3CD0" alt="加年端山登山路線上的一行登山客">
+  <img src="https://1.bp.blogspot.com/-Vd9uGBIbuVc/YIAy4ccMxqI/AAAAAAABO5I/qA0mxsh7EWc218XdFPo-tLiaZhIY6_ZqACLcBGAsYHQ/s4032/IMG_3764.JPG" alt="加年端山登山路線上的一行登山客">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157089124_4458978147449985_6544488826392296753_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=pbxCCnGsvHEAX8kC1Ie&_nc_ht=scontent.ftpe7-3.fna&oh=d57d0557d395305e983275d3e86fda51&oe=6068B349" alt="攀登卡社山的登山客">
+  <img src="https://cdntwrunning.biji.co/1024_89e52018a525dbdffc1cb34844485046.jpg" alt="攀登卡社山的登山客">
   <figcaption>  </figcaption>
 </figure> 
 
 撿到老鷹的羽毛XD 變身成印地安酋長XD
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157431675_4458977710783362_584125209032857488_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=BG7BKBLGeaMAX_lWYaz&_nc_ht=scontent.ftpe7-3.fna&oh=480aab182e882a1bf66d4be59da32e7c&oe=6067BEC0" alt="">
+  <img src="https://1.bp.blogspot.com/-l2Ggh-F4Xdk/YIAy1nw4swI/AAAAAAABO48/d0ApAJf08PkBpXFU27uM4LOXnc-qYDF8ACLcBGAsYHQ/s4032/IMG_3778.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 水鹿磨角痕，那個我說，鹿大哥，鹿角呢? 🦌
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157793833_4458981177449682_2364271690582529559_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Z3wmGOGo2qgAX8Y4n3J&_nc_ht=scontent.ftpe7-3.fna&oh=2a671635190c6042faae7082cf1f9294&oe=60689939" alt="水鹿磨角時在樹幹上留下的痕跡">
-  <figcaption>  </figcaption>
-</figure> 
-
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/155373207_4458976880783445_8022765344465482209_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=KMDJKur05QIAX9nLc12&_nc_oc=AQnngcyl58-5Y0UZCPBtHmHAAyrIaWdNqPEcqDLBzlYNxT2xA7RAJZyHh_fy2GOh-NE&_nc_ht=scontent.ftpe7-2.fna&oh=ad3563ed5146ad65c98d07eebd2f5ab8&oe=6067C461" alt="南投卡社山連走拉夫朗山的山徑">
-  <figcaption>  </figcaption>
-</figure> 
-
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157599610_4458978724116594_895837774232553543_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=uGiMaFm1fSYAX_oPOTU&_nc_ht=scontent.ftpe7-4.fna&oh=e0bd790c163a4716af0b672128b2d7c3&oe=60684BE1" alt="登山者於南投卡社山">
+  <img src="https://1.bp.blogspot.com/-MiZ5DjMX1YY/YIAy1_lKE1I/AAAAAAABO5E/tY81JNzmmw4AeUalcsuek8C0kFjU0Q26gCLcBGAsYHQ/s4032/IMG_3786.JPG" alt="水鹿磨角時在樹幹上留下的痕跡">
   <figcaption>  </figcaption>
 </figure> 
 
 準備上稜前在稜線右方發現一塊凹處，這裡長滿蕨類，整理整理感覺可以當成迫降地點，但者感覺不是個完美的營地，這下雨應該會積水。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157577835_4458979827449817_3262734507394073508_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=GvpiIopb1RoAX8U5cPN&_nc_ht=scontent.ftpe7-1.fna&oh=df1152065242775ef2d28c8a4989520c&oe=606970FF" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_987134750cb6987c804d3e2cdc83545d.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157884030_4458978537449946_2338464187547206585_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=7gY-edUHSEMAX8hafVX&_nc_ht=scontent.ftpe7-1.fna&oh=9ff21c6fd1e48a6cc2ba9ebeec840499&oe=6068BC97" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_96feec0bf4bf74ac5fb2f88359522124.jpg" alt="">
   <figcaption> 樹上的大螞蟻窩 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157239597_4458981617449638_8644475691521949968_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=RXUaK8eTdBcAX-93zvc&_nc_ht=scontent.ftpe7-1.fna&oh=2dad2cd94801a81bae69a92a37bfe762&oe=60682D7E" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_634f7568204f66b4582f462fe2b88306.jpg" alt="">
   <figcaption> 左切上稜 </figcaption>
 </figure> 
 
 稜線坡度逐漸趨緩，我們快要上到2000公尺等高線了。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157752283_4458978800783253_4950938669662786409_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=0V1-x0UzRtQAX9FZ-B9&_nc_ht=scontent.ftpe7-4.fna&oh=d24d29cdc59bb455938b2b98afc80874&oe=60685086" alt="拉夫朗山頂附近的森林">
+  <img src="https://cdntwrunning.biji.co/1024_94c09bf8887221074dfc4d1021b70441.jpg" alt="拉夫朗山頂附近的森林">
   <figcaption> </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156254907_4458976630783470_2335607857148180557_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=LuGctiNCSikAX_uDJ9S&_nc_oc=AQnaeJmLJtgQHI_ppIRjN_ZVthYMC2E5FtNTDrXh2cnUXS7zqlYdw6rYtMa6hun8htw&_nc_ht=scontent.ftpe7-4.fna&oh=c66f8dbc342e72b08bae44435327b73b&oe=606A9D85" alt="拉夫朗山是南投丹大林道附近的一座中級山">
+  <img src="https://cdntwrunning.biji.co/1024_ef7d635426fffed9fe4d302761615513.jpg" alt="拉夫朗山是南投丹大林道附近的一座中級山">
   <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/155817167_4458981120783021_5261825049633439588_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=B5utsOTAjBUAX_msnI1&_nc_ht=scontent.ftpe7-1.fna&oh=1a03bc1fd86c641bbf1d26f209e7dfeb&oe=60678043" alt="拉夫朗山附近森林的大樹">
-  <figcaption> 森林中的大樹 </figcaption>
 </figure> 
 
 
@@ -247,7 +230,7 @@ header:
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/156424050_4458980030783130_4845578811008330072_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=L0mmsHT4EQEAX865oFX&_nc_ht=scontent.ftpe7-3.fna&oh=4f75a0913314d0e621fb000b8c3e2d18&oe=60683D7A" alt="拉夫朗山頂無基石">
+  <img src="https://cdntwrunning.biji.co/1024_082998a31ecd00ba73b8780dc4c629d5.jpg" alt="拉夫朗山頂無基石">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -323,26 +306,21 @@ header:
 經過一處旁邊有一整片平坦的地形，剛好也走累了，下背包走進去晃晃，找找看有沒有鹿角XD
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/156866303_4458978984116568_2973033000479067155_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=2G9OgV1zxTUAX-Cy0UU&_nc_ht=scontent.ftpe7-3.fna&oh=3c7d0091d7861837ba256316f9f4b725&oe=606AF349" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/158120079_4458980694116397_2681733155259110890_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Hm6_i-LAPWUAX_UEyl-&_nc_ht=scontent.ftpe7-3.fna&oh=bcbc5449fefa1eff7d5a54aad2b80b53&oe=6067DFF5" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_93bda6e8170dfb9e17c94dce1d6ae9a6.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 沒找到鹿角，但找到這個貌似熊爪痕 🐻
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/157056775_4458981004116366_15931270476842746_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=DgcuWpBJQFUAX9XTzqn&_nc_ht=scontent.ftpe7-2.fna&oh=7d04dc296dcbd04d3df4058e2042be08&oe=6069E8BA" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_3c37aad1796ad8648418155bf4b82d84.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 繼續上背向前行。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156176919_4458975520783581_7177176863340449144_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=FlKiTLoHP8gAX-Jlgkn&_nc_ht=scontent.ftpe7-1.fna&oh=21eecb071ae48704d5e4b5cb28dc4cf0&oe=6067A34C" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_0f5de9a6051401b953fc73b07fd6346d.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
@@ -392,13 +370,8 @@ header:
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156914930_4458979227449877_1081558739289782980_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=CIWjV-f_6usAX8o6i5P&_nc_ht=scontent.ftpe7-4.fna&oh=49020b187c4f693891ec8a0446a044a4&oe=606A7B67" alt="">
+  <img src="https://1.bp.blogspot.com/-rYdJ0HHhHog/YIA1EpD6S5I/AAAAAAABO5Y/u-ePumSji5cpmKb3Z0AjBROHcmHA3puFwCLcBGAsYHQ/s2048/IMG_3932.JPG" alt="">
   <figcaption> 這裡是欣賞南三段群峰絕佳的地點呢! </figcaption>
-</figure>
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156738691_4459012144113252_2466138883930013367_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=w1asx0F4ZqMAX8Ns5Pk&_nc_ht=scontent.ftpe7-4.fna&oh=393f70043ba6c6037620c545e0f9d6a9&oe=606B9082" alt="">
-  <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
@@ -409,7 +382,7 @@ header:
 正值日暮之際，日落位置在治茆山方向，此時山嵐蓋住了整片山脈，治茆山從雲端探出了頭，宛如海中孤島。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156778166_4459014647446335_8381866059994957021_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=kT9hl4v7xCEAX9U1xRi&_nc_ht=scontent.ftpe7-1.fna&oh=373a8b4f2fc9c16c71b57cac3675eaf1&oe=606B8397" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_3c116cbc3447538e8e7a23abbbbe1e99.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
@@ -418,41 +391,41 @@ header:
 翌日早晨，準備出發前往加年端山頂看日出。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157473891_4459013164113150_8485555916371860020_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=jmwb2J6-rpUAX9FhcJJ&_nc_ht=scontent.ftpe7-3.fna&oh=1fa016c2508b5130d63aa962c66de6d9&oe=6068F09E" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_ee6f6610e0348737e97ee15ad334beaf.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/158002865_4459014524113014_4881146853615408681_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=I18h4Hzf9NUAX8b7Qr-&_nc_ht=scontent.ftpe7-4.fna&oh=26e7d34845a2af286fbb2315a4d9d3a3&oe=6069A9DE" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_e19bc5ca10160b71244666df9ada7823.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156440785_4459014114113055_6810181100764793848_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=JUoyGQOw010AX9Rj_ub&_nc_ht=scontent.ftpe7-2.fna&oh=a376d42658e5dbcc73faa3df8e154bfd&oe=6069A15E" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_a7d407661d8a6431a97227065bb0e3ff.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 早上六點前，登上加年端山山頂，從山頂向東邊望去可以看到台電的電塔路線，從山腰一次的丹大林道上，爬上帖鹿桑山附近的山稜。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156586458_4459014660779667_5370031966968393672_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=e7SIwKYOAVsAX-wkvbj&_nc_ht=scontent.ftpe7-1.fna&oh=e29df3f677bca2b17b057c881db147fe&oe=6069EBE1" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_89ca958d6fb0e457c528954b7da3018c.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 此時回望治茆山，雲霧之上的治茆山已經先早我們一步迎接日出了。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157049601_4459012714113195_4657513691016606466_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ZnGZ0IOrVHYAX-8XPvJ&_nc_ht=scontent.ftpe7-1.fna&oh=4a9bfb5a94fd7daadbc26dd37e854e9d&oe=606B061B" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_7f406861b3a7a1a3cca6cc77a5a04013.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157014783_4459012577446542_836910468877507908_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=oLFDW7e_2CkAX-Yz4Ak&_nc_ht=scontent.ftpe7-1.fna&oh=19e080926824d2e764ebb40a633e24c9&oe=606AD9D9" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_68fd3f4ef92f836f3da2d34b9c7f9eb4.jpg" alt="">
   <figcaption> 於加年端山山頂迎接帖鹿桑山之上的日出 </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156526186_4459013370779796_3053952130778701127_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1hKkc7lj-gcAX-oSPaM&_nc_ht=scontent.ftpe7-2.fna&oh=558d4bfc02406a0c704fd363df6d00cb&oe=606B0611" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_ce82a384eb7786d102a17c5731ca433f.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
@@ -499,7 +472,7 @@ header:
 </figure>
 
 
-## Be continued ...
+## To Be continued ...
 
 ## 卡社-加年端連稜縱走 關門古道西段探險前傳
 {%include feature_row %}

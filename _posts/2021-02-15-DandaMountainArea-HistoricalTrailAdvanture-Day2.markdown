@@ -483,7 +483,7 @@ header:
   <figcaption>  </figcaption>
 </figure>
 
-## Be continued ...
+## To Be continued ...
 
 ## 卡社-加年端連稜縱走 關門古道西段探險前傳
 {%include feature_row %}
