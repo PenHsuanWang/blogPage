@@ -17,9 +17,9 @@ feature_row:
   - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG
     title: "盆駒西北稜(二) 被世人遺忘的稜線"
     excerpt: "這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
-    #url: ""
-    #btn_class: "btn"
-    #btn_label: "Not yet Done"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s2048/IMG_7898.JPG
     title: "盆駒西北稜(三) 登上盆駒馬博"
@@ -45,13 +45,13 @@ feature_row:
 
 header:
   image: 
-  teaser : https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/p843x403/170133232_4565545540126578_57316746488805432_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1yjcmuZhZQAAX8tyWyv&_nc_ht=scontent.ftpe7-4.fna&tp=6&oh=488bef9f2de9ae9721fcdbaaf036a5cc&oe=60971466
+  teaser : https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s4032/IMG_6166.JPG
   image_description: ""
   overlay_filter: 0.5
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/p843x403/170133232_4565545540126578_57316746488805432_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1yjcmuZhZQAAX8tyWyv&_nc_ht=scontent.ftpe7-4.fna&tp=6&oh=488bef9f2de9ae9721fcdbaaf036a5cc&oe=60971466" alt="">
+  <img src="https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s4032/IMG_6166.JPG" alt="">
   <figcaption> 郡大林道崩壁與玉山國家公園紀念碑 </figcaption>
 </figure>  
 
@@ -67,10 +67,8 @@ header:
 
 這條路線除了登山以外，沿途還可見許多早年布農族先民們所開墾的痕跡。有家屋遺址駁坎，也有耕地遺跡，座落於稜線的陡坡上，一整面山坡的駁崁遺跡實為壯觀，可以遙想當年布農族舊部落的先民於此生活的樣貌。  
 
-
-
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/171048791_4565529400128192_6097439851912537254_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1jJ6Ye3zC34AX8NJRcM&_nc_ht=scontent.ftpe7-4.fna&oh=2388ada2b20373305e8a6360f531ad58&oe=60969937" alt="">
+  <img src="https://1.bp.blogspot.com/-z2LAaGh-LNA/YIF5Wg4v0gI/AAAAAAABPBA/3-g_Vk2kQSs0phU6JFppTOy6rwYoOsq2ACLcBGAsYHQ/s4032/IMG_6245.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -83,36 +81,36 @@ header:
 台灣近年登山熱潮大爆發，想必多數山友對於郡大林道也不陌生。凡舉要爬郡大山、清水金子連稜、或是南三段系列路線，都必經這條碰碰車林道。而我們這趟行程也不例外。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/170753597_4565527466795052_5920234767580088637_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=8e9svJp7-WcAX8rpXop&_nc_ht=scontent.ftpe7-1.fna&oh=723d29b717a304c510fe54d96429e2e6&oe=6095FD57" alt="郡大林道望鄉工作站">
+  <img src="https://1.bp.blogspot.com/-VdH05vgNmos/YIF1bF70BuI/AAAAAAABO8M/v5Hl2OmPEbkxVOb9g0ln43k7pBz_9OA0gCLcBGAsYHQ/w640-h480/IMG_6068.JPG" alt="郡大林道望鄉工作站">
   <figcaption> 上午七時許，郡大林道望鄉工作站等待林道鐵門開放 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169556967_4565521103462355_4314395624329210702_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=NNem_xcHEmoAX-FBMTh&_nc_oc=AQkHE4Ii2sw_O8wzPyk24E5YzHwlRj6vZR2g0IZbkHdRSr1UA76tBp2NxNUyUZiXMOs&_nc_ht=scontent.ftpe7-4.fna&oh=76c80f2d8ef72671aa964fffea698ada&oe=60968E3B" alt="">
+  <img src="https://1.bp.blogspot.com/-gTUjPtxkBlM/YIF1Z_ouKfI/AAAAAAABO8I/un5VpaXQaXQIvej5NoEkhQ20YQ_qz2hzgCLcBGAsYHQ/w640-h480/IMG_6071.JPG" alt="">
   <figcaption> 郡大林道33k行車中點出發後望向西巒大山方向稜線 </figcaption>
 </figure> 
 
 由郡大林道33k行車終點下車整裝後便從此處開始了我們5天的旅程。前方即是林道坍方，我們去年來的時候這個坍方路還需要下切走低繞路，我記得當時走起來還有一點可怕，但今年發現上方有開出一條穩固的路徑，快速通過。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/171566494_4565523326795466_6626525586197356693_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=oXkKKgsGFVUAX_7pLFl&_nc_ht=scontent.ftpe7-2.fna&oh=e974f6cb3f9b44484d6cf93022eb498d&oe=6096756D" alt="">
+  <img src="https://1.bp.blogspot.com/-RqCetTdtvqo/YIF1ckctxfI/AAAAAAABO8Q/WdwkCZwuQOAq01OqYoe-9nS_8eTwuo6GQCLcBGAsYHQ/w640-h480/IMG_6075.JPG" alt="">
   <figcaption> 碎石崩壁上，但路徑穩固 </figcaption>
 </figure> 
 
 再來通過第二段崩壁，這裡的路徑腳點比較小，小心通行。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170901394_4565527553461710_6643822472922537078_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=-loTXlR9uogAX-72XdX&_nc_ht=scontent.ftpe7-2.fna&oh=3101e6f5425bda060266ac665c80d41a&oe=6096EC31" alt="">
+  <img src="https://1.bp.blogspot.com/-da8I6R0p6Tc/YIF1gmb54-I/AAAAAAABO8c/bcEWE90NRNc4XlwxfZEt_DHKQqRSU0LpgCLcBGAsYHQ/s4032/IMG_6077.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/169088458_4565530486794750_5578975743460193206_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=mmSCS3QKewUAX8_c0uo&_nc_ht=scontent.ftpe7-1.fna&oh=fbc82dff7cb033db7d1c5a3431eb8083&oe=6095AF6D" alt="">
+  <img src="https://1.bp.blogspot.com/-t1Xl5YHOSiQ/YIF1gUJRjEI/AAAAAAABO8U/xo-3itvLl90ZyzCt9wNXKl86MnEUk4r6QCLcBGAsYHQ/s4032/IMG_6079.JPG" alt="">
   <figcaption> 郡大林道崩壁 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/168505272_4565528326794966_3192213207531216502_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=h5T31Luq-MQAX9y02D2&_nc_oc=AQkZCW5zBtBqHZxpf-OvcLPHEfutCr83a5-s5r9vO_dR7vqCpobT7KlqkUkNmtdC4m4&_nc_ht=scontent.ftpe7-2.fna&oh=1dd0b19dbf0e89cdf273d86327e96ef4&oe=60974264" alt="">
+  <img src="https://1.bp.blogspot.com/-HsFPuODliqU/YIF1gq1G5BI/AAAAAAABO8Y/M7rT74iH3TQvetCx_a7wgSNLU7Jd-peaQCLcBGAsYHQ/s4032/IMG_6085.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -120,26 +118,26 @@ header:
 打開地圖來看，郡大林道33k是接近十八重溪源頭附近的山坳。這邊方向剛好可以清楚看到整個溪谷的樣貌。十八重溪從郡大山北峰的北側發源，於郡大林道起點匯流入陳有蘭溪，為濁水溪的源頭之一。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/168790320_4565521863462279_8710666499058536719_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=zl4sgmePHOEAX8cm4vP&_nc_ht=scontent.ftpe7-2.fna&oh=0007ea728bc815a9884c57d3476bcdb1&oe=60969B85" alt="">
+  <img src="https://1.bp.blogspot.com/-DD5cs2VyHFw/YIF1le4RNKI/AAAAAAABO8k/5NDB0mKEwoM_3POh89RlRkwrOwxgIWHawCLcBGAsYHQ/s4032/IMG_6089.JPG" alt="">
   <figcaption> 高山深谷 </figcaption>
 </figure> 
 
 36k支線中間土場岔路前的木造工寮
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170272836_4565526193461846_4678114805699515417_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hkMgKjsUGt8AX9ZYtmK&_nc_ht=scontent.ftpe7-2.fna&oh=ffbd2cb78446fe734225b7a973e7a8a2&oe=60962DB4" alt="">
+  <img src="https://1.bp.blogspot.com/-VCyunG7Fz00/YIF1vE-Hn0I/AAAAAAABO80/FqMI2jr4la0Hq_4uOGTP32L5AsOhA59FACLcBGAsYHQ/s4032/IMG_6090.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170909014_4565523070128825_7831592448532303693_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=x5peLBxfeB4AX8vAojG&_nc_ht=scontent.ftpe7-2.fna&oh=55c9739354ab3aab47d2fc7f7b355112&oe=609599FC" alt="">
+  <img src="https://1.bp.blogspot.com/-LEJS8npichc/YIF1uH6GNaI/AAAAAAABO8s/QI86t-l2J2wsIMiE32ebTlygtRraYL4EwCLcBGAsYHQ/s4032/IMG_6092.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 再往前走一點可到達36k支線，去年我們攀登清水金子山連稜就是從此去。這次不取，繼續沿著郡大林道本線前進。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169063949_4565521200129012_8346981991694577452_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=NHqGjnlUePsAX_5rVDr&_nc_ht=scontent.ftpe7-3.fna&oh=1e5e9b4a1fe695368710201704830e9e&oe=6097BCB6" alt="">
+  <img src="https://1.bp.blogspot.com/-ZpxOio_gGs8/YIF1zg6wJtI/AAAAAAABO9A/kzHF43eMmv8_gOtybdxl-8RruGWXdmEvACLcBGAsYHQ/s4032/IMG_6098.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -148,120 +146,120 @@ header:
 再往前走遇到39k大斜壁。這個岩石崩壁上面看非常壯觀。路線要從這邊稍微向下切。    
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169134024_4565545490126583_5040009914085979760_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=uxK1NVuPVCsAX9Irsl9&_nc_ht=scontent.ftpe7-3.fna&oh=aa0db8252d132ea62b2cc8ecce3d906f&oe=6094BE73" alt="">
+  <img src="https://1.bp.blogspot.com/-KNPNBQDJpc4/YIF179CwCKI/AAAAAAABO9I/fPiRAhNrWZEJEU0NWoYe-S-sjGXiYdjLQCLcBGAsYHQ/s4032/IMG_6101.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/168572203_4565522273462238_5281119430212312324_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=0yeRS2yDcNQAX-jARQG&_nc_ht=scontent.ftpe7-2.fna&oh=ce43fd27b83539911be5988a56313fe6&oe=60978CD8" alt="">
+  <img src="https://1.bp.blogspot.com/-asPmxIimnAQ/YIF18NXUrnI/AAAAAAABO9M/pNDmH0kUaNMrzg9-YtCO2l-E0DrHWuoAACLcBGAsYHQ/s4032/IMG_6106.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 這裡看起來雖然可怕，但稍微往下一點低繞後有拉繩，岩壁上有岩隙可當腳點，跟碎石坡面比起來，這裏穩固很多。無害快速通過。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/170219831_4565521153462350_5088933543340707980_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=GTHB6VzuRn0AX_WT8fu&_nc_ht=scontent.ftpe7-4.fna&oh=6e41b11a7c2917078f530620b6875fb1&oe=60961B14" alt="">
+  <img src="https://1.bp.blogspot.com/--lV01QuEKRs/YIF2AKwV6JI/AAAAAAABO9Y/FMhzA7eL6-w4DB4V0bemcL9cQCQ3T81VACLcBGAsYHQ/s4032/IMG_6114.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/170295589_4565526370128495_846548297737828134_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=5e-E2w38MCoAX-z3Wqn&_nc_ht=scontent.ftpe7-4.fna&oh=3435a7d5d213ef994f9cffee88e0b383&oe=60977E79" alt="">
+  <img src="https://1.bp.blogspot.com/-qapmMqnUBcc/YIF2JIYl6OI/AAAAAAABO9g/bhH2MkrIET0rPVng-daZTs4ltPCIWTyBACLcBGAsYHQ/s4032/IMG_6115.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 繼續向前進，林道旁的伐木痕跡，巨大樹頭。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169953220_4565528820128250_7337463176279094231_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=zlauEnmuV-UAX9VPdFS&_nc_ht=scontent.ftpe7-4.fna&oh=657d54ab3a6d907a97d239561b063586&oe=6095989D" alt="">
+  <img src="https://1.bp.blogspot.com/-2MxDTFFB-cw/YIF2J11UFdI/AAAAAAABO9k/-ClZrIcGgMwBBuVFTAzZl-DmRL1TlaKowCLcBGAsYHQ/s4032/IMG_6122.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 郡大林道沿線除了紀錄上有提到的大崩塌地形以外，還有很多零星的碎石地形，此處不構成障礙。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/170053488_4565525843461881_3374882479227044703_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=vagtFoXGX2sAX_9Z2Th&_nc_ht=scontent.ftpe7-1.fna&oh=63a1b56a7fa0acb1219a86a06a031e4b&oe=609457CC" alt="">
+  <img src="https://1.bp.blogspot.com/-9QB8BoO-ZVM/YIF2NT8P5nI/AAAAAAABO9s/eVDnueyo6k0-Mw1A4emznrS77X-QaE0cgCLcBGAsYHQ/s4032/IMG_6123.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169931696_4565539163460549_1501330939724987914_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=zucnS-MYHjcAX9LaK5G&_nc_ht=scontent.ftpe7-4.fna&oh=a29ab2f57d897697789b65811917e9c1&oe=60952A59" alt="">
+  <img src="https://1.bp.blogspot.com/-piF2B3mu9sY/YIF2X3_uLVI/AAAAAAABO94/7Gcw4SN1_CMjHXrD18WzNVNsuwFEImK7wCLcBGAsYHQ/s4032/IMG_6126.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 這類大大小小的崩壁地形從郡大林道33k行車終點繼續挺進後會時常遇到。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170304614_4565544893459976_4102837091963585512_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1cDkkrP5wtgAX_JKLut&_nc_ht=scontent.ftpe7-2.fna&oh=d8d7edcfb596867a743dfa567ec0a78b&oe=60968C7F" alt="">
+  <img src="https://1.bp.blogspot.com/-gvPNHxaRPic/YIF2XJWi1BI/AAAAAAABO90/OqiDHY-aGwkMCgki3kiThzeDfCoATGmUwCLcBGAsYHQ/s4032/IMG_6128.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/169635711_4565523113462154_5256735041653813850_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=aSYKO5k6L0MAX-tNkc1&_nc_ht=scontent.ftpe7-2.fna&oh=13ffd54204407a77a9de082df61ddd7b&oe=60976A52" alt="">
+  <img src="https://1.bp.blogspot.com/-I4vPV3lSNnc/YIF2bl5jcZI/AAAAAAABO-A/33FZmI1iqTodpC-W3FYPq9eWPEFT-Kw1QCLcBGAsYHQ/s4032/IMG_6131.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169189308_4565521263462339_1567225936491829304_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Ybnz84xnXkoAX8kLSRV&_nc_ht=scontent.ftpe7-3.fna&oh=b3282b96392912e5e925e03de4e55e92&oe=6096EA4F" alt="">
+  <img src="https://1.bp.blogspot.com/-IL8puq0OwT0/YIF2i2atBsI/AAAAAAABO-M/bfuer1rWFMI__2pzCsPhU88ivnZTDa-5wCLcBGAsYHQ/s4032/IMG_6138.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 約43k左右的廢棄工寮，通常南三段行程最後一天會睡這裡。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/167858825_4565527546795044_3561698069305954368_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ABq9EJUOwoYAX_rc8m6&_nc_ht=scontent.ftpe7-2.fna&oh=f8779eecfd46431267141f5af8cf688f&oe=60969249" alt="">
+  <img src="https://1.bp.blogspot.com/-6YavHRAK6bM/YIF2iqvmf-I/AAAAAAABO-I/kOj7IHWlgt8qU7X1E99jLiUXljYmVvQsACLcBGAsYHQ/s4032/IMG_6143.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 通過工寮後是43k左右的大崩壁，去年準備這條路線的時候這個崩壁是我最擔心的一段路，以前的路線是從崩壁直接腰繞橫渡切過去，但現在的路線是先下切走地繞路線，第一段是碎石坡拉繩地形，通過最低點後是沿著巨石爬坡爬上去。感覺現在好走很多。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/170727860_4565543716793427_529683383713342684_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ylvEJPcmwncAX93VshC&_nc_ht=scontent.ftpe7-1.fna&oh=87f8f36b0fa870146cc14b8acf0244f7&oe=60956584" alt="">
+  <img src="https://1.bp.blogspot.com/-HvdkNfq_z4I/YIF2jRE7gKI/AAAAAAABO-Q/6-2xsnbRH_kkcysatgRK15k3YgJNp9CMQCLcBGAsYHQ/s4032/IMG_6153.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169949479_4565537203460745_8281718423215419226_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=s3qobDvG910AX_jkJj2&_nc_ht=scontent.ftpe7-3.fna&oh=de50a3484c1d8e3698df435aafe52072&oe=6097760F" alt="">
+  <img src="https://1.bp.blogspot.com/-H-lMY6k9YXc/YIF2mdJ-O3I/AAAAAAABO-U/wyYv-A9bsUILPF_tDjJ3_gV_wM-EC6vTACLcBGAsYHQ/s4032/IMG_6160.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/168535522_4565524400128692_2686643505378445178_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=WLt1UVW7B48AX-sygsK&_nc_ht=scontent.ftpe7-4.fna&oh=679898f515b48969fa034bae1c129061&oe=6094ECB6" alt="">
+  <img src="https://1.bp.blogspot.com/-UAeON7hhfNc/YIF32CePIzI/AAAAAAABO-s/PUHRLetOeaQ_GxibhQwao2wzHxzwZNF-QCLcBGAsYHQ/s4032/IMG_6147.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 繼續向前進，到達位在郡大林道44k左右的玉山國家公園界碑，但實際上這邊還沒有真的進到國家公園內，從地圖上來看，玉山國家公園的範圍是從郡大山東稜延伸到哈伊拉羅溪。所以我們要第二天從郡大溪度溪之後才會進到國家公園內。(這條路線要向玉山國家公園申請呦)
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/170133232_4565545540126578_57316746488805432_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1yjcmuZhZQAAX8tyWyv&_nc_ht=scontent.ftpe7-4.fna&oh=ade98c595ca7edcff168551d677419f3&oe=6094AC7A" alt="">
+  <img src="https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s4032/IMG_6166.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169589063_4565520563462409_225440384664202749_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=cQhbpAtZPGMAX-GAY4e&_nc_ht=scontent.ftpe7-3.fna&oh=0671221636cd5963d67e786099c577dd&oe=60967362" alt="">
+  <img src="https://1.bp.blogspot.com/-fSOli94CIp0/YIF31MO2TjI/AAAAAAABO-k/e5Slg0uj0uwhurXaqu4GwBkRgwz_yJQawCLcBGAsYHQ/s4032/IMG_6171.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/169565782_4565544876793311_9162965601775053039_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=k33ZoTeX4DwAX8zpkF2&_nc_ht=scontent.ftpe7-2.fna&oh=8ce54de805ce52d8bee520be762bbbf6&oe=6094C390" alt="">
+  <img src="https://1.bp.blogspot.com/-aD_P_0RyQAk/YIF4B_U2cuI/AAAAAAABO-w/YxFsy5s8MfsrdRk-ZZu5B9JWT2_Hjp3CACLcBGAsYHQ/s4032/IMG_6172.JPG" alt="">
   <figcaption> 郡大林道上的國家公園界碑合影 </figcaption>
 </figure> 
 
 這個應該是位處最偏僻的玉山國家公園界碑。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/171275396_4565528850128247_8633119563570204843_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=mcMfcCjNzjwAX-M0e4P&_nc_ht=scontent.ftpe7-2.fna&oh=d59abffa6eba28369198b98ef1a058d9&oe=6094A909" alt="">
+  <img src="https://1.bp.blogspot.com/--mf4kq6qMvI/YIF4CfoAYTI/AAAAAAABO-0/A1-VEBU7Z1cgzwHTLNS7-sxhLfsQpyuOQCLcBGAsYHQ/s4032/IMG_6175.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/171284202_4565538866793912_935475739539660037_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=v-JUNe1a22EAX-5QT10&_nc_ht=scontent.ftpe7-1.fna&oh=39e2a967082dd521c5c81fe458dd706c&oe=60978485" alt="">
+  <img src="https://1.bp.blogspot.com/-EJu-0PNpu5E/YIF4CQJ05zI/AAAAAAABO-4/l4lMe8jCqqkj9Td4SaQ_4-d6k2X6d7h3QCLcBGAsYHQ/s4032/IMG_6176.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 郡大林道45k的"迴頭彎"，看到這個右轉標誌，代表無雙山登山口到了  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/171550770_4565545563459909_8988907757216139984_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=_ZWbUnb-khkAX-lpmgg&_nc_ht=scontent.ftpe7-4.fna&oh=285782d91e31a9333394adab904dcf50&oe=6096B8B6" alt="">
+  <img src="https://1.bp.blogspot.com/-GPTwneY562w/YIF4Hqf_T9I/AAAAAAABO_A/A7qQ2lYGWmgkuKnuDdROUKNpFHF_qHfuACLcBGAsYHQ/s4032/IMG_6178.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -269,32 +267,32 @@ header:
 由此我們離開了郡大林道，也踏上了一小段南三段，丹大東郡橫斷的路線。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169115778_4565545916793207_3069732355091382166_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=mxmRrl1VMV4AX9jp_hr&_nc_ht=scontent.ftpe7-3.fna&oh=836c732ca72294786dc793aeaf38c1d5&oe=609726DA" alt="">
+  <img src="https://1.bp.blogspot.com/-nrwLly77J98/YIF4JNi7pLI/AAAAAAABO_E/SlexJDW2Lt8BEMm7m-AM9vE08l9LYv-DACLcBGAsYHQ/s4032/IMG_6184.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169558880_4565537120127420_4433636267555217920_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=r0vMN-qgxCUAX8AFQ89&_nc_ht=scontent.ftpe7-4.fna&oh=347b93cb50bced037eac2e87145b67ef&oe=60964103" alt="">
+  <img src="https://1.bp.blogspot.com/-j9wmYoSXi9I/YIF4JGUurdI/AAAAAAABO_I/297psaPRpXIU_5NFomcL_c-zZ_WJUqxKwCLcBGAsYHQ/s4032/IMG_6181.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/169739100_4565524510128681_5260361618771721290_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=UJX_JrnYxcsAX8NuNyC&_nc_ht=scontent.ftpe7-2.fna&oh=95f212f5c28772381525b4ea1c9734d6&oe=609478B6" alt="">
+  <img src="https://1.bp.blogspot.com/-gDutVUDRUNY/YIF4OA1lTPI/AAAAAAABO_Q/DBFV-6UtKe4mgLBNZ7NUrUrSNHMRr8LWQCLcBGAsYHQ/s4032/IMG_6188.JPG" alt="">
   <figcaption> 向下行，朝向烏瓦拉鼻溪營地前進 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169956899_4565529556794843_8826775015750986838_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=W8Q-NnawQWsAX9tvMiW&_nc_ht=scontent.ftpe7-4.fna&oh=75b0b2bb80c0e8225412272ea14b1aff&oe=60976CCE" alt="">
+  <img src="https://1.bp.blogspot.com/-eRrFEteyWb8/YIF4PdpdD0I/AAAAAAABO_Y/yFbzUmZD9l065EwLMAeVCCwhfdRs5YmLQCLcBGAsYHQ/s4032/IMG_6191.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169603240_4565544300126702_3052017668072357601_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ElZBUpAbvfgAX_L2UiG&_nc_ht=scontent.ftpe7-3.fna&oh=87af46be859902f44f63e74e040e2a68&oe=60965CA0" alt="">
+  <img src="https://1.bp.blogspot.com/-ctBskAwDew4/YIF4lQLCKeI/AAAAAAABO_w/zW5y-XNQKdM-CAtzaLDAG9nys8FNJRgxgCLcBGAsYHQ/s4032/IMG_6194.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/170077669_4565539290127203_8663166447945025794_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=KybCICKDuMkAX96HToT&_nc_ht=scontent.ftpe7-1.fna&oh=3b8530ec7653e191dc073d2607d7e739&oe=6094D173" alt="">
+  <img src="https://1.bp.blogspot.com/-HF60vZP2xnM/YIF4mIYphJI/AAAAAAABO_8/7yWrKD-LGb8zjKotnbOIBXzE11xCMpTJwCLcBGAsYHQ/s4032/IMG_6196.JPG" alt="">
   <figcaption> 前往烏瓦拉鼻溪前的山徑瘦稜 </figcaption>
 </figure> 
 
@@ -302,7 +300,7 @@ header:
 瘦稜兩側的山坡面看了讓人心驚驚。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169121900_4565546113459854_1978815403564188538_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=SM_cDadhpLwAX_v6r1h&_nc_ht=scontent.ftpe7-4.fna&oh=60573c6e1847596b9bce861cebce8c35&oe=60956731" alt="">
+  <img src="https://1.bp.blogspot.com/-oi9V2MHvQck/YIF4lfNi8hI/AAAAAAABO_0/aUoOkuSgzrcN5qmMs7aGh0FOhzoOh2d6gCLcBGAsYHQ/s4032/IMG_6202.JPG" alt="">
   <figcaption> 從郡大林道向下行，通往烏瓦拉鼻溪前的陡坡 </figcaption>
 </figure> 
 
@@ -322,7 +320,7 @@ header:
 在屋瓦拉鼻溪邊度過一晚，好好休息後，翌日一早天剛亮，我們便繼續朝向無雙吊橋前進。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/170316837_4565520376795761_2760088595927995827_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=lXTp5Myld8AAX8ta0n1&_nc_ht=scontent.ftpe7-3.fna&oh=e53bf3329503141b7791695877163676&oe=6097B317" alt="">
+  <img src="https://1.bp.blogspot.com/-U1cywhXUWMY/YIF41EMtLDI/AAAAAAABPAM/xz3j2SripUglT5W37txnqODDTc3H5U-UgCLcBGAsYHQ/s4032/IMG_6213.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -331,65 +329,65 @@ header:
 接著我們看到無雙吊橋。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/170047768_4565520500129082_177138089982761268_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Wef2sfRcgCwAX9W8GSO&_nc_ht=scontent.ftpe7-4.fna&oh=c020e9e8a3d359f8c2b54d56c813428c&oe=609A19AB" alt="">
+  <img src="https://1.bp.blogspot.com/-cSpimG70-tE/YIF40mgQ7WI/AAAAAAABPAE/bw8Th9ZK0AcQVogiPnXmi2QbbrrRSidFwCLcBGAsYHQ/s4032/IMG_6218.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 郡大吊橋前的彎道
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169584353_4565519783462487_6265923988773428375_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=A7NliKWJJfkAX_w-nmB&_nc_ht=scontent.ftpe7-3.fna&oh=306fd33d8e48c1fa64dc62a1c495f967&oe=6098A786" alt="">
+  <img src="https://1.bp.blogspot.com/-7YKVHAP4xIk/YIF45Sc3jiI/AAAAAAABPAY/tRfnha1iCJ0BEeqF0D4LEtCyJUMsg4AKgCLcBGAsYHQ/s4032/IMG_6219.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 我們繞道橋頭上，此處有台電的"郡大濁水"基點一座。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/169258681_4565537153460750_558679730143504634_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=mSW4QXTpOZcAX8Gj2xv&_nc_ht=scontent.ftpe7-1.fna&oh=942eb7069e4fe72b1904d4247b675c10&oe=6097354C" alt="">
+  <img src="https://1.bp.blogspot.com/-fF_H4vNYFqU/YIF5GQhrXEI/AAAAAAABPAs/XUEpLyhx2pYxh1qwULdIaEEbEhW36hVQgCLcBGAsYHQ/s4032/IMG_6233.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/169932051_4565543620126770_5009796262834816506_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=LceKkcS4bwIAX_sefao&_nc_ht=scontent.ftpe7-1.fna&oh=493768f3c97f2ce0f6f8cf3c36226ff9&oe=6097F6CD" alt="">
+  <img src="https://1.bp.blogspot.com/-Ks-qmOpfLjo/YIF49OZtrQI/AAAAAAABPAc/jRjA_FEOmqQi51t-7ktL_Cv95cFgODIdgCLcBGAsYHQ/s4032/IMG_6230.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/169263511_4565544973459968_7828182343252480243_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=q25jHVSbcTMAX9qv0Az&_nc_ht=scontent.ftpe7-3.fna&oh=71709517f943359c62210cc323099858&oe=6098583A" alt="">
+  <img src="https://1.bp.blogspot.com/-agGsSS5w8vQ/YIF49xwZdYI/AAAAAAABPAg/Ukw-RksuGOYJuD9JheR_jYW7R1Q6MwQdQCLcBGAsYHQ/s4032/IMG_6226.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 由此，我們要與傳統的南三段登山道路分道揚鑣了。要攀登盆駒西北稜，我們從吊橋前的山坡右側前往溪谷。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/169953230_4565523140128818_5372586117300920081_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ziH3UzqAJ2AAX-LodFb&_nc_ht=scontent.ftpe7-2.fna&oh=4dac518652d534e8700e1355608e95b1&oe=609A6A87" alt="">
+  <img src="https://1.bp.blogspot.com/-cA7DHWLn0zg/YIF5Pp4uToI/AAAAAAABPA8/fmV_QFwxLhc2W0e96MIZ1Ft4L0ACUC2cACLcBGAsYHQ/s4032/IMG_6235.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 從無雙吊橋旁邊稍微下去不久即可清楚看到郡大溪以及哈伊拉羅溪的匯流口。從山坡上往下看，這個溪流的峽谷地形真的很壯寬，河流將鐵灰色的巨石切出一道缺口，我們今天的路線就是要從這個匯流口旁邊向上切。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/169953228_4565543750126757_6198640106056821113_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=F8bS1Hn619YAX_oUVPP&_nc_ht=scontent.ftpe7-1.fna&oh=7096a23b3e0f18a878ef2393231220e8&oe=609781D9" alt="">
+  <img src="https://1.bp.blogspot.com/-ROIg4acGW34/YIF5OxQ7_FI/AAAAAAABPA4/u0J_yRcczO4k3iaRyzjnnMWUKinD0cHNwCLcBGAsYHQ/s4032/IMG_6244.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/171048791_4565529400128192_6097439851912537254_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=_WZrzuavne4AX9CKAg9&_nc_ht=scontent.ftpe7-4.fna&oh=452b8ac15d44819eb392c54173b02fb4&oe=60969937" alt="">
+  <img src="https://1.bp.blogspot.com/-z2LAaGh-LNA/YIF5Wg4v0gI/AAAAAAABPBA/3-g_Vk2kQSs0phU6JFppTOy6rwYoOsq2ACLcBGAsYHQ/s4032/IMG_6245.JPG" alt="">
   <figcaption> </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/171607330_4565526343461831_1229906576601119478_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=4qULgj-5OfkAX8SFgQ1&_nc_ht=scontent.ftpe7-3.fna&oh=dabf213b919f8ac76ed95dec62d81d5c&oe=609A641E" alt="">
+  <img src="https://1.bp.blogspot.com/-p2evOKcxZgc/YIF5ezRbY_I/AAAAAAABPBI/ctiIKqrUS5cFtimfjs3448BzS4tjRx99wCLcBGAsYHQ/s4032/IMG_6247.JPG" alt="">
   <figcaption> 郡大溪水不斷地侵蝕著河谷，此處溪谷兩側是灰白陡峭的岩壁，岩壁上方就是陡峭的山坡 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169625243_4565527363461729_781629292822801983_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=tCuKJWw811YAX8-oxxe&_nc_ht=scontent.ftpe7-4.fna&oh=e8314294e70aaf3307478ad0a9b101f0&oe=60999770" alt="">
+  <img src="https://1.bp.blogspot.com/-ucxx2JmAJME/YIF5fZuzt2I/AAAAAAABPBM/M-o-wJ2H1UEh8o0OQjY9MGiItf7rDmkuwCLcBGAsYHQ/s4032/IMG_6248.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/168925595_4565522983462167_527202179445786552_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Ft-YuzbjurYAX8dd71G&_nc_ht=scontent.ftpe7-1.fna&oh=1eb1c9932260e1750c730ccf349c793d&oe=60986A06" alt="">
+  <img src="https://1.bp.blogspot.com/-BaBgTl3PrEE/YIF5lAdNREI/AAAAAAABPBU/Hk983fNWbj4QOLkhPhGaGJlm17Dma82GwCLcBGAsYHQ/s4032/IMG_6249.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -403,14 +401,14 @@ header:
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/171744230_4565520096795789_1658067142137272650_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=cnjckgyW8scAX92M9IS&_nc_ht=scontent.ftpe7-4.fna&oh=014541b8da8e09cebd7506e43c7de1ad&oe=609713E9" alt="">
+  <img src="https://1.bp.blogspot.com/-oKlpMRWMpWA/YIF5qKubUZI/AAAAAAABPBc/CsaaD8T-DM4EGgokbLHqcn8dDPNJAWycQCLcBGAsYHQ/s4032/IMG_6254.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 由上切點回望，向郡大溪道別，我們即將踏上盆駒山西北稜。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/169936077_4565520590129073_264230174887962407_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Yxf_74l-l9EAX-pOdpH&_nc_ht=scontent.ftpe7-1.fna&oh=9f92fddd0c8eaf998b4431c1fa406b0e&oe=609793FA" alt="">
+  <img src="https://1.bp.blogspot.com/-Z_3Fst94pj0/YIF5qm0SOzI/AAAAAAABPBg/gk1hoV3sWnILLaYVX3MSc38vbQ42tuOkQCLcBGAsYHQ/s4032/IMG_6256.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
