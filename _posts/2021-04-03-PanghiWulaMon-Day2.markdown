@@ -18,7 +18,7 @@ feature_row:
     title: "盆駒西北稜(一) 郡大溪谷的深處"
     excerpt: "由無雙吊橋旁的郡大溪谷開始上攀，盆駒山西北稜由海拔1450公尺開始陡升至三千公尺高的盆駒山。這是經典的非傳統路線攀登百岳路線之一。早年鹿野忠雄就是經由這一條路線探查馬博拉斯山以及秀姑巒山的。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day1/"
-    btn_class: "btn"
+    btn_class: "btn--primary"
     btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s2048/IMG_7898.JPG
