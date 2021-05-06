@@ -24,9 +24,9 @@ feature_row:
   - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s2048/IMG_7898.JPG
     title: "盆駒西北稜(三) 登上盆駒馬博"
     excerpt: "依循盆駒西北稜，我們接上了傳統路，但不代表路途就此可以輕鬆了。因為我還要登上海拔接近三千八百公尺的馬博拉斯山。高海拔環境讓我們每走一步都要喘好幾口氣，加上毫無遮蔽的箭竹草坡的缺水路線，這是我們面對最大的考驗。"
-    #url: ""
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day3/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s2048/IMG_8119.JPG
     title: "盆駒西北稜(四) 夜行秀姑巒"
@@ -44,7 +44,7 @@ feature_row:
 
 
 header:
-  image: 
+  image: https://1.bp.blogspot.com/-NN6ujwrlemY/YJQCRtpMM8I/AAAAAAABPRY/xp_-Y_QxV2UBm59t8x19RPa-RWcD5iVHgCLcBGAsYHQ/s3011/IMG_7465.JPG
   teaser : https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s4032/IMG_6166.JPG
   image_description: ""
   overlay_filter: 0.5

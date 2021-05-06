@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "盆駒西北稜-縱走馬博秀姑巒 (二) 被世人遺忘的稜線"
-excerpt: "由郡大溪底的中之線古道開始，我們踏上盆駒西稜，前進盆駒山以及馬博拉斯山。這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
+title:  "盆駒西北稜-縱走馬博秀姑巒 (三) 登上盆駒馬博"
+excerpt: "依循盆駒西北稜，我們接上了傳統路，但不代表路途就此可以輕鬆了。因為我還要登上海拔接近三千八百公尺的馬博拉斯山。高海拔環境讓我們每走一步都要喘好幾口氣，加上毫無遮蔽的箭竹草坡的缺水路線，這是我們面對最大的考驗。"
 
-date:   2021-04-03 08:00:00 +0800
+date:   2021-04-04 08:00:00 +0800
 categories: mt-note-photo-100peaks
 classes: wide
   - landing
@@ -21,10 +21,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s2048/IMG_7898.JPG
-    title: "盆駒西北稜(三) 登上盆駒馬博"
-    excerpt: "依循盆駒西北稜，我們接上了傳統路，但不代表路途就此可以輕鬆了。因為我還要登上海拔接近三千八百公尺的馬博拉斯山。高海拔環境讓我們每走一步都要喘好幾口氣，加上毫無遮蔽的箭竹草坡的缺水路線，這是我們面對最大的考驗。"
-    url: "mt-note-photo-100peaks/PanghiWulaMon-Day3/"
+  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG
+    title: "盆駒西北稜(二) 被世人遺忘的稜線"
+    excerpt: "這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
@@ -44,31 +44,26 @@ feature_row:
 
 
 header:
-  image: https://1.bp.blogspot.com/-rDg1h6hg7Gw/YJQCRsJHZ-I/AAAAAAABPRU/6JAd_bpdGJsFiaMNl2MYa1oNHf6ZzQ_dACLcBGAsYHQ/s3328/IMG_7606.JPG
-  teaser : https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG
+  image: https://1.bp.blogspot.com/-Y2eOv9buZbk/YJQCQhWgdaI/AAAAAAABPRQ/nzSkdJJ4hR0-5Yw8LcncCN31osYgXW1WwCLcBGAsYHQ/s3180/IMG_7708.JPG
+  teaser : https://1.bp.blogspot.com/-wyFCx0MWT_Y/YJKqFItKc2I/AAAAAAABPL4/SjuGAuCflPw-G4Nbv8natTMXCG3wW8zVwCLcBGAsYHQ/s2048/IMG_7713.JPG
   image_description: ""
   overlay_filter: 0.5
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG" alt="郡大溪底攀登盆駒山">
+  <img src="https://1.bp.blogspot.com/-JoK8WdXzN2k/YJKp8c99FBI/AAAAAAABPLs/8b1sotlRToI70THVUvQk0FJFJB8muducwCLcBGAsYHQ/s2048/IMG_7708.JPG" alt="郡大溪底登頂盆駒山走向馬博拉斯山">
   <figcaption>  </figcaption>
 </figure>  
 
-從海拔僅1450公尺高的郡大溪底開始上攀，今天的路線是沿著陡翹的稜線向上挺進。2000公尺...3000公尺。我們這趟行程最高要爬上海拔3785公尺高的馬博拉斯山，以及海拔3860公尺高的秀姑巒山。  
-現在的人攀登秀姑巒、馬博拉斯山，多數是經由東埔、八通關、秀姑坪的路線前往。這條盆駒西北稜鮮少有人在走(不過最近開始有越來越多人在走非傳統路上百岳了)，但這裏早在日本時代，可是鹿野忠雄攀登秀馬的路線呢。  
+從郡大溪底依循盆駒山西北稜登上盆駒山頂，我們回到傳統百岳路上。一早六點到達盆駒山前的草原，剛好趕上從東郡橫斷之上升起的旭日。遙望南三段群峰在清晨薄霧中的身影。  
 
-這條稜線沿途經過波瓦拉切社遺址，這個原住民舊部落遺留了當年開墾的痕跡。整片山坡的石頭駁坎可能是當年的耕地、家屋群落遺留的石板屋牆。走在這條稜線上面不只是登山而已，還可以遙想當年祖先們在這邊生活的樣態。(不過我們一直很好奇，以前人住在這裡，要取水的話都是下切郡大溪嗎? 感覺好累XD)
+回到盆駒馬博傳統百岳路線，並不代表從這裡開始就是一片坦途了。盆駒山的海拔高度只有三千出頭，然而馬博拉斯山海拔高三千七百公尺以上。代表我們今天還有一大段陡坡要面對呢。尤其這條路又沒甚麼遮蔽，接近中午的烈日加上缺水路線，我們邊走邊惋惜當初在郡大溪底怎麼沒多喝一口水呢QQ  
 
-盆駒西北稜這條線最困難的地形為剛由溪底起登開始上切的第一段陡坡，正如台灣多數溪谷中的地形一樣，坡面十分陡峭。從溪底開始爬升的第一段路線為很陡的土坡。有幾段坡面土石容易滑落，有些許細小的樹根可以借力當手點。但抓起來還是讓人怕怕的。  
-通過第一段陡坡後，最後一道障礙是一面幾乎垂直的岩壁。這面岩壁底端有幾處腳點，上方有樹根可以當手點借力。上攀上去不至於太困難，但這面岩壁直接在陡坡之上，下方看不到底部，感覺直通溪底。這邊是一個不能出錯的地方，如果fall的話後果不堪設想。  
+從盆駒山出發前往馬博拉斯山，我們先行經盆駒山中峰、翻過盆駒山南峰，再來我們可以看到一道常常的陡坡，通向馬博拉斯山。稜線右手邊可以見到中央山脈第一高峰，同時也是五嶽之一的秀姑巒山。右後方可以看見玉山群峰。我們現在與玉山山脈相隔著一道郡大溪谷，蜿蜒在溪谷半山腰上的，便是郡大林道。郡大林道從郡大山南側繞過後便向對關山西北側開過去，經過人們熟知的觀高工作站，再繼續向秀姑巒、馬博拉斯山的西側繞過去，終點就在距離盆駒山不遠的山腳下。簡單來說，郡大林道就是繞著郡大溪谷走了一大圈。想必當年郡大林道全線暢通的時候，要爬盆駒山，應該比現在容易很多吧，不像現在，還需要先通過海拔三千七的馬博拉斯山天險。    
 
-現在正值乾季，我沒擔心上到盆駒中峰後的下切水源會需要切到太深。又擔心馬博山屋的儲水桶沒水。行前一週有看到馬博山屋的水況，聽說只剩半桶。為了避免遇到斷水的窘境，我們平均一人背上6升的水。我自己則是背了8升以備緊急狀況使用...，這條稜線已經夠陡了，再搭配背包中沈重的水，走起來真的特別吃力...。
-
-這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，而這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JADOEWS-yiE/YHRT-0ek-ZI/AAAAAAABO2M/GtG4Zz0HwdsR6cwZhF4xPPzI2zESVyLLgCLcBGAsYHQ/s2048/IMG_7575.JPG" alt="盆駒山西稜的栓皮櫟稜線">
+  <img src="https://1.bp.blogspot.com/-noi04JZjhXk/YJKtMU95xXI/AAAAAAABPM8/aW_5SnvUCO4oKk_Yg3OotuoMWANAXB2hwCLcBGAsYHQ/s2048/IMG_6388.jpg" alt="盆駒山西稜的栓皮櫟稜線">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -78,308 +73,299 @@ header:
 
 # 被世人遺忘的稜線
 
-
-郡大溪水不斷地侵蝕著河谷，此處溪谷兩側是灰白陡峭的岩壁，岩壁上方就是陡峭的山坡。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-VeNa9E21yp4/YHLsrhXaoaI/AAAAAAABOy8/FjbvCtYsowcass3Etuoelx1FWPIQ0KcmQCLcBGAsYHQ/s2048/IMG_7459.JPG" alt="郡大溪">
-  <figcaption>  </figcaption>
-</figure> 
-
-我們從無雙吊橋旁邊下切，向郡大溪上游前行了一段距離。此處為哈伊拉羅溪與郡大溪的匯流口。  
+從郡大溪底開始攀登，我們於行程第三天早晨抵達盆駒山，離開森林到達草原的這一刻，太陽也從南三段稜線上出來迎接我們。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JyoY3ms7eaY/YHLswujLAgI/AAAAAAABOzA/PGWDMvzL3FADSMX2uJXFu-xfjQ1Dg6oUgCLcBGAsYHQ/s2048/IMG_7461.JPG" alt="郡大溪匯流口為駒盆山西稜的起點">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-jtBSNgW9yhg/YJP2BRdekPI/AAAAAAABPQ4/qLDvFp2WQHA69n76sSml-VuJCcJw20AIwCLcBGAsYHQ/s4032/IMG_6342.JPG" alt="盆駒西北稜登頂">
+  <figcaption> 離開松樹林，抵達盆駒山前草坡 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-H-6SgwR0DZQ/YHLsyIOoYBI/AAAAAAABOzE/GYblsptAIRcyY8coLXiPPIIKLCLODQVvgCLcBGAsYHQ/s2048/IMG_7460.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-現在為乾季，尤其是今年特別的乾，好像是我從小有記憶以來最嚴重的一次乾旱了吧，台中苗栗還開始進行供五停二的限水措施了QQ。  
-也因此，我們這趟行程的郡大溪特別好過，不需要架繩，脫個鞋踩一踩水就可以過了。  
-我們這趟行程可是很缺水的，尤其是這次乾旱，南投一帶山區已經有好幾個月沒有明顯降雨了。我們很擔心盆駒中峰營地附近的活水源，勢必會要切得比平常深許多...   
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-IvsC3onsP7Q/YHLvAujNUoI/AAAAAAABOzY/nQOYP_SkjVESAvk_ZNqfL16oNu_UmOtGQCLcBGAsYHQ/s2048/IMG_7467.JPG" alt="">
-  <figcaption> 好過的郡大溪 and 接下來的路很缺水，快趁現在喝到飽... </figcaption>
-</figure> 
-
-成功過溪，準備繼續上切。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/171744230_4565520096795789_1658067142137272650_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=cnjckgyW8scAX92M9IS&_nc_ht=scontent.ftpe7-4.fna&oh=014541b8da8e09cebd7506e43c7de1ad&oe=609713E9" alt="">
+  <img src="https://1.bp.blogspot.com/-7HVZG5rueGE/YJKpZiV6O-I/AAAAAAABPLI/9Bim87uzJAMysZWJdYmPGF6uG-r0NQ4agCLcBGAsYHQ/s2048/IMG_7648.JPG" alt="盆駒山山頂望向南三段稜線上的日出">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170647120_4565520856795713_2511947950726940549_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=T37ytzV8aiEAX-axajK&_nc_ht=scontent.ftpe7-2.fna&oh=f5391ad72402b2b3184a1dfb250a849b&oe=6099F357" alt="">
+  <img src="https://1.bp.blogspot.com/-akFrPw80O8w/YJKpYHunXNI/AAAAAAABPLE/7tMPVby53r8IIjmsWHkcYL_du5xDEk5qQCLcBGAsYHQ/s2048/IMG_7653.JPG" alt="由盆駒山望向南三段群峰的無雙山">
+  <figcaption> 南三段稜線上的無雙山以及儲山 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-6lqJp50QmQ8/YJP2CXr7gpI/AAAAAAABPQ8/7Rx9syKP6sc1iM6slXGEyeJqx0eZvctUACLcBGAsYHQ/s4032/IMG_6346.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-由上切點回望郡大溪。  
+盆駒山頂附近是一片草坡，沒有很明顯的山頂，基點就在池子右方，地勢稍高的地方。  
+多月不雨，看天池都乾涸了。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169565803_4565530650128067_8305878811598436957_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1K1e_9vOjLkAX87BvtZ&_nc_ht=scontent.ftpe7-4.fna&oh=5fcb80702ebbf05a921af8b84a48a757&oe=60975C36" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-從此處繼續向上攀登，先是遇到一片又陡又滑的土坡，沿線沒有太多可以抓的手點，腳點也不是很穩固。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170717660_4574012002613265_8850378553781876993_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=PpAcmkld42oAX9A6eVC&_nc_ht=scontent.ftpe7-2.fna&oh=8162ccb533801b27bbcb18321dd7ac54&oe=60998654" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-我們一開始向稜線左側繞過去，但我們好像走到太左邊了，地勢越來越陡。此時我們看到右手邊的坡面上有一條藍色扁帶，我們在此兵分兩路，一組人走比較前面的決定直接從陡坡硬切上去。另一組人還沒開始上切的決定橫渡到右手邊山坡上的扁帶那邊。
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/169944519_4574011139280018_6584314177605084957_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=AgBepTTHCukAX9swHQV&_nc_ht=scontent.ftpe7-1.fna&oh=1b22fa6e020f3e92ed8fa163677ee376&oe=60993628" alt="">
+  <img src="https://1.bp.blogspot.com/-SiWSKlW2yhE/YJKpeGXhKjI/AAAAAAABPLM/kOIg1WiK7GMPEB97NW9OqyHf__-nllaYgCLcBGAsYHQ/s2048/IMG_7656.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/170259181_4574010032613462_4029187630462660766_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hv-X6oZo77UAX91gWmE&_nc_ht=scontent.ftpe7-1.fna&oh=dfc54d26a35d511a852ab3853c174f70&oe=60980053" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-2UhSR3S2qJI/YJKpse62WjI/AAAAAAABPLY/lv7CgSeBmJw7TQ39uv0xL164Xu9pX_b6gCLcBGAsYHQ/s2048/IMG_7668.JPG" alt="">
+  <figcaption> 盆駒山山頂，二等三角點 </figcaption>
 </figure> 
 
-通過第一段陡坡後，我們到達一處平台稍作休息。接著我們沿著稜線向上通行。  
+盆駒山頂休息，可見馬博拉斯山...等等我們要爬到那個地方(光看就覺得好累呀!!!)
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170441582_4574009869280145_8607022405947389412_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=V17-LM-OxacAX-6kdcD&_nc_ht=scontent.ftpe7-2.fna&oh=40de76ce33cac5324cb648393ff4bcfd&oe=60997D1A" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-zMKwm293KS4/YJP1m3jSxaI/AAAAAAABPQs/hR6955guWoMn5HKnW7zWPSMVpgdlWmpBQCLcBGAsYHQ/s4032/IMG_6375.JPG" alt="">
+  <figcaption> 手機滑起來 </figcaption>
 </figure> 
 
-陡峭的Ｖ型稜線上還鋪著松針，行進時要小心地滑。在這裡兩側都是陡峭的山坡。　　
+盆駒山附近一路到盆駒山南峰前沿途有很多馬醉木。  
+別看這花漂亮，馬醉木全株花、莖、葉都有毒，而且毒性很強的!!!  
+嚴重的話還可能休克，千萬要小心呀!!  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/171967940_4574011675946631_7949449132886680413_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=R0VSGYYHqW8AX9aDRKb&_nc_ht=scontent.ftpe7-3.fna&oh=122ceccfd192254855ef7268617c82d9&oe=609872AE" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-sfsBUx1rjIY/YJP2UNS8OLI/AAAAAAABPRI/NXDEQCqpvusOu7TL-phCKBuricpUbdA7gCLcBGAsYHQ/s2048/IMG_7663.JPG" alt="">
+  <figcaption> 口雖然很渴，但這樣吸到的花蜜還是有限吧XD  這花有毒要小心啊 </figcaption>
 </figure> 
 
-接著我們遇到了這一條路線最大的障礙，一處約有兩米落差的垂直岩壁。  
+經歷了一大段陡坡上升，登上盆駒山，當然要來個合照呀!  
+最近都爬一些奇怪路線，百岳數很久沒增加了XD  
+這是我的第48座百岳(按照這個進度可以在秀姑巒完成半百)。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/173015812_4574010885946710_1261062479642243159_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=aZ8ASdR-pWkAX_VoBVt&_nc_oc=AQnuMoGc0GRcfv0cr_n8Im4BM3Zt-7uqm55gLiGwcVdq9fS0GTwtDfPsMf7f5LO5tOs&_nc_ht=scontent.ftpe7-3.fna&oh=e384b12b0e4b67a291f9faf0ae76dffb&oe=609B9524" alt="">
-  <figcaption> 兩米落差垂直岩壁，採取安全一點的人包分離 </figcaption>
+  <img src="https://1.bp.blogspot.com/-qTqoI3jcawc/YJP1mmyNbpI/AAAAAAABPQo/mSIHLAamr3c5klBvENwKbTNWIgq39oyfwCLcBGAsYHQ/s4032/IMG_6384.JPG" alt="盆駒山">
+  <figcaption> 盆駒山山頂，百岳+1 </figcaption>
 </figure> 
 
-這個岩壁近乎垂直，雖然岩壁下方有兩處腳點，上方還有樹根可抓。基本上有一點攀爬技術的人應該都可以輕鬆爬上去。但垂直岩壁下方的山坡坡面非常的陡，掉下去的後果不堪設想。因此我們還是採取安全一點的人包分離。這裡可是不可失敗的地方。  
+山頂合照完後，該面對的還是要面對，我們並不是接上傳統路後就是坦途了。  
+接下來的路是一路爬坡，要爬上海拔三千七百多公尺高的馬博拉斯山...  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/172069631_4574011842613281_5622318236096045883_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=b_U335Oh_v0AX_p6WNh&_nc_ht=scontent.ftpe7-4.fna&oh=8b54ecc0318b9dcf8557545f624676b8&oe=60998C90" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-5rA7Wt9gFB8/YJKp0sBbjDI/AAAAAAABPLk/1qKbQmhexi8UKN9bh8IqqTnWbwe1jORDwCLcBGAsYHQ/s2048/IMG_7705.JPG" alt="盆駒山登山路線走向馬博拉斯山">
+  <figcaption> 盆駒山出發，一行人繼續向馬博前進 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/172021689_4574011792613286_3416282123410911137_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ZUYdNYwGHokAX-sGgRv&_nc_ht=scontent.ftpe7-1.fna&oh=c84b03af1a0efd3c9b668febe759b1a2&oe=609A3094" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-wyFCx0MWT_Y/YJKqFItKc2I/AAAAAAABPL4/SjuGAuCflPw-G4Nbv8natTMXCG3wW8zVwCLcBGAsYHQ/s2048/IMG_7713.JPG" alt="盆駒谷大草原">
+  <figcaption> 盆駒山稜附近都是大草原緩坡 </figcaption>
 </figure> 
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/169985545_4574010339280098_5868148937975154499_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=6Y0WIbSgh0sAX8Q8gw_&_nc_ht=scontent.ftpe7-2.fna&oh=3ac14b15cda982429d0b949d7cadb73f&oe=6099F327" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-通過這個可怕的垂直岩壁，之後的路線就比較好走了。  
-接下來的路就只剩下陡跟缺水而已。  
-這裡的海拔大約1600公尺左右，從溪底開始爬到這裡短短的直線距離，已經上升超過150多公尺了，  
+盆駒山的早晨帶著薄霧，一行人踏上前往馬博拉斯山的山徑。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-STVnmBa8K1U/YHLvGcZl-TI/AAAAAAABOzg/nLO40YETyl4MU3C_IzJUto9f1DkC9eWCgCLcBGAsYHQ/s2048/IMG_7472.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-通過岩壁後的松林大平台。於此好好休息一下。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kiNMa4OOEDI/YHLwc9YrbZI/AAAAAAABOz4/PxbxDqJaVCAOf8LyB-JEIHXTjKATn11cgCLcBGAsYHQ/s2048/IMG_7473.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-OMupnAEyV60/YJKqLc2okrI/AAAAAAABPL8/z3k3YkFA534vanTKzhcxlcjuuoJKn_rYwCLcBGAsYHQ/s2048/IMG_7719.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-GWCgamzMyjU/YHLwBQKR-UI/AAAAAAABOzw/Bkpsbpef35wXlhXGAz5bmwsp-Pf41rsdACLcBGAsYHQ/s2048/IMG_7474.JPG" alt="">
-  <figcaption> G哥紀念碑 </figcaption>
+  <img src="https://1.bp.blogspot.com/-kONUmjc02fc/YJKqNN4qHGI/AAAAAAABPMA/7G5vrAkDsgEuZ-oFmy5jCyTTw7rC3fi-QCLcBGAsYHQ/s2048/IMG_7728.JPG" alt="">
+  <figcaption> 馬醉木 </figcaption>
 </figure> 
 
-休息整裝一下，我們繼續向上前進。  
+前往馬博拉斯山之前，我們先繞去盆駒山中峰。  
+中峰附近紀錄上有一些看天池，還有一個航點標註"穩定水鹿澡堂"，不知道有沒有水可以裝。
+我們從郡大溪背上來的水省著喝是還夠，但如果這裡的看天池有水可以取的話，我們就可以喝得揮霍一點了XD  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-wWvkX8W7LMQ/YHLwmgaiGvI/AAAAAAABOz8/CWgaJRuMeiUVUm3tHiPkmUWgKbyP8J35QCLcBGAsYHQ/s2048/IMG_7477.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-相較於剛剛陡峭的山坡以及讓人捏好幾把冷汗的地形。現在這裡有如另一個世界。陽光照進美麗的森林中，經過了滿地落葉的小山坡。稍微緩和了剛剛緊張的氣氛。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9IKHnd4ZuiE/YHLxj6sMNEI/AAAAAAABO0E/lO_ensGYk0E3vyEGVWaRsyoo2ZMsSNDVACLcBGAsYHQ/s2048/IMG_7479.JPG" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-ogSnGVpWTQM/YJKq3p-G9fI/AAAAAAABPMk/bZMdVfXj2hA9gr7co7spRmGGx3Itna1vACLcBGAsYHQ/s4032/IMG_6401.JPG" alt="">
+  <figcaption> 前往盆駒山中峰前的看天池都乾涸了 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-IuArUkq1gUE/YHL8-m58XFI/AAAAAAABO0Q/WzQdtXFbRt8n2Bv18dN_SuwX_2lNW-6qQCLcBGAsYHQ/s2048/IMG_7482.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-非傳統路上百岳的迷人之處之一，通過地形多變的溪谷後，進到了美麗的落葉森林。春天的陽光從森林裡照入，氣溫恰恰好。不用在傳統路上人擠人，在這裡可以細細品味大自然。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-GVcNnnjLqUE/YHL9CSBF8iI/AAAAAAABO0U/5vQtq28MfBsojaT5MIYjW1EjeM5pE8__QCLcBGAsYHQ/s2048/IMG_7486.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-從松林大平台往上走一點，可見一整片山坡的駁坎遺跡。此處應該是早年部落的耕地。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JWY9s0W5wsg/YHL84PAsIkI/AAAAAAABO0M/IKwfDpudTkYtH75iZWai-xamMPiWq2LqQCLcBGAsYHQ/s2048/IMG_7487.JPG" alt="">
-  <figcaption> 布農族舊部落的耕地遺跡 </figcaption>
+  <img src="https://1.bp.blogspot.com/-6m7g95Cu3KM/YJKqWVS09fI/AAAAAAABPME/9zRGg2WOGuY11byMIkmpUvqebkf3LHubwCLcBGAsYHQ/s2048/IMG_7732.JPG" alt="">
+  <figcaption> 抵達盆駒山中峰 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ZSQMS59AFxk/YHL9wpnpxFI/AAAAAAABO0k/1QfuEsWkqXwqHHFBPHo1uBoH80-cj01ewCLcBGAsYHQ/s2048/IMG_7501.JPG" alt="">
-  <figcaption> 整片山坡的駁坎群 </figcaption>
+  <img src="https://1.bp.blogspot.com/-SZFD05LOIVQ/YJKq5p6x02I/AAAAAAABPMs/cZuBfwOMQp4ipOJTxZlqvchYQPZx3NUvgCLcBGAsYHQ/s4032/IMG_6409.JPG" alt="">
+  <figcaption> 盆駒山中峰 無基點 </figcaption>
+</figure> 
+
+我們從山頂前往向東北方的稜線，這裡有一個山友標註的航點"穩定水鹿澡堂"  
+但還是乾了...  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-2W7QWSLarHQ/YJKq3JnTbGI/AAAAAAABPMc/OwdKjhLnQ3s5Bq-PxCfobxCuKMjSis-eACLcBGAsYHQ/s4032/IMG_6404.JPG" alt="">
+  <figcaption> 沒水QQ </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-bH5tArKY_A4/YHL-IJmtvdI/AAAAAAABO0s/OhTkUJBj-0owSSq-Uom4l7YQKY04NcCUACLcBGAsYHQ/s2048/IMG_7505.JPG" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-vxY2l-HV1-c/YJKq3oDXNSI/AAAAAAABPMg/4dyOIUyAC1Mta4ggU9gUhGTgfB7I8M7hQCLcBGAsYHQ/s4032/IMG_6407.JPG" alt="">
+  <figcaption> 跳祈雨舞的展華... </figcaption>
+</figure> 
+
+原先有兩人想要下切盆駒山中峰下的溪谷，通常住在盆駒山中峰營地的水源都是前往這個溪谷取的，正常時節應該20分鐘可以來回，但在這久旱不雨的季節，要取到水不知道要切多深。最後我們放棄下切取水的念頭，直接衝到馬博山屋好像比較實際一點(山屋雨水收集器還有半桶)  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-dB4NokBzyCI/YJKqZXVljdI/AAAAAAABPMI/ZZdKKdsat48UYck3wkr7dip-ZxELyjiowCLcBGAsYHQ/s2048/IMG_7735.JPG" alt="">
+  <figcaption> 盆駒山中峰出發 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-xDtxHZD65Qc/YJPrxulkCNI/AAAAAAABPNM/BFTN95fRfl8gRg0GVju4Swz8-4BYy3TJACLcBGAsYHQ/s2048/IMG_7741.JPG" alt="">
+  <figcaption> 鞍部眺望盆駒山南峰前的假山頭 </figcaption>
 </figure> 
 
-這段坡面真的是非常陡峭。  
+欲前往盆駒山南峰要先通過這座假山頭...  
+先來個200公尺的好漢坡吧。  
+別怕別怕，這只是開胃菜  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-這段耕地駁坎坡面上去之後，到達先前紀錄中的頭目家屋。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-_jErUZ8CGkM/YHMCCmvUZRI/AAAAAAABO1Q/UOHUnrst7q4NA4-rsjkUpdhXHVVYJSGVQCLcBGAsYHQ/s2048/IMG_7526.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-家屋的石頭駁坎牆面還保留完整。是一面砌得很紮實的石板牆，但如今布農族的石板建築技術近乎失傳了。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kglvtzAqXL0/YHMCYt8DThI/AAAAAAABO1Y/UiPY6jSSCvcwcMwIZ6t7z49Nkg2QyloPwCLcBGAsYHQ/s2048/IMG_7527.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-daeS4vFgOb8/YJPr0wsqJTI/AAAAAAABPNQ/yL6CILkp75YlERg2Sjq27X9Hk7Q8pR3OwCLcBGAsYHQ/s2048/IMG_7743.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-OjnPoYZxIdU/YHMCL2sqWkI/AAAAAAABO1U/BzY5UmAjLU4uAq8BmtNw8fFEcIec71h0QCLcBGAsYHQ/s2048/IMG_7528.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-6ZB9yrBrflc/YHMDCwOJUnI/AAAAAAABO1k/IPXBjC_FZ_8LfWJam7N4CbLj8qNm0lyJQCLcBGAsYHQ/s2048/IMG_7531.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-我們於頭目家屋附近稍作休息，雖然很享受在這片舊部落區域走探，到處看看有甚麼新鮮的新東西，然而我們今天的路程還很長，而且第一天的進度已經落後了不少，我們上面還有一大段路要走。在舊部落區休息一下後，便繼續向前挺進。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-W4IXKJ4MXc8/YHMDTWIK_KI/AAAAAAABO1s/pVyWkhinDGsym-JccXBr0EtiWsY3V-INwCLcBGAsYHQ/s2048/IMG_7533.JPG" alt="">
-  <figcaption> 稜線上的駁坎遺跡 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-cfF3jWfVZSQ/YHRTbu2nwiI/AAAAAAABO14/Uto9GbP50PwAhzCqHYzuTjvn-uZkhe6UgCLcBGAsYHQ/s2048/IMG_7549.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-NB96Cpi8b9A/YHRTcTuEBqI/AAAAAAABO18/8b3yOWmM4igycasldHNqb6BsqDCzuCT9QCLcBGAsYHQ/s2048/IMG_7550.JPG" alt="">
-  <figcaption> 美麗的落葉森林 </figcaption>
-</figure> 
-
-隨著高度慢慢爬升，兩旁出現了栓皮櫟。這個季節的栓皮櫟已經長出了翠綠的樹葉了。相較於兩個月前我們在加年端山旁看到整片光禿禿的栓皮櫟純林。陽光通過嫩綠新葉的照進稜線上，這樣的風景也別有一番風味。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-1IDaWNgBuQA/YHRUOAgZBYI/AAAAAAABO2Q/Du2FGzmHNeUv3sUZYFp8_5ErTRE7Q2L0gCLcBGAsYHQ/s2048/IMG_7562.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-kJXEe-aRuCo/YJPsxkds5aI/AAAAAAABPNc/3QgXXx5FfUgazvYwYCBrsvPFvFaLdKJhACLcBGAsYHQ/s2048/IMG_7751.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
-栓皮櫟純林，當年鹿野忠雄的紀錄中也有描述此景，不知道當年他所見的景色是不是就像這樣。  
+向西方望去，可見郡大溪谷，以及對面隱身於薄霧中的玉山山脈  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ji9s7RwXHhA/YHRURlINS-I/AAAAAAABO2Y/BpVM8W8zl3o-ujp87LwJIjEujhCNjJn0ACLcBGAsYHQ/s2048/IMG_7568.JPG" alt="">
-  <figcaption> </figcaption>
+  <img src="https://1.bp.blogspot.com/-lT5CMeiqqsE/YJPs8k7o5LI/AAAAAAABPNg/1ftltsjGw4QyntHQ-Yzv6X34yLem6MUAACLcBGAsYHQ/s2048/IMG_7758.JPG" alt="盆駒山南峰登山路線眺望台灣最高的玉山">
+  <figcaption> 盆駒山南峰前眺望玉山 </figcaption>
 </figure> 
 
-冬天的落葉搭配上枝頭的新芽。  
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-rV_cPN--Hqk/YJPs85k57YI/AAAAAAABPNk/5rxcUGXeFcgb9UHfKjiuWVJB3WI8fndLgCLcBGAsYHQ/s2048/IMG_7766.JPG" alt="">
+  <figcaption> 重裝陡上好漢坡 </figcaption>
+</figure>
+
+結束第一段陡上後回望盆駒山以及盆駒山中峰。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JADOEWS-yiE/YHRT-0ek-ZI/AAAAAAABO2M/GtG4Zz0HwdsR6cwZhF4xPPzI2zESVyLLgCLcBGAsYHQ/s2048/IMG_7575.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-kJ894Gf5l3M/YJPtKosbwgI/AAAAAAABPNo/NKwpKD4d7DcmINk4mMEA-x7FBFJWTDZggCLcBGAsYHQ/s2048/IMG_7768.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-uDuYwvUDYLk/YHRUvcISWbI/AAAAAAABO2k/HN36OVIdGvYbZ7daEdgDu5h0P0FbJXYzACLcBGAsYHQ/s2048/IMG_7576.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
+  <img src="https://1.bp.blogspot.com/-2xfEY2Wqcas/YJPtUD-zStI/AAAAAAABPNw/srKRyWexZvcE_Gc4yKvwreYHqeni4nDdwCLcBGAsYHQ/s2048/IMG_7769.JPG" alt="">
+  <figcaption> 石門 </figcaption>
+</figure>
 
-從栓皮櫟森林繼續向上前進，我們進入了高大的松林之中。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-WTaT3opemaU/YHRU5C0bJ5I/AAAAAAABO2o/7ngW_QHqUCMFTIA2gKtEU0qLVT6ZlhYkACLcBGAsYHQ/s2048/IMG_7599.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
+第一段好漢坡陡上結束後，沿著向東南方折過去的緩稜走向盆駒山南峰。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Dn5GtEr9LjQ/YHRTYkfFCZI/AAAAAAABO10/yp_a-w6ojjopPg9CfckJJTgwF1unVfwogCLcBGAsYHQ/s2048/IMG_7557.JPG" alt="">
-  <figcaption> 陡陡陡，真的要用意志力走 </figcaption>
+  <img src="https://1.bp.blogspot.com/-ndQbknAUA_U/YJPtcEn-4gI/AAAAAAABPN4/2i8tmaEHEdYW7hPr-ucIfdVJmCBfQnLuQCLcBGAsYHQ/s2048/IMG_7782.JPG" alt="盆駒山南峰">
+  <figcaption> 沿著稜線望向盆駒山南峰 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-5evmo2bBWh8/YHRVOA8q_aI/AAAAAAABO28/D9QOJSAUOiEB_8ZsyzYlfxIyMdV3n-CnACLcBGAsYHQ/s2048/IMG_7600.JPG" alt="">
-  <figcaption> 松林陡坡陡上 </figcaption>
-</figure> 
-
-原先的陡坡地面上只是栓皮櫟的枯葉，踏起來還好。但現在進入松林地後，地面上的松針變得特別滑，邊走還要稍微踢一下，才能採到土上。  
+  <img src="https://1.bp.blogspot.com/-yziPuVXyu4A/YJPtfUiVHAI/AAAAAAABPN8/pof9MjxwuMkKytSSJgC4sFSAKD--ddKmwCLcBGAsYHQ/s2048/IMG_7800.JPG" alt="">
+  <figcaption> 馬博拉斯山就在那裏... </figcaption>
+</figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-hnxsYscBxHY/YHRVundXCOI/AAAAAAABO3M/J8e9nVrRaigBTz0AnFY9ezK8ueQ-N1MCQCLcBGAsYHQ/s2048/IMG_7606.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-VGQYGq8g8QQ/YJPtiDVnbhI/AAAAAAABPOA/HEtcK9Uoum8Sj-jF7nZ4oScfr8MPcnoFACLcBGAsYHQ/s2048/IMG_7817.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-7miFtui7IBs/YHRVPkDRczI/AAAAAAABO3A/bhz2LWy7STosaFwnc5_AwEkEhOqbpKgwgCLcBGAsYHQ/s2048/IMG_7613.JPG" alt="">
-  <figcaption> 海拔約2830左右，松林營地 </figcaption>
-</figure> 
+  <img src="https://1.bp.blogspot.com/-VOZ2N3OpLSM/YJPt2h4LAfI/AAAAAAABPOQ/7XSCiwJ5zv8Qp5eZ6aGkIGH2GS53hlGtwCLcBGAsYHQ/s2048/IMG_7818.JPG" alt="盆駒山南峰">
+  <figcaption>  </figcaption>
+</figure>
 
-下午四點多，我們到達海拔約2830左右的松林間凹谷。這裡滿適合紮營的。  
+登頂盆駒山南峰，海拔3440公尺，回望盆駒山  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-qv1O_5kztoQ/YHRWFJVcosI/AAAAAAABO3U/r2C0f1r3G2gg0vg6kakDhQv8yoBBL7nDgCLcBGAsYHQ/s2048/IMG_7618.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-hbTysfUA_j4/YJPt388GtBI/AAAAAAABPOU/3TgDZid5px4lCnlYgl6v5QGsSieLKPwVwCLcBGAsYHQ/s2048/IMG_7822.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-B9AUvG-2Y7s/YHRWFcjBJnI/AAAAAAABO3Y/SyydA0Y_X2k67x1h49qeW7uDWPfFod6iQCLcBGAsYHQ/s2048/IMG_7619.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-Q9Q8O4RP8wg/YJPygjQ_C4I/AAAAAAABPQQ/Mp2BqKVjwaAwyRFXCoceCnlTZy4_TR0YQCLcBGAsYHQ/s2048/182510957_800830927526838_168197169493538265_n.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+天氣太熱，在杜鵑花叢下躲太陽休息，接下來還有三百多公尺的高度上升呢!  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-riJaJRHoS0M/YJPuA1y2FEI/AAAAAAABPOY/vItog_FkGNwbhDbvJ3j5dIw46GVjOKbEgCLcBGAsYHQ/s2048/IMG_7828.JPG" alt="盆駒山南峰眺望秀馬群峰">
+  <figcaption> 盆駒山南峰望向秀馬 </figcaption>
+</figure>
+
+準備迎向馬博拉斯山。  
+馬博拉斯山跟秀姑巒山在中央山脈高度排行分別為第二、第一名。  
+馬博拉斯山為十峻之一，秀姑巒山為五嶽。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-aCDZ7wgRhHE/YJPuKyAB7MI/AAAAAAABPOo/Wifd3t2HRJcycwFfQbscuOKfLXwvlhZ2ACLcBGAsYHQ/s2048/IMG_7835.JPG" alt="盆駒山南峰前進攀登馬博拉斯山">
+  <figcaption> 向馬博拉斯山前進 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-FZA_TxXA9C8/YJPuKCX4nHI/AAAAAAABPOk/YnW3zfmgvzw-d73-QP8cZXqn25f-cO6_gCLcBGAsYHQ/s2048/IMG_7840.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-DHxEW1EeT1s/YJPueFb78cI/AAAAAAABPO4/tH5l3hsnNAM79hWuN1m1pVCC_Z7NPEHlwCLcBGAsYHQ/s2048/IMG_7845.JPG" alt="馬博拉斯山縱走">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-WvQnXYJz4Uo/YHRWKEE8IoI/AAAAAAABO3c/vVR9L7SghfotBOAUhDbQa_wRenyDVMaIACLcBGAsYHQ/s2048/IMG_7623.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-0mRzsM31eqs/YJPucGbMo-I/AAAAAAABPO0/DW3sEk9R2CImEW-Y2zicRRnc0zLzJ95KACLcBGAsYHQ/s2048/IMG_7849.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-lKjXSjP0Bwg/YJPugfqOJVI/AAAAAAABPO8/Q2GECnUx3HoBUi0H0h3mYh0AzBdhJ-c2gCLcBGAsYHQ/s2048/IMG_7862.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9eD13ZhhAfA/YHRWPz9Z5ZI/AAAAAAABO3g/9SI1AQHXFH8cTJkW3QzL_4tJp-bhDc1dwCLcBGAsYHQ/s2048/IMG_7624.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-ooRSLg1SJpc/YJPu1YlUOHI/AAAAAAABPPM/FQVPe4eNC1sVUeR0NJ8PLO0ID2LozA1qwCLcBGAsYHQ/s2048/IMG_7867.JPG" alt="">
+  <figcaption> 攀登馬博拉斯山前假山頭 </figcaption>
+</figure>
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-hAedk_6YmvQ/YJPu0gEn7GI/AAAAAAABPPI/pJfboaqqFfYAfgXg_Ygxe_OCfFAPs-RVACLcBGAsYHQ/s2048/IMG_7899.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-今天經過一系列的陡坡爬升，大家的力氣真的都快被榨乾了。我們一路從海拔僅1450左右的地方開始上升，一開始還要度過危險的地形。在陡峭的稜線上慢慢數著地圖上的等高線，慢慢的向盆駒山推進。原本計畫的營地是要住到盆駒中鋒過後的鞍部營地。今天我們還是沒追上進度(不過早在我們出發的時候大概就可以預期到了)。不過這種非傳統路的計畫本來就趕不上變化，隨遇而安也不錯。  
-我們在舒服的松林營地度過一晚，翌日一早再繼續向盆駒山挺進。  
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-Sr1CKTOi748/YJPu6_xsA2I/AAAAAAABPPQ/1zvpSKCj4vEHCPm6ei0bIs9BD0wnxA4NwCLcBGAsYHQ/s2048/IMG_7917.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+由馬博拉斯山前的假山頭休息，望向攀登馬博的最後一面坡。  
+正整片山坡長滿玉山圓柏灌木。海拔三千七百公尺以上的植披，跟玉山南峰向小東南山方向的稜線相像。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-LQkKDDQEkns/YJPvGWBV5RI/AAAAAAABPPc/xGAxOieqCJAkdCSTdvvS0UGXwTVyA8agACLcBGAsYHQ/s2048/IMG_7932.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-MtKNBC5eGOU/YJPvIk0A1tI/AAAAAAABPPg/pEHWua-TW24M6yfMdkkI-s9h-FL2nhhnQCLcBGAsYHQ/s2048/IMG_7955.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+下午一點整，登頂馬博拉斯山頂拉(灑花)!!!
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-fdm1-ra5nu0/YJPvJK8-BEI/AAAAAAABPPk/TGNu7ohYkikvDt8SHYs99UMh7wB5-B7NwCLcBGAsYHQ/s2048/IMG_7973.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-F_Hvr0y1jy0/YJPwPQJCaVI/AAAAAAABPP8/7v0C2TYNQ0YhzfMCVnsBcqcjhRFRx4xkwCLcBGAsYHQ/s4032/IMG_6461.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+登頂後天氣也開始變差，原本還有太陽的，但過沒多久便開始風起雲湧，狂風從秀馬鞍部方向的山坡刮上來。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-ptbHkGYj0iU/YJPwPAnJzYI/AAAAAAABPP4/da1DgBlf7_weaza9SWRVqwEBvlUIwpySgCLcBGAsYHQ/s4032/IMG_6480.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+向東北方望去，還可見到馬博拉斯山群峰各山頭。  
+這次沒有時間可以走完馬博橫斷，這些山頭留到下次再造訪吧。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-YmnD3Uq7Aqk/YJPyhXhctvI/AAAAAAABPQU/4VNYPgaKAEshXM3qrrgeel8tfn7z-GNfQCLcBGAsYHQ/s1125/182757505_292796812317935_6005558709513720482_n.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+我們在山頂休息了約半個小，繼續出發前進。原先我們計畫要直接前往秀姑巒，但看現在時間有一點小尷尬，而且今天上升了滿多，大家體力也有所消耗，天氣也逐漸轉差，最後我們決定迫降C3，翌日一早凌晨三點再出發。  
 
 ## To be continued ...
 
@@ -2851,6 +2837,5 @@ Taiwan Topo Home Pages</a>
         
     
 </script>
-
 
 
