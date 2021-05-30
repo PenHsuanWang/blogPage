@@ -38,14 +38,14 @@ feature_row:
   - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s2048/IMG_8365.JPG
     title: "盆駒西北稜(五) 歸途再訪八通關大山"
     excerpt: "歸途最後一座百岳，八通關大山，也是我大一參加中央山社後爬的第一座百岳。這次我們完成了盆駒西北稜，精疲力竭之際，還要再爬上八通關大山前的好漢坡，證明大家都是真英雄。"
-    #url: ""
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day5/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
 
 header:
   image: https://1.bp.blogspot.com/-Y2eOv9buZbk/YJQCQhWgdaI/AAAAAAABPRQ/nzSkdJJ4hR0-5Yw8LcncCN31osYgXW1WwCLcBGAsYHQ/s3180/IMG_7708.JPG
-  teaser : https://1.bp.blogspot.com/-wyFCx0MWT_Y/YJKqFItKc2I/AAAAAAABPL4/SjuGAuCflPw-G4Nbv8natTMXCG3wW8zVwCLcBGAsYHQ/s2048/IMG_7713.JPG
+  teaser : https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s2048/IMG_8119.JPG
   image_description: ""
   overlay_filter: 0.5
 ---

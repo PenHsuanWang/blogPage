@@ -31,16 +31,16 @@ feature_row:
   - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s2048/IMG_8119.JPG
     title: "盆駒西北稜(四) 夜行秀姑巒"
     excerpt: "於海拔3700公尺高的稜線上，頂著凌晨三點的強風，我們在黑夜中向秀姑巒前進。好在登頂秀姑巒前的稜線上忽然雲霧散開，我們迎接了朝陽。"
-    #url: ""
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day4/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
   - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s2048/IMG_8365.JPG
     title: "盆駒西北稜(五) 歸途再訪八通關大山"
     excerpt: "歸途最後一座百岳，八通關大山，也是我大一參加中央山社後爬的第一座百岳。這次我們完成了盆駒西北稜，精疲力竭之際，還要再爬上八通關大山前的好漢坡，證明大家都是真英雄。"
-    #url: ""
-    #btn_class: "btn--primary"
-    #btn_label: "Go to"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day5/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
 
 
 header:

@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "盆駒西北稜-縱走馬博秀姑巒 (二) 被世人遺忘的稜線"
-excerpt: "由郡大溪底的中之線古道開始，我們踏上盆駒西稜，前進盆駒山以及馬博拉斯山。這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
+title:  "盆駒西北稜-縱走馬博秀姑巒 (五) 歸途再訪八通關大山"
+excerpt: "歸途最後一座百岳，八通關大山，也是我大一參加中央山社後爬的第一座百岳。這次我們完成了盆駒西北稜，精疲力竭之際，還要再爬上八通關大山前的好漢坡，證明大家都是真英雄。"
 
-date:   2021-04-03 08:00:00 +0800
+date:   2021-04-06 08:00:00 +0800
 categories: mt-note-photo-100peaks
 classes: wide
   - landing
@@ -21,6 +21,13 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
 
+  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG
+    title: "盆駒西北稜(二) 被世人遺忘的稜線"
+    excerpt: "這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
   - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s2048/IMG_7898.JPG
     title: "盆駒西北稜(三) 登上盆駒馬博"
     excerpt: "依循盆駒西北稜，我們接上了傳統路，但不代表路途就此可以輕鬆了。因為我還要登上海拔接近三千八百公尺的馬博拉斯山。高海拔環境讓我們每走一步都要喘好幾口氣，加上毫無遮蔽的箭竹草坡的缺水路線，這是我們面對最大的考驗。"
@@ -35,40 +42,27 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s2048/IMG_8365.JPG
-    title: "盆駒西北稜(五) 歸途再訪八通關大山"
-    excerpt: "歸途最後一座百岳，八通關大山，也是我大一參加中央山社後爬的第一座百岳。這次我們完成了盆駒西北稜，精疲力竭之際，還要再爬上八通關大山前的好漢坡，證明大家都是真英雄。"
-    url: "mt-note-photo-100peaks/PanghiWulaMon-Day5/"
-    btn_class: "btn--primary"
-    btn_label: "Go to"
-
 
 header:
-  image: https://1.bp.blogspot.com/-rDg1h6hg7Gw/YJQCRsJHZ-I/AAAAAAABPRU/6JAd_bpdGJsFiaMNl2MYa1oNHf6ZzQ_dACLcBGAsYHQ/s3328/IMG_7606.JPG
-  teaser : https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG
-  image_description: ""
+  image: https://1.bp.blogspot.com/-pDsS30Qt4Ww/YLOhLmYvi_I/AAAAAAABQzY/ArRZChPF-domTpZqsRE0LB4ucONbddZdACLcBGAsYHQ/s3000/IMG_8406.JPG
+  teaser : https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s2048/IMG_8365.JPG
+  image_description: "八通關山等頂成功"
   overlay_filter: 0.5
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG" alt="郡大溪底攀登盆駒山">
+  <img src="https://1.bp.blogspot.com/-lpkrCeapiFM/YK42FN76igI/AAAAAAABQvM/1uC5hS8c8tY6U3IQswxyKtZu7ghNmgcgwCLcBGAsYHQ/s2048/IMG_8387.JPG" alt="八通關大山">
   <figcaption>  </figcaption>
 </figure>  
 
-從海拔僅1450公尺高的郡大溪底開始上攀，今天的路線是沿著陡翹的稜線向上挺進。2000公尺...3000公尺。我們這趟行程最高要爬上海拔3785公尺高的馬博拉斯山，以及海拔3860公尺高的秀姑巒山。  
-現在的人攀登秀姑巒、馬博拉斯山，多數是經由東埔、八通關、秀姑坪的路線前往。這條盆駒西北稜鮮少有人在走(不過最近開始有越來越多人在走非傳統路上百岳了)，但這裏早在日本時代，可是鹿野忠雄攀登秀馬的路線呢。  
-
-這條稜線沿途經過波瓦拉切社遺址，這個原住民舊部落遺留了當年開墾的痕跡。整片山坡的石頭駁坎可能是當年的耕地、家屋群落遺留的石板屋牆。走在這條稜線上面不只是登山而已，還可以遙想當年祖先們在這邊生活的樣態。(不過我們一直很好奇，以前人住在這裡，要取水的話都是下切郡大溪嗎? 感覺好累XD)
-
-盆駒西北稜這條線最困難的地形為剛由溪底起登開始上切的第一段陡坡，正如台灣多數溪谷中的地形一樣，坡面十分陡峭。從溪底開始爬升的第一段路線為很陡的土坡。有幾段坡面土石容易滑落，有些許細小的樹根可以借力當手點。但抓起來還是讓人怕怕的。  
-通過第一段陡坡後，最後一道障礙是一面幾乎垂直的岩壁。這面岩壁底端有幾處腳點，上方有樹根可以當手點借力。上攀上去不至於太困難，但這面岩壁直接在陡坡之上，下方看不到底部，感覺直通溪底。這邊是一個不能出錯的地方，如果fall的話後果不堪設想。  
-
-現在正值乾季，我沒擔心上到盆駒中峰後的下切水源會需要切到太深。又擔心馬博山屋的儲水桶沒水。行前一週有看到馬博山屋的水況，聽說只剩半桶。為了避免遇到斷水的窘境，我們平均一人背上6升的水。我自己則是背了8升以備緊急狀況使用...，這條稜線已經夠陡了，再搭配背包中沈重的水，走起來真的特別吃力...。
-
-這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，而這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。  
+這一趟旅途接近尾聲。我們接上傳統的八大秀百岳登山道路，於中央金礦山屋過後接回日治八通關古道西段。  
+我上次通過這裡已經是八年前的事情了，當初大一第一次走長程路線就是逆走南二段，而八通關大山則是我加入山社後的第一座百岳。當年爬山不像現在這樣到處都爆炸多人，回想當年那次逆南二縱走整趟下來只在途中遇到兩隊人馬，跟現在相比真的是“孤單”許多。  
+提到日治八通關古道，東段最遠我也只走到大分而已，真想找個機會把全段八通關越嶺走完。  
+回程途中，我們還有最後一座百岳--八通關大山。海拔三千三百多，左右兩邊被台灣群山中的兩座五嶽夾擊，分別是中央山脈最高峰--秀姑巒山、以及玉山山脈最高峰--玉山，由山頂向南還可見到南二段上的達芬尖山。達芬尖山以前又被稱為尖山，但台灣太多尖山了，所以前面冠名"達芬"。達芬、塔芬、大分，應該都是同一個字的音讀而來。鹿野忠雄所著的<山與雲與蕃人>中的一章 -- 尖山獨行紀，便是紀錄當年這位年輕的日本博物學者在中央山脈中冒險的故事，當年他以為自己會是尖山的文明首登...。  
+結束了五天的旅程，探訪了台灣深山一帶，憑著文字紀錄，想像一下早年這邊的故事，這也是爬山除了登頂跟三角點合照以外的樂趣之一。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JADOEWS-yiE/YHRT-0ek-ZI/AAAAAAABO2M/GtG4Zz0HwdsR6cwZhF4xPPzI2zESVyLLgCLcBGAsYHQ/s2048/IMG_7575.JPG" alt="盆駒山西稜的栓皮櫟稜線">
+  <img src="https://1.bp.blogspot.com/-imblekqo4Pk/YK5E95jgwTI/AAAAAAABQws/PBJwiZPKGAIJUtK3f3Vuzyr5US_Bvgv9gCLcBGAsYHQ/s4032/IMG_6648.JPG" alt="八通關古道西段的父子斷崖眺望陳有蘭溪">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -76,310 +70,192 @@ header:
 
 {% include feature_row %}
 
-# 被世人遺忘的稜線
+# 歸途再訪八通關大山
 
-
-郡大溪水不斷地侵蝕著河谷，此處溪谷兩側是灰白陡峭的岩壁，岩壁上方就是陡峭的山坡。  
+從中央金礦山屋出發，朝向八通關山前進。此處古道沿途有幾處碎石崩蹋地，但最近很久沒下雨了，這兩年也都沒有颱風登陸，看來這裡就算不下雨也是有崩塌的危險。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-VeNa9E21yp4/YHLsrhXaoaI/AAAAAAABOy8/FjbvCtYsowcass3Etuoelx1FWPIQ0KcmQCLcBGAsYHQ/s2048/IMG_7459.JPG" alt="郡大溪">
+  <img src="https://1.bp.blogspot.com/-ztczx_0Iwtk/YK4088gFE6I/AAAAAAABQuo/udiPJEbMJq8vyPLlCXNLWA8g4ZeFHrhLgCLcBGAsYHQ/s2048/IMG_8346.JPG" alt="八通關古道西段">
+  <figcaption> 八通關古道西段有多處碎石崩塌地 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-dixZSnI4c_s/YK407P5jyaI/AAAAAAABQug/_-IlkyYjUfcx5foxPCrUyJCe5j-gBkaZACLcBGAsYHQ/s2048/IMG_8349.JPG" alt="日治八通關古道">
+  <figcaption> 古道 二葉松林 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-eZfwUAUb5Zc/YK40tFb75cI/AAAAAAABQuc/aRXq7Cs9Dgs-mD74xN-vvUAcBYBV-WtZACLcBGAsYHQ/s2048/IMG_8353.JPG" alt="日治時代八通關古道">
   <figcaption>  </figcaption>
 </figure> 
 
-我們從無雙吊橋旁邊下切，向郡大溪上游前行了一段距離。此處為哈伊拉羅溪與郡大溪的匯流口。  
+我們這次要重裝上八通關山稜，走高繞路順便登頂。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JyoY3ms7eaY/YHLswujLAgI/AAAAAAABOzA/PGWDMvzL3FADSMX2uJXFu-xfjQ1Dg6oUgCLcBGAsYHQ/s2048/IMG_7461.JPG" alt="郡大溪匯流口為駒盆山西稜的起點">
+  <img src="https://1.bp.blogspot.com/-Kan5YCG3IXE/YK41zZhe2_I/AAAAAAABQu8/D6mx-s0Ufj0Z9NzS1SwfiVGsnI5jLuZNACLcBGAsYHQ/s2048/IMG_8358.JPG" alt="攀登八通關山">
   <figcaption>  </figcaption>
 </figure> 
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-H-6SgwR0DZQ/YHLsyIOoYBI/AAAAAAABOzE/GYblsptAIRcyY8coLXiPPIIKLCLODQVvgCLcBGAsYHQ/s2048/IMG_7460.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-現在為乾季，尤其是今年特別的乾，好像是我從小有記憶以來最嚴重的一次乾旱了吧，台中苗栗還開始進行供五停二的限水措施了QQ。  
-也因此，我們這趟行程的郡大溪特別好過，不需要架繩，脫個鞋踩一踩水就可以過了。  
-我們這趟行程可是很缺水的，尤其是這次乾旱，南投一帶山區已經有好幾個月沒有明顯降雨了。我們很擔心盆駒中峰營地附近的活水源，勢必會要切得比平常深許多...   
+上抵前往西峰稜線岔路口後，我們把背包放在路口，輕裝單攻八通關大山。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-IvsC3onsP7Q/YHLvAujNUoI/AAAAAAABOzY/nQOYP_SkjVESAvk_ZNqfL16oNu_UmOtGQCLcBGAsYHQ/s2048/IMG_7467.JPG" alt="">
-  <figcaption> 好過的郡大溪 and 接下來的路很缺水，快趁現在喝到飽... </figcaption>
-</figure> 
-
-成功過溪，準備繼續上切。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/171744230_4565520096795789_1658067142137272650_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=cnjckgyW8scAX92M9IS&_nc_ht=scontent.ftpe7-4.fna&oh=014541b8da8e09cebd7506e43c7de1ad&oe=609713E9" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-OBf_ZiD6y94/YK41nFGyooI/AAAAAAABQu4/SyxxibAYrRQbSL8vp6P6Z0kyLuinaYFPACLcBGAsYHQ/s2048/IMG_8364.JPG" alt="八通關山為台灣百岳之一">
+  <figcaption> 岩壁上就是八通關大山 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170647120_4565520856795713_2511947950726940549_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=T37ytzV8aiEAX-axajK&_nc_ht=scontent.ftpe7-2.fna&oh=f5391ad72402b2b3184a1dfb250a849b&oe=6099F357" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-lxSHmGK4llw/YK42LhwfEAI/AAAAAAABQvU/s7Gk7PBl_qg9lvKPVPuxHoO3UNzYXwadQCLcBGAsYHQ/s2048/IMG_8376.JPG" alt="登頂八通關大山">
+  <figcaption> 八通關大山登頂前最後一塊岩壁 </figcaption>
 </figure> 
 
-由上切點回望郡大溪。  
+登頂八通關大山，背景為南二段上的達芬尖山
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/169565803_4565530650128067_8305878811598436957_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=1K1e_9vOjLkAX87BvtZ&_nc_ht=scontent.ftpe7-4.fna&oh=5fcb80702ebbf05a921af8b84a48a757&oe=60975C36" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-從此處繼續向上攀登，先是遇到一片又陡又滑的土坡，沿線沒有太多可以抓的手點，腳點也不是很穩固。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170717660_4574012002613265_8850378553781876993_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=PpAcmkld42oAX9A6eVC&_nc_ht=scontent.ftpe7-2.fna&oh=8162ccb533801b27bbcb18321dd7ac54&oe=60998654" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-我們一開始向稜線左側繞過去，但我們好像走到太左邊了，地勢越來越陡。此時我們看到右手邊的坡面上有一條藍色扁帶，我們在此兵分兩路，一組人走比較前面的決定直接從陡坡硬切上去。另一組人還沒開始上切的決定橫渡到右手邊山坡上的扁帶那邊。
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/169944519_4574011139280018_6584314177605084957_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=AgBepTTHCukAX9swHQV&_nc_ht=scontent.ftpe7-1.fna&oh=1b22fa6e020f3e92ed8fa163677ee376&oe=60993628" alt="">
+  <img src="https://1.bp.blogspot.com/-lpkrCeapiFM/YK42FN76igI/AAAAAAABQvM/1uC5hS8c8tY6U3IQswxyKtZu7ghNmgcgwCLcBGAsYHQ/s2048/IMG_8387.JPG" alt="八通關山山頂基石">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/170259181_4574010032613462_4029187630462660766_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hv-X6oZo77UAX91gWmE&_nc_ht=scontent.ftpe7-1.fna&oh=dfc54d26a35d511a852ab3853c174f70&oe=60980053" alt="">
+  <img src="https://1.bp.blogspot.com/-ljnPcIBN3Oo/YK42GH6W8-I/AAAAAAABQvQ/7e3z6SxojWs9_lXjJpjy6Tygfpo4TmcUACLcBGAsYHQ/s2048/IMG_8390.JPG" alt="八通關山頂">
+  <figcaption> 森林三角點 </figcaption>
+</figure> 
+
+回程，我們從八通關西峰前鞍部往右方溪溝往下切，路不是很好走，很陡且破碎，好像還是越過八通關西峰後再切會比較好。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-jQSBMSdlTHg/YK42NuHt-vI/AAAAAAABQvY/xf_VjtAWhQMMkmrHW_4XGiKdGlE_UXT7gCLcBGAsYHQ/s4032/IMG_6556.JPG" alt="八通關山下切">
   <figcaption>  </figcaption>
 </figure> 
 
-通過第一段陡坡後，我們到達一處平台稍作休息。接著我們沿著稜線向上通行。  
+下降的過程，剛好走到雲頂高度，我們從雲海之上走進雲霧之中。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/170441582_4574009869280145_8607022405947389412_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=V17-LM-OxacAX-6kdcD&_nc_ht=scontent.ftpe7-2.fna&oh=40de76ce33cac5324cb648393ff4bcfd&oe=60997D1A" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-xE2Rjco_-cQ/YK42N6btEtI/AAAAAAABQvc/Eg0DyiKYJZU5PSql7uWP59p_Wuev_CiSgCLcBGAsYHQ/s4032/IMG_6559.JPG" alt="八通關山下切鐵杉林">
+  <figcaption> 雲霧中的鐵杉林 </figcaption>
 </figure> 
 
-陡峭的Ｖ型稜線上還鋪著松針，行進時要小心地滑。在這裡兩側都是陡峭的山坡。　　
-
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/171967940_4574011675946631_7949449132886680413_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=R0VSGYYHqW8AX9aDRKb&_nc_ht=scontent.ftpe7-3.fna&oh=122ceccfd192254855ef7268617c82d9&oe=609872AE" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-接著我們遇到了這一條路線最大的障礙，一處約有兩米落差的垂直岩壁。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/173015812_4574010885946710_1261062479642243159_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=aZ8ASdR-pWkAX_VoBVt&_nc_oc=AQnuMoGc0GRcfv0cr_n8Im4BM3Zt-7uqm55gLiGwcVdq9fS0GTwtDfPsMf7f5LO5tOs&_nc_ht=scontent.ftpe7-3.fna&oh=e384b12b0e4b67a291f9faf0ae76dffb&oe=609B9524" alt="">
-  <figcaption> 兩米落差垂直岩壁，採取安全一點的人包分離 </figcaption>
-</figure> 
-
-這個岩壁近乎垂直，雖然岩壁下方有兩處腳點，上方還有樹根可抓。基本上有一點攀爬技術的人應該都可以輕鬆爬上去。但垂直岩壁下方的山坡坡面非常的陡，掉下去的後果不堪設想。因此我們還是採取安全一點的人包分離。這裡可是不可失敗的地方。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.6435-9/172069631_4574011842613281_5622318236096045883_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=b_U335Oh_v0AX_p6WNh&_nc_ht=scontent.ftpe7-4.fna&oh=8b54ecc0318b9dcf8557545f624676b8&oe=60998C90" alt="">
+  <img src="https://1.bp.blogspot.com/-Te1PpoPi04k/YK42RLvxhMI/AAAAAAABQvk/WOXtEWvhuGs7QhZTwaSHDCOa2iEd5kITwCLcBGAsYHQ/s4032/IMG_6565.JPG" alt="雲霧鐵杉林">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.6435-9/172021689_4574011792613286_3416282123410911137_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ZUYdNYwGHokAX-sGgRv&_nc_ht=scontent.ftpe7-1.fna&oh=c84b03af1a0efd3c9b668febe759b1a2&oe=609A3094" alt="">
+  <img src="https://1.bp.blogspot.com/-AwXoaBBtz-o/YK42RP9ByqI/AAAAAAABQvo/qty057A7QXUARlB8v24zHKcbBbF9Of2awCLcBGAsYHQ/s4032/IMG_6571.JPG" alt="雲霧鐵杉林">
+  <figcaption>  </figcaption>
+</figure> 
+
+當晚我們在觀高工作站度過一晚，這是郡大林道上的工作站，早年郡大林道經過觀高工作站後，從八通關山腳下繞過，在往秀姑巒山、馬博拉斯山方向駛去，經過秀馬連稜西側後，最後到達盆駒山腳下。  
+我們的一天也是從郡大林道出發的。走了一大全，繞上中央山脈主稜，最後我們又回到郡大林道上了。  
+觀高工作站有許多登山客借住於此地，也帶來許多食物，這裡自然是米奇歡樂妙妙屋，晚餐後還引起了一陣騷動XD。  
+  
+
+翌日一早，清晨五點出發，我們要在早上10點前回到東埔，這樣可以在天黑前下山回到家。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-xyHpP-CrcE8/YK42T4JcH6I/AAAAAAABQvw/hxrTuDKO6EojZ2ahWafcml03Xh121IC1gCLcBGAsYHQ/s2610/IMG_7363.JPG" alt="">
+  <figcaption> 觀高工作站 回望八通關山 </figcaption>
+</figure> 
+
+從觀高工作站像東北面望去，可見這幾天繞的這一大圈，盆駒南峰、馬博拉斯山、秀姑巒山。
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-rBZe4on0L1o/YK42R7d9cnI/AAAAAAABQvs/W60mPl-j9f887myTkbNrQSzcZ9mb20NiwCLcBGAsYHQ/s2610/IMG_7361.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+回程沿途，我們遇到更多破碎的碎石地形，這邊蠻危險的，山坡坡面很陡，這邊掉下去的嚴重程度可能不亞於前兩天的可怕山坡。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-CMCS8AjJAdk/YK5EvLk5sQI/AAAAAAABQwQ/E0-Lf_4eeZgAQi2tVUii__4U2lfHywY9wCLcBGAsYHQ/s4032/IMG_6587.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.6435-9/169985545_4574010339280098_5868148937975154499_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=6Y0WIbSgh0sAX8Q8gw_&_nc_ht=scontent.ftpe7-2.fna&oh=3ac14b15cda982429d0b949d7cadb73f&oe=6099F327" alt="">
+  <img src="https://1.bp.blogspot.com/-kVQTVzzgQuY/YK5EvRQW4lI/AAAAAAABQwU/0W_e8zQP9JoNbFDWGmlIFX7kgs6lTp58wCLcBGAsYHQ/s4032/IMG_6590.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-通過這個可怕的垂直岩壁，之後的路線就比較好走了。  
-接下來的路就只剩下陡跟缺水而已。  
-這裡的海拔大約1600公尺左右，從溪底開始爬到這裡短短的直線距離，已經上升超過150多公尺了，  
+通過陳有蘭溪回望八通關山
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-STVnmBa8K1U/YHLvGcZl-TI/AAAAAAABOzg/nLO40YETyl4MU3C_IzJUto9f1DkC9eWCgCLcBGAsYHQ/s2048/IMG_7472.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-NjmQjcQ0swo/YK5EvsE4E3I/AAAAAAABQwY/lFV3DwVSP0IEQmckRpwGuhYJdvPGPJ9swCLcBGAsYHQ/s4032/IMG_6605.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-通過岩壁後的松林大平台。於此好好休息一下。  
+陳有蘭溪走向剛好從這邊可以一直線看到八通關山以及西峰。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kiNMa4OOEDI/YHLwc9YrbZI/AAAAAAABOz4/PxbxDqJaVCAOf8LyB-JEIHXTjKATn11cgCLcBGAsYHQ/s2048/IMG_7473.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-GWCgamzMyjU/YHLwBQKR-UI/AAAAAAABOzw/Bkpsbpef35wXlhXGAz5bmwsp-Pf41rsdACLcBGAsYHQ/s2048/IMG_7474.JPG" alt="">
-  <figcaption> G哥紀念碑 </figcaption>
-</figure> 
-
-休息整裝一下，我們繼續向上前進。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-wWvkX8W7LMQ/YHLwmgaiGvI/AAAAAAABOz8/CWgaJRuMeiUVUm3tHiPkmUWgKbyP8J35QCLcBGAsYHQ/s2048/IMG_7477.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-相較於剛剛陡峭的山坡以及讓人捏好幾把冷汗的地形。現在這裡有如另一個世界。陽光照進美麗的森林中，經過了滿地落葉的小山坡。稍微緩和了剛剛緊張的氣氛。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9IKHnd4ZuiE/YHLxj6sMNEI/AAAAAAABO0E/lO_ensGYk0E3vyEGVWaRsyoo2ZMsSNDVACLcBGAsYHQ/s2048/IMG_7479.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-wr63A_tUCho/YK42UJUFPUI/AAAAAAABQv0/2pUSoM2Y2KsoK7im6syQXo2QDjsepT8gQCLcBGAsYHQ/s2610/IMG_7364.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-IuArUkq1gUE/YHL8-m58XFI/AAAAAAABO0Q/WzQdtXFbRt8n2Bv18dN_SuwX_2lNW-6qQCLcBGAsYHQ/s2048/IMG_7482.JPG" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-DR9qqwBntwY/YK5E3DTWPCI/AAAAAAABQwc/aP4zzx3a5f4ZgJpuXNZBFvIIiYSMoGFqACLcBGAsYHQ/s4032/IMG_6613.JPG" alt="八通關古道雲龍瀑布">
+  <figcaption> 雲龍瀑布 </figcaption>
 </figure> 
 
-非傳統路上百岳的迷人之處之一，通過地形多變的溪谷後，進到了美麗的落葉森林。春天的陽光從森林裡照入，氣溫恰恰好。不用在傳統路上人擠人，在這裡可以細細品味大自然。  
+壯觀的雲龍瀑布
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-GVcNnnjLqUE/YHL9CSBF8iI/AAAAAAABO0U/5vQtq28MfBsojaT5MIYjW1EjeM5pE8__QCLcBGAsYHQ/s2048/IMG_7486.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-從松林大平台往上走一點，可見一整片山坡的駁坎遺跡。此處應該是早年部落的耕地。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JWY9s0W5wsg/YHL84PAsIkI/AAAAAAABO0M/IKwfDpudTkYtH75iZWai-xamMPiWq2LqQCLcBGAsYHQ/s2048/IMG_7487.JPG" alt="">
-  <figcaption> 布農族舊部落的耕地遺跡 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ZSQMS59AFxk/YHL9wpnpxFI/AAAAAAABO0k/1QfuEsWkqXwqHHFBPHo1uBoH80-cj01ewCLcBGAsYHQ/s2048/IMG_7501.JPG" alt="">
-  <figcaption> 整片山坡的駁坎群 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-bH5tArKY_A4/YHL-IJmtvdI/AAAAAAABO0s/OhTkUJBj-0owSSq-Uom4l7YQKY04NcCUACLcBGAsYHQ/s2048/IMG_7505.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-T8GiNfrelDU/YK5E4vgJeLI/AAAAAAABQwg/4dNm-ccXeqA_OBu6gD4gaymPTXg-iQRAQCLcBGAsYHQ/s4032/IMG_6616.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-xCnSlqCEwbY/YK5E48RztgI/AAAAAAABQwk/gmefHsKFg14O_MNY8pbycl4dD7z8u1C2ACLcBGAsYHQ/s4032/IMG_6621.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-這段坡面真的是非常陡峭。  
+八通關古道西段最壯觀的斷崖地形，父子斷崖附近。眺望陳有蘭溪谷
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-這段耕地駁坎坡面上去之後，到達先前紀錄中的頭目家屋。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-_jErUZ8CGkM/YHMCCmvUZRI/AAAAAAABO1Q/UOHUnrst7q4NA4-rsjkUpdhXHVVYJSGVQCLcBGAsYHQ/s2048/IMG_7526.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-家屋的石頭駁坎牆面還保留完整。是一面砌得很紮實的石板牆，但如今布農族的石板建築技術近乎失傳了。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kglvtzAqXL0/YHMCYt8DThI/AAAAAAABO1Y/UiPY6jSSCvcwcMwIZ6t7z49Nkg2QyloPwCLcBGAsYHQ/s2048/IMG_7527.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-imblekqo4Pk/YK5E95jgwTI/AAAAAAABQws/PBJwiZPKGAIJUtK3f3Vuzyr5US_Bvgv9gCLcBGAsYHQ/s4032/IMG_6648.JPG" alt="八通關古道峽谷地形">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-OjnPoYZxIdU/YHMCL2sqWkI/AAAAAAABO1U/BzY5UmAjLU4uAq8BmtNw8fFEcIec71h0QCLcBGAsYHQ/s2048/IMG_7528.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-oMO_wOGqh6o/YK5FD94zAVI/AAAAAAABQw8/8ooLDyao6UED6Su-krKvl7ofKpM-SxmNQCLcBGAsYHQ/s4032/IMG_6651.JPG" alt="八通關古道父子斷崖">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-6ZB9yrBrflc/YHMDCwOJUnI/AAAAAAABO1k/IPXBjC_FZ_8LfWJam7N4CbLj8qNm0lyJQCLcBGAsYHQ/s2048/IMG_7531.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-我們於頭目家屋附近稍作休息，雖然很享受在這片舊部落區域走探，到處看看有甚麼新鮮的新東西，然而我們今天的路程還很長，而且第一天的進度已經落後了不少，我們上面還有一大段路要走。在舊部落區休息一下後，便繼續向前挺進。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-W4IXKJ4MXc8/YHMDTWIK_KI/AAAAAAABO1s/pVyWkhinDGsym-JccXBr0EtiWsY3V-INwCLcBGAsYHQ/s2048/IMG_7533.JPG" alt="">
-  <figcaption> 稜線上的駁坎遺跡 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-cfF3jWfVZSQ/YHRTbu2nwiI/AAAAAAABO14/Uto9GbP50PwAhzCqHYzuTjvn-uZkhe6UgCLcBGAsYHQ/s2048/IMG_7549.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-LHadEkax5cA/YK5FDpcQlmI/AAAAAAABQw4/UkR9N93dHUkDuEvlohweeCbZEZE040FUgCLcBGAsYHQ/s4032/IMG_6654.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-NB96Cpi8b9A/YHRTcTuEBqI/AAAAAAABO18/8b3yOWmM4igycasldHNqb6BsqDCzuCT9QCLcBGAsYHQ/s2048/IMG_7550.JPG" alt="">
-  <figcaption> 美麗的落葉森林 </figcaption>
-</figure> 
-
-隨著高度慢慢爬升，兩旁出現了栓皮櫟。這個季節的栓皮櫟已經長出了翠綠的樹葉了。相較於兩個月前我們在加年端山旁看到整片光禿禿的栓皮櫟純林。陽光通過嫩綠新葉的照進稜線上，這樣的風景也別有一番風味。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-1IDaWNgBuQA/YHRUOAgZBYI/AAAAAAABO2Q/Du2FGzmHNeUv3sUZYFp8_5ErTRE7Q2L0gCLcBGAsYHQ/s2048/IMG_7562.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-栓皮櫟純林，當年鹿野忠雄的紀錄中也有描述此景，不知道當年他所見的景色是不是就像這樣。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ji9s7RwXHhA/YHRURlINS-I/AAAAAAABO2Y/BpVM8W8zl3o-ujp87LwJIjEujhCNjJn0ACLcBGAsYHQ/s2048/IMG_7568.JPG" alt="">
-  <figcaption> </figcaption>
-</figure> 
-
-冬天的落葉搭配上枝頭的新芽。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JADOEWS-yiE/YHRT-0ek-ZI/AAAAAAABO2M/GtG4Zz0HwdsR6cwZhF4xPPzI2zESVyLLgCLcBGAsYHQ/s2048/IMG_7575.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-x1r50Ji_GGw/YK5FFkw-x1I/AAAAAAABQxA/8SKYl7Id8R8kBzg86IJFQXu7ywp29R6zQCLcBGAsYHQ/s4032/IMG_6657.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-uDuYwvUDYLk/YHRUvcISWbI/AAAAAAABO2k/HN36OVIdGvYbZ7daEdgDu5h0P0FbJXYzACLcBGAsYHQ/s2048/IMG_7576.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-DRlUMwSHEOk/YK5FJeTirnI/AAAAAAABQxI/Im5LRQUIM9EDLH9ZGu2wLqx1-J7aMGlTwCLcBGAsYHQ/s4032/IMG_6663.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-從栓皮櫟森林繼續向上前進，我們進入了高大的松林之中。  
+回到東埔，愛玉亭旁的菜園。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-WTaT3opemaU/YHRU5C0bJ5I/AAAAAAABO2o/7ngW_QHqUCMFTIA2gKtEU0qLVT6ZlhYkACLcBGAsYHQ/s2048/IMG_7599.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Dn5GtEr9LjQ/YHRTYkfFCZI/AAAAAAABO10/yp_a-w6ojjopPg9CfckJJTgwF1unVfwogCLcBGAsYHQ/s2048/IMG_7557.JPG" alt="">
-  <figcaption> 陡陡陡，真的要用意志力走 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-5evmo2bBWh8/YHRVOA8q_aI/AAAAAAABO28/D9QOJSAUOiEB_8ZsyzYlfxIyMdV3n-CnACLcBGAsYHQ/s2048/IMG_7600.JPG" alt="">
-  <figcaption> 松林陡坡陡上 </figcaption>
-</figure> 
-
-原先的陡坡地面上只是栓皮櫟的枯葉，踏起來還好。但現在進入松林地後，地面上的松針變得特別滑，邊走還要稍微踢一下，才能採到土上。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-hnxsYscBxHY/YHRVundXCOI/AAAAAAABO3M/J8e9nVrRaigBTz0AnFY9ezK8ueQ-N1MCQCLcBGAsYHQ/s2048/IMG_7606.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-yC0U0fBTvPY/YK5FKlngBPI/AAAAAAABQxQ/PruFb5Qy81YmBScMmTt0BnrVbwy8Kx9ogCLcBGAsYHQ/s4032/IMG_6670.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-7miFtui7IBs/YHRVPkDRczI/AAAAAAABO3A/bhz2LWy7STosaFwnc5_AwEkEhOqbpKgwgCLcBGAsYHQ/s2048/IMG_7613.JPG" alt="">
-  <figcaption> 海拔約2830左右，松林營地 </figcaption>
-</figure> 
-
-下午四點多，我們到達海拔約2830左右的松林間凹谷。這裡滿適合紮營的。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-qv1O_5kztoQ/YHRWFJVcosI/AAAAAAABO3U/r2C0f1r3G2gg0vg6kakDhQv8yoBBL7nDgCLcBGAsYHQ/s2048/IMG_7618.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-OYeEyuCDSBk/YK5FKPiPxqI/AAAAAAABQxM/7zvEjeb1UdEJoJXFQeeS1Jgz_UApxFjUACLcBGAsYHQ/s4032/IMG_6675.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-B9AUvG-2Y7s/YHRWFcjBJnI/AAAAAAABO3Y/SyydA0Y_X2k67x1h49qeW7uDWPfFod6iQCLcBGAsYHQ/s2048/IMG_7619.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-3U1dYx-znAY/YK5FNkaSqGI/AAAAAAABQxY/LeHO6czYK_Et0XUuEHS5JW1wEkgf0jcfACLcBGAsYHQ/s4032/IMG_6679.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
+
+早上十點十分左右，回到上東埔的八通關古道西段入口，結束了這趟5天的行程。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-WvQnXYJz4Uo/YHRWKEE8IoI/AAAAAAABO3c/vVR9L7SghfotBOAUhDbQa_wRenyDVMaIACLcBGAsYHQ/s2048/IMG_7623.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-u9-rTwHK9vk/YK5FNoFGU7I/AAAAAAABQxc/vM_9AuN46isHmklnvkQTINDuT8H2fukYgCLcBGAsYHQ/s4032/IMG_6684.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9eD13ZhhAfA/YHRWPz9Z5ZI/AAAAAAABO3g/9SI1AQHXFH8cTJkW3QzL_4tJp-bhDc1dwCLcBGAsYHQ/s2048/IMG_7624.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-今天經過一系列的陡坡爬升，大家的力氣真的都快被榨乾了。我們一路從海拔僅1450左右的地方開始上升，一開始還要度過危險的地形。在陡峭的稜線上慢慢數著地圖上的等高線，慢慢的向盆駒山推進。原本計畫的營地是要住到盆駒中鋒過後的鞍部營地。今天我們還是沒追上進度(不過早在我們出發的時候大概就可以預期到了)。不過這種非傳統路的計畫本來就趕不上變化，隨遇而安也不錯。  
-我們在舒服的松林營地度過一晚，翌日一早再繼續向盆駒山挺進。  
-
 
 ## To be continued ...
 
@@ -2851,6 +2727,5 @@ Taiwan Topo Home Pages</a>
         
     
 </script>
-
 
 
