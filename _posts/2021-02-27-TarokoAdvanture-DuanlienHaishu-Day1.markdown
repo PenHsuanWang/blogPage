@@ -14,14 +14,14 @@ tags:
   - 花蓮
 
 feature_row:
-  - image_path: https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/163242413_4502395556441577_7956376386266452412_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=UldIXRM2NMUAX9ero4n&_nc_ht=scontent.ftpe7-4.fna&oh=338a0ab8e5cb6fcaf66d877e9c37971b&oe=607DE85E
+  - image_path: https://1.bp.blogspot.com/-98qIzbxxGk8/YT9RFshuqhI/AAAAAAABSfk/os4VpmntOzE4D5j4AuiujkbUoqmhKUrAwCLcBGAsYHQ/s4032/IMG_4948.JPG
     title: "鍛鍊海鼠 鍛鍊自己"
     excerpt: "鍛鍊山縱走到海鼠山的稜線路人跡稀少，也因此格外生趣，找路鑽芒草在這裏是必備條件。沿途還可見三角錐山、大斷崖山、塔山，向東可見中央山脈主稜上的中央尖山。鍛鍊海鼠縱走的稜線上充滿驚喜"
     url: "mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/162659342_4502402589774207_8050619797229637844_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Pc7pivdJsP0AX_Qk7hp&_nc_ht=scontent.ftpe7-4.fna&oh=05130bd2253b6afe8799b6e283c9df35&oe=607F62BF
+  - image_path: https://1.bp.blogspot.com/-MXFbm8zQpto/YT9RKQqDJQI/AAAAAAABSfo/zpouKyNAGPcV-Y0TOGu5f0rZXbiSXo0iwCLcBGAsYHQ/s2048/IMG_5351.JPG
     title: "海鼠駐在所 天狗岩"
     excerpt: "位在花蓮太魯閣山區的海鼠山有著十分豐富的自然景觀，可以遙望中央山脈北一段北二段除外，還可以欣賞壯麗的太魯閣峽谷。除了自然景觀，還有豐富的歷史遺跡。海鼠山駐在所、海鼠警備道、天狗岩、綠水文山步道。"
     url: "mt-note-photo-midalt/TarokoAdvanture-DuanlienHaishu-Day3/"
@@ -36,7 +36,7 @@ header:
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156568232_4458710487476751_5883317634954461670_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=lm-dv0cgVlYAX9aqTM1&_nc_ht=scontent.ftpe7-2.fna&oh=e7a25e93a54cdb6f41429123d52f9f89&oe=607C35EE" alt="中橫迴頭彎開始攀登鍛鍊山">
+  <img src="https://1.bp.blogspot.com/-T65mBQ149xM/YT9LZqcNVfI/AAAAAAABSco/Gn_aiUPmmWQBfiH9N3FlZu5h8qQRdFc1QCLcBGAsYHQ/s4032/IMG_4658.JPG" alt="中橫迴頭彎開始攀登鍛鍊山">
   <figcaption>  </figcaption>
 </figure>  
 
@@ -52,7 +52,7 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156173816_4458710187476781_6222102360528565092_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=--vCaMYifa0AX8RuVqT&_nc_ht=scontent.ftpe7-4.fna&oh=3752848079b857a1ddd87569b84e9cba&oe=607DA467" alt="修督溪中的櫻花花瓣">
+  <img src="https://1.bp.blogspot.com/-x2fwQj2saeA/YT9LleJILcI/AAAAAAABSc0/MtF4S7sorQA5s0h0XZHUFS_0jqTZhh5IgCLcBGAsYHQ/s4032/FullSizeRender%2B26.JPG" alt="修督溪中的櫻花花瓣">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -68,112 +68,107 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/p843x403/156962896_4458709040810229_5450145901505141455_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=A3sp7Ntjmm8AX8y5-s9&_nc_ht=scontent.ftpe7-3.fna&tp=6&oh=bcdd7250bee2dc99c19aaba10bc30696&oe=607720A5" alt="中橫大健走">
+  <img src="https://1.bp.blogspot.com/-dRvX_OPH03Q/YT9Lv1gmW8I/AAAAAAABSc8/ooNa9DwAeLEOoP7qi_Rg0waceuHDshWeACLcBGAsYHQ/s4032/IMG_4630.JPG" alt="中橫大健走">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156620370_4458713427476457_9057882126071152521_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=xb9f-Yxx378AX9e49cq&_nc_ht=scontent.ftpe7-2.fna&oh=2aab33e00ea099a24912e90a052e3bd4&oe=60773776" alt="中橫健行登山">
+  <img src="https://1.bp.blogspot.com/-70wqZiKPhrE/YT9LcVj-epI/AAAAAAABScs/29lVk9KJ_jEOtsRLV14ycAPtko8q5LieACLcBGAsYHQ/s4032/IMG_4643.JPG" alt="中橫健行登山">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156911780_4458712977476502_6441265133194335601_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=NizyY16GKBgAX-Ywdnh&_nc_ht=scontent.ftpe7-1.fna&oh=1a2f9bd9c199aa502a5ac7e4477ce347&oe=6077BF81" alt="雲煙中的太魯閣峽谷">
+  <img src="https://1.bp.blogspot.com/-T65mBQ149xM/YT9LZqcNVfI/AAAAAAABSco/Gn_aiUPmmWQBfiH9N3FlZu5h8qQRdFc1QCLcBGAsYHQ/s4032/IMG_4658.JPG" alt="雲煙中的太魯閣峽谷">
   <figcaption> 雲煙中的太魯閣峽谷與中橫公路 </figcaption>
 </figure> 
 
 走約20分鐘到達迴頭彎，這裡是我們鍛鍊海鼠O型縱走的起點。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/155441119_4458713210809812_3234680067655388276_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=CIaZyBfPnx4AX-qVXgT&_nc_ht=scontent.ftpe7-1.fna&oh=0579937b23188300d25c2c409ba745a2&oe=607A30CC" alt="中橫迴頭彎為攀登鍛鍊山的登山口">
+  <img src="https://1.bp.blogspot.com/-juZERQhHujQ/YT9L2rLBMtI/AAAAAAABSdM/a4KMre02jh40Wynboj-U6cMtG3wHMZHigCLcBGAsYHQ/s4032/IMG_4664.JPG" alt="中橫迴頭彎為攀登鍛鍊山的登山口">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156830723_4458711817476618_6239075868412420731_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Bd8JZGcgFMQAX-WnYOU&_nc_ht=scontent.ftpe7-2.fna&oh=588426153ecd35fdeabdaf84ad7bb4a4&oe=6078EA40" alt="中橫公路迴頭彎">
+  <img src="https://1.bp.blogspot.com/-Pd2p549bjw0/YT9Lz2ind8I/AAAAAAABSdE/PKLilTxACcA-wCh36oAWGVHA2WUcJZmJgCLcBGAsYHQ/s4032/IMG_4663.JPG" alt="中橫公路迴頭彎">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157302296_4458712844143182_781106395795386211_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=zmbnhCfK3BgAX_zH2lV&_nc_ht=scontent.ftpe7-3.fna&oh=d6823b85500208c07aa14907734276d9&oe=6078722F" alt="中橫公路迴頭彎開始攀登鍛鍊山">
+  <img src="https://1.bp.blogspot.com/-sDfMRdmRXVk/YT9LiqIwPFI/AAAAAAABScw/gXH0yXSe5U0GrDudFUuCU4-1fSrVO_FaQCLcBGAsYHQ/s4032/IMG_4665.JPG" alt="中橫公路迴頭彎開始攀登鍛鍊山">
   <figcaption>  </figcaption>
 </figure> 
 
 鍛鍊山給我們的鍛鍊考題，第一題。一剛開始從登山口起登就是這麼可怕的崩壁地形呀!!  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/155112405_4458712990809834_1695202370569433015_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=JECu7zDTYMgAX_s4Wr2&_nc_ht=scontent.ftpe7-4.fna&oh=eaec79a36b49ea8998e6885adbc3dd47&oe=6077FB03" alt="鍛鍊山登山口">
+  <img src="https://1.bp.blogspot.com/-Itk4G4P0108/YT9L4h79D1I/AAAAAAABSdQ/habjmQCITJ471vr-89iE_VAT87vAEqFLACLcBGAsYHQ/s4032/IMG_4670.JPG" alt="鍛鍊山登山口">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156568232_4458710487476751_5883317634954461670_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=WXSqI3Eftp4AX-9u3vt&_nc_ht=scontent.ftpe7-2.fna&oh=f9a3e2561f2ddeff75fc80cc4c554b2c&oe=6078416E" alt="鍛鍊山登山口一開始的崩塌路">
+  <img src="https://1.bp.blogspot.com/--qY5kPG4tH8/YT9L7Yh7WNI/AAAAAAABSdU/zWkZDAUDPM8BINPnqw9ugcfP9YvptWC0QCLcBGAsYHQ/s4032/IMG_4674.JPG" alt="鍛鍊山登山口一開始的崩塌路">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/158108946_4458713814143085_1148866866207491743_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=xwe5catWYhkAX8ehbIl&_nc_ht=scontent.ftpe7-3.fna&oh=bef0a8051f305d0ae646be429fef6bc1&oe=60770AE2" alt="鍛鍊山登山道路">
+  <img src="https://1.bp.blogspot.com/-UYgg_6M9wj8/YT9L-d7yHkI/AAAAAAABSdc/pku6dU9R6r49qVTYfKkYmWrinWSwy-aWQCLcBGAsYHQ/s4032/IMG_4676.JPG" alt="鍛鍊山登山道路">
   <figcaption> 山洞中的廢棄速克達 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157749583_4458714384143028_1568212450096093504_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=RjEQl0AquuMAX-_Ua0D&_nc_ht=scontent.ftpe7-4.fna&oh=ded93d923fafd29d8a8e608a2767e89d&oe=60783943" alt="清溪吊橋為中橫公路前往蓮花池會經過的第一座吊橋">
+  <img src="https://1.bp.blogspot.com/-139OOuqEDPQ/YT9L-T2owQI/AAAAAAABSdg/8_mjvyMnhOc_zDr33m-z5xbsJhE6hNAYgCLcBGAsYHQ/s4032/IMG_4678.JPG" alt="清溪吊橋為中橫公路前往蓮花池會經過的第一座吊橋">
   <figcaption> 清溪吊橋 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157478892_4458712144143252_5681735525620067781_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=887yJ7VdMx8AX9S14Uf&_nc_ht=scontent.ftpe7-3.fna&oh=ae6e554f4cc9839d61177992b9a4837f&oe=607870F2" alt="清溪吊橋風景">
+  <img src="https://1.bp.blogspot.com/-QBSkbBNQc2E/YT9L-GfMiNI/AAAAAAABSdY/ugb7qiciOBUCOp99YKeSSYdJ4W02fqLOQCLcBGAsYHQ/s4032/IMG_4682.JPG" alt="清溪吊橋風景">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156909605_4458711920809941_1888867759402342545_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=8onx5bfJAtEAX_TvSsM&_nc_ht=scontent.ftpe7-2.fna&oh=7fbafe2e1609f03cb50c22a07f37646b&oe=607997F3" alt="清溪吊橋俯瞰峽谷地形">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157748242_4458712570809876_3207991460228034841_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=AxlPPlAVtQUAX_VjDpc&_nc_ht=scontent.ftpe7-3.fna&oh=80bbb5f0380e629c5fc6fb75139e063c&oe=6077CB96" alt="清溪吊橋吊橋頭">
+  <img src="https://1.bp.blogspot.com/-vzPMscBCtzc/YT9MAhO5yqI/AAAAAAABSdk/8tV5iNiRnt8ne14WXhujEletelxMew1fwCLcBGAsYHQ/s4032/IMG_4692.JPG" alt="清溪吊橋吊橋頭">
   <figcaption>  </figcaption>
 </figure> 
 
 通過了清溪吊橋後的崩壁地形，暴露感重，但對於大家平時都有走地形的經驗來說這一段崩壁其實還好，小心通過即可。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157237244_4458710730810060_7200919673710432561_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=h_oCu4iIFLoAX_a4Jb5&_nc_ht=scontent.ftpe7-3.fna&oh=e3012ac657431d7079e81046c4ec113d&oe=607A58D3" alt="前往蓮花池前的崩壁地形">
+  <img src="https://1.bp.blogspot.com/-UC4OOE6Qw1w/YT9MArbMHBI/AAAAAAABSdo/8B0TxtmivPwz2iEWzt833awKH-4hE7fvQCLcBGAsYHQ/s4032/IMG_4697.JPG" alt="前往蓮花池前的崩壁地形">
   <figcaption> 通過清溪吊橋後的拉繩地形 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156686487_4458714430809690_5800664468291596089_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=viJlB4Iy5fMAX9rfdSP&_nc_ht=scontent.ftpe7-1.fna&oh=cf21f7ca46ae0cacde64e55c945589df&oe=60799C02" alt="攀登鍛鍊山前往蓮花池前的碎石崩壁">
+  <img src="https://1.bp.blogspot.com/-itxmabA3Zf8/YT9MEMtHUjI/AAAAAAABSds/zKfmQIiy_9EgO6bxlUOrC9eMsM7QkpstQCLcBGAsYHQ/s4032/IMG_4704.JPG" alt="攀登鍛鍊山前往蓮花池前的碎石崩壁">
   <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-ZlVlfLtclwM/YT9MEOT295I/AAAAAAABSdw/DdkpHSIAz6wF1R2XrNEd7MaMcYQPeUnxACLcBGAsYHQ/s4032/IMG_4709.JPG" alt="九梅吊橋岔路口">
+  <figcaption> 通往九梅吊橋 </figcaption>
 </figure> 
 
 通過九梅吊橋後就是上坡的開始，從這邊要翻過海拔約1100公尺高的越稜點，通往蓮花池。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/156914930_4458714147476385_8164843583727356000_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=N63Xybb5P5EAX9APiT_&_nc_oc=AQkkYrRk-iStx3HHU8_kD5Za_C6mjHh3G79nTBMKiiPbtNYtLioo8nMksDtyQ9BldPo&_nc_ht=scontent.ftpe7-3.fna&oh=8fc5f47a98e59465520545cc418ad472&oe=6079D781" alt="九梅吊橋">
-  <figcaption>  </figcaption>
+  <img src="https://1.bp.blogspot.com/-fJwJB5qsXp0/YT9MEfyUbLI/AAAAAAABSd0/5FHsYlwf_hMixvwCOp5ljcbB_V53eI4OwCLcBGAsYHQ/s4032/IMG_4719.JPG" alt="九梅吊橋">
+  <figcaption> 九梅吊橋 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156549160_4458711564143310_2769797980907945988_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=TUnPMF0clr8AX9CVBnk&_nc_ht=scontent.ftpe7-2.fna&oh=93021571804a33049692bfff20b7994d&oe=607941E2" alt="前往蓮花池的登山道路">
+  <img src="https://1.bp.blogspot.com/-1UUHXQAsBEU/YT9MIRhkFBI/AAAAAAABSeA/iwD4y1ZDrbIqs1p1NKYRdqQCOBQPxcbSACLcBGAsYHQ/s4032/IMG_4724.JPG" alt="前往蓮花池的登山道路">
   <figcaption>  </figcaption>
 </figure> 
 
 在林間看見了太陽。出發前看氣象預報提到花蓮會是陰雨的天氣，好加在沒下雨，還讓我們看見了太陽公公🌞  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156674011_4458710937476706_6212648593991258386_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=f8W4KNaLkYAAX99QfbD&_nc_ht=scontent.ftpe7-4.fna&oh=ada88acdc248bfe9335b7859d45f22e3&oe=60791D6F" alt="蓮花池登山道路">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156767924_4458713667476433_7471193930941864934_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=8FO5lUGUNWsAX9EXzXw&_nc_ht=scontent.ftpe7-4.fna&oh=f7a2de9c9393c08265e8ffa1eac60972&oe=6076E1D2" alt="前往蓮花池的指標">
+  <img src="https://1.bp.blogspot.com/-9FAZZXRnIiY/YT9MITnbFHI/AAAAAAABSd8/lXL4xgF07HYNsUvv1SxvPJwYJvQMBFNfgCLcBGAsYHQ/s4032/IMG_4731.JPG" alt="前往蓮花池的指標">
   <figcaption> 往蓮花池還有1.028K ! 測量精度有到10m XD </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157768914_4458710430810090_8802816891583111800_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=udr9EPH4zhEAX_6a8vK&_nc_ht=scontent.ftpe7-4.fna&oh=d61c299d2440d0a454b9e3a3fc0cb76b&oe=6079E6AC" alt="">
+  <img src="https://1.bp.blogspot.com/-R-AWUXSLFQc/YT9MHklKUoI/AAAAAAABSd4/gzZOYXQEUp4U_YZ-V4g965pJvqbIcbblQCLcBGAsYHQ/s4032/IMG_4729.JPG" alt="清脆的梅子">
   <figcaption> 林間的梅子？ </figcaption>
 </figure> 
 
@@ -190,17 +185,12 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
 到達蓮花池，這裡沒有蓮花呀!!  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/155373207_4458711964143270_2255039982225052498_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=u4lJogkGfHIAX8-ZwfN&_nc_ht=scontent.ftpe7-2.fna&oh=63d5f8c38537f785a4dd23069d3ff9ee&oe=6079F78D" alt="蓮花池">
+  <img src="https://1.bp.blogspot.com/-U5ve9R43j5c/YT9MKjB1YZI/AAAAAAABSeI/g878LcZ2ZKgfD7hMVwCI1yCu_wd_Aq5rgCLcBGAsYHQ/s4032/IMG_4756.JPG" alt="蓮花池">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156810838_4458713174143149_8354439924101567898_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=bBCXVLAMkIwAX9iYuHd&_nc_ht=scontent.ftpe7-2.fna&oh=73eb579698bd9e43c41e31455b366b87&oe=6079A7D6" alt="蓮花池">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157737223_4458709354143531_6978961612890265783_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=xcfZgbfy9ScAX99i0tB&_nc_ht=scontent.ftpe7-4.fna&oh=dc5a7133b251a650498136f9cb57364c&oe=607A534F" alt="中橫沿線深處的蓮花池">
+  <img src="https://1.bp.blogspot.com/-dLN9nXyb2nk/YT9MKldOkOI/AAAAAAABSeE/XvVLq1o0WykEZEXKPixKmIZIMSBIUYerACLcBGAsYHQ/s4032/IMG_4761.JPG" alt="中橫沿線深處的蓮花池">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -214,87 +204,45 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
 水泥工寮群落。早年退輔會有在此開發過。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/157540742_4458713380809795_4629740803707657567_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=NaPS8wLmzBgAX-AtNJ9&_nc_ht=scontent.ftpe7-2.fna&oh=5d8c6f1c73efc2f93838aeaff3064c46&oe=60772222" alt="退輔會蓮花池水泥房屋">
+  <img src="https://1.bp.blogspot.com/-EGVvWG9W8jM/YT9NDNd3_kI/AAAAAAABSfE/H4CAx_KcvBYx0DyIUA8tq4nxOW4MRwQsQCLcBGAsYHQ/s4032/IMG_4764.JPG" alt="退輔會蓮花池水泥房屋">
   <figcaption>  </figcaption>
 </figure> 
 
 下切前往休督溪溪谷。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157784630_4458711324143334_2216658624033507285_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=zFULA2KjWPsAX-ciO0_&_nc_ht=scontent.ftpe7-1.fna&oh=577d8b045b2c1d5e684616b21ba8fff2&oe=60798976" alt="休督溪溪谷">
+  <img src="https://1.bp.blogspot.com/-87-WxgwbbxI/YT9M0aE3PBI/AAAAAAABSew/DZl2x0ZpFNoLP2TY0DQGMAAudfNK2cHkQCLcBGAsYHQ/s4032/IMG_4778.JPG" alt="休督溪溪谷">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/155386166_4458712730809860_5136038529156990741_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=XBFTV7Hb7w0AX-6yott&_nc_ht=scontent.ftpe7-3.fna&oh=539380efba80c3f947be84f41fc80b4d&oe=60795BD6" alt="休督溪溪谷中的巨石">
+  <img src="https://1.bp.blogspot.com/-CoVTTZVJm6Q/YT9M0W7CzKI/AAAAAAABSes/BUEo38UKM349ZJT-m_YXTrtwLolcBko5ACLcBGAsYHQ/s4032/IMG_4786.JPG" alt="休督溪溪谷中的巨石">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157307048_4458712344143232_8897773682754515416_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=YiN-g7UHVG8AX81QDi0&_nc_ht=scontent.ftpe7-4.fna&oh=09d49e8e5d43be07724bdc65e1405a57&oe=6077334B" alt="休督溪谷上溯準備前往鍛鍊山登山口">
+  <img src="https://1.bp.blogspot.com/-3jTgXagmjMg/YT9M0QiDzfI/AAAAAAABSeo/3PCVsW4dS7AECoDN1erIY4FaUlLOajoDwCLcBGAsYHQ/s4032/IMG_4795.JPG" alt="休督溪谷上溯準備前往鍛鍊山登山口">
   <figcaption>  </figcaption>
 </figure> 
 
-切下溪谷。這一段溪谷上溯的距離不長，但有三處需要高繞的地方，其中第二處高繞以及第三處高繞需要小心一點。尤其是第三處高繞，繞上去的距離滿長的，而且路徑不明確。  
-
-到達溪谷後整裝一下，隨後便啟程準備朝向鍛鍊山登山口前進。  
+切下溪谷。這一段溪谷上溯的距離不長，但有三處需要高繞的地方，其中第二處高繞以及第三處高繞需要小心一點。尤其是第三處高繞，繞上去的距離滿長的，而且路徑不明確。   
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157545305_4458714207476379_4933279049809762179_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=gJM2g7uLhsUAX9Cm99l&_nc_ht=scontent.ftpe7-3.fna&oh=b37419d9b0c8d1cf3cda0334366e00fe&oe=607A8489" alt="">
+  <img src="https://1.bp.blogspot.com/-p1LQV8xhjiQ/YT9QTUWgMtI/AAAAAAABSfc/JhSIJpY-l3c1nC2vq-lNnru8t6OZhkPWgCLcBGAsYHQ/s4032/IMG_4842.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157061096_4458714407476359_5469284825819831185_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=0debeb&_nc_ohc=sXL3ryx-sZUAX_O0zQ5&_nc_ht=scontent.ftpe7-3.fna&oh=ca1752c828f7c7c57b4ea79d9ab1968a&oe=6077640C" alt="">
-  <figcaption>  </figcaption>
-</figure> 
 
 沿途有幾處這種需要渡水的地形，水深及膝
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/155888552_4458713190809814_3800396100455195551_o.jpg?_nc_cat=111&ccb=1-3&_nc_sid=0debeb&_nc_ohc=2H2eH6jRexsAX8KKn7d&_nc_ht=scontent.ftpe7-2.fna&oh=cd98e623ead684d9b05bc0892f6f3299&oe=6077C947" alt="休督溪溯溪地形為攀登鍛鍊山的道路">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156856606_4458712040809929_9049605934240050698_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=ibGwrICSsw8AX8ot-O-&_nc_ht=scontent.ftpe7-4.fna&oh=9be541f5dfcedd7dd0d52e102c88f13d&oe=607916B4" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-這旁邊的水看起來很深喔!!  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/156868728_4458714344143032_3168338793519185874_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=0debeb&_nc_ohc=h7FG5nt2xNsAX9LYMhA&_nc_ht=scontent.ftpe7-3.fna&oh=82703fed0861417213801ff76fdca6a1&oe=6077F394" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156842396_4458710950810038_1979300829767741848_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=0debeb&_nc_ohc=cUodC1JXsUwAX_-HL_g&_nc_oc=AQmjMPyiscWsj4WS3gGfNxHJeivK7JV0oEpCcc709iOAWJAtmsyN15OS_xNg5eo863I&_nc_ht=scontent.ftpe7-1.fna&oh=cfe80cd3a38a616ce6d9f3ab1276a2fd&oe=6078D767" alt="">
-  <figcaption>  </figcaption>
-</figure> 
 
 第二處高繞點，這裡的水潭很深，如果有帶足溯溪裝備也打算下水的話可能可以直接過吧?  
 但我們不打算弄太濕，所以從左側山壁高繞。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157784639_4458713857476414_4968278569596136432_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=V5vljIIuyDoAX9hcrx7&_nc_ht=scontent.ftpe7-4.fna&oh=01ced72e9feff4400c3b0e926412d508&oe=6079B637" alt="">
+  <img src="https://1.bp.blogspot.com/-HrqAf2IXGv8/YT9M3f5kAQI/AAAAAAABSe0/YtnJfLrXQQoWBWhRon0Fr9cXEmOG44vAwCLcBGAsYHQ/s4032/IMG_4865.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/157030618_4458713084143158_7312214297342454856_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=CrOjWQZmjFAAX9b7JQm&_nc_ht=scontent.ftpe7-3.fna&oh=d7cbe39eb629c6afe01e4afd926019b4&oe=6079EFCA" alt="攀登鍛鍊山的溯溪路段">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/155502249_4458710650810068_865677273750038075_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=RP2X58GScSEAX-doiL9&_nc_ht=scontent.ftpe7-1.fna&oh=75b587802b599e2d4d7b24fd37aaeb53&oe=6077016D" alt="休督溪溯溪地形">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156646568_4458712507476549_8902803843042685247_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=fYkktKZg96MAX8aCkJ3&_nc_ht=scontent.ftpe7-2.fna&oh=24f99f75dd2d963d8192e6a88de23e8f&oe=607712C9" alt="攀登鍛鍊山前的渡溪地形">
-  <figcaption>  </figcaption>
-</figure> 
 
 這一段路是也沒有到太困難，但不知到為什麼，上去架繩再加上大家一個一個拉繩過，竟然花掉快一個小時 = =  
 學弟還一個踉蹌滑倒，還好有抓到繩子，不然就要下去洗澡了...  
@@ -303,32 +251,17 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
 之前的時間預估得太樂觀  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156125364_4458712257476574_2717831131764163259_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=t893g-u6A9kAX_pmlzV&_nc_ht=scontent.ftpe7-4.fna&oh=6cd3c2f42059aff271e9ad3e34c4dded&oe=607A8ED4" alt="中橫鍛鍊山的朔溪路程">
+  <img src="https://1.bp.blogspot.com/-6VNpIFuVjJI/YT9M3mGbwtI/AAAAAAABSe4/SHEDsHkHNTonN2t5BDYncKJNeZutiIyDwCLcBGAsYHQ/s4032/IMG_4860.JPG" alt="休督溪水中的櫻花瓣">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/156222973_4458709097476890_8131439048808292455_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=MuO-KmZpMOAAX9cTEyL&_nc_ht=scontent.ftpe7-1.fna&oh=5752cf2f4e2f6cf5a05574ad2d548b2f&oe=6079954A" alt="休督溪水中的櫻花瓣">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/155993939_4458710670810066_7471356701860545169_o.jpg?_nc_cat=106&ccb=1-3&_nc_sid=0debeb&_nc_ohc=eTTtKHq0NtcAX9Z2t6c&_nc_oc=AQk5vGR7LFt2oLgsik70M2OjJ3TErcIKkSAagoA0J7XcGKGoiOteUDOv4pYWjrQSfbY&_nc_ht=scontent.ftpe7-1.fna&oh=5d5b67d3ea9c3f4d98dc81ac673e52d9&oe=6076E4BB" alt="休督溪水中的櫻花瓣">
+  <img src="https://1.bp.blogspot.com/-p0ezGNlYl3U/YT9M3gN7_vI/AAAAAAABSe8/gYaHVHWHAOMJRe6q4QV14LEmG5il4DnqwCLcBGAsYHQ/s4032/IMG_4859.JPG" alt="休督溪水中的櫻花瓣">
   <figcaption> 溪水中的櫻花瓣 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156173816_4458710187476781_6222102360528565092_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=0debeb&_nc_ohc=XyMuQB71c9QAX-MF9JB&_nc_ht=scontent.ftpe7-4.fna&oh=f48e6cc09cb7ed0f5c57a89c60d5b509&oe=6079AFE7" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156109238_4458711097476690_3941642960804093846_o.jpg?_nc_cat=104&ccb=1-3&_nc_sid=0debeb&_nc_ohc=Oe-uD3fAZW0AX-D0vu5&_nc_ht=scontent.ftpe7-2.fna&oh=20382077ba2a868476f5a79fbe5cb2ad&oe=6077DE40" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/156239371_4458711194143347_2615530347572311186_o.jpg?_nc_cat=109&ccb=1-3&_nc_sid=0debeb&_nc_ohc=zdg-CndUVb4AX_SbN0M&_nc_ht=scontent.ftpe7-2.fna&oh=ff0d6c6031d98cf75d5fc3be7966215f&oe=6078343A" alt="">
+  <img src="https://1.bp.blogspot.com/-vVegx7Uo1kE/YT9M4VEfb6I/AAAAAAABSfA/MP2B8wRpFwsN6Jh4Rt27RqR0si7XhNNtgCLcBGAsYHQ/s4032/IMG_4867.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
