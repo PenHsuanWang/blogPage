@@ -127,19 +127,20 @@ Taiwan Topo Home Pages</a>
                 }
             );
     
-            var tile_layer_c4655bf642514bf1b3d30fabca932cdc = L.tileLayer(
-                "http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudyMap-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_517415945cdd4ea39a117db534d0f514);
 
-            var defaultBase = L.tileLayer('https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png').addTo(map_517415945cdd4ea39a117db534d0f514);
-
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudy-Map\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            )
+    
             var baseLayers = {
-                // 'Stamen Toner': defaultBase,
                 '地圖產生器': defaultBase,
-                '魯地圖': L.tileLayer('http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png'),
+                '魯地圖': rudyTile,
                 'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
-                // 'ESRI Ocean Basemap': L.tileLayer.provider('Esri.OceanBasemap'),
                 'OSM Topo': L.tileLayer.provider('OpenTopoMap')
             };
     

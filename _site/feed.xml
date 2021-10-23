@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blogPage/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blogPage/" rel="alternate" type="text/html" /><updated>2021-10-18T16:18:29+08:00</updated><id>http://localhost:4000/blogPage/feed.xml</id><title type="html">二十毫秒之間</title><subtitle>走向台灣大山，帶著相機紀錄點點滴滴.</subtitle><author><name>P.H, Wang</name></author><entry><title type="html">新竹 油霞麥O型縱走 油羅山-霞山-麥巴來山</title><link href="http://localhost:4000/blogPage/mt-note-photo-midalt/YuShaMai/" rel="alternate" type="text/html" title="新竹 油霞麥O型縱走 油羅山-霞山-麥巴來山" /><published>2021-08-29T06:00:00+08:00</published><updated>2021-08-29T06:00:00+08:00</updated><id>http://localhost:4000/blogPage/mt-note-photo-midalt/YuShaMai</id><content type="html" xml:base="http://localhost:4000/blogPage/mt-note-photo-midalt/YuShaMai/">&lt;h2 id=&quot;行程紀錄&quot;&gt;行程紀錄&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blogPage/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blogPage/" rel="alternate" type="text/html" /><updated>2021-10-23T12:26:22+08:00</updated><id>http://localhost:4000/blogPage/feed.xml</id><title type="html">二十毫秒之間</title><subtitle>走向台灣大山，帶著相機紀錄點點滴滴.</subtitle><author><name>P.H, Wang</name></author><entry><title type="html">新竹 油霞麥O型縱走 油羅山-霞山-麥巴來山</title><link href="http://localhost:4000/blogPage/mt-note-photo-midalt/YuShaMai/" rel="alternate" type="text/html" title="新竹 油霞麥O型縱走 油羅山-霞山-麥巴來山" /><published>2021-08-29T06:00:00+08:00</published><updated>2021-08-29T06:00:00+08:00</updated><id>http://localhost:4000/blogPage/mt-note-photo-midalt/YuShaMai</id><content type="html" xml:base="http://localhost:4000/blogPage/mt-note-photo-midalt/YuShaMai/">&lt;h2 id=&quot;行程紀錄&quot;&gt;行程紀錄&lt;/h2&gt;
 
 &lt;p&gt;06:23 第一登山口&lt;br /&gt;
 06:32 疊石區&lt;br /&gt;
@@ -78,33 +78,13 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
 
-    &lt;!-- Esri Leaflet Plugin: https://esri.github.io/esri-leaflet/ --&gt;
-    &lt;script src=&quot;https://unpkg.com/esri-leaflet@2.1.3/dist/esri-leaflet.js&quot; integrity=&quot;sha512-pijLQd2FbV/7+Jwa86Mk3ACxnasfIMzJRrIlVQsuPKPCfUBCDMDUoLiBQRg7dAQY6D1rkmCcR8286hVTn/wlIg==&quot; crossorigin=&quot;&quot;&gt;&lt;/script&gt;
-
-    &lt;!-- ESRI Renderer Plugin: https://github.com/Esri/esri-leaflet-renderers --&gt;
-    &lt;!-- Renders feature layer using default symbology as defined by ArcGIS REST service --&gt;
-    &lt;!-- Currently doesn't work with ESRI cluster plugin --&gt;
-    &lt;script src=&quot;https://unpkg.com/esri-leaflet-renderers@2.0.6/dist/esri-leaflet-renderers.js&quot; integrity=&quot;sha512-mhpdD3igvv7A/84hueuHzV0NIKFHmp2IvWnY5tIdtAHkHF36yySdstEVI11JZCmSY4TCvOkgEoW+zcV/rUfo0A==&quot; crossorigin=&quot;&quot;&gt;&lt;/script&gt;
-
     &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
     &lt;!-- Modified to include USGS TNM web services --&gt;
     &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
 
-    &lt;!-- 2.5D OSM Buildings Classic: https://github.com/kekscom/osmbuildings --&gt;
-    &lt;script src=&quot;https://cdn.osmbuildings.org/OSMBuildings-Leaflet.js&quot;&gt;&lt;/script&gt;
-
-    &lt;!-- Load Font Awesome icons --&gt;
-    &lt;script src=&quot;https://use.fontawesome.com/a64989e3a8.js&quot;&gt;&lt;/script&gt;
-
-
-
     &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
     &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
-
-    &lt;!-- Overview mini map Plugin: https://github.com/Norkart/Leaflet-MiniMap --&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/Control.MiniMap.css&quot; /&gt;
-    &lt;script src=&quot;../../assets/js/Control.MiniMap.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
     &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
@@ -151,27 +131,20 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
                 }
             );
 
-            
-
-        
-    
-            var tile_layer_5285431c3c7f4c02a40c0825348d0dc7 = L.tileLayer(
-                &quot;https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_2f7f647cc8d14b3fa1f43777d25494f3);
 
-
-
-
-
-            var defaultBase = L.tileLayer('https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png').addTo(map_2f7f647cc8d14b3fa1f43777d25494f3);
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
     
             var baseLayers = {
-                // 'Stamen Toner': defaultBase,
                 '地圖產生器': defaultBase,
-                '魯地圖': L.tileLayer('http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png'),
+                '魯地圖': rudyTile,
                 'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
-                // 'ESRI Ocean Basemap': L.tileLayer.provider('Esri.OceanBasemap'),
                 'OSM Topo': L.tileLayer.provider('OpenTopoMap')
             };
     
@@ -2605,6 +2578,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
     
@@ -2639,14 +2635,56 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
                 }
             );
 
-            
-
-        
-    
-            var tile_layer_255a9d7a52664a3dbf7be886eac972e2 = L.tileLayer(
-                &quot;https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_d7c98e4a0b4c46ff9f246bf748a9731c);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_d7c98e4a0b4c46ff9f246bf748a9731c);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_d7c98e4a0b4c46ff9f246bf748a9731c);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_d7c98e4a0b4c46ff9f246bf748a9731c.pm.addControls(options);
         
         
     
@@ -4014,6 +4052,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
     
@@ -4048,10 +4109,56 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
                 }
             );
     
-            var tile_layer_c4655bf642514bf1b3d30fabca932cdc = L.tileLayer(
-                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_517415945cdd4ea39a117db534d0f514);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_517415945cdd4ea39a117db534d0f514);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_517415945cdd4ea39a117db534d0f514);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_517415945cdd4ea39a117db534d0f514.pm.addControls(options);
         
     
             var poly_line_f6f4f3b609a34c63a79f58f9551cf640 = L.polyline(
@@ -5467,6 +5574,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
         
@@ -5489,15 +5619,56 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
                 }
             );
 
-            
-
-        
-        
-    
-            var tile_layer_eae08c7a826a46c5bc7cb498056a9640 = L.tileLayer(
-                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_78f51ebcf53841458568e4652f6c44db);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_78f51ebcf53841458568e4652f6c44db);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_78f51ebcf53841458568e4652f6c44db);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_78f51ebcf53841458568e4652f6c44db.pm.addControls(options);
         
     
             var poly_line_fdd18a0c749e4883942f6dcac83c451c = L.polyline(
@@ -7426,6 +7597,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
     
@@ -7450,14 +7644,56 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
                 }
             );
 
-            
-
-        
-    
-            var tile_layer_f49235314f0b4eacb2384662d83e872b = L.tileLayer(
-                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_651d1f5497054269a1e07c3805bdf66c);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_651d1f5497054269a1e07c3805bdf66c);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_651d1f5497054269a1e07c3805bdf66c);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_651d1f5497054269a1e07c3805bdf66c.pm.addControls(options);
         
     
             var poly_line_a40e007ff113449cbc5e444ff0241b38 = L.polyline(
@@ -9205,6 +9441,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
     
@@ -9241,10 +9500,56 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
             
 
     
-            var tile_layer_4f63bea71e89417e909a3a4c5df55827 = L.tileLayer(
-                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_e697cd9e8064467b8fd574f7eaaf9d79.pm.addControls(options);
         
     
             var poly_line_a864b8da74e14120825a8abc6a39e47d = L.polyline(
@@ -12278,6 +12583,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
     
@@ -12314,10 +12642,56 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
             
 
     
-            var tile_layer_4f63bea71e89417e909a3a4c5df55827 = L.tileLayer(
-                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_e697cd9e8064467b8fd574f7eaaf9d79.pm.addControls(options);
         
     
             var poly_line_a864b8da74e14120825a8abc6a39e47d = L.polyline(
@@ -15322,6 +15696,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
     
@@ -15358,10 +15755,56 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
             
 
     
-            var tile_layer_4f63bea71e89417e909a3a4c5df55827 = L.tileLayer(
-                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_e697cd9e8064467b8fd574f7eaaf9d79.pm.addControls(options);
         
     
             var poly_line_a864b8da74e14120825a8abc6a39e47d = L.polyline(
@@ -18364,6 +18807,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
     
@@ -18400,10 +18866,56 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
             
 
     
-            var tile_layer_4f63bea71e89417e909a3a4c5df55827 = L.tileLayer(
-                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_e697cd9e8064467b8fd574f7eaaf9d79.pm.addControls(options);
         
     
             var poly_line_a864b8da74e14120825a8abc6a39e47d = L.polyline(
@@ -21458,6 +21970,29 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot; /&gt;
     &lt;link rel=&quot;stylesheet&quot; href=&quot;https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css&quot; /&gt;
+
+    &lt;!-- Load Leaflet: http://leafletjs.com/ --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet@1.2.0/dist/leaflet.css&quot; integrity=&quot;sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==&quot; crossorigin=&quot;&quot; /&gt;
+
+    &lt;!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers --&gt;
+    &lt;!-- Modified to include USGS TNM web services --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet-providers.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet.groupedlayercontrol.min.css&quot; /&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.groupedlayercontrol.min.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css&quot; /&gt;
+    &lt;script src=&quot;https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms --&gt;
+    &lt;script src=&quot;../../assets/js/leaflet.wms.js&quot;&gt;&lt;/script&gt;
+
+    &lt;!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits --&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;../../assets/css/leaflet-control-credits.css&quot; /&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;../../assets/js/leaflet-control-credits.js&quot;&gt;&lt;/script&gt;
+
     &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
     &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
     
@@ -21494,10 +22029,58 @@ Taiwan Topo Home Pages&lt;/a&gt;&lt;/p&gt;
             
 
     
-            var tile_layer_4f63bea71e89417e909a3a4c5df55827 = L.tileLayer(
-                &quot;http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png&quot;,
-                {&quot;attribution&quot;: &quot;Data by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudyMap-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+
+
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;https://rs.happyman.idv.tw\&quot;\u003eHappyman-tile\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
             ).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {&quot;attribution&quot;: &quot;Tiles supported by \u0026copy; \u003ca href=\&quot;http://rudy.basecamp.tw/taiwan_topo.html\&quot;\u003eRudy-Map\u003c/a\u003e&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                &quot;Trails&quot;: {
+                    &quot;航跡&quot;:happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_e697cd9e8064467b8fd574f7eaaf9d79.pm.addControls(options);
         
     
             var poly_line_a864b8da74e14120825a8abc6a39e47d = L.polyline(

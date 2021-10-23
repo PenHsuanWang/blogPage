@@ -504,6 +504,29 @@ Taiwan Topo Home Pages</a>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
     <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+
+    <!-- Load Leaflet: http://leafletjs.com/ -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
+
+    <!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers -->
+    <!-- Modified to include USGS TNM web services -->
+    <script src="../../assets/js/leaflet-providers.js"></script>
+
+    <!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  -->
+    <link rel="stylesheet" href="../../assets/css/leaflet.groupedlayercontrol.min.css">
+    <script src="../../assets/js/leaflet.groupedlayercontrol.min.js" type="text/javascript"></script>
+
+    <!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css">
+    <script src="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js"></script>
+
+    <!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms -->
+    <script src="../../assets/js/leaflet.wms.js"></script>
+
+    <!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits -->
+    <link rel="stylesheet" href="../../assets/css/leaflet-control-credits.css" />
+    <script type="text/javascript" src="../../assets/js/leaflet-control-credits.js"></script>
+
     <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
     <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     
@@ -540,10 +563,56 @@ Taiwan Topo Home Pages</a>
             
 
     
-            var tile_layer_4f63bea71e89417e909a3a4c5df55827 = L.tileLayer(
-                "http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudyMap-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            var defaultBase = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudy-Map\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                "Trails": {
+                    "航跡":happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_e697cd9e8064467b8fd574f7eaaf9d79);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_e697cd9e8064467b8fd574f7eaaf9d79.pm.addControls(options);
         
     
             var poly_line_a864b8da74e14120825a8abc6a39e47d = L.polyline(
