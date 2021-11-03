@@ -2829,6 +2829,62 @@ header:
 
 康莊大道到北霞山為止，接下來繼續前往霞山的路比較少人行走，接下來除了幾處獵徑有比較明顯的路基以外，其餘部分都不太好走。
 
+
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_8afbd1e25da2d57d4c4a458b812c87a0.jpg" alt="">
+  <figcaption> 北霞山出發，沿著西南方向下降往山腰的獵寮 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_312fd799b28d3c5926949ce546eff7ef.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_7f5d47c156350328ba0a8b3667cbef1c.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+下切到獵徑後繼續向南走，有幾處邊坡比較陡，下切到獵徑後繼續向南走，有幾處邊坡比較陡，一小心一點。  
+有些地方邊坡坡度比較大，有架設木頭簡易便橋。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_c68a5a740ff7f07463feccec7d4d6673.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_8116661194e21bc61489a3cd343cba73.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_bbfea697fa2587a855dbd2485c8e8ab1.jpg" alt="">
+  <figcaption> 便橋中間還有鐵軌 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_ceb2a79d92eba7854b5f8258b92a1725.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_55bd993035acb1bfd0c46b950af47272.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_f5f942df9566853748ede416420c99c5.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_5ae921f768153c49d38da4708b0cb69b.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
 <figure class="align-center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgsVdzw_KNq3rwvxdcVLXb8vGZVzreUp4zYvnQ0Jvzcl1HL-mjicnOFOmDKgWiZx7QfqIf3tuLyBoEuZ-KPB4clmw9VXSaYKgRBKzZxUVtZ8DvQautOvDKm4QFXwfARNHJ_M5q7sNRkid0K4ucxH7bVEIqM8kiaSYz-4m9T4Gc3w5EY8w-uvViKQq4u=s2048" alt="">
   <figcaption> 繼續前往霞山途中的大樹 </figcaption>
