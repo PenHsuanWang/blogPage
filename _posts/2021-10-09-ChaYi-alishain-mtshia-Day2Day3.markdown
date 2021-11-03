@@ -18,6 +18,16 @@ header:
   teaser : https://cdntwrunning.biji.co/1024_f519cb5e4650fb27d2bf998d91ae194e.jpg
   image_description: ""
   overlay_filter: 0.5
+
+feature_row:
+- image_path: https://cdntwrunning.biji.co/1024_9f17313da1e363013512e420115a8e4e.jpg
+  title: "嘉義阿里山三霞 兒玉山-東水山-霞山-南霞山 Day1"
+  excerpt: "位在阿里山山脈南段的阿里山三霞，於楠梓仙溪左岸，與玉山山脈相望。先通過兒玉山以及東水山後，繼續向南抵達海拔2472公尺的北霞山，以及更南邊的霞山、南霞山。"
+  url: "mt-note-photo-midalt/ChaYi-alishain-mtshia-Day1"
+  btn_class: "btn--primary"
+  btn_label: "Go to"
+
+
 ---
 
 嘉義南霞山，位在楠梓仙溪左岸，稜線自阿里山山脈上的兒玉山、東水山向南延伸往梓仙溪溪谷。稜線沿途清幽，從路跡判斷，鮮少有人前往南霞山。雖然時不時會有路條，只不過森林的落葉早已把路徑覆蓋起來。雖然說沒有明顯路跡，但沿途稜線方向明確，也不像北部山區那樣有茂密植披，總體來說找路不會太困難(地圖還是要帶，也要做好功課，可別甚麼都不準備就想來"探險")。沿途稜線森林的景色優美，偶有展望可以望向對面的山，楠梓仙溪對岸的玉山山脈，溪系列的中級山，以及今年五月去過的巴伊車留山、南玉山，從南玉山繼續向南延伸的廣東丸山、魔界腕。玉山山脈從南玉山高度便下降至3000公尺以下，也因此在南霞山視線可見後方一排的中央山脈南二段、南一段群峰。南霞山路途遙遠，我們安排了三日行程，從阿里山公路開始起登，向森林深處前進。一路上有不少獵寮以及獵人活動的痕跡，這條路線稱不上探勘，不過能在連假爬山都沒遇到人，確實難得。悠閒地度過了假日，在大自然中度過了充實的三天。
@@ -114,6 +124,9 @@ header:
 11:06 回程東水山  
 11:37 回程兒玉山叉路口  
 
+## 圖文系列
+{% include feature_row %}
+
 ## 嘉義阿里山三霞 兒玉山-東水山-霞山-南霞山 航跡
 <html>
 <head>    
@@ -133,6 +146,29 @@ header:
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
     <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+
+    <!-- Load Leaflet: http://leafletjs.com/ -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
+
+    <!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers -->
+    <!-- Modified to include USGS TNM web services -->
+    <script src="../../assets/js/leaflet-providers.js"></script>
+
+    <!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  -->
+    <link rel="stylesheet" href="../../assets/css/leaflet.groupedlayercontrol.min.css">
+    <script src="../../assets/js/leaflet.groupedlayercontrol.min.js" type="text/javascript"></script>
+
+    <!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css">
+    <script src="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js"></script>
+
+    <!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms -->
+    <script src="../../assets/js/leaflet.wms.js"></script>
+
+    <!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits -->
+    <link rel="stylesheet" href="../../assets/css/leaflet-control-credits.css" />
+    <script type="text/javascript" src="../../assets/js/leaflet-control-credits.js"></script>
+
     <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
     <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     
@@ -159,7 +195,7 @@ header:
             var map_8d9d98dea7214d6b921c4eec3bd6f9aa = L.map(
                 "map_8d9d98dea7214d6b921c4eec3bd6f9aa",
                 {
-                    center: [23.419948, 120.821473],
+                    center: [23.379776, 120.812833],
                     crs: L.CRS.EPSG3857,
                     zoom: 15,
                     zoomControl: true,
@@ -167,14 +203,57 @@ header:
                 }
             );
 
-            
 
-        
-    
-            var tile_layer_1b514aad0dbe496ab7b93114ee2b4b87 = L.tileLayer(
-                "https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            var defaultBase = L.tileLayer(
+            'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png',
+            {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
             ).addTo(map_8d9d98dea7214d6b921c4eec3bd6f9aa);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudy-Map\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            )
+    
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                "Trails": {
+                    "航跡":happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_8d9d98dea7214d6b921c4eec3bd6f9aa);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_8d9d98dea7214d6b921c4eec3bd6f9aa);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_8d9d98dea7214d6b921c4eec3bd6f9aa.pm.addControls(options);
         
 
         
@@ -2803,78 +2882,179 @@ header:
   <figcaption>  </figcaption>
 </figure> 
 
+前往南霞山沿途稜線林相
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg_g2h5GIseaRnOs-2h2R-9NnSLyCakmKi6j2fnacVzggVxAmwSUZkbLUHvrm4U-sLYtDtz8dSIdoqZ7M-A_72TICN1jZ8_Yl_uA5zLoECC8S2fCQXSvspZ3ZpT08xTFkf9Rp7OfLwQx7mS3s2ociKzsAiEtnmtUQPOMIbqq3cU0_RqF7WCr0YAsq-q=s2048" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgc3fP9oiXoOKMKO1Ny89yg2Va-Ht962hwjfvmyAfjV5P4xRY8ZFEQQlngVoWFxOiBYq13ERZjKmXv5aJdb8kieH1AkKOzirPxMMyjX7IcD9OjLCHnoy_s5mST0rgrq5SRycgnN9OuY_r6Wo3brRex8O-qI6rcAv73t0ttE9MLS8jV-CcnKQYvlp-b6=s2048" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh6q6HLG3qZS8IkLWHV1NhdUrz4080gfTkt0LEXDjDsfl0WBJ0kfav2iyvQkJq3meftBbtVxhPWkKTLRKN0s2tkI8LHQlQd4XoKStj6sgMC5ehOhLzD7i90QANmFlL73w6tLwUATw5BS60RhQk4cUrSXT9JQNjwIFi3LbYPKSW4zF2mSmFHPtWsQhUa=s2048" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_1c9cc06bf9a721ba72a71c23237562ca.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_54dbbeed4aceec315e67b95c8b0246bd.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg5y5qiBwU_GvqdpKqXnMu_pPFWLFsYxW15ewqTZAyRNFZ4rOerwAh3u-ChEHW7t8G2Tg1CpIyWMOQxc7F3movYMn5Gv-RVKYfaG_lS9pI31yXxkgvz_YAnHJd5ljo8_A1tEd-ZALuwY2M5RNx5yk8BMRWg8UvXM0UIrSicgQ2go56sdCFqc8NGnTuE=s2048" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhXv3XAGQpU-2Vqo9OWMEv00mlx-0c086bG7YAc9UMXERLSm72ihBd9e04OaHZ3U1708BJDTG1wqdr7aAiTh61_83GDP3q5jf93FIKopkffcfuc9aeSPnyza6GxFrs5oe9H2gc-aLh_MdGI9IZlDC_yyYVnDqLaLknnjxqezS5d2rGFZZlYHsYM1fPC=s2048" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+接近南霞山，稜線西側展望點，可見棚幾山，以及整個楠梓仙溪溪谷
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj0DSTfQV8C4JvnfTgL7QSqwRS4dxP9pmkqZIoySsxLS2U2GKCoczAH1PJYV5QXRiBBSIgElSZ2fbaf53a7NLqJjt7RVoTvC1G6kaGhyfUS4SDJIB7AYYk3iA3fRwJnYROt62EvFzL-gUJBvDIo_bQYQrR09ZJMYDm_b7MDbmoeDHJkesMJ1VceVMCw=s2048" alt="嘉義阿里山南霞山望向棚幾山">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_3a8d1928f436a8db1782ed713f594c8c.jpg" alt="嘉義棚幾山以及楠梓仙溪溪谷">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_cbdbf7e333d97cdabff0d5bbd1793a5c.jpg" alt="南霞山望向脈脈山與雞子山">
+  <figcaption> 北側可見脈脈山與雞子山 </figcaption>
+</figure> 
+
+向西南方望去，可見楠梓仙溪谷兩側的山，右側的棚幾山以及左側的楠梓仙山、新望嶺。
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjz8wiXL-e4fivWqUWYgAdOncuv-AWMj-INVJYv_0DBrZJBpRoq8zzAn1SJjRXUy2AstkPhq98o9uyIW9IcLowhAMq2mgfNPEV3uBwPND-CwENP1qnTfhD9l_uT9r1kHwdkWtuYRPeNc0VuY9EPIsJ_CCuSfP8CY5G1BZN9hv-u8WIIt_7Ne6I4lfW7=s2048" alt="嘉義南霞山望向楠梓仙山以及新望嶺">
+  <figcaption> 楠梓仙山與新望嶺 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_a6ab69d43d4d850614c06b688c195dc3.jpg" alt="南霞山望向楠梓仙溪谷">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_211bfb450b4bf9aeb2fcc9e8bd123ff3.jpg" alt="嘉義南霞山望向玉山群峰">
+  <figcaption> 南霞山頂附近還可以看見玉山群峰 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhy9xa3--0fr2yZbNcmUOz-naf0wUlYwPyFyMs3JD6pnCmLizg2b8d2wpPTXm5JnONsFT1QGvtvXI2NVh5ovqSvzf47kKOz431EBrUtQ3knMTdg-14ZJhfp7SI1GiIeVbmn7LAFs9PG3E0K5kcXsl6P5waIbuemtNHe4DPqBTAbOw0n4pq-roAiGj27=s2048" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi9QSX3OVNGM40PlJKEIgInnMQWiscusMeKOMdvz7ICaMoY2t6WpZvNu1DuLkq2K2fVwS5SqS7cXtoP7DgILYRgmnXNEbcj65VYwGgQJn_GUULkJB_9VwHiX1XmW79iv2-KtogENmOFPCLN2MSRZxzieY0_YBrXHwRoXmx80DP1uRc7Iw8ktjXGo0Er=s2048" alt="">
+  <figcaption> 登頂南霞山前最後上坡 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEitNBLMXY0ptZ1XTft0ydvb321neRo6SlFptIBJJABQNwa5RpozetpJH8BgtI1CJUoOmk-TqFbkSdU87L3qfPGhPPjq1r1wivsaNTnGvbvE3X3aTWesUH8UpYAnZuKR9k_YAhUXJsiSU4zRTM8eKs_d60Sjx0Q_aZ171tBTMoamAePghcQOXge_2jRf=s2048" alt="">
+  <figcaption> 南霞山山頂 三等三角點一座 </figcaption>
+</figure>
+
+南霞山為此稜線上最後一座山頭，從阿里山公路沿著稜線走來，已經下降了900多公尺，稜線從南霞山往南後，便開始下降至溪谷中。
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgdVBKAq726a3XLdw3DOmWUgknELf9NCd__MeyBmASBkvOjIMs9keNyW_tk_EzRQR7m-NM6qngMQPdoEogaDYTvvKIc5tPSD2ajRjZS9lJgV5aLS1VhyBuzixHdTGiactVNXLiYProo7QmWH6NnXObBYPSF6q7VdqfxJpQNSSjKY5rKjb9lZ_cfFPU6=s2048" alt="">
+  <figcaption> 南霞山頂往南望去展望 </figcaption>
+</figure>
+
+在山頂休息片刻後，便啟程準備回營地。
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhpNvx28784HAIvpbDSL4YKmU_pbp-gKOmtZ7FbPiHnuVImW2-R0SZmkoLyiuyzRCuW5BSOyzfURxoeb_dtjeB0XHREgMSJcN3ven6phh-BT_Qo7rWoopk1_Kjk7KXYcuAXsdDG6G2b61_ba2BuituDqmsfc51u7Qh0KddKcZJ451LZmI9dXb9Nbk9u=s2048" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjpQxNDr12Xf1063XpAYufxPcbPgFH90tn5WLcWSDkrT7xn1UJcqGLj5oeDeMftjATvFXQygfsz7LLvF0oqACvtMg5gWEMKuk-U0wht4syQ1gPBIE5VAHgss06EWoK1U4KB0tBpAG8ybrMDK-QCEvQKyyBL4pabVi_JK373b4OZpx0FsOWEjQBgSe8H=s2048" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_c37f84e7759455258eed93aa3ceae53b.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_56e9428d5dc1f303497c292726629b1a.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+回程，我們先往獵徑上的水源處取水。
+獵徑路有幾處腰繞坡面比較陡，不是很好走。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_31b48a8f0c830b5309d5765572034ec1.jpg" alt="">
+  <figcaption> 獵徑大石區 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_60e6f8ac350c3f03be2fccbae4c2dea3.jpg" alt="">
+  <figcaption> 獵徑坡面，注意行走 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_96a6240f64e911c8c593b32a697ca4a4.jpg" alt="">
+  <figcaption> 霞山西南側的獵徑獵寮營地 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_d3bf51956ec1cd5321002ea7317ddc41.jpg" alt="">
+  <figcaption> 獵徑水源 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_e1069c177c7833f0b747f11342e06d15.jpg" alt="">
+  <figcaption> 獵徑水源 </figcaption>
+</figure> 
+
+在獵徑水源處休息片刻，煮了一點熱的。大約下午五點準備回程，眼看只剩一小時天就要黑了。考慮沿著獵徑走回霞山西南稜鞍部獵寮，大概需要40分鐘，再從早上的路走回去，大概還需要一小時。看了一下地圖，從水源獵寮這邊的稜線上到霞山，地形應該不會太複雜。從等高線上看起來應該是個寬稜，沒有斷頭稜。所以我們決定直接從水源獵寮這邊往霞山切上去。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_3e08023689f4b198958af18b8ee574f5.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_b33bd97dafa42b945ca55220acee3922.jpg" alt="">
+  <figcaption> 巨木三兄弟 </figcaption>
+</figure> 
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_d2d1cbe7e75bec686c4e8aa7366ab7ea.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="" alt="">
+  <img src="https://cdntwrunning.biji.co/1024_4cfae1436fece048124040bdf3d18f3b.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
+
+傍晚17:50，我們花了50分鐘從獵寮水源那邊回到營地，天還微亮，沒開到頭燈，今天行程順利結束。  
+翌日早上六點，從營地出發回程，準備回家。看天氣預報，最後這天天氣開始轉差，東北風開始變強，可見玉山方向已經是烏雲密佈，沿途有網路的地方看了一下氣象局的累積雨量圖，中央山脈東側累積雨量已經變成橘黃色了。好險中央山脈與玉山山脈兩屏障，幫我們擋掉大部分的雨了。  
+循原路回程，我們於中午12:20回到停車處。順利完成阿里山三霞之旅。  
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_d5de31113dadd0856857538bec666af5.jpg" alt="">
+  <figcaption> 恐龍蛋岩 </figcaption>
+</figure>
+
+## 圖文系列
+{% include feature_row %}
