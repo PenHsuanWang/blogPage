@@ -14,28 +14,28 @@ tags:
   - 中央山脈馬博橫斷
 
 feature_row:
-  - image_path: https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s4032/IMG_6166.JPG
+  - image_path: https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s1024/IMG_6166.JPG
     title: "盆駒西北稜(一) 郡大溪谷的深處"
     excerpt: "由無雙吊橋旁的郡大溪谷開始上攀，盆駒山西北稜由海拔1450公尺開始陡升至三千公尺高的盆駒山。這是經典的非傳統路線攀登百岳路線之一。早年鹿野忠雄就是經由這一條路線探查馬博拉斯山以及秀姑巒山的。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day1/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG
+  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s1024/IMG_7509.JPG
     title: "盆駒西北稜(二) 被世人遺忘的稜線"
     excerpt: "這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s2048/IMG_8119.JPG
+  - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s1024/IMG_8119.JPG
     title: "盆駒西北稜(四) 夜行秀姑巒"
     excerpt: "於海拔3700公尺高的稜線上，頂著凌晨三點的強風，我們在黑夜中向秀姑巒前進。好在登頂秀姑巒前的稜線上忽然雲霧散開，我們迎接了朝陽。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day4/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s2048/IMG_8365.JPG
+  - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s1024/IMG_8365.JPG
     title: "盆駒西北稜(五) 歸途再訪八通關大山"
     excerpt: "歸途最後一座百岳，八通關大山，也是我大一參加中央山社後爬的第一座百岳。這次我們完成了盆駒西北稜，精疲力竭之際，還要再爬上八通關大山前的好漢坡，證明大家都是真英雄。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day5/"
@@ -45,13 +45,13 @@ feature_row:
 
 header:
   image: https://1.bp.blogspot.com/-Y2eOv9buZbk/YJQCQhWgdaI/AAAAAAABPRQ/nzSkdJJ4hR0-5Yw8LcncCN31osYgXW1WwCLcBGAsYHQ/s3180/IMG_7708.JPG
-  teaser : https://1.bp.blogspot.com/-wyFCx0MWT_Y/YJKqFItKc2I/AAAAAAABPL4/SjuGAuCflPw-G4Nbv8natTMXCG3wW8zVwCLcBGAsYHQ/s2048/IMG_7713.JPG
+  teaser : https://1.bp.blogspot.com/-wyFCx0MWT_Y/YJKqFItKc2I/AAAAAAABPL4/SjuGAuCflPw-G4Nbv8natTMXCG3wW8zVwCLcBGAsYHQ/s1024/IMG_7713.JPG
   image_description: ""
   overlay_filter: 0.5
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-JoK8WdXzN2k/YJKp8c99FBI/AAAAAAABPLs/8b1sotlRToI70THVUvQk0FJFJB8muducwCLcBGAsYHQ/s2048/IMG_7708.JPG" alt="郡大溪底登頂盆駒山走向馬博拉斯山">
+  <img src="https://1.bp.blogspot.com/-JoK8WdXzN2k/YJKp8c99FBI/AAAAAAABPLs/8b1sotlRToI70THVUvQk0FJFJB8muducwCLcBGAsYHQ/s1024/IMG_7708.JPG" alt="郡大溪底登頂盆駒山走向馬博拉斯山">
   <figcaption>  </figcaption>
 </figure>  
 
@@ -63,7 +63,7 @@ header:
 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-noi04JZjhXk/YJKtMU95xXI/AAAAAAABPM8/aW_5SnvUCO4oKk_Yg3OotuoMWANAXB2hwCLcBGAsYHQ/s2048/IMG_6388.jpg" alt="盆駒山西稜的栓皮櫟稜線">
+  <img src="https://1.bp.blogspot.com/-noi04JZjhXk/YJKtMU95xXI/AAAAAAABPM8/aW_5SnvUCO4oKk_Yg3OotuoMWANAXB2hwCLcBGAsYHQ/s1024/IMG_6388.jpg" alt="盆駒山西稜的栓皮櫟稜線">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -76,22 +76,22 @@ header:
 從郡大溪底開始攀登，我們於行程第三天早晨抵達盆駒山，離開森林到達草原的這一刻，太陽也從南三段稜線上出來迎接我們。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-jtBSNgW9yhg/YJP2BRdekPI/AAAAAAABPQ4/qLDvFp2WQHA69n76sSml-VuJCcJw20AIwCLcBGAsYHQ/s4032/IMG_6342.JPG" alt="盆駒西北稜登頂">
+  <img src="https://1.bp.blogspot.com/-jtBSNgW9yhg/YJP2BRdekPI/AAAAAAABPQ4/qLDvFp2WQHA69n76sSml-VuJCcJw20AIwCLcBGAsYHQ/s1024/IMG_6342.JPG" alt="盆駒西北稜登頂">
   <figcaption> 離開松樹林，抵達盆駒山前草坡 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-7HVZG5rueGE/YJKpZiV6O-I/AAAAAAABPLI/9Bim87uzJAMysZWJdYmPGF6uG-r0NQ4agCLcBGAsYHQ/s2048/IMG_7648.JPG" alt="盆駒山山頂望向南三段稜線上的日出">
+  <img src="https://1.bp.blogspot.com/-7HVZG5rueGE/YJKpZiV6O-I/AAAAAAABPLI/9Bim87uzJAMysZWJdYmPGF6uG-r0NQ4agCLcBGAsYHQ/s1024/IMG_7648.JPG" alt="盆駒山山頂望向南三段稜線上的日出">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-akFrPw80O8w/YJKpYHunXNI/AAAAAAABPLE/7tMPVby53r8IIjmsWHkcYL_du5xDEk5qQCLcBGAsYHQ/s2048/IMG_7653.JPG" alt="由盆駒山望向南三段群峰的無雙山">
+  <img src="https://1.bp.blogspot.com/-akFrPw80O8w/YJKpYHunXNI/AAAAAAABPLE/7tMPVby53r8IIjmsWHkcYL_du5xDEk5qQCLcBGAsYHQ/s1024/IMG_7653.JPG" alt="由盆駒山望向南三段群峰的無雙山">
   <figcaption> 南三段稜線上的無雙山以及儲山 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-6lqJp50QmQ8/YJP2CXr7gpI/AAAAAAABPQ8/7Rx9syKP6sc1iM6slXGEyeJqx0eZvctUACLcBGAsYHQ/s4032/IMG_6346.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-6lqJp50QmQ8/YJP2CXr7gpI/AAAAAAABPQ8/7Rx9syKP6sc1iM6slXGEyeJqx0eZvctUACLcBGAsYHQ/s1024/IMG_6346.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -99,19 +99,19 @@ header:
 多月不雨，看天池都乾涸了。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-SiWSKlW2yhE/YJKpeGXhKjI/AAAAAAABPLM/kOIg1WiK7GMPEB97NW9OqyHf__-nllaYgCLcBGAsYHQ/s2048/IMG_7656.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-SiWSKlW2yhE/YJKpeGXhKjI/AAAAAAABPLM/kOIg1WiK7GMPEB97NW9OqyHf__-nllaYgCLcBGAsYHQ/s1024/IMG_7656.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-2UhSR3S2qJI/YJKpse62WjI/AAAAAAABPLY/lv7CgSeBmJw7TQ39uv0xL164Xu9pX_b6gCLcBGAsYHQ/s2048/IMG_7668.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-2UhSR3S2qJI/YJKpse62WjI/AAAAAAABPLY/lv7CgSeBmJw7TQ39uv0xL164Xu9pX_b6gCLcBGAsYHQ/s1024/IMG_7668.JPG" alt="">
   <figcaption> 盆駒山山頂，二等三角點 </figcaption>
 </figure> 
 
 盆駒山頂休息，可見馬博拉斯山...等等我們要爬到那個地方(光看就覺得好累呀!!!)
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-zMKwm293KS4/YJP1m3jSxaI/AAAAAAABPQs/hR6955guWoMn5HKnW7zWPSMVpgdlWmpBQCLcBGAsYHQ/s4032/IMG_6375.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-zMKwm293KS4/YJP1m3jSxaI/AAAAAAABPQs/hR6955guWoMn5HKnW7zWPSMVpgdlWmpBQCLcBGAsYHQ/s1024/IMG_6375.JPG" alt="">
   <figcaption> 手機滑起來 </figcaption>
 </figure> 
 
@@ -120,7 +120,7 @@ header:
 嚴重的話還可能休克，千萬要小心呀!!  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-sfsBUx1rjIY/YJP2UNS8OLI/AAAAAAABPRI/NXDEQCqpvusOu7TL-phCKBuricpUbdA7gCLcBGAsYHQ/s2048/IMG_7663.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-sfsBUx1rjIY/YJP2UNS8OLI/AAAAAAABPRI/NXDEQCqpvusOu7TL-phCKBuricpUbdA7gCLcBGAsYHQ/s1024/IMG_7663.JPG" alt="">
   <figcaption> 口雖然很渴，但這樣吸到的花蜜還是有限吧XD  這花有毒要小心啊 </figcaption>
 </figure> 
 
@@ -129,7 +129,7 @@ header:
 這是我的第48座百岳(按照這個進度可以在秀姑巒完成半百)。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-qTqoI3jcawc/YJP1mmyNbpI/AAAAAAABPQo/mSIHLAamr3c5klBvENwKbTNWIgq39oyfwCLcBGAsYHQ/s4032/IMG_6384.JPG" alt="盆駒山">
+  <img src="https://1.bp.blogspot.com/-qTqoI3jcawc/YJP1mmyNbpI/AAAAAAABPQo/mSIHLAamr3c5klBvENwKbTNWIgq39oyfwCLcBGAsYHQ/s1024/IMG_6384.JPG" alt="盆駒山">
   <figcaption> 盆駒山山頂，百岳+1 </figcaption>
 </figure> 
 
@@ -137,24 +137,24 @@ header:
 接下來的路是一路爬坡，要爬上海拔三千七百多公尺高的馬博拉斯山...  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-5rA7Wt9gFB8/YJKp0sBbjDI/AAAAAAABPLk/1qKbQmhexi8UKN9bh8IqqTnWbwe1jORDwCLcBGAsYHQ/s2048/IMG_7705.JPG" alt="盆駒山登山路線走向馬博拉斯山">
+  <img src="https://1.bp.blogspot.com/-5rA7Wt9gFB8/YJKp0sBbjDI/AAAAAAABPLk/1qKbQmhexi8UKN9bh8IqqTnWbwe1jORDwCLcBGAsYHQ/s1024/IMG_7705.JPG" alt="盆駒山登山路線走向馬博拉斯山">
   <figcaption> 盆駒山出發，一行人繼續向馬博前進 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-wyFCx0MWT_Y/YJKqFItKc2I/AAAAAAABPL4/SjuGAuCflPw-G4Nbv8natTMXCG3wW8zVwCLcBGAsYHQ/s2048/IMG_7713.JPG" alt="盆駒谷大草原">
+  <img src="https://1.bp.blogspot.com/-wyFCx0MWT_Y/YJKqFItKc2I/AAAAAAABPL4/SjuGAuCflPw-G4Nbv8natTMXCG3wW8zVwCLcBGAsYHQ/s1024/IMG_7713.JPG" alt="盆駒谷大草原">
   <figcaption> 盆駒山稜附近都是大草原緩坡 </figcaption>
 </figure> 
 
 盆駒山的早晨帶著薄霧，一行人踏上前往馬博拉斯山的山徑。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-OMupnAEyV60/YJKqLc2okrI/AAAAAAABPL8/z3k3YkFA534vanTKzhcxlcjuuoJKn_rYwCLcBGAsYHQ/s2048/IMG_7719.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-OMupnAEyV60/YJKqLc2okrI/AAAAAAABPL8/z3k3YkFA534vanTKzhcxlcjuuoJKn_rYwCLcBGAsYHQ/s1024/IMG_7719.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kONUmjc02fc/YJKqNN4qHGI/AAAAAAABPMA/7G5vrAkDsgEuZ-oFmy5jCyTTw7rC3fi-QCLcBGAsYHQ/s2048/IMG_7728.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-kONUmjc02fc/YJKqNN4qHGI/AAAAAAABPMA/7G5vrAkDsgEuZ-oFmy5jCyTTw7rC3fi-QCLcBGAsYHQ/s1024/IMG_7728.JPG" alt="">
   <figcaption> 馬醉木 </figcaption>
 </figure> 
 
@@ -163,17 +163,17 @@ header:
 我們從郡大溪背上來的水省著喝是還夠，但如果這裡的看天池有水可以取的話，我們就可以喝得揮霍一點了XD  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ogSnGVpWTQM/YJKq3p-G9fI/AAAAAAABPMk/bZMdVfXj2hA9gr7co7spRmGGx3Itna1vACLcBGAsYHQ/s4032/IMG_6401.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-ogSnGVpWTQM/YJKq3p-G9fI/AAAAAAABPMk/bZMdVfXj2hA9gr7co7spRmGGx3Itna1vACLcBGAsYHQ/s1024/IMG_6401.JPG" alt="">
   <figcaption> 前往盆駒山中峰前的看天池都乾涸了 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-6m7g95Cu3KM/YJKqWVS09fI/AAAAAAABPME/9zRGg2WOGuY11byMIkmpUvqebkf3LHubwCLcBGAsYHQ/s2048/IMG_7732.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-6m7g95Cu3KM/YJKqWVS09fI/AAAAAAABPME/9zRGg2WOGuY11byMIkmpUvqebkf3LHubwCLcBGAsYHQ/s1024/IMG_7732.JPG" alt="">
   <figcaption> 抵達盆駒山中峰 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-SZFD05LOIVQ/YJKq5p6x02I/AAAAAAABPMs/cZuBfwOMQp4ipOJTxZlqvchYQPZx3NUvgCLcBGAsYHQ/s4032/IMG_6409.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-SZFD05LOIVQ/YJKq5p6x02I/AAAAAAABPMs/cZuBfwOMQp4ipOJTxZlqvchYQPZx3NUvgCLcBGAsYHQ/s1024/IMG_6409.JPG" alt="">
   <figcaption> 盆駒山中峰 無基點 </figcaption>
 </figure> 
 
@@ -181,24 +181,24 @@ header:
 但還是乾了...  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-2W7QWSLarHQ/YJKq3JnTbGI/AAAAAAABPMc/OwdKjhLnQ3s5Bq-PxCfobxCuKMjSis-eACLcBGAsYHQ/s4032/IMG_6404.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-2W7QWSLarHQ/YJKq3JnTbGI/AAAAAAABPMc/OwdKjhLnQ3s5Bq-PxCfobxCuKMjSis-eACLcBGAsYHQ/s1024/IMG_6404.JPG" alt="">
   <figcaption> 沒水QQ </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-vxY2l-HV1-c/YJKq3oDXNSI/AAAAAAABPMg/4dyOIUyAC1Mta4ggU9gUhGTgfB7I8M7hQCLcBGAsYHQ/s4032/IMG_6407.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-vxY2l-HV1-c/YJKq3oDXNSI/AAAAAAABPMg/4dyOIUyAC1Mta4ggU9gUhGTgfB7I8M7hQCLcBGAsYHQ/s1024/IMG_6407.JPG" alt="">
   <figcaption> 跳祈雨舞的展華... </figcaption>
 </figure> 
 
 原先有兩人想要下切盆駒山中峰下的溪谷，通常住在盆駒山中峰營地的水源都是前往這個溪谷取的，正常時節應該20分鐘可以來回，但在這久旱不雨的季節，要取到水不知道要切多深。最後我們放棄下切取水的念頭，直接衝到馬博山屋好像比較實際一點(山屋雨水收集器還有半桶)  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-dB4NokBzyCI/YJKqZXVljdI/AAAAAAABPMI/ZZdKKdsat48UYck3wkr7dip-ZxELyjiowCLcBGAsYHQ/s2048/IMG_7735.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-dB4NokBzyCI/YJKqZXVljdI/AAAAAAABPMI/ZZdKKdsat48UYck3wkr7dip-ZxELyjiowCLcBGAsYHQ/s1024/IMG_7735.JPG" alt="">
   <figcaption> 盆駒山中峰出發 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-xDtxHZD65Qc/YJPrxulkCNI/AAAAAAABPNM/BFTN95fRfl8gRg0GVju4Swz8-4BYy3TJACLcBGAsYHQ/s2048/IMG_7741.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-xDtxHZD65Qc/YJPrxulkCNI/AAAAAAABPNM/BFTN95fRfl8gRg0GVju4Swz8-4BYy3TJACLcBGAsYHQ/s1024/IMG_7741.JPG" alt="">
   <figcaption> 鞍部眺望盆駒山南峰前的假山頭 </figcaption>
 </figure> 
 
@@ -207,77 +207,77 @@ header:
 別怕別怕，這只是開胃菜  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-daeS4vFgOb8/YJPr0wsqJTI/AAAAAAABPNQ/yL6CILkp75YlERg2Sjq27X9Hk7Q8pR3OwCLcBGAsYHQ/s2048/IMG_7743.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-daeS4vFgOb8/YJPr0wsqJTI/AAAAAAABPNQ/yL6CILkp75YlERg2Sjq27X9Hk7Q8pR3OwCLcBGAsYHQ/s1024/IMG_7743.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kJXEe-aRuCo/YJPsxkds5aI/AAAAAAABPNc/3QgXXx5FfUgazvYwYCBrsvPFvFaLdKJhACLcBGAsYHQ/s2048/IMG_7751.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-kJXEe-aRuCo/YJPsxkds5aI/AAAAAAABPNc/3QgXXx5FfUgazvYwYCBrsvPFvFaLdKJhACLcBGAsYHQ/s1024/IMG_7751.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 向西方望去，可見郡大溪谷，以及對面隱身於薄霧中的玉山山脈  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-lT5CMeiqqsE/YJPs8k7o5LI/AAAAAAABPNg/1ftltsjGw4QyntHQ-Yzv6X34yLem6MUAACLcBGAsYHQ/s2048/IMG_7758.JPG" alt="盆駒山南峰登山路線眺望台灣最高的玉山">
+  <img src="https://1.bp.blogspot.com/-lT5CMeiqqsE/YJPs8k7o5LI/AAAAAAABPNg/1ftltsjGw4QyntHQ-Yzv6X34yLem6MUAACLcBGAsYHQ/s1024/IMG_7758.JPG" alt="盆駒山南峰登山路線眺望台灣最高的玉山">
   <figcaption> 盆駒山南峰前眺望玉山 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-rV_cPN--Hqk/YJPs85k57YI/AAAAAAABPNk/5rxcUGXeFcgb9UHfKjiuWVJB3WI8fndLgCLcBGAsYHQ/s2048/IMG_7766.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-rV_cPN--Hqk/YJPs85k57YI/AAAAAAABPNk/5rxcUGXeFcgb9UHfKjiuWVJB3WI8fndLgCLcBGAsYHQ/s1024/IMG_7766.JPG" alt="">
   <figcaption> 重裝陡上好漢坡 </figcaption>
 </figure>
 
 結束第一段陡上後回望盆駒山以及盆駒山中峰。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kJ894Gf5l3M/YJPtKosbwgI/AAAAAAABPNo/NKwpKD4d7DcmINk4mMEA-x7FBFJWTDZggCLcBGAsYHQ/s2048/IMG_7768.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-kJ894Gf5l3M/YJPtKosbwgI/AAAAAAABPNo/NKwpKD4d7DcmINk4mMEA-x7FBFJWTDZggCLcBGAsYHQ/s1024/IMG_7768.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-2xfEY2Wqcas/YJPtUD-zStI/AAAAAAABPNw/srKRyWexZvcE_Gc4yKvwreYHqeni4nDdwCLcBGAsYHQ/s2048/IMG_7769.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-2xfEY2Wqcas/YJPtUD-zStI/AAAAAAABPNw/srKRyWexZvcE_Gc4yKvwreYHqeni4nDdwCLcBGAsYHQ/s1024/IMG_7769.JPG" alt="">
   <figcaption> 石門 </figcaption>
 </figure>
 
 第一段好漢坡陡上結束後，沿著向東南方折過去的緩稜走向盆駒山南峰。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ndQbknAUA_U/YJPtcEn-4gI/AAAAAAABPN4/2i8tmaEHEdYW7hPr-ucIfdVJmCBfQnLuQCLcBGAsYHQ/s2048/IMG_7782.JPG" alt="盆駒山南峰">
+  <img src="https://1.bp.blogspot.com/-ndQbknAUA_U/YJPtcEn-4gI/AAAAAAABPN4/2i8tmaEHEdYW7hPr-ucIfdVJmCBfQnLuQCLcBGAsYHQ/s1024/IMG_7782.JPG" alt="盆駒山南峰">
   <figcaption> 沿著稜線望向盆駒山南峰 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-yziPuVXyu4A/YJPtfUiVHAI/AAAAAAABPN8/pof9MjxwuMkKytSSJgC4sFSAKD--ddKmwCLcBGAsYHQ/s2048/IMG_7800.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-yziPuVXyu4A/YJPtfUiVHAI/AAAAAAABPN8/pof9MjxwuMkKytSSJgC4sFSAKD--ddKmwCLcBGAsYHQ/s1024/IMG_7800.JPG" alt="">
   <figcaption> 馬博拉斯山就在那裏... </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-VGQYGq8g8QQ/YJPtiDVnbhI/AAAAAAABPOA/HEtcK9Uoum8Sj-jF7nZ4oScfr8MPcnoFACLcBGAsYHQ/s2048/IMG_7817.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-VGQYGq8g8QQ/YJPtiDVnbhI/AAAAAAABPOA/HEtcK9Uoum8Sj-jF7nZ4oScfr8MPcnoFACLcBGAsYHQ/s1024/IMG_7817.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-VOZ2N3OpLSM/YJPt2h4LAfI/AAAAAAABPOQ/7XSCiwJ5zv8Qp5eZ6aGkIGH2GS53hlGtwCLcBGAsYHQ/s2048/IMG_7818.JPG" alt="盆駒山南峰">
+  <img src="https://1.bp.blogspot.com/-VOZ2N3OpLSM/YJPt2h4LAfI/AAAAAAABPOQ/7XSCiwJ5zv8Qp5eZ6aGkIGH2GS53hlGtwCLcBGAsYHQ/s1024/IMG_7818.JPG" alt="盆駒山南峰">
   <figcaption>  </figcaption>
 </figure>
 
 登頂盆駒山南峰，海拔3440公尺，回望盆駒山  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-hbTysfUA_j4/YJPt388GtBI/AAAAAAABPOU/3TgDZid5px4lCnlYgl6v5QGsSieLKPwVwCLcBGAsYHQ/s2048/IMG_7822.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-hbTysfUA_j4/YJPt388GtBI/AAAAAAABPOU/3TgDZid5px4lCnlYgl6v5QGsSieLKPwVwCLcBGAsYHQ/s1024/IMG_7822.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Q9Q8O4RP8wg/YJPygjQ_C4I/AAAAAAABPQQ/Mp2BqKVjwaAwyRFXCoceCnlTZy4_TR0YQCLcBGAsYHQ/s2048/182510957_800830927526838_168197169493538265_n.jpg" alt="">
+  <img src="https://1.bp.blogspot.com/-Q9Q8O4RP8wg/YJPygjQ_C4I/AAAAAAABPQQ/Mp2BqKVjwaAwyRFXCoceCnlTZy4_TR0YQCLcBGAsYHQ/s1024/182510957_800830927526838_168197169493538265_n.jpg" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 天氣太熱，在杜鵑花叢下躲太陽休息，接下來還有三百多公尺的高度上升呢!  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-riJaJRHoS0M/YJPuA1y2FEI/AAAAAAABPOY/vItog_FkGNwbhDbvJ3j5dIw46GVjOKbEgCLcBGAsYHQ/s2048/IMG_7828.JPG" alt="盆駒山南峰眺望秀馬群峰">
+  <img src="https://1.bp.blogspot.com/-riJaJRHoS0M/YJPuA1y2FEI/AAAAAAABPOY/vItog_FkGNwbhDbvJ3j5dIw46GVjOKbEgCLcBGAsYHQ/s1024/IMG_7828.JPG" alt="盆駒山南峰眺望秀馬群峰">
   <figcaption> 盆駒山南峰望向秀馬 </figcaption>
 </figure>
 
@@ -286,42 +286,42 @@ header:
 馬博拉斯山為十峻之一，秀姑巒山為五嶽。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-aCDZ7wgRhHE/YJPuKyAB7MI/AAAAAAABPOo/Wifd3t2HRJcycwFfQbscuOKfLXwvlhZ2ACLcBGAsYHQ/s2048/IMG_7835.JPG" alt="盆駒山南峰前進攀登馬博拉斯山">
+  <img src="https://1.bp.blogspot.com/-aCDZ7wgRhHE/YJPuKyAB7MI/AAAAAAABPOo/Wifd3t2HRJcycwFfQbscuOKfLXwvlhZ2ACLcBGAsYHQ/s1024/IMG_7835.JPG" alt="盆駒山南峰前進攀登馬博拉斯山">
   <figcaption> 向馬博拉斯山前進 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-FZA_TxXA9C8/YJPuKCX4nHI/AAAAAAABPOk/YnW3zfmgvzw-d73-QP8cZXqn25f-cO6_gCLcBGAsYHQ/s2048/IMG_7840.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-FZA_TxXA9C8/YJPuKCX4nHI/AAAAAAABPOk/YnW3zfmgvzw-d73-QP8cZXqn25f-cO6_gCLcBGAsYHQ/s1024/IMG_7840.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-DHxEW1EeT1s/YJPueFb78cI/AAAAAAABPO4/tH5l3hsnNAM79hWuN1m1pVCC_Z7NPEHlwCLcBGAsYHQ/s2048/IMG_7845.JPG" alt="馬博拉斯山縱走">
+  <img src="https://1.bp.blogspot.com/-DHxEW1EeT1s/YJPueFb78cI/AAAAAAABPO4/tH5l3hsnNAM79hWuN1m1pVCC_Z7NPEHlwCLcBGAsYHQ/s1024/IMG_7845.JPG" alt="馬博拉斯山縱走">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-0mRzsM31eqs/YJPucGbMo-I/AAAAAAABPO0/DW3sEk9R2CImEW-Y2zicRRnc0zLzJ95KACLcBGAsYHQ/s2048/IMG_7849.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-0mRzsM31eqs/YJPucGbMo-I/AAAAAAABPO0/DW3sEk9R2CImEW-Y2zicRRnc0zLzJ95KACLcBGAsYHQ/s1024/IMG_7849.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-lKjXSjP0Bwg/YJPugfqOJVI/AAAAAAABPO8/Q2GECnUx3HoBUi0H0h3mYh0AzBdhJ-c2gCLcBGAsYHQ/s2048/IMG_7862.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-lKjXSjP0Bwg/YJPugfqOJVI/AAAAAAABPO8/Q2GECnUx3HoBUi0H0h3mYh0AzBdhJ-c2gCLcBGAsYHQ/s1024/IMG_7862.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ooRSLg1SJpc/YJPu1YlUOHI/AAAAAAABPPM/FQVPe4eNC1sVUeR0NJ8PLO0ID2LozA1qwCLcBGAsYHQ/s2048/IMG_7867.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-ooRSLg1SJpc/YJPu1YlUOHI/AAAAAAABPPM/FQVPe4eNC1sVUeR0NJ8PLO0ID2LozA1qwCLcBGAsYHQ/s1024/IMG_7867.JPG" alt="">
   <figcaption> 攀登馬博拉斯山前假山頭 </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-hAedk_6YmvQ/YJPu0gEn7GI/AAAAAAABPPI/pJfboaqqFfYAfgXg_Ygxe_OCfFAPs-RVACLcBGAsYHQ/s2048/IMG_7899.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-hAedk_6YmvQ/YJPu0gEn7GI/AAAAAAABPPI/pJfboaqqFfYAfgXg_Ygxe_OCfFAPs-RVACLcBGAsYHQ/s1024/IMG_7899.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Sr1CKTOi748/YJPu6_xsA2I/AAAAAAABPPQ/1zvpSKCj4vEHCPm6ei0bIs9BD0wnxA4NwCLcBGAsYHQ/s2048/IMG_7917.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-Sr1CKTOi748/YJPu6_xsA2I/AAAAAAABPPQ/1zvpSKCj4vEHCPm6ei0bIs9BD0wnxA4NwCLcBGAsYHQ/s1024/IMG_7917.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
@@ -329,31 +329,31 @@ header:
 正整片山坡長滿玉山圓柏灌木。海拔三千七百公尺以上的植披，跟玉山南峰向小東南山方向的稜線相像。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-LQkKDDQEkns/YJPvGWBV5RI/AAAAAAABPPc/xGAxOieqCJAkdCSTdvvS0UGXwTVyA8agACLcBGAsYHQ/s2048/IMG_7932.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-LQkKDDQEkns/YJPvGWBV5RI/AAAAAAABPPc/xGAxOieqCJAkdCSTdvvS0UGXwTVyA8agACLcBGAsYHQ/s1024/IMG_7932.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-MtKNBC5eGOU/YJPvIk0A1tI/AAAAAAABPPg/pEHWua-TW24M6yfMdkkI-s9h-FL2nhhnQCLcBGAsYHQ/s2048/IMG_7955.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-MtKNBC5eGOU/YJPvIk0A1tI/AAAAAAABPPg/pEHWua-TW24M6yfMdkkI-s9h-FL2nhhnQCLcBGAsYHQ/s1024/IMG_7955.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 下午一點整，登頂馬博拉斯山頂拉(灑花)!!!
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-fdm1-ra5nu0/YJPvJK8-BEI/AAAAAAABPPk/TGNu7ohYkikvDt8SHYs99UMh7wB5-B7NwCLcBGAsYHQ/s2048/IMG_7973.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-fdm1-ra5nu0/YJPvJK8-BEI/AAAAAAABPPk/TGNu7ohYkikvDt8SHYs99UMh7wB5-B7NwCLcBGAsYHQ/s1024/IMG_7973.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-F_Hvr0y1jy0/YJPwPQJCaVI/AAAAAAABPP8/7v0C2TYNQ0YhzfMCVnsBcqcjhRFRx4xkwCLcBGAsYHQ/s4032/IMG_6461.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-F_Hvr0y1jy0/YJPwPQJCaVI/AAAAAAABPP8/7v0C2TYNQ0YhzfMCVnsBcqcjhRFRx4xkwCLcBGAsYHQ/s1024/IMG_6461.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 登頂後天氣也開始變差，原本還有太陽的，但過沒多久便開始風起雲湧，狂風從秀馬鞍部方向的山坡刮上來。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ptbHkGYj0iU/YJPwPAnJzYI/AAAAAAABPP4/da1DgBlf7_weaza9SWRVqwEBvlUIwpySgCLcBGAsYHQ/s4032/IMG_6480.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-ptbHkGYj0iU/YJPwPAnJzYI/AAAAAAABPP4/da1DgBlf7_weaza9SWRVqwEBvlUIwpySgCLcBGAsYHQ/s1024/IMG_6480.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 

@@ -14,28 +14,28 @@ tags:
   - 中央山脈馬博橫斷
 
 feature_row:
-  - image_path: https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s4032/IMG_6166.JPG
+  - image_path: https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s1024/IMG_6166.JPG
     title: "盆駒西北稜(一) 郡大溪谷的深處"
     excerpt: "由無雙吊橋旁的郡大溪谷開始上攀，盆駒山西北稜由海拔1450公尺開始陡升至三千公尺高的盆駒山。這是經典的非傳統路線攀登百岳路線之一。早年鹿野忠雄就是經由這一條路線探查馬博拉斯山以及秀姑巒山的。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day1/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG
+  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s1024/IMG_7509.JPG
     title: "盆駒西北稜(二) 被世人遺忘的稜線"
     excerpt: "這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s2048/IMG_7898.JPG
+  - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s1024/IMG_7898.JPG
     title: "盆駒西北稜(三) 登上盆駒馬博"
     excerpt: "依循盆駒西北稜，我們接上了傳統路，但不代表路途就此可以輕鬆了。因為我還要登上海拔接近三千八百公尺的馬博拉斯山。高海拔環境讓我們每走一步都要喘好幾口氣，加上毫無遮蔽的箭竹草坡的缺水路線，這是我們面對最大的考驗。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day3/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s2048/IMG_8365.JPG
+  - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s1024/IMG_8365.JPG
     title: "盆駒西北稜(五) 歸途再訪八通關大山"
     excerpt: "歸途最後一座百岳，八通關大山，也是我大一參加中央山社後爬的第一座百岳。這次我們完成了盆駒西北稜，精疲力竭之際，還要再爬上八通關大山前的好漢坡，證明大家都是真英雄。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day5/"
@@ -45,13 +45,13 @@ feature_row:
 
 header:
   image: https://1.bp.blogspot.com/-Y2eOv9buZbk/YJQCQhWgdaI/AAAAAAABPRQ/nzSkdJJ4hR0-5Yw8LcncCN31osYgXW1WwCLcBGAsYHQ/s3180/IMG_7708.JPG
-  teaser : https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s2048/IMG_8119.JPG
+  teaser : https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s1024/IMG_8119.JPG
   image_description: ""
   overlay_filter: 0.5
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-ZVxnJZlLl-U/YJeY_M7KbKI/AAAAAAABPSM/_dr7vrvGfMgXsUp-j9li9B28I_e6lk1JACLcBGAsYHQ/s4032/IMG_6508.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-ZVxnJZlLl-U/YJeY_M7KbKI/AAAAAAABPSM/_dr7vrvGfMgXsUp-j9li9B28I_e6lk1JACLcBGAsYHQ/s1024/IMG_6508.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>  
 
@@ -61,7 +61,7 @@ header:
 在稜線上回望可見馬博拉斯山，可清楚看見其延伸向盆駒山南峰的稜線，這就是我們昨天一步一步爬上馬博拉斯山的路徑。高山的視野通常都比中級山好，可以清楚看見我們之前走過，或是我們未來要走的路線。坐這山，望向那山，這是可以稍稍偷閒，緩解身體上疲勞的時刻。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-PHMo1K9P7sc/YJeazEO-rUI/AAAAAAABPTg/pybLu6AZffAzkDtS-ckfA4OMdR01xzpDgCLcBGAsYHQ/s2048/IMG_8119.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-PHMo1K9P7sc/YJeazEO-rUI/AAAAAAABPTg/pybLu6AZffAzkDtS-ckfA4OMdR01xzpDgCLcBGAsYHQ/s1024/IMG_8119.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -74,7 +74,7 @@ header:
 凌晨三點，我們一行人從馬博拉斯山出發，因為前一日行程延誤，因此我們今天早兩個小時出發，希望可以趕上原本的預定計畫。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-I-sHr-p9OGo/YJeY741ZOeI/AAAAAAABPR0/vXXrwXbfJ78isu48bB3R-gCue38UUI54wCLcBGAsYHQ/s2048/IMG_6484.HEIC" alt="">
+  <img src="https://1.bp.blogspot.com/-I-sHr-p9OGo/YJeY741ZOeI/AAAAAAABPR0/vXXrwXbfJ78isu48bB3R-gCue38UUI54wCLcBGAsYHQ/s1024/IMG_6484.HEIC" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -82,17 +82,17 @@ header:
 然而我個人滿喜歡摸早黑的，剛睡飽精神狀況好，在黑夜中行走也可以讓我比較專心，但就少了可以欣賞山景的機會，這點比較可惜...。但沒關係，等等登上秀姑巒後再補回來就好。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-S5iZecUtnds/YJeY8tPgVBI/AAAAAAABPR8/VVd71_Y1_JgG_JFCDUjbkHZCFVuelgEFACLcBGAsYHQ/s2048/IMG_6486.HEIC" alt="">
+  <img src="https://1.bp.blogspot.com/-S5iZecUtnds/YJeY8tPgVBI/AAAAAAABPR8/VVd71_Y1_JgG_JFCDUjbkHZCFVuelgEFACLcBGAsYHQ/s1024/IMG_6486.HEIC" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-zRIlWDeklo8/YJeY8XsHaRI/AAAAAAABPR4/tB5W8hrqPHMLtjr-Sa4X0YVGhntUlaM8gCLcBGAsYHQ/s2048/IMG_6491.HEIC" alt="">
+  <img src="https://1.bp.blogspot.com/-zRIlWDeklo8/YJeY8XsHaRI/AAAAAAABPR4/tB5W8hrqPHMLtjr-Sa4X0YVGhntUlaM8gCLcBGAsYHQ/s1024/IMG_6491.HEIC" alt="">
   <figcaption> 通過秀馬鞍部後的岩壁拉繩地形 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-NKTpFZVWN7w/YJeY9ZTHOhI/AAAAAAABPSA/gwafaZfgY1gWpLL_2NaTzQT8VDH3JLRiQCLcBGAsYHQ/s2048/IMG_6492.HEIC" alt="">
+  <img src="https://1.bp.blogspot.com/-NKTpFZVWN7w/YJeY9ZTHOhI/AAAAAAABPSA/gwafaZfgY1gWpLL_2NaTzQT8VDH3JLRiQCLcBGAsYHQ/s1024/IMG_6492.HEIC" alt="">
   <figcaption> 天漸漸地亮了，雲霧有散開的跡象 </figcaption>
 </figure> 
 
@@ -100,91 +100,91 @@ header:
 但在高海拔稜線上頂著風，日出前可是一整天中溫度最低的時刻，我們一行人等著日出，期盼能溫暖我們一下。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-u-R4n_GOknk/YJeY-OaG35I/AAAAAAABPSE/FdGxraXrcv8nFF6bShkX4QHZ9Q3_5fAMQCLcBGAsYHQ/s4032/IMG_6497.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-u-R4n_GOknk/YJeY-OaG35I/AAAAAAABPSE/FdGxraXrcv8nFF6bShkX4QHZ9Q3_5fAMQCLcBGAsYHQ/s1024/IMG_6497.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 早上5:58，一片薄雲散去，橘紅色的太陽探頭出來啦。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-59FwdhsNox8/YJeY-Wq9QjI/AAAAAAABPSI/6SH-tLCFVf44GJrspSaSQ-hSd8I_9EB-QCLcBGAsYHQ/s4032/IMG_6499.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-59FwdhsNox8/YJeY-Wq9QjI/AAAAAAABPSI/6SH-tLCFVf44GJrspSaSQ-hSd8I_9EB-QCLcBGAsYHQ/s1024/IMG_6499.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 回望稜線，可見雲霧中的馬博拉斯山。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-y2DwmqnDtNw/YJeZ9Vee9RI/AAAAAAABPSo/QmNzvjBuG64cRx7zE4tZTF4yNlARj4KSQCLcBGAsYHQ/s2048/IMG_8025.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-y2DwmqnDtNw/YJeZ9Vee9RI/AAAAAAABPSo/QmNzvjBuG64cRx7zE4tZTF4yNlARj4KSQCLcBGAsYHQ/s1024/IMG_8025.JPG" alt="">
   <figcaption> 金黃陽光下的玉山杜鵑 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-QBBq0hB78qY/YJeaEeMn8yI/AAAAAAABPSs/YxuZiC3z3X0ufSI-EK-aZb9pE2wNa_iUACLcBGAsYHQ/s2048/IMG_8044.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-QBBq0hB78qY/YJeaEeMn8yI/AAAAAAABPSs/YxuZiC3z3X0ufSI-EK-aZb9pE2wNa_iUACLcBGAsYHQ/s1024/IMG_8044.JPG" alt="">
   <figcaption> 稜線前方的假山頭，那還不是秀姑巒山 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-qYRCTq14F1g/YJeaFAgLUCI/AAAAAAABPSw/7be8V7JUsIwfxmxLxxKAGm23LmOh_NnlgCLcBGAsYHQ/s2048/IMG_8048.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-qYRCTq14F1g/YJeaFAgLUCI/AAAAAAABPSw/7be8V7JUsIwfxmxLxxKAGm23LmOh_NnlgCLcBGAsYHQ/s1024/IMG_8048.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Efgg6hPrOUI/YJeaQ6pvdWI/AAAAAAABPS4/3qAAspC8Cc46GXdIA4YEFfcJRrS9vSUCACLcBGAsYHQ/s2048/IMG_8077.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-Efgg6hPrOUI/YJeaQ6pvdWI/AAAAAAABPS4/3qAAspC8Cc46GXdIA4YEFfcJRrS9vSUCACLcBGAsYHQ/s1024/IMG_8077.JPG" alt="">
   <figcaption> 奇形怪狀的玉山圓柏枯木 </figcaption>
 </figure> 
 
 早上6:30左右，我們抵達秀姑巒山腳下的秀馬山屋遺址，此處山屋結構巴奈伊克山屋是一樣的，但只剩下骨架，無法提供遮風避雨。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-MzIxrgtYfDU/YJeaWqvOqXI/AAAAAAABPTE/MfsxkZ7qXMw1t5mO377T95NH1qdEWvD7ACLcBGAsYHQ/s2048/IMG_8080.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-MzIxrgtYfDU/YJeaWqvOqXI/AAAAAAABPTE/MfsxkZ7qXMw1t5mO377T95NH1qdEWvD7ACLcBGAsYHQ/s1024/IMG_8080.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 稍作休息後，我們繼續向秀姑巒山前進  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ZUALics2FY0/YJeaY8EdFhI/AAAAAAABPTI/9AU-aSPUHTc23vjRfvgJI07Td0RSLJsjQCLcBGAsYHQ/s2048/IMG_8087.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-ZUALics2FY0/YJeaY8EdFhI/AAAAAAABPTI/9AU-aSPUHTc23vjRfvgJI07Td0RSLJsjQCLcBGAsYHQ/s1024/IMG_8087.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-L-31Bx48c9s/YJeapYSDaBI/AAAAAAABPTY/sdXt6jdRclYTv4Da73a9F2uccdE-Ulp4QCLcBGAsYHQ/s2048/IMG_8094.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-L-31Bx48c9s/YJeapYSDaBI/AAAAAAABPTY/sdXt6jdRclYTv4Da73a9F2uccdE-Ulp4QCLcBGAsYHQ/s1024/IMG_8094.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-YLnCwDGHCko/YJeant6TrNI/AAAAAAABPTQ/ZkF080D6Hz0y2vBTaz8Urd5uUbryTWfYACLcBGAsYHQ/s2048/IMG_8098.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-YLnCwDGHCko/YJeant6TrNI/AAAAAAABPTQ/ZkF080D6Hz0y2vBTaz8Urd5uUbryTWfYACLcBGAsYHQ/s1024/IMG_8098.JPG" alt="">
   <figcaption> 帶著花苞的玉山杜鵑 </figcaption>
 </figure> 
 
 接近秀姑巒山，此時回望馬博拉斯山，早上的雲霧已經完全散去，陽光照亮了我們昨天走過了稜線。盆駒山、盆駒南峰，連向馬博拉斯山，從秀姑巒這個角度望去，可以清楚看出我們昨天爬升的高度。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-QoLMhJw0aDs/YJeaqo-US-I/AAAAAAABPTc/VwH6QXHr3FwM7Z-pgfqKddr8KUUI--HdQCLcBGAsYHQ/s2048/IMG_8102.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-QoLMhJw0aDs/YJeaqo-US-I/AAAAAAABPTc/VwH6QXHr3FwM7Z-pgfqKddr8KUUI--HdQCLcBGAsYHQ/s1024/IMG_8102.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-PHMo1K9P7sc/YJeazEO-rUI/AAAAAAABPTg/pybLu6AZffAzkDtS-ckfA4OMdR01xzpDgCLcBGAsYHQ/s2048/IMG_8119.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-PHMo1K9P7sc/YJeazEO-rUI/AAAAAAABPTg/pybLu6AZffAzkDtS-ckfA4OMdR01xzpDgCLcBGAsYHQ/s1024/IMG_8119.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-FG_dGbg88Cc/YJea8CQrnYI/AAAAAAABPTs/rjtAuo3_MM0fck8hnwVhX1NSBIUSVGrYACLcBGAsYHQ/s2048/IMG_8151.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-FG_dGbg88Cc/YJea8CQrnYI/AAAAAAABPTs/rjtAuo3_MM0fck8hnwVhX1NSBIUSVGrYACLcBGAsYHQ/s1024/IMG_8151.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 不久，可見到秀姑巒山頂拉。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-vAe3cmAdjtc/YJea_wwjivI/AAAAAAABPTw/E9xQnrBmDXobx78WG6EorrH37eIFRM5owCLcBGAsYHQ/s2048/IMG_8164.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-vAe3cmAdjtc/YJea_wwjivI/AAAAAAABPTw/E9xQnrBmDXobx78WG6EorrH37eIFRM5owCLcBGAsYHQ/s1024/IMG_8164.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 秀姑巒山東側的山壁，向下延伸到拉庫拉庫溪谷。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-gKVDDPUoXF0/YJebJ2qhyaI/AAAAAAABPT4/NyDcbWcaFhgnH7lE3YBwFqm-7xVlcT17QCLcBGAsYHQ/s2048/IMG_8167.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-gKVDDPUoXF0/YJebJ2qhyaI/AAAAAAABPT4/NyDcbWcaFhgnH7lE3YBwFqm-7xVlcT17QCLcBGAsYHQ/s1024/IMG_8167.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -192,7 +192,7 @@ header:
 中央山脈最高點，海拔3825公尺，五岳之一，也是我的第50座百岳。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-V8I8EctLbDM/YJebPdlY_wI/AAAAAAABPUA/Wz5EZ6Jsw2QaE4vU2PD1C6xXmhMTvblDACLcBGAsYHQ/s2048/IMG_8170.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-V8I8EctLbDM/YJebPdlY_wI/AAAAAAABPUA/Wz5EZ6Jsw2QaE4vU2PD1C6xXmhMTvblDACLcBGAsYHQ/s1024/IMG_8170.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -204,7 +204,7 @@ header:
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-QfOBZzIQLIs/YJebTbn6JzI/AAAAAAABPUI/zyhRiSHe_dQvmXlpXezYCbDU7vcY3hbqQCLcBGAsYHQ/s2048/IMG_8172.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-QfOBZzIQLIs/YJebTbn6JzI/AAAAAAABPUI/zyhRiSHe_dQvmXlpXezYCbDU7vcY3hbqQCLcBGAsYHQ/s1024/IMG_8172.JPG" alt="">
   <figcaption> 秀姑巒山頂以及後方的大水窟山 </figcaption>
 </figure> 
 
@@ -212,7 +212,7 @@ header:
 真正的中央山脈南三段應該是從秀姑坪行經秀姑巒、馬博拉斯山，再沿著中央山脈主脊，行經烏妹浪胖到達義西請馬至山，再從丹大山向北走至七彩湖。又稱為大南三，也是我一直很想走的一條路線。不過走這條路真的要先積假QQ  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-oWYW_tE0J3w/YJebdshhiwI/AAAAAAABPUQ/_JTu3Z-1ICoHEJnXinkmgl7iLjjpLox4wCLcBGAsYHQ/s2048/IMG_8187.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-oWYW_tE0J3w/YJebdshhiwI/AAAAAAABPUQ/_JTu3Z-1ICoHEJnXinkmgl7iLjjpLox4wCLcBGAsYHQ/s1024/IMG_8187.JPG" alt="">
   <figcaption> 秀姑巒山，二等三角點 </figcaption>
 </figure> 
 
@@ -221,24 +221,24 @@ header:
 但當時鹿野忠雄就有提到這兩座山的山名錯了。因為他發現原住民所講的山名跟他的地圖不一致。然而沒有人更正這個錯誤，因此直到今天我們還是使用了錯誤的名子。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-eGSzlWjPBUo/YJebhWhd00I/AAAAAAABPUY/cr1iC9YdYLE3hxqzR-ljG7lAvuBlh5CQACLcBGAsYHQ/s2048/IMG_8192.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-eGSzlWjPBUo/YJebhWhd00I/AAAAAAABPUY/cr1iC9YdYLE3hxqzR-ljG7lAvuBlh5CQACLcBGAsYHQ/s1024/IMG_8192.JPG" alt="">
   <figcaption> 秀姑巒山頂以及後方的馬博拉斯山 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-zmSIyVKckj4/YJebkaKlPKI/AAAAAAABPUg/fJx20hpUbaYBqLf--n2UhonuL_pFF23qACLcBGAsYHQ/s2048/IMG_8193.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-zmSIyVKckj4/YJebkaKlPKI/AAAAAAABPUg/fJx20hpUbaYBqLf--n2UhonuL_pFF23qACLcBGAsYHQ/s1024/IMG_8193.JPG" alt="">
   <figcaption> 秀姑巒山西側的郡大溪谷，郡大林道便在下方山腰處 </figcaption>
 </figure> 
 
 由秀姑巒山向西方延伸的山稜上，便是八通關大山。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-0B_E_CN-wFU/YJeboZouxXI/AAAAAAABPUk/LOt4AcVN1SAjHi5U6ofS9CIvHLDisNynwCLcBGAsYHQ/s2048/IMG_8194.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-0B_E_CN-wFU/YJeboZouxXI/AAAAAAABPUk/LOt4AcVN1SAjHi5U6ofS9CIvHLDisNynwCLcBGAsYHQ/s1024/IMG_8194.JPG" alt="">
   <figcaption> 八通關大山以及遠方的玉山群峰 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-_2hh_EIIT9w/YJk6LgAoEOI/AAAAAAABPaA/yp1OXY-HwX4EwDZ5cBmfAM2vgDMw6caJgCLcBGAsYHQ/s4032/IMG_6527.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-_2hh_EIIT9w/YJk6LgAoEOI/AAAAAAABPaA/yp1OXY-HwX4EwDZ5cBmfAM2vgDMw6caJgCLcBGAsYHQ/s1024/IMG_6527.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -250,47 +250,47 @@ header:
 接著，我們繼續向秀姑坪前進，從秀姑巒山繼續向南前進，可以看到南方的大水窟山、南大水窟山，還有在南大水窟山腳下紅紅一小點的，便是大水窟山屋。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-lWcJ4SbqmEs/YJkmlTRDaNI/AAAAAAABPXU/NPYbUT5ocaUoJCpTIzGWatENZOjX-Ke_ACLcBGAsYHQ/s2048/IMG_8200.JPG" alt="中央山脈最高峰秀姑巒山望向大水窟山">
+  <img src="https://1.bp.blogspot.com/-lWcJ4SbqmEs/YJkmlTRDaNI/AAAAAAABPXU/NPYbUT5ocaUoJCpTIzGWatENZOjX-Ke_ACLcBGAsYHQ/s1024/IMG_8200.JPG" alt="中央山脈最高峰秀姑巒山望向大水窟山">
   <figcaption> 秀姑巒山向南望向大水窟山 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Kdd1b34W5-s/YJkmkzdORGI/AAAAAAABPXQ/ORLF17QMjGYLneH5MrT6h3IjbTvYZmrZwCLcBGAsYHQ/s2048/IMG_8213.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-Kdd1b34W5-s/YJkmkzdORGI/AAAAAAABPXQ/ORLF17QMjGYLneH5MrT6h3IjbTvYZmrZwCLcBGAsYHQ/s1024/IMG_8213.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-dPIxWrdKOgY/YJkmlVZVd6I/AAAAAAABPXY/WOZlcsIuVRkvf_uqpyXekVdowDOgSvROQCLcBGAsYHQ/s2048/IMG_8220.JPG" alt="秀姑巒山是中央山脈南二段與馬博橫斷的交會點">
+  <img src="https://1.bp.blogspot.com/-dPIxWrdKOgY/YJkmlVZVd6I/AAAAAAABPXY/WOZlcsIuVRkvf_uqpyXekVdowDOgSvROQCLcBGAsYHQ/s1024/IMG_8220.JPG" alt="秀姑巒山是中央山脈南二段與馬博橫斷的交會點">
   <figcaption> 向秀姑坪前進 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-XyVSla8gpLY/YJkm97f2nmI/AAAAAAABPXs/R1qbCBFcLU0J8w-vEMcfF27jlpjwmIFhQCLcBGAsYHQ/s2048/IMG_8226.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-XyVSla8gpLY/YJkm97f2nmI/AAAAAAABPXs/R1qbCBFcLU0J8w-vEMcfF27jlpjwmIFhQCLcBGAsYHQ/s1024/IMG_8226.JPG" alt="">
   <figcaption> 稜線上的玉山圓柏灌木 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-gbWTIMxfBxs/YJkm99VLrzI/AAAAAAABPXw/DTVYV7UHg38p1xlRv5g79fu8EINXRbxZgCLcBGAsYHQ/s2048/IMG_8238.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-gbWTIMxfBxs/YJkm99VLrzI/AAAAAAABPXw/DTVYV7UHg38p1xlRv5g79fu8EINXRbxZgCLcBGAsYHQ/s1024/IMG_8238.JPG" alt="">
   <figcaption> 秀姑巒山東側東流的拉庫拉庫溪谷 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-q1QOQR6KU3M/YJkm9tLUQFI/AAAAAAABPXo/xxBWC4nWNaIM5XZQGMzItLd1PSb8u-qbgCLcBGAsYHQ/s2048/IMG_8245.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-q1QOQR6KU3M/YJkm9tLUQFI/AAAAAAABPXo/xxBWC4nWNaIM5XZQGMzItLd1PSb8u-qbgCLcBGAsYHQ/s1024/IMG_8245.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-GzlX3m63ccs/YJknWTey0DI/AAAAAAABPX8/7xlBJ9xafF8pBr7SmevfecHpXkbFxhs2QCLcBGAsYHQ/s2048/IMG_8254.JPG" alt="秀姑巒山攀登">
+  <img src="https://1.bp.blogspot.com/-GzlX3m63ccs/YJknWTey0DI/AAAAAAABPX8/7xlBJ9xafF8pBr7SmevfecHpXkbFxhs2QCLcBGAsYHQ/s1024/IMG_8254.JPG" alt="秀姑巒山攀登">
   <figcaption> 秀姑巒山拉庫拉庫溪流域 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kQ3dAuSR0gs/YJkoHe3Bu9I/AAAAAAABPYI/MnSUxvvMyto55Fl5x4jkzaq5HJdTZGZrwCLcBGAsYHQ/s2048/IMG_8255.JPG" alt="攀登秀姑巒山">
+  <img src="https://1.bp.blogspot.com/-kQ3dAuSR0gs/YJkoHe3Bu9I/AAAAAAABPYI/MnSUxvvMyto55Fl5x4jkzaq5HJdTZGZrwCLcBGAsYHQ/s1024/IMG_8255.JPG" alt="攀登秀姑巒山">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-3BHruXsZTIE/YJkoKK8IdTI/AAAAAAABPYM/NUahHZtdfEAMqxmbTBMJLEHajy3z2cf6QCLcBGAsYHQ/s2048/IMG_8268.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-3BHruXsZTIE/YJkoKK8IdTI/AAAAAAABPYM/NUahHZtdfEAMqxmbTBMJLEHajy3z2cf6QCLcBGAsYHQ/s1024/IMG_8268.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -299,19 +299,19 @@ header:
 碰巧這個連假，山社的學弟妹們也是開新康橫斷縱走，此時此刻他們大概也登頂新康山了吧。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-4BvydxA2v5U/YJkoGZLITdI/AAAAAAABPYE/1kdrtt5v4OA2aZorjUqjsGiVV2D2DeucwCLcBGAsYHQ/s2048/IMG_8269.JPG" alt="秀姑巒山向向八通關古道對面的新康山">
+  <img src="https://1.bp.blogspot.com/-4BvydxA2v5U/YJkoGZLITdI/AAAAAAABPYE/1kdrtt5v4OA2aZorjUqjsGiVV2D2DeucwCLcBGAsYHQ/s1024/IMG_8269.JPG" alt="秀姑巒山向向八通關古道對面的新康山">
   <figcaption> 由秀姑巒山遠眺新康山 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-NaRMa6GWRFw/YJkodiPm4wI/AAAAAAABPYg/tzh57hdzMJcf2MV6jMIZzr3wiVRCwltngCLcBGAsYHQ/s2048/IMG_8273.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-NaRMa6GWRFw/YJkodiPm4wI/AAAAAAABPYg/tzh57hdzMJcf2MV6jMIZzr3wiVRCwltngCLcBGAsYHQ/s1024/IMG_8273.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 通往秀姑坪途中的玉山圓柏群，這裡的圓柏長成高大的喬木了。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-GIlPdnbkElE/YJkohd38cII/AAAAAAABPYk/xY-5Q6068XQTE83ODNhWKUDirnrS557kQCLcBGAsYHQ/s2048/IMG_8277.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-GIlPdnbkElE/YJkohd38cII/AAAAAAABPYk/xY-5Q6068XQTE83ODNhWKUDirnrS557kQCLcBGAsYHQ/s1024/IMG_8277.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -319,31 +319,31 @@ header:
 或說圓柏為了生存，在稜線上不得不向風低頭，但卻也可以經得起百年，甚或千年的風霜，守著3700公尺高的稜線。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-oNkf0lSrQGM/YJkodGFYEfI/AAAAAAABPYc/Tj_4jDgRYSMWr_8BbnrS1AnYWuk7L-YfgCLcBGAsYHQ/s2048/IMG_8287.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-oNkf0lSrQGM/YJkodGFYEfI/AAAAAAABPYc/Tj_4jDgRYSMWr_8BbnrS1AnYWuk7L-YfgCLcBGAsYHQ/s1024/IMG_8287.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 回望，秀姑巒山。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-3mIsDPdpn4Y/YJko0b6u-1I/AAAAAAABPY0/anVf8MMsFP8VHpR4boe4XybjBsVTaxbJACLcBGAsYHQ/s2048/IMG_8288.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-3mIsDPdpn4Y/YJko0b6u-1I/AAAAAAABPY0/anVf8MMsFP8VHpR4boe4XybjBsVTaxbJACLcBGAsYHQ/s1024/IMG_8288.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 在到達秀姑坪前，還有一段刀片岩地形。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-iHZLyeeF_50/YJkpFOJyShI/AAAAAAABPZA/7gMNRS4unR4a4H7Qwhlyc8XflRkjk-YrACLcBGAsYHQ/s2048/IMG_8294.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-iHZLyeeF_50/YJkpFOJyShI/AAAAAAABPZA/7gMNRS4unR4a4H7Qwhlyc8XflRkjk-YrACLcBGAsYHQ/s1024/IMG_8294.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Sr7E4wPN8so/YJkpPGs6m6I/AAAAAAABPZE/p4tXZJATrd4XVgELnzK2u8akTKrdyKjdwCLcBGAsYHQ/s2048/IMG_8298.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-Sr7E4wPN8so/YJkpPGs6m6I/AAAAAAABPZE/p4tXZJATrd4XVgELnzK2u8akTKrdyKjdwCLcBGAsYHQ/s1024/IMG_8298.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-90aLn6kLIGE/YJkpB7pO9hI/AAAAAAABPY4/QL8O4OPSFeEi1ZQ20MlPz7eIiWeb32s6ACLcBGAsYHQ/s2048/IMG_8301.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-90aLn6kLIGE/YJkpB7pO9hI/AAAAAAABPY4/QL8O4OPSFeEi1ZQ20MlPz7eIiWeb32s6ACLcBGAsYHQ/s1024/IMG_8301.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -351,32 +351,32 @@ header:
 這裡的路線變得平緩好走，秀姑坪以前應該也是一片圓柏樹林，然而百年前經歷過一場無名大火。今天的秀姑坪依然可見少數枯白的圓柏枝幹。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-tumCWA0XZQc/YJkpVX6FqyI/AAAAAAABPZQ/qhZ40U_XOTI3vtVwbFSPYIFOq0oT8TTBACLcBGAsYHQ/s2048/IMG_8302.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-tumCWA0XZQc/YJkpVX6FqyI/AAAAAAABPZQ/qhZ40U_XOTI3vtVwbFSPYIFOq0oT8TTBACLcBGAsYHQ/s1024/IMG_8302.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-m0XoPjPoNu4/YJkpfIMVtdI/AAAAAAABPZY/MqkO9m9roGMibJeUUkC5pFmaF-j_Y_RKACLcBGAsYHQ/s2048/IMG_8316.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-m0XoPjPoNu4/YJkpfIMVtdI/AAAAAAABPZY/MqkO9m9roGMibJeUUkC5pFmaF-j_Y_RKACLcBGAsYHQ/s1024/IMG_8316.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-l2SkI_SI51k/YJkp5JJow6I/AAAAAAABPZw/fAafNtnQeJUAEj7fYTpONwm_VpicpVshQCLcBGAsYHQ/s2048/IMG_8327.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-l2SkI_SI51k/YJkp5JJow6I/AAAAAAABPZw/fAafNtnQeJUAEj7fYTpONwm_VpicpVshQCLcBGAsYHQ/s1024/IMG_8327.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-TfKiafOEv-k/YJkpljUqGnI/AAAAAAABPZc/p_mqpdWQ55gEJLX70cb__gbZbC5JlHADACLcBGAsYHQ/s2048/IMG_8322.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-TfKiafOEv-k/YJkpljUqGnI/AAAAAAABPZc/p_mqpdWQ55gEJLX70cb__gbZbC5JlHADACLcBGAsYHQ/s1024/IMG_8322.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-DlfvzPadxGg/YJkpl6gE8NI/AAAAAAABPZg/q3Fzq9GYMBkqNcCuRrL5Gqab1CdelQ0BgCLcBGAsYHQ/s2048/IMG_8324.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-DlfvzPadxGg/YJkpl6gE8NI/AAAAAAABPZg/q3Fzq9GYMBkqNcCuRrL5Gqab1CdelQ0BgCLcBGAsYHQ/s1024/IMG_8324.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-TfKiafOEv-k/YJkpljUqGnI/AAAAAAABPZc/p_mqpdWQ55gEJLX70cb__gbZbC5JlHADACLcBGAsYHQ/s2048/IMG_8322.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-TfKiafOEv-k/YJkpljUqGnI/AAAAAAABPZc/p_mqpdWQ55gEJLX70cb__gbZbC5JlHADACLcBGAsYHQ/s1024/IMG_8322.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -384,12 +384,12 @@ header:
 在稜線上曬了太陽，身上的水又快沒了，此時此刻，我們只想趕快到山屋喝水  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-WED0YI1sfYk/YJkp595tB2I/AAAAAAABPZ0/jAIW8L1Gi7EywLwomhgiBCCCP0zSLT9NQCLcBGAsYHQ/s2048/IMG_8330.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-WED0YI1sfYk/YJkp595tB2I/AAAAAAABPZ0/jAIW8L1Gi7EywLwomhgiBCCCP0zSLT9NQCLcBGAsYHQ/s1024/IMG_8330.JPG" alt="">
   <figcaption> 秀姑坪望向荖濃溪谷對岸的玉山山脈 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-7_MXGluVeGw/YJk6M6AsHfI/AAAAAAABPaI/cL538ZcxvCwGEs9QUEeUhVhBUjMqsswpQCLcBGAsYHQ/s4032/IMG_6543.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-7_MXGluVeGw/YJk6M6AsHfI/AAAAAAABPaI/cL538ZcxvCwGEs9QUEeUhVhBUjMqsswpQCLcBGAsYHQ/s1024/IMG_6543.JPG" alt="">
   <figcaption> 中央金礦山屋 </figcaption>
 </figure> 
 

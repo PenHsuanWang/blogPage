@@ -14,28 +14,28 @@ tags:
   - 中央山脈馬博橫斷
 
 feature_row:
-  - image_path: https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s4032/IMG_6166.JPG
+  - image_path: https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s1280/IMG_6166.JPG
     title: "盆駒西北稜(一) 郡大溪谷的深處"
     excerpt: "由無雙吊橋旁的郡大溪谷開始上攀，盆駒山西北稜由海拔1450公尺開始陡升至三千公尺高的盆駒山。這是經典的非傳統路線攀登百岳路線之一。早年鹿野忠雄就是經由這一條路線探查馬博拉斯山以及秀姑巒山的。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day1/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s2048/IMG_7898.JPG
+  - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s1024/IMG_7898.JPG
     title: "盆駒西北稜(三) 登上盆駒馬博"
     excerpt: "依循盆駒西北稜，我們接上了傳統路，但不代表路途就此可以輕鬆了。因為我還要登上海拔接近三千八百公尺的馬博拉斯山。高海拔環境讓我們每走一步都要喘好幾口氣，加上毫無遮蔽的箭竹草坡的缺水路線，這是我們面對最大的考驗。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day3/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s2048/IMG_8119.JPG
+  - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s1024/IMG_8119.JPG
     title: "盆駒西北稜(四) 夜行秀姑巒"
     excerpt: "於海拔3700公尺高的稜線上，頂著凌晨三點的強風，我們在黑夜中向秀姑巒前進。好在登頂秀姑巒前的稜線上忽然雲霧散開，我們迎接了朝陽。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day4/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s2048/IMG_8365.JPG
+  - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s1024/IMG_8365.JPG
     title: "盆駒西北稜(五) 歸途再訪八通關大山"
     excerpt: "歸途最後一座百岳，八通關大山，也是我大一參加中央山社後爬的第一座百岳。這次我們完成了盆駒西北稜，精疲力竭之際，還要再爬上八通關大山前的好漢坡，證明大家都是真英雄。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day5/"
@@ -45,13 +45,13 @@ feature_row:
 
 header:
   image: https://1.bp.blogspot.com/-rDg1h6hg7Gw/YJQCRsJHZ-I/AAAAAAABPRU/6JAd_bpdGJsFiaMNl2MYa1oNHf6ZzQ_dACLcBGAsYHQ/s3328/IMG_7606.JPG
-  teaser : https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG
+  teaser : https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s1024/IMG_7508.JPG
   image_description: ""
   overlay_filter: 0.5
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG" alt="郡大溪底攀登盆駒山">
+  <img src="https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s1024/IMG_7508.JPG" alt="郡大溪底攀登盆駒山">
   <figcaption>  </figcaption>
 </figure>  
 
@@ -68,7 +68,7 @@ header:
 這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，而這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JADOEWS-yiE/YHRT-0ek-ZI/AAAAAAABO2M/GtG4Zz0HwdsR6cwZhF4xPPzI2zESVyLLgCLcBGAsYHQ/s2048/IMG_7575.JPG" alt="盆駒山西稜的栓皮櫟稜線">
+  <img src="https://1.bp.blogspot.com/-JADOEWS-yiE/YHRT-0ek-ZI/AAAAAAABO2M/GtG4Zz0HwdsR6cwZhF4xPPzI2zESVyLLgCLcBGAsYHQ/s1024/IMG_7575.JPG" alt="盆駒山西稜的栓皮櫟稜線">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -82,19 +82,19 @@ header:
 郡大溪水不斷地侵蝕著河谷，此處溪谷兩側是灰白陡峭的岩壁，岩壁上方就是陡峭的山坡。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-VeNa9E21yp4/YHLsrhXaoaI/AAAAAAABOy8/FjbvCtYsowcass3Etuoelx1FWPIQ0KcmQCLcBGAsYHQ/s2048/IMG_7459.JPG" alt="郡大溪">
+  <img src="https://1.bp.blogspot.com/-VeNa9E21yp4/YHLsrhXaoaI/AAAAAAABOy8/FjbvCtYsowcass3Etuoelx1FWPIQ0KcmQCLcBGAsYHQ/s1024/IMG_7459.JPG" alt="郡大溪">
   <figcaption>  </figcaption>
 </figure> 
 
 我們從無雙吊橋旁邊下切，向郡大溪上游前行了一段距離。此處為哈伊拉羅溪與郡大溪的匯流口。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JyoY3ms7eaY/YHLswujLAgI/AAAAAAABOzA/PGWDMvzL3FADSMX2uJXFu-xfjQ1Dg6oUgCLcBGAsYHQ/s2048/IMG_7461.JPG" alt="郡大溪匯流口為駒盆山西稜的起點">
+  <img src="https://1.bp.blogspot.com/-JyoY3ms7eaY/YHLswujLAgI/AAAAAAABOzA/PGWDMvzL3FADSMX2uJXFu-xfjQ1Dg6oUgCLcBGAsYHQ/s1024/IMG_7461.JPG" alt="郡大溪匯流口為駒盆山西稜的起點">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-H-6SgwR0DZQ/YHLsyIOoYBI/AAAAAAABOzE/GYblsptAIRcyY8coLXiPPIIKLCLODQVvgCLcBGAsYHQ/s2048/IMG_7460.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-H-6SgwR0DZQ/YHLsyIOoYBI/AAAAAAABOzE/GYblsptAIRcyY8coLXiPPIIKLCLODQVvgCLcBGAsYHQ/s1024/IMG_7460.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -103,68 +103,68 @@ header:
 我們這趟行程可是很缺水的，尤其是這次乾旱，南投一帶山區已經有好幾個月沒有明顯降雨了。我們很擔心盆駒中峰營地附近的活水源，勢必會要切得比平常深許多...   
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-IvsC3onsP7Q/YHLvAujNUoI/AAAAAAABOzY/nQOYP_SkjVESAvk_ZNqfL16oNu_UmOtGQCLcBGAsYHQ/s2048/IMG_7467.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-IvsC3onsP7Q/YHLvAujNUoI/AAAAAAABOzY/nQOYP_SkjVESAvk_ZNqfL16oNu_UmOtGQCLcBGAsYHQ/s1024/IMG_7467.JPG" alt="">
   <figcaption> 好過的郡大溪 and 接下來的路很缺水，快趁現在喝到飽... </figcaption>
 </figure> 
 
 成功過溪，準備繼續上切。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-eJSPcizUNqY/YLYrzbnhVBI/AAAAAAABQz4/EBHQ0kaRRyc8A6lnDw6Jof8Ir-0YJmB_QCLcBGAsYHQ/s4032/IMG_6254.JPG" alt="郡大溪上盆駒">
+  <img src="https://1.bp.blogspot.com/-eJSPcizUNqY/YLYrzbnhVBI/AAAAAAABQz4/EBHQ0kaRRyc8A6lnDw6Jof8Ir-0YJmB_QCLcBGAsYHQ/s1280/IMG_6254.JPG" alt="郡大溪上盆駒">
   <figcaption>  </figcaption>
 </figure> 
 
 由上切點回望郡大溪。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-psR8Xn9BtQo/YLYrztk9SlI/AAAAAAABQz8/la-ofqJC7cwztSfTpWuRldCd4yOXRyoigCLcBGAsYHQ/s4032/IMG_6256.JPG" alt="郡大溪底準備攀登盆駒西北稜準備上盆駒山">
+  <img src="https://1.bp.blogspot.com/-psR8Xn9BtQo/YLYrztk9SlI/AAAAAAABQz8/la-ofqJC7cwztSfTpWuRldCd4yOXRyoigCLcBGAsYHQ/s1280/IMG_6256.JPG" alt="郡大溪底準備攀登盆駒西北稜準備上盆駒山">
   <figcaption>  </figcaption>
 </figure> 
 
 從此處繼續向上攀登，先是遇到一片又陡又滑的土坡，沿線沒有太多可以抓的手點，腳點也不是很穩固。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9qPYBLTji0c/YLYr6BrnabI/AAAAAAABQ0E/vTAQbO1pOFwIRc_kmpZP1cc1cNUjb9nRwCLcBGAsYHQ/s4032/IMG_6262.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-9qPYBLTji0c/YLYr6BrnabI/AAAAAAABQ0E/vTAQbO1pOFwIRc_kmpZP1cc1cNUjb9nRwCLcBGAsYHQ/s1280/IMG_6262.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 我們一開始向稜線左側繞過去，但我們好像走到太左邊了，地勢越來越陡。此時我們看到右手邊的坡面上有一條藍色扁帶，我們在此兵分兩路，一組人走比較前面的決定直接從陡坡硬切上去。另一組人還沒開始上切的決定橫渡到右手邊山坡上的扁帶那邊。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-8XvLkxTmRh8/YLYr5_z4T1I/AAAAAAABQ0A/-VE8ysJDImYf4Xnoaxiu9uwbIuB3obBqwCLcBGAsYHQ/s4032/IMG_6264.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-8XvLkxTmRh8/YLYr5_z4T1I/AAAAAAABQ0A/-VE8ysJDImYf4Xnoaxiu9uwbIuB3obBqwCLcBGAsYHQ/s1280/IMG_6264.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 通過第一段陡坡後，我們到達一處平台稍作休息。接著我們沿著稜線向上通行。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-fllmYej0VbA/YLYsI0O3XbI/AAAAAAABQ0M/pmV7gIbD7gEtXgkRLKRPkHGUx5XjhAzUACLcBGAsYHQ/s4032/IMG_6273.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-fllmYej0VbA/YLYsI0O3XbI/AAAAAAABQ0M/pmV7gIbD7gEtXgkRLKRPkHGUx5XjhAzUACLcBGAsYHQ/s1280/IMG_6273.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 陡峭的Ｖ型稜線上還鋪著松針，行進時要小心地滑。在這裡兩側都是陡峭的山坡。　　
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-sId_2VfLe0E/YLYsMa8LHOI/AAAAAAABQ0Y/lXYu4yppCOEW6QLmaxur4tl5M0pIyO0wQCLcBGAsYHQ/s4032/IMG_6282.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-sId_2VfLe0E/YLYsMa8LHOI/AAAAAAABQ0Y/lXYu4yppCOEW6QLmaxur4tl5M0pIyO0wQCLcBGAsYHQ/s1280/IMG_6282.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 接著我們遇到了這一條路線最大的障礙，一處約有兩米落差的垂直岩壁。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-wEuRjXHufZU/YLYsTdren_I/AAAAAAABQ0g/oj_k7Wu3Ufkk53g_M19WhEyIA4PbY_LwwCLcBGAsYHQ/s4032/IMG_6292.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-wEuRjXHufZU/YLYsTdren_I/AAAAAAABQ0g/oj_k7Wu3Ufkk53g_M19WhEyIA4PbY_LwwCLcBGAsYHQ/s1280/IMG_6292.JPG" alt="">
   <figcaption> 兩米落差垂直岩壁，採取安全一點的人包分離 </figcaption>
 </figure> 
 
 這個岩壁近乎垂直，雖然岩壁下方有兩處腳點，上方還有樹根可抓。基本上有一點攀爬技術的人應該都可以輕鬆爬上去。但垂直岩壁下方的山坡坡面非常的陡，掉下去的後果不堪設想。因此我們還是採取安全一點的人包分離。這裡可是不可失敗的地方。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-wEuRjXHufZU/YLYsTdren_I/AAAAAAABQ0g/oj_k7Wu3Ufkk53g_M19WhEyIA4PbY_LwwCLcBGAsYHQ/s4032/IMG_6292.JPG" alt="郡大溪上盆駒山">
+  <img src="https://1.bp.blogspot.com/-wEuRjXHufZU/YLYsTdren_I/AAAAAAABQ0g/oj_k7Wu3Ufkk53g_M19WhEyIA4PbY_LwwCLcBGAsYHQ/s1280/IMG_6292.JPG" alt="郡大溪上盆駒山">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-TrHPh-jlGxA/YLYsUSOt_ZI/AAAAAAABQ0k/DxrQN7fJPtURCd8KROzxeHetkIR9DPgIgCLcBGAsYHQ/s4032/IMG_6294.JPG" alt="郡大盆駒馬博">
+  <img src="https://1.bp.blogspot.com/-TrHPh-jlGxA/YLYsUSOt_ZI/AAAAAAABQ0k/DxrQN7fJPtURCd8KROzxeHetkIR9DPgIgCLcBGAsYHQ/s1280/IMG_6294.JPG" alt="郡大盆駒馬博">
   <figcaption>  </figcaption>
 </figure> 
  
@@ -174,192 +174,192 @@ header:
 這裡的海拔大約1600公尺左右，從溪底開始爬到這裡短短的直線距離，已經上升超過150多公尺了，  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-STVnmBa8K1U/YHLvGcZl-TI/AAAAAAABOzg/nLO40YETyl4MU3C_IzJUto9f1DkC9eWCgCLcBGAsYHQ/s2048/IMG_7472.JPG" alt="郡大林道盆駒山">
+  <img src="https://1.bp.blogspot.com/-STVnmBa8K1U/YHLvGcZl-TI/AAAAAAABOzg/nLO40YETyl4MU3C_IzJUto9f1DkC9eWCgCLcBGAsYHQ/s1024/IMG_7472.JPG" alt="郡大林道盆駒山">
   <figcaption>  </figcaption>
 </figure> 
 
 通過岩壁後的松林大平台。於此好好休息一下。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kiNMa4OOEDI/YHLwc9YrbZI/AAAAAAABOz4/PxbxDqJaVCAOf8LyB-JEIHXTjKATn11cgCLcBGAsYHQ/s2048/IMG_7473.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-kiNMa4OOEDI/YHLwc9YrbZI/AAAAAAABOz4/PxbxDqJaVCAOf8LyB-JEIHXTjKATn11cgCLcBGAsYHQ/s1024/IMG_7473.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-GWCgamzMyjU/YHLwBQKR-UI/AAAAAAABOzw/Bkpsbpef35wXlhXGAz5bmwsp-Pf41rsdACLcBGAsYHQ/s2048/IMG_7474.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-GWCgamzMyjU/YHLwBQKR-UI/AAAAAAABOzw/Bkpsbpef35wXlhXGAz5bmwsp-Pf41rsdACLcBGAsYHQ/s1024/IMG_7474.JPG" alt="">
   <figcaption> G哥紀念碑 </figcaption>
 </figure> 
 
 休息整裝一下，我們繼續向上前進。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-wWvkX8W7LMQ/YHLwmgaiGvI/AAAAAAABOz8/CWgaJRuMeiUVUm3tHiPkmUWgKbyP8J35QCLcBGAsYHQ/s2048/IMG_7477.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-wWvkX8W7LMQ/YHLwmgaiGvI/AAAAAAABOz8/CWgaJRuMeiUVUm3tHiPkmUWgKbyP8J35QCLcBGAsYHQ/s1024/IMG_7477.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 相較於剛剛陡峭的山坡以及讓人捏好幾把冷汗的地形。現在這裡有如另一個世界。陽光照進美麗的森林中，經過了滿地落葉的小山坡。稍微緩和了剛剛緊張的氣氛。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9IKHnd4ZuiE/YHLxj6sMNEI/AAAAAAABO0E/lO_ensGYk0E3vyEGVWaRsyoo2ZMsSNDVACLcBGAsYHQ/s2048/IMG_7479.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-9IKHnd4ZuiE/YHLxj6sMNEI/AAAAAAABO0E/lO_ensGYk0E3vyEGVWaRsyoo2ZMsSNDVACLcBGAsYHQ/s1024/IMG_7479.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-IuArUkq1gUE/YHL8-m58XFI/AAAAAAABO0Q/WzQdtXFbRt8n2Bv18dN_SuwX_2lNW-6qQCLcBGAsYHQ/s2048/IMG_7482.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-IuArUkq1gUE/YHL8-m58XFI/AAAAAAABO0Q/WzQdtXFbRt8n2Bv18dN_SuwX_2lNW-6qQCLcBGAsYHQ/s1024/IMG_7482.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 非傳統路上百岳的迷人之處之一，通過地形多變的溪谷後，進到了美麗的落葉森林。春天的陽光從森林裡照入，氣溫恰恰好。不用在傳統路上人擠人，在這裡可以細細品味大自然。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-GVcNnnjLqUE/YHL9CSBF8iI/AAAAAAABO0U/5vQtq28MfBsojaT5MIYjW1EjeM5pE8__QCLcBGAsYHQ/s2048/IMG_7486.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-GVcNnnjLqUE/YHL9CSBF8iI/AAAAAAABO0U/5vQtq28MfBsojaT5MIYjW1EjeM5pE8__QCLcBGAsYHQ/s1024/IMG_7486.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 從松林大平台往上走一點，可見一整片山坡的駁坎遺跡。此處應該是早年部落的耕地。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JWY9s0W5wsg/YHL84PAsIkI/AAAAAAABO0M/IKwfDpudTkYtH75iZWai-xamMPiWq2LqQCLcBGAsYHQ/s2048/IMG_7487.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-JWY9s0W5wsg/YHL84PAsIkI/AAAAAAABO0M/IKwfDpudTkYtH75iZWai-xamMPiWq2LqQCLcBGAsYHQ/s1024/IMG_7487.JPG" alt="">
   <figcaption> 布農族舊部落的耕地遺跡 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ZSQMS59AFxk/YHL9wpnpxFI/AAAAAAABO0k/1QfuEsWkqXwqHHFBPHo1uBoH80-cj01ewCLcBGAsYHQ/s2048/IMG_7501.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-ZSQMS59AFxk/YHL9wpnpxFI/AAAAAAABO0k/1QfuEsWkqXwqHHFBPHo1uBoH80-cj01ewCLcBGAsYHQ/s1024/IMG_7501.JPG" alt="">
   <figcaption> 整片山坡的駁坎群 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-bH5tArKY_A4/YHL-IJmtvdI/AAAAAAABO0s/OhTkUJBj-0owSSq-Uom4l7YQKY04NcCUACLcBGAsYHQ/s2048/IMG_7505.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-bH5tArKY_A4/YHL-IJmtvdI/AAAAAAABO0s/OhTkUJBj-0owSSq-Uom4l7YQKY04NcCUACLcBGAsYHQ/s1024/IMG_7505.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s2048/IMG_7508.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-LASDX9Kk9DM/YHMBMd1hS5I/AAAAAAABO1E/M7ympQREx-cQGnRylfFc1sMoBd9FPrpjgCLcBGAsYHQ/s1024/IMG_7508.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 這段坡面真的是非常陡峭。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s1024/IMG_7509.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 這段耕地駁坎坡面上去之後，到達先前紀錄中的頭目家屋。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-_jErUZ8CGkM/YHMCCmvUZRI/AAAAAAABO1Q/UOHUnrst7q4NA4-rsjkUpdhXHVVYJSGVQCLcBGAsYHQ/s2048/IMG_7526.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-_jErUZ8CGkM/YHMCCmvUZRI/AAAAAAABO1Q/UOHUnrst7q4NA4-rsjkUpdhXHVVYJSGVQCLcBGAsYHQ/s1024/IMG_7526.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 家屋的石頭駁坎牆面還保留完整。是一面砌得很紮實的石板牆，但如今布農族的石板建築技術近乎失傳了。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kglvtzAqXL0/YHMCYt8DThI/AAAAAAABO1Y/UiPY6jSSCvcwcMwIZ6t7z49Nkg2QyloPwCLcBGAsYHQ/s2048/IMG_7527.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-kglvtzAqXL0/YHMCYt8DThI/AAAAAAABO1Y/UiPY6jSSCvcwcMwIZ6t7z49Nkg2QyloPwCLcBGAsYHQ/s1024/IMG_7527.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-OjnPoYZxIdU/YHMCL2sqWkI/AAAAAAABO1U/BzY5UmAjLU4uAq8BmtNw8fFEcIec71h0QCLcBGAsYHQ/s2048/IMG_7528.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-OjnPoYZxIdU/YHMCL2sqWkI/AAAAAAABO1U/BzY5UmAjLU4uAq8BmtNw8fFEcIec71h0QCLcBGAsYHQ/s1024/IMG_7528.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-6ZB9yrBrflc/YHMDCwOJUnI/AAAAAAABO1k/IPXBjC_FZ_8LfWJam7N4CbLj8qNm0lyJQCLcBGAsYHQ/s2048/IMG_7531.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-6ZB9yrBrflc/YHMDCwOJUnI/AAAAAAABO1k/IPXBjC_FZ_8LfWJam7N4CbLj8qNm0lyJQCLcBGAsYHQ/s1024/IMG_7531.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 我們於頭目家屋附近稍作休息，雖然很享受在這片舊部落區域走探，到處看看有甚麼新鮮的新東西，然而我們今天的路程還很長，而且第一天的進度已經落後了不少，我們上面還有一大段路要走。在舊部落區休息一下後，便繼續向前挺進。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-W4IXKJ4MXc8/YHMDTWIK_KI/AAAAAAABO1s/pVyWkhinDGsym-JccXBr0EtiWsY3V-INwCLcBGAsYHQ/s2048/IMG_7533.JPG" alt="盆駒西北稜部落遺址">
+  <img src="https://1.bp.blogspot.com/-W4IXKJ4MXc8/YHMDTWIK_KI/AAAAAAABO1s/pVyWkhinDGsym-JccXBr0EtiWsY3V-INwCLcBGAsYHQ/s1024/IMG_7533.JPG" alt="盆駒西北稜部落遺址">
   <figcaption> 稜線上的駁坎遺跡 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-cfF3jWfVZSQ/YHRTbu2nwiI/AAAAAAABO14/Uto9GbP50PwAhzCqHYzuTjvn-uZkhe6UgCLcBGAsYHQ/s2048/IMG_7549.JPG" alt="盆駒西北稜駁坎群">
+  <img src="https://1.bp.blogspot.com/-cfF3jWfVZSQ/YHRTbu2nwiI/AAAAAAABO14/Uto9GbP50PwAhzCqHYzuTjvn-uZkhe6UgCLcBGAsYHQ/s1024/IMG_7549.JPG" alt="盆駒西北稜駁坎群">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-NB96Cpi8b9A/YHRTcTuEBqI/AAAAAAABO18/8b3yOWmM4igycasldHNqb6BsqDCzuCT9QCLcBGAsYHQ/s2048/IMG_7550.JPG" alt="盆駒西北稜森林">
+  <img src="https://1.bp.blogspot.com/-NB96Cpi8b9A/YHRTcTuEBqI/AAAAAAABO18/8b3yOWmM4igycasldHNqb6BsqDCzuCT9QCLcBGAsYHQ/s1024/IMG_7550.JPG" alt="盆駒西北稜森林">
   <figcaption> 美麗的落葉森林 </figcaption>
 </figure> 
 
 隨著高度慢慢爬升，兩旁出現了栓皮櫟。這個季節的栓皮櫟已經長出了翠綠的樹葉了。相較於兩個月前我們在加年端山旁看到整片光禿禿的栓皮櫟純林。陽光通過嫩綠新葉的照進稜線上，這樣的風景也別有一番風味。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-1IDaWNgBuQA/YHRUOAgZBYI/AAAAAAABO2Q/Du2FGzmHNeUv3sUZYFp8_5ErTRE7Q2L0gCLcBGAsYHQ/s2048/IMG_7562.JPG" alt="中級山尋幽">
+  <img src="https://1.bp.blogspot.com/-1IDaWNgBuQA/YHRUOAgZBYI/AAAAAAABO2Q/Du2FGzmHNeUv3sUZYFp8_5ErTRE7Q2L0gCLcBGAsYHQ/s1024/IMG_7562.JPG" alt="中級山尋幽">
   <figcaption>  </figcaption>
 </figure>
 
 栓皮櫟純林，當年鹿野忠雄的紀錄中也有描述此景，不知道當年他所見的景色是不是就像這樣。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ji9s7RwXHhA/YHRURlINS-I/AAAAAAABO2Y/BpVM8W8zl3o-ujp87LwJIjEujhCNjJn0ACLcBGAsYHQ/s2048/IMG_7568.JPG" alt="中級山上百岳">
+  <img src="https://1.bp.blogspot.com/-ji9s7RwXHhA/YHRURlINS-I/AAAAAAABO2Y/BpVM8W8zl3o-ujp87LwJIjEujhCNjJn0ACLcBGAsYHQ/s1024/IMG_7568.JPG" alt="中級山上百岳">
   <figcaption> </figcaption>
 </figure> 
 
 冬天的落葉搭配上枝頭的新芽。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JADOEWS-yiE/YHRT-0ek-ZI/AAAAAAABO2M/GtG4Zz0HwdsR6cwZhF4xPPzI2zESVyLLgCLcBGAsYHQ/s2048/IMG_7575.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-JADOEWS-yiE/YHRT-0ek-ZI/AAAAAAABO2M/GtG4Zz0HwdsR6cwZhF4xPPzI2zESVyLLgCLcBGAsYHQ/s1024/IMG_7575.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-uDuYwvUDYLk/YHRUvcISWbI/AAAAAAABO2k/HN36OVIdGvYbZ7daEdgDu5h0P0FbJXYzACLcBGAsYHQ/s2048/IMG_7576.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-uDuYwvUDYLk/YHRUvcISWbI/AAAAAAABO2k/HN36OVIdGvYbZ7daEdgDu5h0P0FbJXYzACLcBGAsYHQ/s1024/IMG_7576.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 從栓皮櫟森林繼續向上前進，我們進入了高大的松林之中。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-WTaT3opemaU/YHRU5C0bJ5I/AAAAAAABO2o/7ngW_QHqUCMFTIA2gKtEU0qLVT6ZlhYkACLcBGAsYHQ/s2048/IMG_7599.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-WTaT3opemaU/YHRU5C0bJ5I/AAAAAAABO2o/7ngW_QHqUCMFTIA2gKtEU0qLVT6ZlhYkACLcBGAsYHQ/s1024/IMG_7599.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Dn5GtEr9LjQ/YHRTYkfFCZI/AAAAAAABO10/yp_a-w6ojjopPg9CfckJJTgwF1unVfwogCLcBGAsYHQ/s2048/IMG_7557.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-Dn5GtEr9LjQ/YHRTYkfFCZI/AAAAAAABO10/yp_a-w6ojjopPg9CfckJJTgwF1unVfwogCLcBGAsYHQ/s1024/IMG_7557.JPG" alt="">
   <figcaption> 陡陡陡，真的要用意志力走 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-5evmo2bBWh8/YHRVOA8q_aI/AAAAAAABO28/D9QOJSAUOiEB_8ZsyzYlfxIyMdV3n-CnACLcBGAsYHQ/s2048/IMG_7600.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-5evmo2bBWh8/YHRVOA8q_aI/AAAAAAABO28/D9QOJSAUOiEB_8ZsyzYlfxIyMdV3n-CnACLcBGAsYHQ/s1024/IMG_7600.JPG" alt="">
   <figcaption> 松林陡坡陡上 </figcaption>
 </figure> 
 
 原先的陡坡地面上只是栓皮櫟的枯葉，踏起來還好。但現在進入松林地後，地面上的松針變得特別滑，邊走還要稍微踢一下，才能採到土上。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-hnxsYscBxHY/YHRVundXCOI/AAAAAAABO3M/J8e9nVrRaigBTz0AnFY9ezK8ueQ-N1MCQCLcBGAsYHQ/s2048/IMG_7606.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-hnxsYscBxHY/YHRVundXCOI/AAAAAAABO3M/J8e9nVrRaigBTz0AnFY9ezK8ueQ-N1MCQCLcBGAsYHQ/s1024/IMG_7606.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-7miFtui7IBs/YHRVPkDRczI/AAAAAAABO3A/bhz2LWy7STosaFwnc5_AwEkEhOqbpKgwgCLcBGAsYHQ/s2048/IMG_7613.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-7miFtui7IBs/YHRVPkDRczI/AAAAAAABO3A/bhz2LWy7STosaFwnc5_AwEkEhOqbpKgwgCLcBGAsYHQ/s1024/IMG_7613.JPG" alt="">
   <figcaption> 海拔約2830左右，松林營地 </figcaption>
 </figure> 
 
 下午四點多，我們到達海拔約2830左右的松林間凹谷。這裡滿適合紮營的。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-qv1O_5kztoQ/YHRWFJVcosI/AAAAAAABO3U/r2C0f1r3G2gg0vg6kakDhQv8yoBBL7nDgCLcBGAsYHQ/s2048/IMG_7618.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-qv1O_5kztoQ/YHRWFJVcosI/AAAAAAABO3U/r2C0f1r3G2gg0vg6kakDhQv8yoBBL7nDgCLcBGAsYHQ/s1024/IMG_7618.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-B9AUvG-2Y7s/YHRWFcjBJnI/AAAAAAABO3Y/SyydA0Y_X2k67x1h49qeW7uDWPfFod6iQCLcBGAsYHQ/s2048/IMG_7619.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-B9AUvG-2Y7s/YHRWFcjBJnI/AAAAAAABO3Y/SyydA0Y_X2k67x1h49qeW7uDWPfFod6iQCLcBGAsYHQ/s1024/IMG_7619.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-WvQnXYJz4Uo/YHRWKEE8IoI/AAAAAAABO3c/vVR9L7SghfotBOAUhDbQa_wRenyDVMaIACLcBGAsYHQ/s2048/IMG_7623.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-WvQnXYJz4Uo/YHRWKEE8IoI/AAAAAAABO3c/vVR9L7SghfotBOAUhDbQa_wRenyDVMaIACLcBGAsYHQ/s1024/IMG_7623.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9eD13ZhhAfA/YHRWPz9Z5ZI/AAAAAAABO3g/9SI1AQHXFH8cTJkW3QzL_4tJp-bhDc1dwCLcBGAsYHQ/s2048/IMG_7624.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-9eD13ZhhAfA/YHRWPz9Z5ZI/AAAAAAABO3g/9SI1AQHXFH8cTJkW3QzL_4tJp-bhDc1dwCLcBGAsYHQ/s1024/IMG_7624.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 

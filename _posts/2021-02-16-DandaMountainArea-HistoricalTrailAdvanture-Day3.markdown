@@ -14,21 +14,21 @@ tags:
   - 南投
 
 feature_row:
-  - image_path: https://1.bp.blogspot.com/-QioGOW_V-c8/YC_YFKAq41I/AAAAAAABOH0/NdfRdkbTLfsPW8JCEc-YtdMTCmu9GaHvQCLcBGAsYHQ/s2048/IMG_6418.JPG
+  - image_path: https://1.bp.blogspot.com/-QioGOW_V-c8/YC_YFKAq41I/AAAAAAABOH0/NdfRdkbTLfsPW8JCEc-YtdMTCmu9GaHvQCLcBGAsYHQ/s1024/IMG_6418.JPG
     title: "(一) 卡社山"
     excerpt: "卡社加年端稜線縱走行程第二天，由卡社山稜線路東行至拉夫朗西北峰沿途景色宜人，有多處石板駁坎遺址。"
     url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day1/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-Vyv1qkePdbI/YDIK8CUvwAI/AAAAAAABOK8/XwBjphAJNScLzJyatsdpW3Acw60P70yPgCLcBGAsYHQ/s2048/IMG_6498.JPG
+  - image_path: https://1.bp.blogspot.com/-Vyv1qkePdbI/YDIK8CUvwAI/AAAAAAABOK8/XwBjphAJNScLzJyatsdpW3Acw60P70yPgCLcBGAsYHQ/s1024/IMG_6498.JPG
     title: "(二) 卡社遺址與拉夫朗西北峰"
     excerpt: "卡社加年端稜線縱走行程第二天，由卡社山稜線路東行至拉夫朗西北峰沿途景色宜人，有多處石板駁坎遺址。"
     url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-IKwq_x8K44o/YDJrn0ttaEI/AAAAAAABORU/crwvU7JkVEQSrA1386dXS35wVMBXAerjwCLcBGAsYHQ/s2048/IMG_6866.JPG
+  - image_path: https://1.bp.blogspot.com/-IKwq_x8K44o/YDJrn0ttaEI/AAAAAAABORU/crwvU7JkVEQSrA1386dXS35wVMBXAerjwCLcBGAsYHQ/s1024/IMG_6866.JPG
     title: "(三) 前往加年端"
     excerpt: "由拉夫朗山繼續向東行，更深入中央山脈深處，前往加年端山。此處可遠眺整段南三段稜線群峰，由關門北山開始向南延伸向丹大山的大南三線，並延伸向內嶺爾山-東巒大山的東郡橫斷，盡收眼底。"
     url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2-part2/"
@@ -37,13 +37,13 @@ feature_row:
 
 header:
   image: https://1.bp.blogspot.com/-HYesrkj5GAM/YFH_EIqdaoI/AAAAAAABOkg/PTcPwDnBBscSWqXTvdpGUy7i_5y_pG4uwCLcBGAsYHQ/s2858/IMG_7049.JPG
-  teaser : https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s2048/IMG_7042.JPG
+  teaser : https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s1024/IMG_7042.JPG
   image_description: ""
   overlay_filter: 0.5
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s2048/IMG_7042.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s1024/IMG_7042.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>  
 
@@ -53,7 +53,7 @@ header:
 我們才從營地出發開始下切沒多久，就看到稜線上長滿了栓皮櫟，看起來是栓皮櫟純林。冬季所有樹葉都掉落了。只剩下光禿禿的樹木們站立在山坡上。這是一整片的落葉純林，這樣的景致好像只有在溫帶國家可以看到，轉眼間好像來到不同的世界一般。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-8YQKHapDffU/YETXKleK3AI/AAAAAAABOfk/BAzK1yki4isOJ3pXxi0TndFWOWGs634LgCLcBGAsYHQ/s2048/IMG_7173.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-8YQKHapDffU/YETXKleK3AI/AAAAAAABOfk/BAzK1yki4isOJ3pXxi0TndFWOWGs634LgCLcBGAsYHQ/s1024/IMG_7173.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -69,7 +69,7 @@ header:
 過去總是想著要衝百岳數，但現在回想起來，以前的心態真的很幼稚，百岳登頂的一刻，確實是感動，一是美景，二是挑戰了自己的極限，然而這次在卡社山稜望向玉山山脈、干卓萬山塊、南三段群峰，身處於乾爽舒適的落葉林中，溫度適中，和煦陽光，不用忍受百岳稜線上的寒風刺骨或是高海拔的強烈紫外線摧殘表皮細胞，而是可以悠悠哉哉的走在森林中，與自然對話，也跟自己對話...。調適好步調後等待下次再出發。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-w7Ie_7v2ku4/YETWteIsFAI/AAAAAAABOfY/_S2t9WxW_ME9kV5SAwQoIKlQcJb-8VjXQCLcBGAsYHQ/s2048/IMG_7125.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-w7Ie_7v2ku4/YETWteIsFAI/AAAAAAABOfY/_S2t9WxW_ME9kV5SAwQoIKlQcJb-8VjXQCLcBGAsYHQ/s1024/IMG_7125.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -85,111 +85,111 @@ header:
 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-t8DIEvN8_kc/YER8Bc5X2XI/AAAAAAABOcs/zCqwnnwmi9Ak-jWLhhERZS1SaXZRZxp9ACLcBGAsYHQ/s2048/IMG_7029.JPG" alt="加年端山縱走路線">
+  <img src="https://1.bp.blogspot.com/-t8DIEvN8_kc/YER8Bc5X2XI/AAAAAAABOcs/zCqwnnwmi9Ak-jWLhhERZS1SaXZRZxp9ACLcBGAsYHQ/s1024/IMG_7029.JPG" alt="加年端山縱走路線">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-sbrXs_oImBM/YER78r0GgoI/AAAAAAABOck/GjsdFvuKboUfq1vlkug6hy60VsqCnMAGACLcBGAsYHQ/s2048/IMG_7033.JPG" alt="加年端山眺望南三段山景">
+  <img src="https://1.bp.blogspot.com/-sbrXs_oImBM/YER78r0GgoI/AAAAAAABOck/GjsdFvuKboUfq1vlkug6hy60VsqCnMAGACLcBGAsYHQ/s1024/IMG_7033.JPG" alt="加年端山眺望南三段山景">
   <figcaption>  </figcaption>
 </figure> 
 
 翻過了昨天我們看夕陽的枯黃蕨海，沿著稜線準備下切。不久，發現到整條稜線是栓皮櫟純林。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s2048/IMG_7042.JPG" alt="加年端山眺望東巒大山以及巒潭山">
+  <img src="https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s1024/IMG_7042.JPG" alt="加年端山眺望東巒大山以及巒潭山">
   <figcaption>  </figcaption>
 </figure> 
 
 由稜線上向北方望去還可以看到昨天經過的拉夫朗山，從山頂開始一整片崩壁傾瀉向下直通丹大溪谷。我們昨天走在瘦稜上還感覺不出來，但從這邊看拉夫朗山氣勢不凡。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-e11W6CX8tQw/YER8WVbc9oI/AAAAAAABOdA/hgUZAEBxV9M1-lNSVbtfDiuOCCMQmmHQwCLcBGAsYHQ/s2048/IMG_7047.JPG" alt="加年端山遙望丹大溪谷對岸的治茆山">
+  <img src="https://1.bp.blogspot.com/-e11W6CX8tQw/YER8WVbc9oI/AAAAAAABOdA/hgUZAEBxV9M1-lNSVbtfDiuOCCMQmmHQwCLcBGAsYHQ/s1024/IMG_7047.JPG" alt="加年端山遙望丹大溪谷對岸的治茆山">
   <figcaption>  </figcaption>
 </figure> 
 
 視線由拉夫朗山開始往南帶，早晨的治茆山以及玉山山脈主稜上的山頭輪廓更顯得立體。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-rUqFJygk6ho/YER8qATHwsI/AAAAAAABOdQ/1blh5RgsBhAUOn43LFmRVyvwBhGYgKEkgCLcBGAsYHQ/s2048/IMG_7048.JPG" alt="加年端山眺望丹大溪對岸的玉山群峰以及郡大西巒">
+  <img src="https://1.bp.blogspot.com/-rUqFJygk6ho/YER8qATHwsI/AAAAAAABOdQ/1blh5RgsBhAUOn43LFmRVyvwBhGYgKEkgCLcBGAsYHQ/s1024/IMG_7048.JPG" alt="加年端山眺望丹大溪對岸的玉山群峰以及郡大西巒">
   <figcaption>  </figcaption>
 </figure> 
 
 準備從此處開始下切，稜線上沒有路跡，我們抓著方向向下切。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-NMKil_t11bU/YER8WA4I1bI/AAAAAAABOc8/dVe6knEhMFAgJTP8NLixVg-ZlL2xHL3HgCLcBGAsYHQ/s2048/IMG_7045.JPG" alt="與加年端山相隔丹大溪的南三段群峰">
+  <img src="https://1.bp.blogspot.com/-NMKil_t11bU/YER8WA4I1bI/AAAAAAABOc8/dVe6knEhMFAgJTP8NLixVg-ZlL2xHL3HgCLcBGAsYHQ/s1024/IMG_7045.JPG" alt="與加年端山相隔丹大溪的南三段群峰">
   <figcaption>  </figcaption>
 </figure> 
 
 出現了一整片的栓皮櫟純林。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-hPwLiDYgVas/YER8yMUZfFI/AAAAAAABOdY/0_i3MBirB64kTROBuMjnqFLkXJgNGdsOgCLcBGAsYHQ/s2048/IMG_7056.JPG" alt="加年端山南側稜線的栓皮櫟純林">
+  <img src="https://1.bp.blogspot.com/-hPwLiDYgVas/YER8yMUZfFI/AAAAAAABOdY/0_i3MBirB64kTROBuMjnqFLkXJgNGdsOgCLcBGAsYHQ/s1024/IMG_7056.JPG" alt="加年端山南側稜線的栓皮櫟純林">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-_B-z07onunM/YER9I8iSQaI/AAAAAAABOds/nxj4y7T1lzAg0aCna5jxvqRey0tQ0rgXgCLcBGAsYHQ/s2048/IMG_7060.JPG" alt="加年端山南稜山徑">
+  <img src="https://1.bp.blogspot.com/-_B-z07onunM/YER9I8iSQaI/AAAAAAABOds/nxj4y7T1lzAg0aCna5jxvqRey0tQ0rgXgCLcBGAsYHQ/s1024/IMG_7060.JPG" alt="加年端山南稜山徑">
   <figcaption> 回望，稜線上枯黃的蕨海搭配藍天 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-3fbPkdfZP_0/YER9NdTL7II/AAAAAAABOdw/f6kiHy91QrI4ocZp_PGmOu8zw7h8vUwQwCLcBGAsYHQ/s2048/IMG_7062.JPG" alt="丹大溪谷山域">
+  <img src="https://1.bp.blogspot.com/-3fbPkdfZP_0/YER9NdTL7II/AAAAAAABOdw/f6kiHy91QrI4ocZp_PGmOu8zw7h8vUwQwCLcBGAsYHQ/s1024/IMG_7062.JPG" alt="丹大溪谷山域">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-DuZ0oK4Hh-w/YER9pkBInNI/AAAAAAABOeE/TNswMpUvtWQTe6cEKIs5O0Qd-mCyZkGKACLcBGAsYHQ/s2048/IMG_7064.JPG" alt="丹大山徑">
+  <img src="https://1.bp.blogspot.com/-DuZ0oK4Hh-w/YER9pkBInNI/AAAAAAABOeE/TNswMpUvtWQTe6cEKIs5O0Qd-mCyZkGKACLcBGAsYHQ/s1024/IMG_7064.JPG" alt="丹大山徑">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Ux2p4aOppHE/YER9o93QqJI/AAAAAAABOeA/HLtiiKMm8C8Zv6_tWvWd74s6W-r6sjmzgCLcBGAsYHQ/s2048/IMG_7068.JPG" alt="由丹大溪谷望向水里方向">
+  <img src="https://1.bp.blogspot.com/-Ux2p4aOppHE/YER9o93QqJI/AAAAAAABOeA/HLtiiKMm8C8Zv6_tWvWd74s6W-r6sjmzgCLcBGAsYHQ/s1024/IMG_7068.JPG" alt="由丹大溪谷望向水里方向">
   <figcaption> 背景為濁水溪谷 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-JUk8FgrTbzU/YER9qiaGPOI/AAAAAAABOeI/8mZA0TZV4NQGSh3zRudZgGZD0MNpHt8QwCLcBGAsYHQ/s2048/IMG_7070.JPG" alt="加年端山南側的大片栓皮櫟純林">
+  <img src="https://1.bp.blogspot.com/-JUk8FgrTbzU/YER9qiaGPOI/AAAAAAABOeI/8mZA0TZV4NQGSh3zRudZgGZD0MNpHt8QwCLcBGAsYHQ/s1024/IMG_7070.JPG" alt="加年端山南側的大片栓皮櫟純林">
   <figcaption> 掉光樹葉的栓皮櫟林光禿禿的枝頭搭配藍天 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-5xNxYLRDHfo/YER-Izz8kaI/AAAAAAABOeQ/DxJA8-HnG1U2yN_Tiym5tBvsSKCu-9s5wCLcBGAsYHQ/s2048/IMG_7073.JPG" alt="丹大山域一帶的冬景">
+  <img src="https://1.bp.blogspot.com/-5xNxYLRDHfo/YER-Izz8kaI/AAAAAAABOeQ/DxJA8-HnG1U2yN_Tiym5tBvsSKCu-9s5wCLcBGAsYHQ/s1024/IMG_7073.JPG" alt="丹大山域一帶的冬景">
   <figcaption>  </figcaption>
 </figure> 
 
 這條稜線為寬稜，沒有路跡，行徑時必須要一直確認方向。需要有地圖判位的能力，地圖是一定不能少的東西，不論是紙本地圖或電子地圖。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-y7x1TyPgtM0/YER-KnZOovI/AAAAAAABOeU/rt9kBX0b8ug5gSdeLDdSHA3bzMcSZKt3QCLcBGAsYHQ/s2048/IMG_7076.JPG" alt="南投山區冬季的森林">
+  <img src="https://1.bp.blogspot.com/-y7x1TyPgtM0/YER-KnZOovI/AAAAAAABOeU/rt9kBX0b8ug5gSdeLDdSHA3bzMcSZKt3QCLcBGAsYHQ/s1024/IMG_7076.JPG" alt="南投山區冬季的森林">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/--b2xHCw9YkE/YER-LTdUX4I/AAAAAAABOeY/lYeGPcDrmigdaUl7S9TY7dWi_E6qedm2wCLcBGAsYHQ/s2048/IMG_7078.JPG" alt="栓皮櫟純林漫步">
+  <img src="https://1.bp.blogspot.com/--b2xHCw9YkE/YER-LTdUX4I/AAAAAAABOeY/lYeGPcDrmigdaUl7S9TY7dWi_E6qedm2wCLcBGAsYHQ/s1024/IMG_7078.JPG" alt="栓皮櫟純林漫步">
   <figcaption> 枯黃的栓皮櫟林中漫步 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Kg4lZMvn63Q/YER-pCVtWGI/AAAAAAABOew/uVNovD1GrWwz1uriX8tLWDqX_aXYQfUTACLcBGAsYHQ/s2048/IMG_7082.JPG" alt="南投山區的栓皮櫟森林">
+  <img src="https://1.bp.blogspot.com/-Kg4lZMvn63Q/YER-pCVtWGI/AAAAAAABOew/uVNovD1GrWwz1uriX8tLWDqX_aXYQfUTACLcBGAsYHQ/s1024/IMG_7082.JPG" alt="南投山區的栓皮櫟森林">
   <figcaption> 回望稜線，加上偏光鏡後天空藍的好不真實XD </figcaption>
 </figure> 
 
 換一個角度，從這裡再次向北望去，除了可以看到剛剛的拉夫朗山大崩壁，還可以清楚看到整條濁水溪谷，遠方丹大溪於合流坪匯流入濁水溪後進入水里的方向。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ctSNndlGFfw/YER-ji5AOCI/AAAAAAABOes/2laz6LPPx9Emye9LhibGYa5ep1Z0QRnEQCLcBGAsYHQ/s2048/IMG_7108.JPG" alt="丹大溪以及丹大林道位在拉夫朗山半山腰">
+  <img src="https://1.bp.blogspot.com/-ctSNndlGFfw/YER-ji5AOCI/AAAAAAABOes/2laz6LPPx9Emye9LhibGYa5ep1Z0QRnEQCLcBGAsYHQ/s1024/IMG_7108.JPG" alt="丹大溪以及丹大林道位在拉夫朗山半山腰">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-oknxrydsvaI/YER-446UtjI/AAAAAAABOe8/hoVXq0k2IqEivNd-E1gCQmC03P90UdNOgCLcBGAsYHQ/s2048/IMG_7112.JPG" alt="加年端南稜線">
+  <img src="https://1.bp.blogspot.com/-oknxrydsvaI/YER-446UtjI/AAAAAAABOe8/hoVXq0k2IqEivNd-E1gCQmC03P90UdNOgCLcBGAsYHQ/s1024/IMG_7112.JPG" alt="加年端南稜線">
   <figcaption> 栓皮櫟純林稜線 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Nv8YCWNBLTY/YER-5Ysv9dI/AAAAAAABOfE/M8vqLA8kJBQB3UiMI1op5YGSajsFoSCkwCLcBGAsYHQ/s2048/IMG_7116.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-Nv8YCWNBLTY/YER-5Ysv9dI/AAAAAAABOfE/M8vqLA8kJBQB3UiMI1op5YGSajsFoSCkwCLcBGAsYHQ/s1024/IMG_7116.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -197,34 +197,34 @@ header:
 下降一段距離後，可從稜線北方幾處缺口，看見丹大林道。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-C_vP93Qk0Zo/YETWpWnx11I/AAAAAAABOfU/-46aZBa6N6E0oHAs_62q4bNpGx3llqcGQCLcBGAsYHQ/s2048/IMG_7122.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-C_vP93Qk0Zo/YETWpWnx11I/AAAAAAABOfU/-46aZBa6N6E0oHAs_62q4bNpGx3llqcGQCLcBGAsYHQ/s1024/IMG_7122.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-w7Ie_7v2ku4/YETWteIsFAI/AAAAAAABOfY/_S2t9WxW_ME9kV5SAwQoIKlQcJb-8VjXQCLcBGAsYHQ/s2048/IMG_7125.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-w7Ie_7v2ku4/YETWteIsFAI/AAAAAAABOfY/_S2t9WxW_ME9kV5SAwQoIKlQcJb-8VjXQCLcBGAsYHQ/s1024/IMG_7125.JPG" alt="">
   <figcaption> 繼續沿著稜線下降 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-SyTbdeYeDds/YETWpNAJEzI/AAAAAAABOfQ/ziB4ezQ1RM0m--IcAw-PZeqlX8CFH0vNgCLcBGAsYHQ/s2048/IMG_7155.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-SyTbdeYeDds/YETWpNAJEzI/AAAAAAABOfQ/ziB4ezQ1RM0m--IcAw-PZeqlX8CFH0vNgCLcBGAsYHQ/s1024/IMG_7155.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 這條稜線上也有幾處石板駁坎遺跡，推測這裡以前應該也有布農族先民於此開墾，但從日治時期的地圖來看，我們這個位置並沒有備標註為部落，看來有可以是耕地的駁坎。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-cNS_WV2OFX8/YETXKx7ugTI/AAAAAAABOfo/UyWfySySttsc6dFUcGvfh3HuxJkIBCS1gCLcBGAsYHQ/s2048/IMG_7171.JPG" alt="加年端社附近的駁坎遺跡">
+  <img src="https://1.bp.blogspot.com/-cNS_WV2OFX8/YETXKx7ugTI/AAAAAAABOfo/UyWfySySttsc6dFUcGvfh3HuxJkIBCS1gCLcBGAsYHQ/s1024/IMG_7171.JPG" alt="加年端社附近的駁坎遺跡">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-8YQKHapDffU/YETXKleK3AI/AAAAAAABOfk/BAzK1yki4isOJ3pXxi0TndFWOWGs634LgCLcBGAsYHQ/s2048/IMG_7173.JPG" alt="加年端社附近的石板駁坎遺跡">
+  <img src="https://1.bp.blogspot.com/-8YQKHapDffU/YETXKleK3AI/AAAAAAABOfk/BAzK1yki4isOJ3pXxi0TndFWOWGs634LgCLcBGAsYHQ/s1024/IMG_7173.JPG" alt="加年端社附近的石板駁坎遺跡">
   <figcaption> 回望稜線上的駁坎遺跡 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-1lET6I8WB34/YETXMrj9z1I/AAAAAAABOfs/KH4OTFXDdG8ViukQ0Lx4QnK_tTJ6ufUsgCLcBGAsYHQ/s2048/IMG_7181.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-1lET6I8WB34/YETXMrj9z1I/AAAAAAABOfs/KH4OTFXDdG8ViukQ0Lx4QnK_tTJ6ufUsgCLcBGAsYHQ/s1024/IMG_7181.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -238,32 +238,32 @@ header:
 寬稜於此一分為二，偏向西方一點的支稜走過去可見一處大草坡，山坡上全是枯黃的蕨類，台電保線路就在下方了，這邊可以看到草坡上有幾堆奇怪的圓形石堆，爬了這麼多山，還是第一次看見這種人造物的遺跡，我們放下重裝下去一探究竟。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-QxyOOb6kZn4/YETXiArwinI/AAAAAAABOgA/F1HaW8Cyra4HsEfgF9QqohVgZ3in2LSLwCLcBGAsYHQ/s2048/IMG_7190.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-QxyOOb6kZn4/YETXiArwinI/AAAAAAABOgA/F1HaW8Cyra4HsEfgF9QqohVgZ3in2LSLwCLcBGAsYHQ/s1024/IMG_7190.JPG" alt="">
   <figcaption> 加年端南稜下方的神祕石堆 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-426krxTyESQ/YETXh3077iI/AAAAAAABOf8/VUBymLYJ0Ewh5vUqKrH_kXaUBIxQ6iU4QCLcBGAsYHQ/s2048/IMG_7193.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-426krxTyESQ/YETXh3077iI/AAAAAAABOf8/VUBymLYJ0Ewh5vUqKrH_kXaUBIxQ6iU4QCLcBGAsYHQ/s1024/IMG_7193.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-5z9JELU97Rk/YETXpoAH3pI/AAAAAAABOgE/ykQHaynwtbwVeuKgsm6O9g2r1RoQLRHPgCLcBGAsYHQ/s2048/IMG_7200.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-5z9JELU97Rk/YETXpoAH3pI/AAAAAAABOgE/ykQHaynwtbwVeuKgsm6O9g2r1RoQLRHPgCLcBGAsYHQ/s1024/IMG_7200.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-3Bu9oSXELfU/YETX6FTETGI/AAAAAAABOgU/yHwRUS0F-KoMiNoU6dKAGxHMNrF-9DsUgCLcBGAsYHQ/s2048/IMG_7201.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-3Bu9oSXELfU/YETX6FTETGI/AAAAAAABOgU/yHwRUS0F-KoMiNoU6dKAGxHMNrF-9DsUgCLcBGAsYHQ/s1024/IMG_7201.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-l2f7-KTsRm8/YETX6ycJW-I/AAAAAAABOgY/jsCWkNA19ygTUSW1RmyMGcHrqYyQ_3YFQCLcBGAsYHQ/s2048/IMG_7202.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-l2f7-KTsRm8/YETX6ycJW-I/AAAAAAABOgY/jsCWkNA19ygTUSW1RmyMGcHrqYyQ_3YFQCLcBGAsYHQ/s1024/IMG_7202.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-I3Yz9LQFhhQ/YETYCuWBMsI/AAAAAAABOgc/czt2A6zH6VA8wkiA42pS7hJLYaW6_HYTwCLcBGAsYHQ/s2048/IMG_7208.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-I3Yz9LQFhhQ/YETYCuWBMsI/AAAAAAABOgc/czt2A6zH6VA8wkiA42pS7hJLYaW6_HYTwCLcBGAsYHQ/s1024/IMG_7208.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -279,19 +279,19 @@ header:
 這裡是一片清幽且充滿故事的山徑。底下不遠處就是登山客熙來攘往的丹大林道了，多數人甚至寧可花大錢搭車快速通過丹大林道，直達七彩湖打卡去了。但卻忘了慢慢品味一下這一片山徑的美。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ZoSQiNiihLI/YETYRvyKFDI/AAAAAAABOgo/NdDg9n0vxkADluEj7fMI2pAdJFaYc3YUACLcBGAsYHQ/s2048/IMG_7225.JPG" alt="丹大林道為前往六順山以及七彩湖必經的道路">
+  <img src="https://1.bp.blogspot.com/-ZoSQiNiihLI/YETYRvyKFDI/AAAAAAABOgo/NdDg9n0vxkADluEj7fMI2pAdJFaYc3YUACLcBGAsYHQ/s1024/IMG_7225.JPG" alt="丹大林道為前往六順山以及七彩湖必經的道路">
   <figcaption>  </figcaption>
 </figure> 
 
 繼續向下行，離開了剛剛的神祕石堆耕地區，我們上背起程，往寬稜分叉點像東支稜前行，這一條支稜坡度比較緩，比較好接上丹大林道。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-1kTcCvf8G1o/YETYTx13DJI/AAAAAAABOgw/3zSmg5CdxNoRQZ1BH4oB9JoF4wmaELzQwCLcBGAsYHQ/s2048/IMG_7226.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-1kTcCvf8G1o/YETYTx13DJI/AAAAAAABOgw/3zSmg5CdxNoRQZ1BH4oB9JoF4wmaELzQwCLcBGAsYHQ/s1024/IMG_7226.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-1HljFHPomWA/YETYjLWid5I/AAAAAAABOg4/s3kqKFyGHUIfe-y-VCvP8UiNnvkGuAHXQCLcBGAsYHQ/s2048/IMG_7231.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-1HljFHPomWA/YETYjLWid5I/AAAAAAABOg4/s3kqKFyGHUIfe-y-VCvP8UiNnvkGuAHXQCLcBGAsYHQ/s1024/IMG_7231.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -308,38 +308,38 @@ header:
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ubtQx-0EmJ0/YETYuJn8alI/AAAAAAABOhA/qR16VocR3Q8gH7hp5JhJNrXOlq4jhKIxACLcBGAsYHQ/s2048/IMG_7233.JPG" alt="加年端南稜線眺望丹大林道">
+  <img src="https://1.bp.blogspot.com/-ubtQx-0EmJ0/YETYuJn8alI/AAAAAAABOhA/qR16VocR3Q8gH7hp5JhJNrXOlq4jhKIxACLcBGAsYHQ/s1024/IMG_7233.JPG" alt="加年端南稜線眺望丹大林道">
   <figcaption>  </figcaption>
 </figure> 
 
 台電電塔，為我們指引回家的方向。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-EoULxyYxLGM/YETYuUSFhII/AAAAAAABOhE/uwr-V_jyt_s6L0oaFSzgYTPpkTqRl_d2ACLcBGAsYHQ/s2048/IMG_7234.JPG" alt="丹大林道以及台電電塔保線路">
+  <img src="https://1.bp.blogspot.com/-EoULxyYxLGM/YETYuUSFhII/AAAAAAABOhE/uwr-V_jyt_s6L0oaFSzgYTPpkTqRl_d2ACLcBGAsYHQ/s1024/IMG_7234.JPG" alt="丹大林道以及台電電塔保線路">
   <figcaption>  </figcaption>
 </figure> 
 
 接近丹大林上方的氣象站，這裡有一處類似家屋的駁坎。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-EYBMr5rAANc/YETZB5DzZ1I/AAAAAAABOhU/sxjzk0tF3XY0i3zuhENHyZFTCv7CUW5XQCLcBGAsYHQ/s2048/IMG_7236.JPG" alt="加年端社遺址">
+  <img src="https://1.bp.blogspot.com/-EYBMr5rAANc/YETZB5DzZ1I/AAAAAAABOhU/sxjzk0tF3XY0i3zuhENHyZFTCv7CUW5XQCLcBGAsYHQ/s1024/IMG_7236.JPG" alt="加年端社遺址">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-19ptbuGns74/YETZL3c-z3I/AAAAAAABOhY/zuzT4Z9C9FgHOKf-7LmTKZPiMHJibUJ5QCLcBGAsYHQ/s2048/IMG_7237.JPG" alt="布農族家屋駁坎">
+  <img src="https://1.bp.blogspot.com/-19ptbuGns74/YETZL3c-z3I/AAAAAAABOhY/zuzT4Z9C9FgHOKf-7LmTKZPiMHJibUJ5QCLcBGAsYHQ/s1024/IMG_7237.JPG" alt="布農族家屋駁坎">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-gTBbvowL260/YETZM0VnTCI/AAAAAAABOhc/mIBe97cD71EnODCrWIjrLylKCeU8os8eQCLcBGAsYHQ/s2048/IMG_7248.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-gTBbvowL260/YETZM0VnTCI/AAAAAAABOhc/mIBe97cD71EnODCrWIjrLylKCeU8os8eQCLcBGAsYHQ/s1024/IMG_7248.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 從家屋遺址回望整片山坡以及稜線，我們剛剛從稜線上方的加年端山一路走下來，欣賞了一整片栓皮櫟純林，還找到一片耕地遺址。今天原本只是回家的交通天，但卻收穫滿滿。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-dmO0midfE-4/YETZUj4u6YI/AAAAAAABOhg/XhEwmud33ywcCgke_FNBhVYMSNl2-lRygCLcBGAsYHQ/s2048/IMG_7252.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-dmO0midfE-4/YETZUj4u6YI/AAAAAAABOhg/XhEwmud33ywcCgke_FNBhVYMSNl2-lRygCLcBGAsYHQ/s1024/IMG_7252.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 

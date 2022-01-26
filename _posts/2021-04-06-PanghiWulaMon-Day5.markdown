@@ -14,28 +14,28 @@ tags:
   - 中央山脈馬博橫斷
 
 feature_row:
-  - image_path: https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s4032/IMG_6166.JPG
+  - image_path: https://1.bp.blogspot.com/-qYeTxjTeO24/YIF316yTf4I/AAAAAAABO-o/xeHKSM--yRAn1wbYsyKkpgWWR05nCY5DwCLcBGAsYHQ/s1024/IMG_6166.JPG
     title: "盆駒西北稜(一) 郡大溪谷的深處"
     excerpt: "由無雙吊橋旁的郡大溪谷開始上攀，盆駒山西北稜由海拔1450公尺開始陡升至三千公尺高的盆駒山。這是經典的非傳統路線攀登百岳路線之一。早年鹿野忠雄就是經由這一條路線探查馬博拉斯山以及秀姑巒山的。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day1/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s2048/IMG_7509.JPG
+  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s1024/IMG_7509.JPG
     title: "盆駒西北稜(二) 被世人遺忘的稜線"
     excerpt: "這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s2048/IMG_7898.JPG
+  - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s1024/IMG_7898.JPG
     title: "盆駒西北稜(三) 登上盆駒馬博"
     excerpt: "依循盆駒西北稜，我們接上了傳統路，但不代表路途就此可以輕鬆了。因為我還要登上海拔接近三千八百公尺的馬博拉斯山。高海拔環境讓我們每走一步都要喘好幾口氣，加上毫無遮蔽的箭竹草坡的缺水路線，這是我們面對最大的考驗。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day3/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s2048/IMG_8119.JPG
+  - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s1024/IMG_8119.JPG
     title: "盆駒西北稜(四) 夜行秀姑巒"
     excerpt: "於海拔3700公尺高的稜線上，頂著凌晨三點的強風，我們在黑夜中向秀姑巒前進。好在登頂秀姑巒前的稜線上忽然雲霧散開，我們迎接了朝陽。"
     url: "mt-note-photo-100peaks/PanghiWulaMon-Day4/"
@@ -45,13 +45,13 @@ feature_row:
 
 header:
   image: https://1.bp.blogspot.com/-pDsS30Qt4Ww/YLOhLmYvi_I/AAAAAAABQzY/ArRZChPF-domTpZqsRE0LB4ucONbddZdACLcBGAsYHQ/s3000/IMG_8406.JPG
-  teaser : https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s2048/IMG_8365.JPG
+  teaser : https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s1024/IMG_8365.JPG
   image_description: "八通關山等頂成功"
   overlay_filter: 0.5
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-lpkrCeapiFM/YK42FN76igI/AAAAAAABQvM/1uC5hS8c8tY6U3IQswxyKtZu7ghNmgcgwCLcBGAsYHQ/s2048/IMG_8387.JPG" alt="八通關大山">
+  <img src="https://1.bp.blogspot.com/-lpkrCeapiFM/YK42FN76igI/AAAAAAABQvM/1uC5hS8c8tY6U3IQswxyKtZu7ghNmgcgwCLcBGAsYHQ/s1024/IMG_8387.JPG" alt="八通關大山">
   <figcaption>  </figcaption>
 </figure>  
 
@@ -62,7 +62,7 @@ header:
 結束了五天的旅程，探訪了台灣深山一帶，憑著文字紀錄，想像一下早年這邊的故事，這也是爬山除了登頂跟三角點合照以外的樂趣之一。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-imblekqo4Pk/YK5E95jgwTI/AAAAAAABQws/PBJwiZPKGAIJUtK3f3Vuzyr5US_Bvgv9gCLcBGAsYHQ/s4032/IMG_6648.JPG" alt="八通關古道西段的父子斷崖眺望陳有蘭溪">
+  <img src="https://1.bp.blogspot.com/-imblekqo4Pk/YK5E95jgwTI/AAAAAAABQws/PBJwiZPKGAIJUtK3f3Vuzyr5US_Bvgv9gCLcBGAsYHQ/s1024/IMG_6648.JPG" alt="八通關古道西段的父子斷崖眺望陳有蘭溪">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -75,72 +75,72 @@ header:
 從中央金礦山屋出發，朝向八通關山前進。此處古道沿途有幾處碎石崩蹋地，但最近很久沒下雨了，這兩年也都沒有颱風登陸，看來這裡就算不下雨也是有崩塌的危險。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ztczx_0Iwtk/YK4088gFE6I/AAAAAAABQuo/udiPJEbMJq8vyPLlCXNLWA8g4ZeFHrhLgCLcBGAsYHQ/s2048/IMG_8346.JPG" alt="八通關古道西段">
+  <img src="https://1.bp.blogspot.com/-ztczx_0Iwtk/YK4088gFE6I/AAAAAAABQuo/udiPJEbMJq8vyPLlCXNLWA8g4ZeFHrhLgCLcBGAsYHQ/s1024/IMG_8346.JPG" alt="八通關古道西段">
   <figcaption> 八通關古道西段有多處碎石崩塌地 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-dixZSnI4c_s/YK407P5jyaI/AAAAAAABQug/_-IlkyYjUfcx5foxPCrUyJCe5j-gBkaZACLcBGAsYHQ/s2048/IMG_8349.JPG" alt="日治八通關古道">
+  <img src="https://1.bp.blogspot.com/-dixZSnI4c_s/YK407P5jyaI/AAAAAAABQug/_-IlkyYjUfcx5foxPCrUyJCe5j-gBkaZACLcBGAsYHQ/s1024/IMG_8349.JPG" alt="日治八通關古道">
   <figcaption> 古道 二葉松林 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-eZfwUAUb5Zc/YK40tFb75cI/AAAAAAABQuc/aRXq7Cs9Dgs-mD74xN-vvUAcBYBV-WtZACLcBGAsYHQ/s2048/IMG_8353.JPG" alt="日治時代八通關古道">
+  <img src="https://1.bp.blogspot.com/-eZfwUAUb5Zc/YK40tFb75cI/AAAAAAABQuc/aRXq7Cs9Dgs-mD74xN-vvUAcBYBV-WtZACLcBGAsYHQ/s1024/IMG_8353.JPG" alt="日治時代八通關古道">
   <figcaption>  </figcaption>
 </figure> 
 
 我們這次要重裝上八通關山稜，走高繞路順便登頂。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Kan5YCG3IXE/YK41zZhe2_I/AAAAAAABQu8/D6mx-s0Ufj0Z9NzS1SwfiVGsnI5jLuZNACLcBGAsYHQ/s2048/IMG_8358.JPG" alt="攀登八通關山">
+  <img src="https://1.bp.blogspot.com/-Kan5YCG3IXE/YK41zZhe2_I/AAAAAAABQu8/D6mx-s0Ufj0Z9NzS1SwfiVGsnI5jLuZNACLcBGAsYHQ/s1024/IMG_8358.JPG" alt="攀登八通關山">
   <figcaption>  </figcaption>
 </figure> 
 
 上抵前往西峰稜線岔路口後，我們把背包放在路口，輕裝單攻八通關大山。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-OBf_ZiD6y94/YK41nFGyooI/AAAAAAABQu4/SyxxibAYrRQbSL8vp6P6Z0kyLuinaYFPACLcBGAsYHQ/s2048/IMG_8364.JPG" alt="八通關山為台灣百岳之一">
+  <img src="https://1.bp.blogspot.com/-OBf_ZiD6y94/YK41nFGyooI/AAAAAAABQu4/SyxxibAYrRQbSL8vp6P6Z0kyLuinaYFPACLcBGAsYHQ/s1024/IMG_8364.JPG" alt="八通關山為台灣百岳之一">
   <figcaption> 岩壁上就是八通關大山 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-lxSHmGK4llw/YK42LhwfEAI/AAAAAAABQvU/s7Gk7PBl_qg9lvKPVPuxHoO3UNzYXwadQCLcBGAsYHQ/s2048/IMG_8376.JPG" alt="登頂八通關大山">
+  <img src="https://1.bp.blogspot.com/-lxSHmGK4llw/YK42LhwfEAI/AAAAAAABQvU/s7Gk7PBl_qg9lvKPVPuxHoO3UNzYXwadQCLcBGAsYHQ/s1024/IMG_8376.JPG" alt="登頂八通關大山">
   <figcaption> 八通關大山登頂前最後一塊岩壁 </figcaption>
 </figure> 
 
 登頂八通關大山，背景為南二段上的達芬尖山
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-lpkrCeapiFM/YK42FN76igI/AAAAAAABQvM/1uC5hS8c8tY6U3IQswxyKtZu7ghNmgcgwCLcBGAsYHQ/s2048/IMG_8387.JPG" alt="八通關山山頂基石">
+  <img src="https://1.bp.blogspot.com/-lpkrCeapiFM/YK42FN76igI/AAAAAAABQvM/1uC5hS8c8tY6U3IQswxyKtZu7ghNmgcgwCLcBGAsYHQ/s1024/IMG_8387.JPG" alt="八通關山山頂基石">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ljnPcIBN3Oo/YK42GH6W8-I/AAAAAAABQvQ/7e3z6SxojWs9_lXjJpjy6Tygfpo4TmcUACLcBGAsYHQ/s2048/IMG_8390.JPG" alt="八通關山頂">
+  <img src="https://1.bp.blogspot.com/-ljnPcIBN3Oo/YK42GH6W8-I/AAAAAAABQvQ/7e3z6SxojWs9_lXjJpjy6Tygfpo4TmcUACLcBGAsYHQ/s1024/IMG_8390.JPG" alt="八通關山頂">
   <figcaption> 森林三角點 </figcaption>
 </figure> 
 
 回程，我們從八通關西峰前鞍部往右方溪溝往下切，路不是很好走，很陡且破碎，好像還是越過八通關西峰後再切會比較好。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-jQSBMSdlTHg/YK42NuHt-vI/AAAAAAABQvY/xf_VjtAWhQMMkmrHW_4XGiKdGlE_UXT7gCLcBGAsYHQ/s4032/IMG_6556.JPG" alt="八通關山下切">
+  <img src="https://1.bp.blogspot.com/-jQSBMSdlTHg/YK42NuHt-vI/AAAAAAABQvY/xf_VjtAWhQMMkmrHW_4XGiKdGlE_UXT7gCLcBGAsYHQ/s1024/IMG_6556.JPG" alt="八通關山下切">
   <figcaption>  </figcaption>
 </figure> 
 
 下降的過程，剛好走到雲頂高度，我們從雲海之上走進雲霧之中。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-xE2Rjco_-cQ/YK42N6btEtI/AAAAAAABQvc/Eg0DyiKYJZU5PSql7uWP59p_Wuev_CiSgCLcBGAsYHQ/s4032/IMG_6559.JPG" alt="八通關山下切鐵杉林">
+  <img src="https://1.bp.blogspot.com/-xE2Rjco_-cQ/YK42N6btEtI/AAAAAAABQvc/Eg0DyiKYJZU5PSql7uWP59p_Wuev_CiSgCLcBGAsYHQ/s1024/IMG_6559.JPG" alt="八通關山下切鐵杉林">
   <figcaption> 雲霧中的鐵杉林 </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Te1PpoPi04k/YK42RLvxhMI/AAAAAAABQvk/WOXtEWvhuGs7QhZTwaSHDCOa2iEd5kITwCLcBGAsYHQ/s4032/IMG_6565.JPG" alt="雲霧鐵杉林">
+  <img src="https://1.bp.blogspot.com/-Te1PpoPi04k/YK42RLvxhMI/AAAAAAABQvk/WOXtEWvhuGs7QhZTwaSHDCOa2iEd5kITwCLcBGAsYHQ/s1024/IMG_6565.JPG" alt="雲霧鐵杉林">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-AwXoaBBtz-o/YK42RP9ByqI/AAAAAAABQvo/qty057A7QXUARlB8v24zHKcbBbF9Of2awCLcBGAsYHQ/s4032/IMG_6571.JPG" alt="雲霧鐵杉林">
+  <img src="https://1.bp.blogspot.com/-AwXoaBBtz-o/YK42RP9ByqI/AAAAAAABQvo/qty057A7QXUARlB8v24zHKcbBbF9Of2awCLcBGAsYHQ/s1024/IMG_6571.JPG" alt="雲霧鐵杉林">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -166,19 +166,19 @@ header:
 回程沿途，我們遇到更多破碎的碎石地形，這邊蠻危險的，山坡坡面很陡，這邊掉下去的嚴重程度可能不亞於前兩天的可怕山坡。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-CMCS8AjJAdk/YK5EvLk5sQI/AAAAAAABQwQ/E0-Lf_4eeZgAQi2tVUii__4U2lfHywY9wCLcBGAsYHQ/s4032/IMG_6587.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-CMCS8AjJAdk/YK5EvLk5sQI/AAAAAAABQwQ/E0-Lf_4eeZgAQi2tVUii__4U2lfHywY9wCLcBGAsYHQ/s1024/IMG_6587.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-kVQTVzzgQuY/YK5EvRQW4lI/AAAAAAABQwU/0W_e8zQP9JoNbFDWGmlIFX7kgs6lTp58wCLcBGAsYHQ/s4032/IMG_6590.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-kVQTVzzgQuY/YK5EvRQW4lI/AAAAAAABQwU/0W_e8zQP9JoNbFDWGmlIFX7kgs6lTp58wCLcBGAsYHQ/s1024/IMG_6590.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 通過陳有蘭溪回望八通關山
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-NjmQjcQ0swo/YK5EvsE4E3I/AAAAAAABQwY/lFV3DwVSP0IEQmckRpwGuhYJdvPGPJ9swCLcBGAsYHQ/s4032/IMG_6605.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-NjmQjcQ0swo/YK5EvsE4E3I/AAAAAAABQwY/lFV3DwVSP0IEQmckRpwGuhYJdvPGPJ9swCLcBGAsYHQ/s1024/IMG_6605.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -190,70 +190,70 @@ header:
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-DR9qqwBntwY/YK5E3DTWPCI/AAAAAAABQwc/aP4zzx3a5f4ZgJpuXNZBFvIIiYSMoGFqACLcBGAsYHQ/s4032/IMG_6613.JPG" alt="八通關古道雲龍瀑布">
+  <img src="https://1.bp.blogspot.com/-DR9qqwBntwY/YK5E3DTWPCI/AAAAAAABQwc/aP4zzx3a5f4ZgJpuXNZBFvIIiYSMoGFqACLcBGAsYHQ/s1024/IMG_6613.JPG" alt="八通關古道雲龍瀑布">
   <figcaption> 雲龍瀑布 </figcaption>
 </figure> 
 
 壯觀的雲龍瀑布
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-T8GiNfrelDU/YK5E4vgJeLI/AAAAAAABQwg/4dNm-ccXeqA_OBu6gD4gaymPTXg-iQRAQCLcBGAsYHQ/s4032/IMG_6616.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-T8GiNfrelDU/YK5E4vgJeLI/AAAAAAABQwg/4dNm-ccXeqA_OBu6gD4gaymPTXg-iQRAQCLcBGAsYHQ/s1024/IMG_6616.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-xCnSlqCEwbY/YK5E48RztgI/AAAAAAABQwk/gmefHsKFg14O_MNY8pbycl4dD7z8u1C2ACLcBGAsYHQ/s4032/IMG_6621.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-xCnSlqCEwbY/YK5E48RztgI/AAAAAAABQwk/gmefHsKFg14O_MNY8pbycl4dD7z8u1C2ACLcBGAsYHQ/s1024/IMG_6621.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 八通關古道西段最壯觀的斷崖地形，父子斷崖附近。眺望陳有蘭溪谷
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-imblekqo4Pk/YK5E95jgwTI/AAAAAAABQws/PBJwiZPKGAIJUtK3f3Vuzyr5US_Bvgv9gCLcBGAsYHQ/s4032/IMG_6648.JPG" alt="八通關古道峽谷地形">
+  <img src="https://1.bp.blogspot.com/-imblekqo4Pk/YK5E95jgwTI/AAAAAAABQws/PBJwiZPKGAIJUtK3f3Vuzyr5US_Bvgv9gCLcBGAsYHQ/s1024/IMG_6648.JPG" alt="八通關古道峽谷地形">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-oMO_wOGqh6o/YK5FD94zAVI/AAAAAAABQw8/8ooLDyao6UED6Su-krKvl7ofKpM-SxmNQCLcBGAsYHQ/s4032/IMG_6651.JPG" alt="八通關古道父子斷崖">
+  <img src="https://1.bp.blogspot.com/-oMO_wOGqh6o/YK5FD94zAVI/AAAAAAABQw8/8ooLDyao6UED6Su-krKvl7ofKpM-SxmNQCLcBGAsYHQ/s1024/IMG_6651.JPG" alt="八通關古道父子斷崖">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-LHadEkax5cA/YK5FDpcQlmI/AAAAAAABQw4/UkR9N93dHUkDuEvlohweeCbZEZE040FUgCLcBGAsYHQ/s4032/IMG_6654.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-LHadEkax5cA/YK5FDpcQlmI/AAAAAAABQw4/UkR9N93dHUkDuEvlohweeCbZEZE040FUgCLcBGAsYHQ/s1024/IMG_6654.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-x1r50Ji_GGw/YK5FFkw-x1I/AAAAAAABQxA/8SKYl7Id8R8kBzg86IJFQXu7ywp29R6zQCLcBGAsYHQ/s4032/IMG_6657.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-x1r50Ji_GGw/YK5FFkw-x1I/AAAAAAABQxA/8SKYl7Id8R8kBzg86IJFQXu7ywp29R6zQCLcBGAsYHQ/s1024/IMG_6657.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-DRlUMwSHEOk/YK5FJeTirnI/AAAAAAABQxI/Im5LRQUIM9EDLH9ZGu2wLqx1-J7aMGlTwCLcBGAsYHQ/s4032/IMG_6663.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-DRlUMwSHEOk/YK5FJeTirnI/AAAAAAABQxI/Im5LRQUIM9EDLH9ZGu2wLqx1-J7aMGlTwCLcBGAsYHQ/s1024/IMG_6663.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 回到東埔，愛玉亭旁的菜園。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-yC0U0fBTvPY/YK5FKlngBPI/AAAAAAABQxQ/PruFb5Qy81YmBScMmTt0BnrVbwy8Kx9ogCLcBGAsYHQ/s4032/IMG_6670.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-yC0U0fBTvPY/YK5FKlngBPI/AAAAAAABQxQ/PruFb5Qy81YmBScMmTt0BnrVbwy8Kx9ogCLcBGAsYHQ/s1024/IMG_6670.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-OYeEyuCDSBk/YK5FKPiPxqI/AAAAAAABQxM/7zvEjeb1UdEJoJXFQeeS1Jgz_UApxFjUACLcBGAsYHQ/s4032/IMG_6675.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-OYeEyuCDSBk/YK5FKPiPxqI/AAAAAAABQxM/7zvEjeb1UdEJoJXFQeeS1Jgz_UApxFjUACLcBGAsYHQ/s1024/IMG_6675.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-3U1dYx-znAY/YK5FNkaSqGI/AAAAAAABQxY/LeHO6czYK_Et0XUuEHS5JW1wEkgf0jcfACLcBGAsYHQ/s4032/IMG_6679.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-3U1dYx-znAY/YK5FNkaSqGI/AAAAAAABQxY/LeHO6czYK_Et0XUuEHS5JW1wEkgf0jcfACLcBGAsYHQ/s1024/IMG_6679.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 早上十點十分左右，回到上東埔的八通關古道西段入口，結束了這趟5天的行程。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-u9-rTwHK9vk/YK5FNoFGU7I/AAAAAAABQxc/vM_9AuN46isHmklnvkQTINDuT8H2fukYgCLcBGAsYHQ/s4032/IMG_6684.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-u9-rTwHK9vk/YK5FNoFGU7I/AAAAAAABQxc/vM_9AuN46isHmklnvkQTINDuT8H2fukYgCLcBGAsYHQ/s1024/IMG_6684.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 

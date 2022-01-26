@@ -14,21 +14,21 @@ tags:
   - 南投
 
 feature_row:
-  - image_path: https://1.bp.blogspot.com/-QioGOW_V-c8/YC_YFKAq41I/AAAAAAABOH0/NdfRdkbTLfsPW8JCEc-YtdMTCmu9GaHvQCLcBGAsYHQ/s2048/IMG_6418.JPG
+  - image_path: https://1.bp.blogspot.com/-QioGOW_V-c8/YC_YFKAq41I/AAAAAAABOH0/NdfRdkbTLfsPW8JCEc-YtdMTCmu9GaHvQCLcBGAsYHQ/s1024/IMG_6418.JPG
     title: "(二) 卡社遺址與拉夫朗西北峰"
     excerpt: "卡社加年端稜線縱走行程第二天，由卡社山稜線路東行至拉夫朗西北峰沿途景色宜人，有多處石板駁坎遺址。"
     url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-IKwq_x8K44o/YDJrn0ttaEI/AAAAAAABORU/crwvU7JkVEQSrA1386dXS35wVMBXAerjwCLcBGAsYHQ/s2048/IMG_6866.JPG
+  - image_path: https://1.bp.blogspot.com/-IKwq_x8K44o/YDJrn0ttaEI/AAAAAAABORU/crwvU7JkVEQSrA1386dXS35wVMBXAerjwCLcBGAsYHQ/s1024/IMG_6866.JPG
     title: "(三) 前往加年端"
     excerpt: "由拉夫朗山繼續向東行，更深入中央山脈深處，前往加年端山。此處可遠眺整段南三段稜線群峰，由關門北山開始向南延伸向丹大山的大南三線，並延伸向內嶺爾山-東巒大山的東郡橫斷，盡收眼底。"
     url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day2-part2"
     btn_class: "btn--primary"
     btn_label: "Go to"
 
-  - image_path: https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s2048/IMG_7042.JPG
+  - image_path: https://1.bp.blogspot.com/-tPaU0E1nW7s/YER7871jPmI/AAAAAAABOco/nLyMIhWym04_vaweQIsNBA4watZ5z4b_wCLcBGAsYHQ/s1024/IMG_7042.JPG
     title: "(四) 加年端下切丹大林道 -- 遺世獨立"
     excerpt: "加年端山南側是一整片枯黃蕨海山坡地，展望良好，可以飽覽丹大-東郡橫斷群峰。由此稜線向下切往丹大林道保線路，有如通往另一個美麗的世界。"
     url: "mt-note-photo-midalt/DandaMountainArea-HistoricalTrailAdvanture-Day3"
@@ -37,21 +37,21 @@ feature_row:
 
 gallery:
   - url: 
-    image_path: https://1.bp.blogspot.com/-4G84v_lmUO0/YC_X90WtCfI/AAAAAAABOHs/dmdvtTmnvQE2TFww_L0PYBvPDmN8iFDhwCLcBGAsYHQ/s2048/IMG_6412.JPG
+    image_path: https://1.bp.blogspot.com/-4G84v_lmUO0/YC_X90WtCfI/AAAAAAABOHs/dmdvtTmnvQE2TFww_L0PYBvPDmN8iFDhwCLcBGAsYHQ/s1024/IMG_6412.JPG
     alt: "位在拉夫朗山與卡社山間的關門古道遺址"
     title: "卡社山-拉夫朗西北峰稜線間的石板駁坎遺址"
   - url: 
-    image_path: https://1.bp.blogspot.com/-IiP_O6Ut_ms/YDJO2jA_ZSI/AAAAAAABOQo/tW3OnE7a740Okqf3K5i1Zppmu-8eVTH6wCLcBGAsYHQ/s2048/IMG_6755.JPG
+    image_path: https://1.bp.blogspot.com/-IiP_O6Ut_ms/YDJO2jA_ZSI/AAAAAAABOQo/tW3OnE7a740Okqf3K5i1Zppmu-8eVTH6wCLcBGAsYHQ/s1024/IMG_6755.JPG
     alt: "拉夫郎西北峰"
     title: "拉夫郎西北峰山頂基點"
   - url: 
-    image_path: https://1.bp.blogspot.com/-cvmw9BC_STA/YDJOWvdRjHI/AAAAAAABOQY/bQcJyQJxUKYxJUO6NUHEUYbVMvoGXw2TwCLcBGAsYHQ/s2048/IMG_6738.JPG
+    image_path: https://1.bp.blogspot.com/-cvmw9BC_STA/YDJOWvdRjHI/AAAAAAABOQY/bQcJyQJxUKYxJUO6NUHEUYbVMvoGXw2TwCLcBGAsYHQ/s1024/IMG_6738.JPG
     alt: "拉夫朗山稜線俯瞰丹大溪谷"
     title: "拉夫郎西北峰前稜線處眺望丹大溪谷"
 
 header:
   image: https://1.bp.blogspot.com/-pQT4F3nsBo0/YDJio7HW4MI/AAAAAAABORI/-joNxPm1zwA6ylrMTJTvR8hQyxQSWHu8wCLcBGAsYHQ/s3236/IMG_6374.JPG
-  teaser : https://1.bp.blogspot.com/-q_RpliYubYs/YC_WFTtWDGI/AAAAAAABOGM/kqSSS6kM924gzxCgAc3pXJQoaBiT-XhlACLcBGAsYHQ/s2048/IMG_6363.JPG
+  teaser : https://1.bp.blogspot.com/-q_RpliYubYs/YC_WFTtWDGI/AAAAAAABOGM/kqSSS6kM924gzxCgAc3pXJQoaBiT-XhlACLcBGAsYHQ/s1024/IMG_6363.JPG
   image_description: ""
   overlay_filter: 0.5
 ---
@@ -59,7 +59,7 @@ header:
 我的功力不夠，無法利用三言兩語的文字來描述卡社山的景色，真的必須親臨才能體會。
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-Vyv1qkePdbI/YDIK8CUvwAI/AAAAAAABOK8/XwBjphAJNScLzJyatsdpW3Acw60P70yPgCLcBGAsYHQ/s2048/IMG_6498.JPG" alt="卡社山通往拉夫朗西北峰連稜">
+  <img src="https://1.bp.blogspot.com/-Vyv1qkePdbI/YDIK8CUvwAI/AAAAAAABOK8/XwBjphAJNScLzJyatsdpW3Acw60P70yPgCLcBGAsYHQ/s1024/IMG_6498.JPG" alt="卡社山通往拉夫朗西北峰連稜">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -73,7 +73,7 @@ header:
 這個時節剛剛好，天氣涼爽，地面上厚厚一層落葉搭配上光禿禿的枝頭，枝頭間可見蔚藍的晴空，山腰上點綴著桃紅色的山櫻花，如此大景也不輸百岳名峰。
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://1.bp.blogspot.com/-Wlu_psvy-bo/YDJHZQpIEGI/AAAAAAABONc/-AuYNMZwa4QGjpn5CqmvidSnP5DCR9j1ACLcBGAsYHQ/s2048/IMG_6626.JPG" alt="卡社山稜線眺望治茆山">
+  <img src="https://1.bp.blogspot.com/-Wlu_psvy-bo/YDJHZQpIEGI/AAAAAAABONc/-AuYNMZwa4QGjpn5CqmvidSnP5DCR9j1ACLcBGAsYHQ/s1024/IMG_6626.JPG" alt="卡社山稜線眺望治茆山">
   <figcaption> 卡社山稜線眺望治茆山 </figcaption>
 </figure> 
 
@@ -81,7 +81,7 @@ header:
 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-4G84v_lmUO0/YC_X90WtCfI/AAAAAAABOHs/dmdvtTmnvQE2TFww_L0PYBvPDmN8iFDhwCLcBGAsYHQ/s2048/IMG_6412.JPG" alt="卡社部落遺址">
+  <img src="https://1.bp.blogspot.com/-4G84v_lmUO0/YC_X90WtCfI/AAAAAAABOHs/dmdvtTmnvQE2TFww_L0PYBvPDmN8iFDhwCLcBGAsYHQ/s1024/IMG_6412.JPG" alt="卡社部落遺址">
   <figcaption> 舊部落家屋遺址 </figcaption>
 </figure> 
 
@@ -135,12 +135,12 @@ header:
 停妥車後，便整裝準備出發。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-7LjKMwyiOhY/YC_TBxe3kiI/AAAAAAABODw/xMUMuKyNTWE-K4d94re1Y5xEq8GmBIlXgCLcBGAsYHQ/s2048/IMG_6303.JPG" alt="卡社山登山口">
+  <img src="https://1.bp.blogspot.com/-7LjKMwyiOhY/YC_TBxe3kiI/AAAAAAABODw/xMUMuKyNTWE-K4d94re1Y5xEq8GmBIlXgCLcBGAsYHQ/s1024/IMG_6303.JPG" alt="卡社山登山口">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-693Eo33aG98/YC_TXBEVxbI/AAAAAAABOEE/ZraYjPAjmtMw7GLLsCWFu0KC81je6KMGACLcBGAsYHQ/s2048/IMG_6307.JPG" alt="卡社山登山道路">
+  <img src="https://1.bp.blogspot.com/-693Eo33aG98/YC_TXBEVxbI/AAAAAAABOEE/ZraYjPAjmtMw7GLLsCWFu0KC81je6KMGACLcBGAsYHQ/s1024/IMG_6307.JPG" alt="卡社山登山道路">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -152,12 +152,12 @@ header:
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-yswzWCQd1fA/YC_TjRUiqFI/AAAAAAABOEI/nRVNLcGxOporLio0QDu8TMT9jlXLqIuXQCLcBGAsYHQ/s2048/IMG_6309.JPG" alt="冬季卡社山">
+  <img src="https://1.bp.blogspot.com/-yswzWCQd1fA/YC_TjRUiqFI/AAAAAAABOEI/nRVNLcGxOporLio0QDu8TMT9jlXLqIuXQCLcBGAsYHQ/s1024/IMG_6309.JPG" alt="冬季卡社山">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-X4061y0EJaY/YC_UEMXD5aI/AAAAAAABOEg/waKMOGb-u04DXTVrafDCvVoyvlrx2b-VwCLcBGAsYHQ/s2048/IMG_6318.JPG" alt="冬季卡社山的森林">
+  <img src="https://1.bp.blogspot.com/-X4061y0EJaY/YC_UEMXD5aI/AAAAAAABOEg/waKMOGb-u04DXTVrafDCvVoyvlrx2b-VwCLcBGAsYHQ/s1024/IMG_6318.JPG" alt="冬季卡社山的森林">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -171,7 +171,7 @@ header:
 一路上還可見到山胡椒(馬告)等植物。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-iSOzx2fWhvA/YDJ22YSyKeI/AAAAAAABOR0/su25lE1Y33AlNnTkDgbksvS2W-96kAhnwCLcBGAsYHQ/s4032/IMG_3615%2B2.JPG" alt="">
+  <img src="https://1.bp.blogspot.com/-iSOzx2fWhvA/YDJ22YSyKeI/AAAAAAABOR0/su25lE1Y33AlNnTkDgbksvS2W-96kAhnwCLcBGAsYHQ/s1024/IMG_3615%2B2.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -224,14 +224,14 @@ header:
 大年初四，一早，我們便先輕裝前往卡社山。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-v90RiFrrRDo/YC_UkoQAHzI/AAAAAAABOE8/ifF6j0bFcTAf_RaO2n7RDqpRkpCMeG5yQCLcBGAsYHQ/s2048/IMG_6330.JPG" alt="攀登卡社山">
+  <img src="https://1.bp.blogspot.com/-v90RiFrrRDo/YC_UkoQAHzI/AAAAAAABOE8/ifF6j0bFcTAf_RaO2n7RDqpRkpCMeG5yQCLcBGAsYHQ/s1024/IMG_6330.JPG" alt="攀登卡社山">
   <figcaption>  </figcaption>
 </figure> 
 
 一處向北有展望的點，可以清楚看見濁水溪流域後方的武界，再過去就是萬大、霧社一帶。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-eTIPE4sdLKk/YC_UQ1DoU5I/AAAAAAABOEs/yFIlI8LvxTczLUgNCUWqdJGhhpl1UmlQACLcBGAsYHQ/s2048/IMG_6327.JPG" alt="前往卡社山途中景色可見武界">
+  <img src="https://1.bp.blogspot.com/-eTIPE4sdLKk/YC_UQ1DoU5I/AAAAAAABOEs/yFIlI8LvxTczLUgNCUWqdJGhhpl1UmlQACLcBGAsYHQ/s1024/IMG_6327.JPG" alt="前往卡社山途中景色可見武界">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -239,17 +239,17 @@ header:
 這邊石板堆疊的駁坎還滿完整的，牆上還有壁龕的構造，應該是用來置物的。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-M-nA0V7H5lY/YC_UtQjTAsI/AAAAAAABOFE/GM0VGeNpUUAgm-rMLE_vRy6Le_ukKTFtgCLcBGAsYHQ/s2048/IMG_6333.JPG" alt="卡社山前的布農族家屋遺址">
+  <img src="https://1.bp.blogspot.com/-M-nA0V7H5lY/YC_UtQjTAsI/AAAAAAABOFE/GM0VGeNpUUAgm-rMLE_vRy6Le_ukKTFtgCLcBGAsYHQ/s1024/IMG_6333.JPG" alt="卡社山前的布農族家屋遺址">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-j--qUKcRw9s/YC_VAZTFa6I/AAAAAAABOFU/qG-EQruP8yw1vjHsWci-IItF8AI2Ttt2gCLcBGAsYHQ/s2048/IMG_6334.JPG" alt="傳統布農族石板建築駁坎">
+  <img src="https://1.bp.blogspot.com/-j--qUKcRw9s/YC_VAZTFa6I/AAAAAAABOFU/qG-EQruP8yw1vjHsWci-IItF8AI2Ttt2gCLcBGAsYHQ/s1024/IMG_6334.JPG" alt="傳統布農族石板建築駁坎">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-monpNhSjjnI/YC_VDA8QNaI/AAAAAAABOFY/gDOEgvoTs304P5m4Eq0p6eCu_UZpG7wuQCLcBGAsYHQ/s2048/IMG_6337.JPG" alt="布農族傳統家屋">
+  <img src="https://1.bp.blogspot.com/-monpNhSjjnI/YC_VDA8QNaI/AAAAAAABOFY/gDOEgvoTs304P5m4Eq0p6eCu_UZpG7wuQCLcBGAsYHQ/s1024/IMG_6337.JPG" alt="布農族傳統家屋">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -258,43 +258,43 @@ header:
 由此可以更清楚的看到，玉山山脈由濁水溪南側開始的第一座山就如此地高聳，從海拔600公尺左右的溪床，稜線陡升至海拔2909公尺高的治茆山主峰。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-q_RpliYubYs/YC_WFTtWDGI/AAAAAAABOGM/kqSSS6kM924gzxCgAc3pXJQoaBiT-XhlACLcBGAsYHQ/s2048/IMG_6363.JPG" alt="攀登卡社山與治茆山背景">
+  <img src="https://1.bp.blogspot.com/-q_RpliYubYs/YC_WFTtWDGI/AAAAAAABOGM/kqSSS6kM924gzxCgAc3pXJQoaBiT-XhlACLcBGAsYHQ/s1024/IMG_6363.JPG" alt="攀登卡社山與治茆山背景">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-mq3cvR6brc4/YC_V7AOJbrI/AAAAAAABOGA/6s8Dd2-MDm4u1Xxg28P9NKSKaCC8_OKmQCLcBGAsYHQ/s2048/IMG_6353.JPG" alt="卡社山沿線風景">
+  <img src="https://1.bp.blogspot.com/-mq3cvR6brc4/YC_V7AOJbrI/AAAAAAABOGA/6s8Dd2-MDm4u1Xxg28P9NKSKaCC8_OKmQCLcBGAsYHQ/s1024/IMG_6353.JPG" alt="卡社山沿線風景">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-MqrYEt0qdt0/YC_WVam6KPI/AAAAAAABOGc/1j0zOsGdq1IqVrmk-UEt9bEprjpyXP9iwCLcBGAsYHQ/s2048/IMG_6364.JPG" alt="卡社山山頂">
+  <img src="https://1.bp.blogspot.com/-MqrYEt0qdt0/YC_WVam6KPI/AAAAAAABOGc/1j0zOsGdq1IqVrmk-UEt9bEprjpyXP9iwCLcBGAsYHQ/s1024/IMG_6364.JPG" alt="卡社山山頂">
   <figcaption>  </figcaption>
 </figure> 
 
 約30分鐘左右，抵達卡社山山頂。  
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Xmnfhmdz5HI/YC_Wjl2GK_I/AAAAAAABOGo/2mLx_38g9c4S_rRb1qKYv3UJmSIlomtrACLcBGAsYHQ/s2048/IMG_6381.JPG" alt="登頂卡社山">
+  <img src="https://1.bp.blogspot.com/-Xmnfhmdz5HI/YC_Wjl2GK_I/AAAAAAABOGo/2mLx_38g9c4S_rRb1qKYv3UJmSIlomtrACLcBGAsYHQ/s1024/IMG_6381.JPG" alt="登頂卡社山">
   <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9wj-riYfGNY/YC_WoSuO0GI/AAAAAAABOGs/KKlXiuiRz9cl6uytR_493APCQWYlmCnVACLcBGAsYHQ/s2048/IMG_6384.JPG" alt="卡社山基點">
+  <img src="https://1.bp.blogspot.com/-9wj-riYfGNY/YC_WoSuO0GI/AAAAAAABOGs/KKlXiuiRz9cl6uytR_493APCQWYlmCnVACLcBGAsYHQ/s1024/IMG_6384.JPG" alt="卡社山基點">
   <figcaption>  </figcaption>
 </figure>
 
 由卡社山向南方望去的展望極佳，濁水溪對岸的玉山山脈，始於治茆山，向南延伸至清水、金子山連稜，在通往遠方的玉山。丹大溪於治茆山腳下與濁水溪匯流，並通往水里、集集，從河谷看出去，可見地利村、雙龍部落前的陸橋，還有遠方水里、集集一帶的農田。
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-QpLDCMtAY8Y/YC_WYxrsuGI/AAAAAAABOGg/s2PMDoLNCbkGNdS6tIikd1itpSwP7FSPwCLcBGAsYHQ/s2048/IMG_6369.JPG" alt="卡社山望向治茆山">
+  <img src="https://1.bp.blogspot.com/-QpLDCMtAY8Y/YC_WYxrsuGI/AAAAAAABOGg/s2PMDoLNCbkGNdS6tIikd1itpSwP7FSPwCLcBGAsYHQ/s1024/IMG_6369.JPG" alt="卡社山望向治茆山">
   <figcaption> 由卡社山眺望治茆山 </figcaption>
 </figure>
 
 卡社山的位置北方即是濁水溪谷，可見武界、向南為郡大溪谷，可見遠方的玉山、向西可見濁水溪谷後方的水里、集集。這裡就像中央山脈中的瞭望台般，遠眺台灣心臟的山域。
 
 <figure style="width: 80%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-OkjA6TJ5-ag/YC_XKn0X5GI/AAAAAAABOHI/CvOSNRlpeU0_UnkcV6e77jo_XCIreC8KwCLcBGAsYHQ/s2048/IMG_6394.JPG" alt="卡社山望向武界部落">
+  <img src="https://1.bp.blogspot.com/-OkjA6TJ5-ag/YC_XKn0X5GI/AAAAAAABOHI/CvOSNRlpeU0_UnkcV6e77jo_XCIreC8KwCLcBGAsYHQ/s1024/IMG_6394.JPG" alt="卡社山望向武界部落">
   <figcaption> 由卡社山向武界方向眺望 </figcaption>
 </figure>
 

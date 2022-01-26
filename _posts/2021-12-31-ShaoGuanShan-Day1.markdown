@@ -22,8 +22,8 @@ header:
 feature_row:
 - image_path: https://blogger.googleusercontent.com/img/a/AVvXsEhxfxw1nUHb9BjE3nF56Bqz3E-ckRDljSQTSkPIpuMCxkOuqJjuA2UTnugvAQm5MbJR5A06PMP0kNJH3YtYm8Yb-zI9adyAWi7HJas1VEWr6ztrUockIQAufjYj_mh64OneO1CXJ0x4bOVR1nYRV5SWY_b43S9sx-sQsRGLUFqCGUpB2PaBjy3UhPUT=s720
   title: "神池登斯拉巴庫山"
-  excerpt: ""
-  #url: "/"
+  excerpt: "斯拉巴庫山，位在小關山林道北側的山脊上。稜線由有著寶來屋脊之稱的美瓏山持續向東北方向延伸。從小關山林道起登，沿途幾處展望點可見荖濃溪谷兩旁的村落，對岸的玉山山脈向北延伸向玉山群峰，東側可見中央山脈南一段主稜。"
+  url: "mt-note-photo-100peaks/ShaoGuanShan-Day2/"
   btn_class: "btn--primary"
   btn_label: "Go to"
 
@@ -839,7 +839,7 @@ feature_row:
 時而繞行於山稜的西北側，則可清楚看見荖濃溪谷中的南橫公路、沿線聚落，以及隔著荖濃溪相望的玉山山脈。整段玉山山脈接一覽無遺。從靠近寶來的他果晏山、可那部曲山、南飭山、飭山、新望嶺、五溪山、南面山等，一直延伸到楠溪林道南段的群峰，最後則是台灣最高屋脊，玉山群峰。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjZXPkmK8TSY_P_QCcuyrZBhPqoTjA6nH8X-p_YUaF1oUeyyq09Sz_GurrMQRzOaqEYrefmZ8BSNHqS7DLah8IaH88XPu9SygD7IsBgvXQ7pR0M8aRZhxjecsp6WPCroREF9JOF2jEk1rFPsQnSapc-DADc-melH3paBhCefFAZCZmQeod8ZFGgraRn=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjZXPkmK8TSY_P_QCcuyrZBhPqoTjA6nH8X-p_YUaF1oUeyyq09Sz_GurrMQRzOaqEYrefmZ8BSNHqS7DLah8IaH88XPu9SygD7IsBgvXQ7pR0M8aRZhxjecsp6WPCroREF9JOF2jEk1rFPsQnSapc-DADc-melH3paBhCefFAZCZmQeod8ZFGgraRn=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -863,17 +863,17 @@ feature_row:
 轉個彎，就會看到不一樣的風景，會有一種停下車來欣賞一下的衝動。也不在乎今天的行程是不是會摸黑，很愜意地在林道行進。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg31xCswrxZwymKmIFJsiSztvRVgtoC_26lqxirTTP12Lm7JFw5dQUC6y1_xfiqtjHRhsolmsAUvc9Ex3gbvBdXB5PaDATMG6MW-fhXOe9caUA5b2IWn-_VSq-_yLykCfJbnCDaNFWWEohIgXHc4JCBNKCiiVUK4tELoUSAKEaazXaoNutI8eJcRxSE=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg31xCswrxZwymKmIFJsiSztvRVgtoC_26lqxirTTP12Lm7JFw5dQUC6y1_xfiqtjHRhsolmsAUvc9Ex3gbvBdXB5PaDATMG6MW-fhXOe9caUA5b2IWn-_VSq-_yLykCfJbnCDaNFWWEohIgXHc4JCBNKCiiVUK4tELoUSAKEaazXaoNutI8eJcRxSE=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgZ1GdegttC93TVnTLl6fa-kPE-5pDdo4HqlTwzVvL2JYDxV_XhQLYq7sO2JuzmlE1Abp0_kfVSQ1cV9aHjsNAEb9QBWO8t0q9znYW-lF7qqrs_tDcrB65YAh98ewV7JkrmRpz23Lbz2XAAt1JxBHbO3y0YGwIvzg6f97l4Qvp3VgAzJ8QZ2OB0Ay0L=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgZ1GdegttC93TVnTLl6fa-kPE-5pDdo4HqlTwzVvL2JYDxV_XhQLYq7sO2JuzmlE1Abp0_kfVSQ1cV9aHjsNAEb9QBWO8t0q9znYW-lF7qqrs_tDcrB65YAh98ewV7JkrmRpz23Lbz2XAAt1JxBHbO3y0YGwIvzg6f97l4Qvp3VgAzJ8QZ2OB0Ay0L=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjDS4sNRvR5fBt9kZ-Tb-hZ_wQRGnxL99oaUJwNGrYJ-5pHamKZutxQShVMPuft_ituh-yH8KtiVuHjUqCKA5ILPoG1DHmSCjqLWvC3JdpqBtXPsmuWCawYXCugg6xJGl2w6XsLDoqbNXzFLRa4HUk_ndpcRcE1g7ow98ATwPfEfJV-0HgUEFihdNip=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjDS4sNRvR5fBt9kZ-Tb-hZ_wQRGnxL99oaUJwNGrYJ-5pHamKZutxQShVMPuft_ituh-yH8KtiVuHjUqCKA5ILPoG1DHmSCjqLWvC3JdpqBtXPsmuWCawYXCugg6xJGl2w6XsLDoqbNXzFLRa4HUk_ndpcRcE1g7ow98ATwPfEfJV-0HgUEFihdNip=s1280" alt="">
   <figcaption>  </figcaption>
 </figure>
 
@@ -881,99 +881,99 @@ feature_row:
 其中林道Z自行路段則由上切捷徑取代，原本的林道已經長滿芒草了，不適合通行。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhvhBNToNvBMX5kq2s7s2E4s-WXUCt7bARWiaFVoCP4g_qViaEHH-wGakEkj4toCx8tPFH7XowtwhMJHlIa-AOuqOnUjtW9PgAqRHR75UIt4NQHpUPU4JwvK2IuZ_LHO3tmI9NOHMdoPUmaUonJTKIvX5L1ZOA5MB8C-zVR5PTPoj0sAZsgQo2Xp6Jh=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhvhBNToNvBMX5kq2s7s2E4s-WXUCt7bARWiaFVoCP4g_qViaEHH-wGakEkj4toCx8tPFH7XowtwhMJHlIa-AOuqOnUjtW9PgAqRHR75UIt4NQHpUPU4JwvK2IuZ_LHO3tmI9NOHMdoPUmaUonJTKIvX5L1ZOA5MB8C-zVR5PTPoj0sAZsgQo2Xp6Jh=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 小關山林道秋色一景
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEidUT5g6o_GKzsmJWoyDSXqp6UagoPrDhLLOBZAYMX2x2jPBcCpsi7U8XVC3EAfAP9h4ILg0tjsSChQwulRbxAetHXROCxSB04XfJcZZX8udq9toJszSGkZPscZrHtkrK4Wc5heWf9t-g3qFcwCzBWA40g6RaVR3_SmUot_oRyc37HIf6qrrWQX9gZt=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEidUT5g6o_GKzsmJWoyDSXqp6UagoPrDhLLOBZAYMX2x2jPBcCpsi7U8XVC3EAfAP9h4ILg0tjsSChQwulRbxAetHXROCxSB04XfJcZZX8udq9toJszSGkZPscZrHtkrK4Wc5heWf9t-g3qFcwCzBWA40g6RaVR3_SmUot_oRyc37HIf6qrrWQX9gZt=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 神池營地前的大規模崩塌很壯觀，大面積的山坡滑動，土石直下寶來溪底，整大片的崩塌地我們走了約20分鐘才能通過。雖然說是崩塌地，但中間這段的坡度不陡，走起來很安全。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjEfU9mom9XunRidIFtBvQKrP-cKg5qsEoHDQWunIA3i6-p85iVSvMs2DfHwgm_DRxpyb0n1GezLYoJXxmuRJZkR-a7fDXZcMFc1AZmibvAr_eroXQDiCLkdiAAWAPYXyQivOeFm6LgCpvojPNmkUkjg2D_8gMVxVOVylv0TCWkCP5S1bk6ACV72a9d=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjEfU9mom9XunRidIFtBvQKrP-cKg5qsEoHDQWunIA3i6-p85iVSvMs2DfHwgm_DRxpyb0n1GezLYoJXxmuRJZkR-a7fDXZcMFc1AZmibvAr_eroXQDiCLkdiAAWAPYXyQivOeFm6LgCpvojPNmkUkjg2D_8gMVxVOVylv0TCWkCP5S1bk6ACV72a9d=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjW7zK_V1YE54iYZJM7FPtkJxd6rzuiPphyMJy04OPBIivYl-SwlNHtXfizhynTlwnj8xJfiwPDZBLzlbBXQ9PaGsfe2JCtO_BRpAlAwLPhT4eJoEogfd77IMPWeoY9oOZVoRxkH-7BJtUxFwMMmoJ4LfaF_JswB1QeQrcsMQqrD2HD7fnCWs2ymdiQ=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjW7zK_V1YE54iYZJM7FPtkJxd6rzuiPphyMJy04OPBIivYl-SwlNHtXfizhynTlwnj8xJfiwPDZBLzlbBXQ9PaGsfe2JCtO_BRpAlAwLPhT4eJoEogfd77IMPWeoY9oOZVoRxkH-7BJtUxFwMMmoJ4LfaF_JswB1QeQrcsMQqrD2HD7fnCWs2ymdiQ=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhA7RYxIFcXYGw1KXo608nQZazEQdVSMjf5ig8vEEPZ1QYuQ_3dgBlzcNN_uwmMc6I-48mdUMVdvJAA07S93YeLhgXmVceOFl6-yccSeBbxChIrZtc_FLzD790LzxYrQnHp9SkuFdZNH5N8oX_5O67KDPwvN477xA9oNZKJErEyt4QKHhVawdSm4hb4=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhA7RYxIFcXYGw1KXo608nQZazEQdVSMjf5ig8vEEPZ1QYuQ_3dgBlzcNN_uwmMc6I-48mdUMVdvJAA07S93YeLhgXmVceOFl6-yccSeBbxChIrZtc_FLzD790LzxYrQnHp9SkuFdZNH5N8oX_5O67KDPwvN477xA9oNZKJErEyt4QKHhVawdSm4hb4=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhzSCP6Non1OJifniaihMvUwZ31fsUp-AIWS2VyxTEey6ugos9ZHXY5pRiu9-q9fAGRZM1Oy68x59vEeXhfu0Ft9FgpFCCCBH8ZgR_ue8t15_dkzheqsISq9sZqmoAFF68guwhYSVH1suUanivRVnzVQxnRFNOiIdGNDmXlqP4LfiohlTJfFqUQUtM4=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhzSCP6Non1OJifniaihMvUwZ31fsUp-AIWS2VyxTEey6ugos9ZHXY5pRiu9-q9fAGRZM1Oy68x59vEeXhfu0Ft9FgpFCCCBH8ZgR_ue8t15_dkzheqsISq9sZqmoAFF68guwhYSVH1suUanivRVnzVQxnRFNOiIdGNDmXlqP4LfiohlTJfFqUQUtM4=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 大約一個半小時，抵達崩塌地旁的神池營地並挑選了一個好營地。準備好輕裝，準備今天下午單攻小關山。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjB6DrV7EJsHWoRyj7tLsTsDUfe2vtJ9sBMavJHtog0FnwHguFVv9Z5O6QCnQAwhzlfx1KfIEkVaOkPaR9Xy18tl1UCc9Ci5VNzqkbCvzIyleOLv3VCaZjDBF-RxWhQqeqtb_iNmWyxo_wLxA6sEVjETE2w2hpH1tcwlsJfNGPdfn7F3idXjS4nUZTD=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjB6DrV7EJsHWoRyj7tLsTsDUfe2vtJ9sBMavJHtog0FnwHguFVv9Z5O6QCnQAwhzlfx1KfIEkVaOkPaR9Xy18tl1UCc9Ci5VNzqkbCvzIyleOLv3VCaZjDBF-RxWhQqeqtb_iNmWyxo_wLxA6sEVjETE2w2hpH1tcwlsJfNGPdfn7F3idXjS4nUZTD=s1280" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 從神池營地起登，到小關山頂還要再爬升800公尺，我們估計到達小關山山頂大概需要花費三個多小時。下午開始，天氣開始轉陰，天色看起來暗了許多，備好頭燈，我們也做好今天會摸黑的準備。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg7nzozIcFJ5KVIM-pFkdHBqDqUOgjetcrWsPPWDt0UXn1OCG3jGzlMotIeFxTKs-3-O4APS8PTF86Q10jKHlcjrJRsjfI1-ZBAUt5BJTm5u2ZbyBI59kXvQhZFGbr3eu5Pbrw5j3ZGq-Disdhvv_H5lYpS9rJMPNrCwOjoWTaxUJqn2zb19el0u_Zq=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg7nzozIcFJ5KVIM-pFkdHBqDqUOgjetcrWsPPWDt0UXn1OCG3jGzlMotIeFxTKs-3-O4APS8PTF86Q10jKHlcjrJRsjfI1-ZBAUt5BJTm5u2ZbyBI59kXvQhZFGbr3eu5Pbrw5j3ZGq-Disdhvv_H5lYpS9rJMPNrCwOjoWTaxUJqn2zb19el0u_Zq=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjzWgE0kM77f5KmOcQ18wJFR0Cu3CADFE9t1AVosOxPPOUaWcJ8FqO67yGjZ5-HpMfgRjcysSpLa88hU5do_pkDzuGb6ij-j_Qk8m0wRCFv_N13-5FphqPa1RWCXIKllS0KQB58Kj4fulmWQWtRamFHkailojoVawebycS6ngWSTVWDhsi76EhHHptV=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjzWgE0kM77f5KmOcQ18wJFR0Cu3CADFE9t1AVosOxPPOUaWcJ8FqO67yGjZ5-HpMfgRjcysSpLa88hU5do_pkDzuGb6ij-j_Qk8m0wRCFv_N13-5FphqPa1RWCXIKllS0KQB58Kj4fulmWQWtRamFHkailojoVawebycS6ngWSTVWDhsi76EhHHptV=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEioI8rgX0OFVehKbf0dUfutw1rcf1_T1bgNZH9ehepWAiL4ppjERwsNp8fQ-wmUGrDoj8JnOovfjexsNmG2pjc1fA-GkgXmdL6eMWMQS-Ury_gCjjOrcJZjIbeErB-wAimGMDxjC2chHeXAc1hRX8wPFr2aOd03SxcrrLCgeZjKhI92NHRrNO1Z0UFK=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEioI8rgX0OFVehKbf0dUfutw1rcf1_T1bgNZH9ehepWAiL4ppjERwsNp8fQ-wmUGrDoj8JnOovfjexsNmG2pjc1fA-GkgXmdL6eMWMQS-Ury_gCjjOrcJZjIbeErB-wAimGMDxjC2chHeXAc1hRX8wPFr2aOd03SxcrrLCgeZjKhI92NHRrNO1Z0UFK=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 海拔 2740 以後，開始出現的大片鐵杉純林
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjLQq53n71WGC4MMXKfuour_7rtwl6pnGzHbwp_GEvggrEPsXpRO5KNa-1WDllMTNCQUBUElqZQmqq-QrI8y9Ec-BRK3wexuKzID9msj_D1v77a7SlOGyMwheal7HIu3T6L0iQsC_mw62Qi4kE86v0z_YSF7NpS3X-tgb2mOnvNt6cnBuUj6a5OAQks=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjLQq53n71WGC4MMXKfuour_7rtwl6pnGzHbwp_GEvggrEPsXpRO5KNa-1WDllMTNCQUBUElqZQmqq-QrI8y9Ec-BRK3wexuKzID9msj_D1v77a7SlOGyMwheal7HIu3T6L0iQsC_mw62Qi4kE86v0z_YSF7NpS3X-tgb2mOnvNt6cnBuUj6a5OAQks=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEip3xdu26ObnypNoh0yFeuZmJ9EVSjGdr3HSlFQgAgsNYDrT1IPyamzn4Y88b7KuGYqACRfkAn99CtUgIPXTmgNLLwcxDpBJz_dnb4xgYafyTFdWUMKTXttVse05UwonKBcwKQ20mblOBgL_gEOqwNojt5757fz1frDkWRlfpEgME3PElP4nCHKkvAH=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEip3xdu26ObnypNoh0yFeuZmJ9EVSjGdr3HSlFQgAgsNYDrT1IPyamzn4Y88b7KuGYqACRfkAn99CtUgIPXTmgNLLwcxDpBJz_dnb4xgYafyTFdWUMKTXttVse05UwonKBcwKQ20mblOBgL_gEOqwNojt5757fz1frDkWRlfpEgME3PElP4nCHKkvAH=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 下午三點，離開森林，看到登頂小關山前的最後一段岩石稜線。剛好，這裡也是雲頂高度，薄霧中透出藍天。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEixPUU4INMEqzk4_0e_fSGI9yMANBe0mkapcZ9WN9tMuDAj9Ebgm7ZY974FiPBdaJhqPO-beUNq3zDO6utUa-4SzTZXcrLk6QsqW-ZQgnixKbQVYzEcWDiKPKMVsmz0ogukvpBMjstXPmVSiWPo9-hVR0WwT3q_j1wxKpenJEn2_TEL6xra-8zsq2PD=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEixPUU4INMEqzk4_0e_fSGI9yMANBe0mkapcZ9WN9tMuDAj9Ebgm7ZY974FiPBdaJhqPO-beUNq3zDO6utUa-4SzTZXcrLk6QsqW-ZQgnixKbQVYzEcWDiKPKMVsmz0ogukvpBMjstXPmVSiWPo9-hVR0WwT3q_j1wxKpenJEn2_TEL6xra-8zsq2PD=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgxt_y8tujGALSfGF1sFy9GrTD4_w7i_Ve3lMvkSLWQod5sdw-5viaMS4REhUQndNGmjJLRfje7tAGFpCD5ISsLGzDAg1p2Ou_OzuS-1aYGcrPy-GJdHi-tHH3w53X6SoT7uwo4GY2hY0LYgIo9Fnvw-gx6LW8K0SlUhXlhY0gDbSZFed09FCNoTj99=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgxt_y8tujGALSfGF1sFy9GrTD4_w7i_Ve3lMvkSLWQod5sdw-5viaMS4REhUQndNGmjJLRfje7tAGFpCD5ISsLGzDAg1p2Ou_OzuS-1aYGcrPy-GJdHi-tHH3w53X6SoT7uwo4GY2hY0LYgIo9Fnvw-gx6LW8K0SlUhXlhY0gDbSZFed09FCNoTj99=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhrQpytJ7ee0pMoOtaOWeW7uRv2HSvPjwa9mPsl-H0kTAyLMPEeQQBigE-2-5bz3SsfENenw2Qj0WYgAopXUCLNiABfUaSXKgUm_uxUYcH1KcAKPV9wFjLY7GGnEqgc3KKJ9KMJrlvTRsepUGsR9UwNJRAi6csi_LaTE9pc4LoJlFSqbo9Jr-W43Si4=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhrQpytJ7ee0pMoOtaOWeW7uRv2HSvPjwa9mPsl-H0kTAyLMPEeQQBigE-2-5bz3SsfENenw2Qj0WYgAopXUCLNiABfUaSXKgUm_uxUYcH1KcAKPV9wFjLY7GGnEqgc3KKJ9KMJrlvTRsepUGsR9UwNJRAi6csi_LaTE9pc4LoJlFSqbo9Jr-W43Si4=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjkaGiDdrH_3pouhJES8ZQtaYuqGGIop8tbqJts715eCdus3oO_FkyAxufHCOI5BoG_k1DVsVIVG5Eh85h1WEKB7OkoCSdHMWQBxhdiKTS5ZwsiZHQkvbQqE4PiRj40EkH6IlkFboQQcqa23sL0ycVEU2sX8piBuJ2MQlXR4uBvAIXG3-iV8vV6ZHWt=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjkaGiDdrH_3pouhJES8ZQtaYuqGGIop8tbqJts715eCdus3oO_FkyAxufHCOI5BoG_k1DVsVIVG5Eh85h1WEKB7OkoCSdHMWQBxhdiKTS5ZwsiZHQkvbQqE4PiRj40EkH6IlkFboQQcqa23sL0ycVEU2sX8piBuJ2MQlXR4uBvAIXG3-iV8vV6ZHWt=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgEcDUxN_wUvM_K6vpTltRKITzdYrMq7zQFzapdElW2jFgeqyeg6VdRtXfOYPF9ZbEOOMB_ThYFRdLesLPIDq6H8-Q9YlJWdvKDYvQVQ6PJ-CuCnlsONpCLUjYrUkfeUamj9X8Pw1muVq8o3hMLuW1EAmpcZgAVBBIH27fHYozx9xqv8TEO8ndcn5NX=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgEcDUxN_wUvM_K6vpTltRKITzdYrMq7zQFzapdElW2jFgeqyeg6VdRtXfOYPF9ZbEOOMB_ThYFRdLesLPIDq6H8-Q9YlJWdvKDYvQVQ6PJ-CuCnlsONpCLUjYrUkfeUamj9X8Pw1muVq8o3hMLuW1EAmpcZgAVBBIH27fHYozx9xqv8TEO8ndcn5NX=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -982,82 +982,82 @@ feature_row:
 南一段幾乎全段都被雲海淹沒，只剩大關山跟海諾南山山頂露出頭來。接近下午四點的冬陽剛好提供不錯的測光照射角度，向北方望去，大關山斷崖搭配雲海顯得更加立體。過沒多久，更遠方的向陽山也從雲還中出現。回想起還在念國中的時候，當年南橫公路還沒斷，有一年家庭旅行，爸媽開車帶我們橫越南橫公路，途中還停在大關山隧道東口停車場，爬了關山嶺山。這次在小關山頂看到的風景，讓我回想起當年在南橫啞口往東側看去的雲海。如今，南橫公路年年搶修，然而破碎的地形每年碰上大雨還是持續崩塌。南橫全線通車感覺還是遙遙無期。
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh70amqSQYqoQmyc5dvX2dvgTHVuuSz0HdIF_SHziy_JNrvSk05U3zLljNFuDDSdPfIqa58VRPipnF6Ne9IAUqj35dQutq65TeWC0Q0nPqtlXZ7KiBYDtLoRBsDvJm2P018td9OlikeaDYN51w3Q5iG4_EMpzFmOk9TedTHOFs6fDJQS7TMBUGngAGi=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh70amqSQYqoQmyc5dvX2dvgTHVuuSz0HdIF_SHziy_JNrvSk05U3zLljNFuDDSdPfIqa58VRPipnF6Ne9IAUqj35dQutq65TeWC0Q0nPqtlXZ7KiBYDtLoRBsDvJm2P018td9OlikeaDYN51w3Q5iG4_EMpzFmOk9TedTHOFs6fDJQS7TMBUGngAGi=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhYIh8m_keHNh0NrO2empWn80yl9nKjiOHwBXN3oExOiPD9CMpJQFN0QLRRnje5rm4lyKVAac05Nj41CcYv1VOd4hbK6n6XkD2rEbXbWWm0QEmztSFzxovVZSDxbZzU5IDqdBHDroERqvPAXmkZNmIs_uk-Z_T09NHX5z_uviMYNeoOY_0oWheD47wh=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhYIh8m_keHNh0NrO2empWn80yl9nKjiOHwBXN3oExOiPD9CMpJQFN0QLRRnje5rm4lyKVAac05Nj41CcYv1VOd4hbK6n6XkD2rEbXbWWm0QEmztSFzxovVZSDxbZzU5IDqdBHDroERqvPAXmkZNmIs_uk-Z_T09NHX5z_uviMYNeoOY_0oWheD47wh=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgBq-qeiuw8Pp9vRjgQpeERgHwrU0IrYEPouwo3ezb-8bsw9Fzs-z3c8nd7PKDn8nOvJkw-9eQFoyLCRnWBua8TNcSt1B74YyGd_7TZpvyEioHbJer4Fq1wo2HuKys56nPBSuxJl4dxelA1nQV9LXLrhposZC-boVsWDZwTNP4g6Up7GcWwnZ9dzXF2=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgBq-qeiuw8Pp9vRjgQpeERgHwrU0IrYEPouwo3ezb-8bsw9Fzs-z3c8nd7PKDn8nOvJkw-9eQFoyLCRnWBua8TNcSt1B74YyGd_7TZpvyEioHbJer4Fq1wo2HuKys56nPBSuxJl4dxelA1nQV9LXLrhposZC-boVsWDZwTNP4g6Up7GcWwnZ9dzXF2=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhAXHvj8G0hEUSCu-Lehniy-SSXWx7w8EtQmqdyykUD7R2lvJOkQwdGltEwY4kedW8srRRXsjaF4JNAIc2Jcy8Mk3qoYIj871-Mo00ICnmqc1Xv1QRNNKBazS-HcEbvcvE1yWnRiqYnzJMJTAURnb4fit6X8D7PM9rfscuhtx5xw-a7bQooahC72bml=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhAXHvj8G0hEUSCu-Lehniy-SSXWx7w8EtQmqdyykUD7R2lvJOkQwdGltEwY4kedW8srRRXsjaF4JNAIc2Jcy8Mk3qoYIj871-Mo00ICnmqc1Xv1QRNNKBazS-HcEbvcvE1yWnRiqYnzJMJTAURnb4fit6X8D7PM9rfscuhtx5xw-a7bQooahC72bml=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhKPvFC-eLNBhU9fDiBca6bWWR99KX17ie2-YXmKDJNRG1cAvS-xjALEYmyVS0uxNo955RNFqn5W4TSaJZJekAOF9PkklApoH2zAMm9HE_uh5WwnHjmlLfEUv5u8Zo-5UbYRXbvdEFAokqwzjm03fp5n29sFxccW_VYeZhEzwKHZhHdXw5xfQzJ9Y-g=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhKPvFC-eLNBhU9fDiBca6bWWR99KX17ie2-YXmKDJNRG1cAvS-xjALEYmyVS0uxNo955RNFqn5W4TSaJZJekAOF9PkklApoH2zAMm9HE_uh5WwnHjmlLfEUv5u8Zo-5UbYRXbvdEFAokqwzjm03fp5n29sFxccW_VYeZhEzwKHZhHdXw5xfQzJ9Y-g=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzBKw-rt5AZ6EusyZl2tsUcaYkQYqRfvmDWx-azYHoNELsKpvXoIqlUP-RHfy1rbipItjQBGDZbB3xhyXkj1nw4htntehfasHymOXUoMIR8Y5b4GY-rBDeKlysb9FrkVMCjmBo4MSq8vVkEkSKBHZ_Y2JDhwAmrFuQk643DbeUr3WCCJa9KH_Drsoq=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgzBKw-rt5AZ6EusyZl2tsUcaYkQYqRfvmDWx-azYHoNELsKpvXoIqlUP-RHfy1rbipItjQBGDZbB3xhyXkj1nw4htntehfasHymOXUoMIR8Y5b4GY-rBDeKlysb9FrkVMCjmBo4MSq8vVkEkSKBHZ_Y2JDhwAmrFuQk643DbeUr3WCCJa9KH_Drsoq=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhnhOTLBCnGBIsM67sLdMREb1S7ek1DR1w14eNxO8vLnHuPRzJOrZMSnJAgCSUCXxKLRXxnYhJWwb1FaLzMkSTELWpdgLCpFbi75UuFcPoumLRjSYoarEQJv6FHrYZ8E02l4CB8ULKXd94Lf_HsCvNseIBoXTNpnbrwXzJ7qCYfDH5IO6Fl_ZQZ2f1L=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhnhOTLBCnGBIsM67sLdMREb1S7ek1DR1w14eNxO8vLnHuPRzJOrZMSnJAgCSUCXxKLRXxnYhJWwb1FaLzMkSTELWpdgLCpFbi75UuFcPoumLRjSYoarEQJv6FHrYZ8E02l4CB8ULKXd94Lf_HsCvNseIBoXTNpnbrwXzJ7qCYfDH5IO6Fl_ZQZ2f1L=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg0slE7Q6UEnh32K-zNZqr1ayXHRz6NwbKIVqQ_R6X1ubg899g9HBwhRHNKrzUVYcU7tQZAjUwcioBo0IORNAHww2EmybhdLnpdC6n0ikhaAXfOdAKP0-eouvQCLljMAnp1j5u5lSrvHLzBAmee_PV1RKAylCecM4Emo1LpN7xCvefBx5IHl5J8tXqB=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg0slE7Q6UEnh32K-zNZqr1ayXHRz6NwbKIVqQ_R6X1ubg899g9HBwhRHNKrzUVYcU7tQZAjUwcioBo0IORNAHww2EmybhdLnpdC6n0ikhaAXfOdAKP0-eouvQCLljMAnp1j5u5lSrvHLzBAmee_PV1RKAylCecM4Emo1LpN7xCvefBx5IHl5J8tXqB=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhxuxJlZNRR_E5GkGuuBjeyz5LcBFCtH1x0U4tmotUyJGLv3WQtYYzGhvLu2TsrFz0kBHVn_sZPpqnJlehX4YD-D_m2N4R4jl-IOsWcKXiJdwgur35k-ev4F9eIM4Ca_b_23rrTUKt-O5ucY9eUuy-0ahSPpeU-vUU-t2g52blReRKcIPafw5pBDhIy=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhxuxJlZNRR_E5GkGuuBjeyz5LcBFCtH1x0U4tmotUyJGLv3WQtYYzGhvLu2TsrFz0kBHVn_sZPpqnJlehX4YD-D_m2N4R4jl-IOsWcKXiJdwgur35k-ev4F9eIM4Ca_b_23rrTUKt-O5ucY9eUuy-0ahSPpeU-vUU-t2g52blReRKcIPafw5pBDhIy=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOzYa1toYbEfxVOcvHqUCVksFKSTSc5eUyAtXH1LbuCQEiv91PM0jECc6g3VZxwlVg380-Mr2_Cxxh1MRMlgi3BjURDQwk58iEos1byWaWWtrQy3qcOGubdr1mMAhsuQAW1syWoaXSHaF2BfoEff0E4Y5I8lYeDH5PePjKSaDuyG6w_ltIc9QK7BeF=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOzYa1toYbEfxVOcvHqUCVksFKSTSc5eUyAtXH1LbuCQEiv91PM0jECc6g3VZxwlVg380-Mr2_Cxxh1MRMlgi3BjURDQwk58iEos1byWaWWtrQy3qcOGubdr1mMAhsuQAW1syWoaXSHaF2BfoEff0E4Y5I8lYeDH5PePjKSaDuyG6w_ltIc9QK7BeF=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhh1WjCmzWgEnI5Admf3xgEi_ePbxLFTQWI4g-01rLJNG_Mn6RIt--R8ITp6d6UdcydInLU-wkLMq2gvIQUrPUyHlPM768yUtyNIM2R8mzS7X2L4saAgWAO8E_jQfTPvvJhXF6vpmkPoU0PGgk7e4zDisIfPJ7cbPZOR4MxLU021Y-_Yj8TGu2TGC3X=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhh1WjCmzWgEnI5Admf3xgEi_ePbxLFTQWI4g-01rLJNG_Mn6RIt--R8ITp6d6UdcydInLU-wkLMq2gvIQUrPUyHlPM768yUtyNIM2R8mzS7X2L4saAgWAO8E_jQfTPvvJhXF6vpmkPoU0PGgk7e4zDisIfPJ7cbPZOR4MxLU021Y-_Yj8TGu2TGC3X=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgOP2_4l-gNSO22i1VtjZKZZdFgCoZkgT1kL5pKH3EpbCKfmhzFubRh4LDl2kpP2THtyuJtD3HpEJxXzh-lKGt9re3s7ZuHBfv_ZPGwCL09YNDxbWpuZQybz9VEROMGKXc9YB77dYcOW5LOVdenwYbKsD0tZB9NGUkvtAeyZARXDEUmdSyqeznzx6FX=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgOP2_4l-gNSO22i1VtjZKZZdFgCoZkgT1kL5pKH3EpbCKfmhzFubRh4LDl2kpP2THtyuJtD3HpEJxXzh-lKGt9re3s7ZuHBfv_ZPGwCL09YNDxbWpuZQybz9VEROMGKXc9YB77dYcOW5LOVdenwYbKsD0tZB9NGUkvtAeyZARXDEUmdSyqeznzx6FX=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj24hVlkHcH0UT5cWkk6yvBHODvs_S-ubU8rR3aARbR70rCroGnlmKLHqb0f2dj2Zr9rmdcQQHaawdqqb8uUfbZ3VMGiN-bW2GEjYQB62xsyzzTzYybAjHQIbPXGqop9JT421gIRg4hbzS5K9QDJHAcd35cz4N684ns_QzWwf1iyf_Eu5exq17uNvB-=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj24hVlkHcH0UT5cWkk6yvBHODvs_S-ubU8rR3aARbR70rCroGnlmKLHqb0f2dj2Zr9rmdcQQHaawdqqb8uUfbZ3VMGiN-bW2GEjYQB62xsyzzTzYybAjHQIbPXGqop9JT421gIRg4hbzS5K9QDJHAcd35cz4N684ns_QzWwf1iyf_Eu5exq17uNvB-=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiqacv2iI7VgRSahiZQ4y62BvUUl6yhilihnZ1ncMILuM9WrwAJ7xoKxrJO5C9v8UXANWBQaDUNgsdn1k3xjIdbxJ5SgzEkVsDkoyfFih_dBrT52Un8pbwWylzdi9FnjDw6zKMhhX3iPQ8KUr5-1FYcs5Orub-5XF3eue8O5xUB8wasFEUZmyoKn8dy=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiqacv2iI7VgRSahiZQ4y62BvUUl6yhilihnZ1ncMILuM9WrwAJ7xoKxrJO5C9v8UXANWBQaDUNgsdn1k3xjIdbxJ5SgzEkVsDkoyfFih_dBrT52Un8pbwWylzdi9FnjDw6zKMhhX3iPQ8KUr5-1FYcs5Orub-5XF3eue8O5xUB8wasFEUZmyoKn8dy=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiUhQ_ZY71O0krSI2MftOo9M5ZkUgV-IR1oDcFNf_6MRntAoRpFA1z5yusNRHMmsrvgIYqPW8xODvdlU57jkfmgLg75xzTLyhDCZVSwKDxDpDx8i88AKq_dMCbm_FjQduBbeTLKfj-cYDIbraub2Jlhq-aqt4pmK3t5VKb7fWkhhvzE4NeLUTM5b2hh=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiUhQ_ZY71O0krSI2MftOo9M5ZkUgV-IR1oDcFNf_6MRntAoRpFA1z5yusNRHMmsrvgIYqPW8xODvdlU57jkfmgLg75xzTLyhDCZVSwKDxDpDx8i88AKq_dMCbm_FjQduBbeTLKfj-cYDIbraub2Jlhq-aqt4pmK3t5VKb7fWkhhvzE4NeLUTM5b2hh=s1280" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgTNWTzcMwvkCs-NTYu9Rc31iQIyWSZxbPuqlzwWTFrBKdehEJOwjlcH2pG0Hm2VxLD50VHr5FCV4cfJBDWq_M_uC9peGVHgThHEU-JKMuPaS49N1-4djF8jgPK_5K0YLH5p-UHdAiNKzbfOLAOAo1VM17-Y_C5rRpMN7e0mZlJsoUp5QeRsLtyx6_D=s1980" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgTNWTzcMwvkCs-NTYu9Rc31iQIyWSZxbPuqlzwWTFrBKdehEJOwjlcH2pG0Hm2VxLD50VHr5FCV4cfJBDWq_M_uC9peGVHgThHEU-JKMuPaS49N1-4djF8jgPK_5K0YLH5p-UHdAiNKzbfOLAOAo1VM17-Y_C5rRpMN7e0mZlJsoUp5QeRsLtyx6_D=s1280" alt="">
   <figcaption>  </figcaption>
 </figure>
 
