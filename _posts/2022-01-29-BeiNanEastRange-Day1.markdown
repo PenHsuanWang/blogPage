@@ -15,7 +15,7 @@ tags:
 
 header:
   image: https://blogger.googleusercontent.com/img/a/AVvXsEifuSbQRDNahAdfJcpfZVgd4-Qv0o6IyHhrO5gZk8Fsg7HqxphoiD2yhTZoRz9m9fVjE312jhAcwPD4cPi3l9WS_JveLkIge4860R1Y32TRYvzmNsKtzl1GBX51mqFfwHXZEiJJKhKjCOJpMsox0GR0-d-yyVzkREpXxsc8d16-sRiLA9HQbKubQuHF=s2800
-  teaser : https://blogger.googleusercontent.com/img/a/AVvXsEhxfxw1nUHb9BjE3nF56Bqz3E-ckRDljSQTSkPIpuMCxkOuqJjuA2UTnugvAQm5MbJR5A06PMP0kNJH3YtYm8Yb-zI9adyAWi7HJas1VEWr6ztrUockIQAufjYj_mh64OneO1CXJ0x4bOVR1nYRV5SWY_b43S9sx-sQsRGLUFqCGUpB2PaBjy3UhPUT=s720
+  teaser : https://blogger.googleusercontent.com/img/a/AVvXsEhZ7mLIPbSm5PVChznHTyKpfRaRS-K7CC24qIi5TQGiL-iYJhUaW0I4XOBlnlEP_-j9NWrHxOXJjXQCYd6Pte1tK7Uq1yzdFABn2nqztQytbAm_IzwS_3ruBcnB7MMU0JhfExN9kJKlFjye4bgLdVkcAkJn_UIulEjQBR01PIADJNwlssrecm-EFG9H=s480
   image_description: ""
   overlay_filter: 0.5
 
@@ -65,12 +65,12 @@ feature_row:
 非傳統路線吸引人的地方在於其真正接近荒野，可以享受遠離人群的寧靜。但也因此有比較高的風險，出發前一定要做足準備。  
 
 <figure style="width: 46%" class="align-left">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiKV0vmxr8-0-sYeNVEqqIvmPtpLRVdQ8epQUObdwsI5_zMJHA18Wppv-KEummfPoDJPLTpGvAtvryGj8Og_IK_-iZnSHnaWWIRUNPBbmpNF3BqYBbN90MOUEF2pWca9_5voNrb_SnE3s-m2iAK6fyZbwR9mZSk2tDYir_CsXZ69CLHLs3DEIJSmQoY=s6240" alt="由佐美姬山回望美奈田山">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiKV0vmxr8-0-sYeNVEqqIvmPtpLRVdQ8epQUObdwsI5_zMJHA18Wppv-KEummfPoDJPLTpGvAtvryGj8Og_IK_-iZnSHnaWWIRUNPBbmpNF3BqYBbN90MOUEF2pWca9_5voNrb_SnE3s-m2iAK6fyZbwR9mZSk2tDYir_CsXZ69CLHLs3DEIJSmQoY=s1600" alt="由佐美姬山回望美奈田山">
   <figcaption> 佐美姬山回望美奈田山稜線 </figcaption>
 </figure>
 
 <figure style="width: 46%" class="align-right">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhBY8lA7GapmEbYfMLpEEamCL2MuJopvRj5DSSZoEqFGBtNC_8e_kJ3faX_KH_2ARLNU3_jEioadfKMIYSB5REQV08ohtyGy3SXusgk4U6zGnkAOpL1e2I6_JtA_FPDEG6wtvueU8K3NX3lGDCnfPMZOcwWNH-V7sklVy6ALMu5uFxDeFfYLjihFcCQ=s6240" alt="卑南東稜探看路線途中佐美姬山前水鹿池">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhBY8lA7GapmEbYfMLpEEamCL2MuJopvRj5DSSZoEqFGBtNC_8e_kJ3faX_KH_2ARLNU3_jEioadfKMIYSB5REQV08ohtyGy3SXusgk4U6zGnkAOpL1e2I6_JtA_FPDEG6wtvueU8K3NX3lGDCnfPMZOcwWNH-V7sklVy6ALMu5uFxDeFfYLjihFcCQ=s1600" alt="卑南東稜探看路線途中佐美姬山前水鹿池">
   <figcaption> 佐美姬山前水池(美姬池) </figcaption>
 </figure>
 
@@ -82,12 +82,12 @@ feature_row:
 穿過潮濕的延平林道，循著陡峭的稜線上攀本次行程的第一座一等三角點 -- 美奈田山，海拔高度也突破了 2900 公尺，某種程度來說，這裡已經脫離中級山的林相，正式進入高山環境了。時而出現美麗的鐵杉林、時常需要鑽過茂密的箭竹叢、紮營在乾爽的松林、站在稜線上欣賞兩旁的高山與雲海。最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點 -- 卑南主山。這次橫貫東西的路線並非傳統百岳路線，但卻有著與百岳相當的景觀。如果中間蓋幾座山屋，或是路徑清楚一點，其中幾段路走起來，好像還會給我一種在爬南二段的錯覺呢。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjm5zz66AGmrM96lr5VAmBG4VR2WDG-5KKaj6cOSYUhV3GFI7Yk6O0JosVHXtbr7GUidN5AAMj89U_Y8NGqY0LWbr3-uJKVhpI_Wzjuc6z1ud7CCx__n4IY36lAO7Ck1Up9rrHf7zChahbfZRODzYKOQUR0UJNFT-cGUnZ8jsWDQ2Cr5MwTossNdYME=s6240" alt="卑南東稜登上卑南主山東峰">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjm5zz66AGmrM96lr5VAmBG4VR2WDG-5KKaj6cOSYUhV3GFI7Yk6O0JosVHXtbr7GUidN5AAMj89U_Y8NGqY0LWbr3-uJKVhpI_Wzjuc6z1ud7CCx__n4IY36lAO7Ck1Up9rrHf7zChahbfZRODzYKOQUR0UJNFT-cGUnZ8jsWDQ2Cr5MwTossNdYME=s1600" alt="卑南東稜登上卑南主山東峰">
   <figcaption> 登臨卑南主山東峰 </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiIEp9Ytq0UV9ZvzsHS1Ph-lSaA_AfpbK3Dw27wjrJeZ0rdjXqe-PZ-rYvL4Dkg4Ta3gcIlH7i7NH-WDZfXo1Zco2RKttjpM9MQhcuH_pgI-jGTMSzSDJmKcBWpIG-nMBqZdFiqbFNrWBbNDNOWydFePGGlOUYrRDCk_yeHpphl68VA9YILoePrnjYq=s6240" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiIEp9Ytq0UV9ZvzsHS1Ph-lSaA_AfpbK3Dw27wjrJeZ0rdjXqe-PZ-rYvL4Dkg4Ta3gcIlH7i7NH-WDZfXo1Zco2RKttjpM9MQhcuH_pgI-jGTMSzSDJmKcBWpIG-nMBqZdFiqbFNrWBbNDNOWydFePGGlOUYrRDCk_yeHpphl68VA9YILoePrnjYq=s1600" alt="">
   <figcaption> 卑南主山副峰(南峰岔路)回望來時路 雲海彼岸的美奈田山 </figcaption>
 </figure>
 
@@ -7718,62 +7718,62 @@ C2住在海拔2805左右的稜線上，雖然一晚被低溫冷醒三次，但�
 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXCcQeVMOxpYc2qOikAMXChRA3A3FthFLhfrl8Ox2m42n3EaE4gsy-ChCw8SA3ZH4NoTSLK4bd6qvt2UUCYicPfWLooqqbBYOMOfZygVT3fDGD10VThRVcY2Zt3km5QUBYSK0p5NX-_S-zOkTp3CHuzCZRMXZwNcbRWU8k9Z51kBwa6Br8gHss2qZG/s4032/IMG_1150.JPG" alt="疾駛過花東縱谷的自強號列車">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXCcQeVMOxpYc2qOikAMXChRA3A3FthFLhfrl8Ox2m42n3EaE4gsy-ChCw8SA3ZH4NoTSLK4bd6qvt2UUCYicPfWLooqqbBYOMOfZygVT3fDGD10VThRVcY2Zt3km5QUBYSK0p5NX-_S-zOkTp3CHuzCZRMXZwNcbRWU8k9Z51kBwa6Br8gHss2qZG/s1600/IMG_1150.JPG" alt="疾駛過花東縱谷的自強號列車">
   <figcaption> 自強號列車通過準備要春耕的稻田，前往鹿野 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnuZUyZGAt46MuYGt0q5oU0Q29fiBr022EttnKPAJ8D8sD7vN_xNGM2hvL9tg0Oqoo0-KaEVaUcEaFeGiWGZuOMw1N03F0By3WiJWsjCnshtlH5JRzCRWHAhYSkUQHJvjddO41tV0QgvcHo2HHjw21P0UQ9cCEVBXcQfUjrP28jiua7ee9BQL3rgr-/s4032/IMG_1152.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnuZUyZGAt46MuYGt0q5oU0Q29fiBr022EttnKPAJ8D8sD7vN_xNGM2hvL9tg0Oqoo0-KaEVaUcEaFeGiWGZuOMw1N03F0By3WiJWsjCnshtlH5JRzCRWHAhYSkUQHJvjddO41tV0QgvcHo2HHjw21P0UQ9cCEVBXcQfUjrP28jiua7ee9BQL3rgr-/s1600/IMG_1152.JPG" alt="">
   <figcaption> 鹿野車站前，搭上接駁準備向延平林道挺進 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMfQWdrDoQiVjeDPyUvyXcf2wX6xThFXg7gDiw8CgpK4Vrim1AQB7P_gVenz4Wry6OyrW8HyQBJ7eOQYfPZuKKvWBkk1QhFVMR1d-DsdEzOaC1n2bzHvCANchCxCfnQJbuiZCzydFPSqOEAYm7T0O14A1Y4ga3tHqIpeWBUh8Tz27jXU--p35gph03/s4032/IMG_1156.JPG" alt="台東延平林道為此行卑南東稜的起點">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMfQWdrDoQiVjeDPyUvyXcf2wX6xThFXg7gDiw8CgpK4Vrim1AQB7P_gVenz4Wry6OyrW8HyQBJ7eOQYfPZuKKvWBkk1QhFVMR1d-DsdEzOaC1n2bzHvCANchCxCfnQJbuiZCzydFPSqOEAYm7T0O14A1Y4ga3tHqIpeWBUh8Tz27jXU--p35gph03/s1600/IMG_1156.JPG" alt="台東延平林道為此行卑南東稜的起點">
   <figcaption> 延平林道14.5行車終點，整理裝備準備出發 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWO6Ug_K5DHSfb6EHzXWieZUuG7kAFnkesAWmvhelXByeiD8ck5wZ6Va1aZSqEDC-LvFZbiOferEAHwRlr761VwW-Oq9lb_C4DS8ZdJLmJMvaJIdCfK8cypMVdljCEiUdbDQcIlC5qiuuGoeVYke_itPkZw4M1odejxJTMjxyaS1XjR5Nzd9iRKMwz/s4032/IMG_1157.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWO6Ug_K5DHSfb6EHzXWieZUuG7kAFnkesAWmvhelXByeiD8ck5wZ6Va1aZSqEDC-LvFZbiOferEAHwRlr761VwW-Oq9lb_C4DS8ZdJLmJMvaJIdCfK8cypMVdljCEiUdbDQcIlC5qiuuGoeVYke_itPkZw4M1odejxJTMjxyaS1XjR5Nzd9iRKMwz/s1600/IMG_1157.JPG" alt="">
   <figcaption> 鹿野溪谷源頭，眼前是一片陌生的群山 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHKAORkTk4gluRuiysWoHTm-xJdLzD9W2SVV-NzDbHgD--YDLmho2j5e4DASdEdhLqIGD5Csi14qTZWDdXJZCRW2exCgIcQ0x4TaKV99WG0socOWM2vy2Dnwv8FiLHZPW5OrCzIcpBn3peYa4pfv0aHDghlJ31udLBWRCzyT_dSGVStpqaWHx_ZRaM/s4032/IMG_1158.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHKAORkTk4gluRuiysWoHTm-xJdLzD9W2SVV-NzDbHgD--YDLmho2j5e4DASdEdhLqIGD5Csi14qTZWDdXJZCRW2exCgIcQ0x4TaKV99WG0socOWM2vy2Dnwv8FiLHZPW5OrCzIcpBn3peYa4pfv0aHDghlJ31udLBWRCzyT_dSGVStpqaWHx_ZRaM/s1600/IMG_1158.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGYIMmVmxJtdeP2rcG2M7fX8HJC9kDKQySV_utnqcjsRFka2nkZKP0da8Coe1-gh9J69vS_Ehwv1gMVuDsuTYb3YBeGbI2QXPKX5EgAcABrTuJ3e163CLYww-0Q6eZ3efOS6KJcVhpC54sunVgKSFecfBoCsQqogN8ROlSmbp3UgsHoUAw3IK5RKOS/s4032/IMG_1159.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGYIMmVmxJtdeP2rcG2M7fX8HJC9kDKQySV_utnqcjsRFka2nkZKP0da8Coe1-gh9J69vS_Ehwv1gMVuDsuTYb3YBeGbI2QXPKX5EgAcABrTuJ3e163CLYww-0Q6eZ3efOS6KJcVhpC54sunVgKSFecfBoCsQqogN8ROlSmbp3UgsHoUAw3IK5RKOS/s1600/IMG_1159.JPG" alt="">
   <figcaption> 延平林道一開始路況不佳，雜草叢生，加上陰雨天氣，走起來更是不舒服，還惹上很多螞蝗 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9zEGMMElCg0MF6xHmeQnNGwrfl9Xuo3GwMhs56-TbHLznEGy4f23P8LZ6bqZT1dTgmSTALuOCTamwab2jpln0Adnm5k0xdPBukxR7H1sA-Qr2pY9kaTf1w_7rUipwuaMZdG3_0nQfIlhXlykVsXEqSiEGfq9tb4zdc_ljo_3TWRNpZyIlfijTjyZ6/s4032/IMG_1160.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9zEGMMElCg0MF6xHmeQnNGwrfl9Xuo3GwMhs56-TbHLznEGy4f23P8LZ6bqZT1dTgmSTALuOCTamwab2jpln0Adnm5k0xdPBukxR7H1sA-Qr2pY9kaTf1w_7rUipwuaMZdG3_0nQfIlhXlykVsXEqSiEGfq9tb4zdc_ljo_3TWRNpZyIlfijTjyZ6/s1600/IMG_1160.JPG" alt="">
   <figcaption> 雜草中的蘭花 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwACfj5__tFAT_IbmMRdBbtDro_Xc-yuJcnOH_U3aL5ou1xglc6-bb-10SnKnyIR7cBgH7NTxcu1H3gPq9xaC4V1-pn-3viVo6ZWJ4KzzInLPgV4vT-azsvyTXxFy0O6nSglWKlNxGyX1ODHmrFpjj89psOFsTKjIBL9ZWa4GreGJWX4eXzMBTOvuo/s4032/IMG_1161.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwACfj5__tFAT_IbmMRdBbtDro_Xc-yuJcnOH_U3aL5ou1xglc6-bb-10SnKnyIR7cBgH7NTxcu1H3gPq9xaC4V1-pn-3viVo6ZWJ4KzzInLPgV4vT-azsvyTXxFy0O6nSglWKlNxGyX1ODHmrFpjj89psOFsTKjIBL9ZWa4GreGJWX4eXzMBTOvuo/s1600/IMG_1161.JPG" alt="">
   <figcaption> 19k帆布工寮，通過後路況轉佳，行走起來舒適許多 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvkUfbX1MW0LU6dZUjzzEsZLYOM749bhmv0tTt35GntBBfruZVOW9_nv-KfQ1ypGrthKeBeG6jDctNZY3kzHlScgug4uwhznlkXRFjggQSDUtdf1vIMQddfiTNxmW50LigXWCCFNhEnevHUa-Q0mAwoTCrK2UJzfZGifgtBDhcB_fp9i7lJV0kNkx/s4032/IMG_1166.JPG" alt="延平林道除了可以前往卑南東稜以外也是通往內本鹿古道的入口">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvkUfbX1MW0LU6dZUjzzEsZLYOM749bhmv0tTt35GntBBfruZVOW9_nv-KfQ1ypGrthKeBeG6jDctNZY3kzHlScgug4uwhznlkXRFjggQSDUtdf1vIMQddfiTNxmW50LigXWCCFNhEnevHUa-Q0mAwoTCrK2UJzfZGifgtBDhcB_fp9i7lJV0kNkx/s1600/IMG_1166.JPG" alt="延平林道除了可以前往卑南東稜以外也是通往內本鹿古道的入口">
   <figcaption> 延平林道19k過後為康莊大道 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKP7dfOASyu6Nl50kICxI46CRJJFXr9jd4dx31ZVYWb0lYtAnFfN-mrQwtam6XKShp0GkJDqMhfW-zB7S42UQ3WZVtbGM_PB9TgSvX-GzZlM8_5YKr5k56oM_SLIaffGCVkhx3mE5_TCS9KrxYbo_NqtlEckw3lh-XpnBZ7xNcllQ7uqawg7VpMNpS/s4032/IMG_1169.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKP7dfOASyu6Nl50kICxI46CRJJFXr9jd4dx31ZVYWb0lYtAnFfN-mrQwtam6XKShp0GkJDqMhfW-zB7S42UQ3WZVtbGM_PB9TgSvX-GzZlM8_5YKr5k56oM_SLIaffGCVkhx3mE5_TCS9KrxYbo_NqtlEckw3lh-XpnBZ7xNcllQ7uqawg7VpMNpS/s1600/IMG_1169.JPG" alt="">
   <figcaption> 延平林道 25k milestone </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB4Q065qP4W-qavdMhU4MH0QL7uiNnxC09zrlfoRQCazv_uYzsM0eB-hmCHiiggil5CMxBOzqxOQveF1uJwo-Nn81IPjEQDJkztuxXs4GYkCxZO7RdopzVKphKveQcDikDKzDSuw1cjPafJ4krBBx1JvMrF9o326HxKGghPCYoAbJXUzRFo-G6gnhy/s4032/IMG_1170.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB4Q065qP4W-qavdMhU4MH0QL7uiNnxC09zrlfoRQCazv_uYzsM0eB-hmCHiiggil5CMxBOzqxOQveF1uJwo-Nn81IPjEQDJkztuxXs4GYkCxZO7RdopzVKphKveQcDikDKzDSuw1cjPafJ4krBBx1JvMrF9o326HxKGghPCYoAbJXUzRFo-G6gnhy/s1600/IMG_1170.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtLILGPDDQQKXWHB-rwYf5QwNd7LruG3ID1lSDnO9NtmWTx--FKixiX5bV25NrCHk8WqPyVbaKRakKQfTTyB_MkM7FxJSo2bvywDP-BEq2Cb7X3yzmKQJLHHN-fP1WdZKuW5n6RJDXyvuFvfYjx5PgucqU-EUoGyGtpkEfrxmhVNbXHT1ov0GNYL5P/s4032/IMG_1175.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtLILGPDDQQKXWHB-rwYf5QwNd7LruG3ID1lSDnO9NtmWTx--FKixiX5bV25NrCHk8WqPyVbaKRakKQfTTyB_MkM7FxJSo2bvywDP-BEq2Cb7X3yzmKQJLHHN-fP1WdZKuW5n6RJDXyvuFvfYjx5PgucqU-EUoGyGtpkEfrxmhVNbXHT1ov0GNYL5P/s1600/IMG_1175.JPG" alt="">
   <figcaption> 接近28.7k 美奈田山登山口前的山谷處，因為大雨形成一條小溪流 </figcaption>
 </figure> 
 
@@ -7781,7 +7781,7 @@ C2住在海拔2805左右的稜線上，雖然一晚被低溫冷醒三次，但�
 準備好水後，揹起沉重的背包，向陡坡爬上，慢慢地往H2000營地推進(實際海拔應該是 H2050)。揹著重裝加上2天分的水，在雨天泥濘路陡上，差50公尺也是要計較的(多爬五條等高線差很多的)。  
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVF0KsPnCnI9Pkd-Lk4__QroDwnXG-oqGTA5fvTtNSi9alQvcU-U_ltH5tpgwBW_o4zUIbBXkL3IpY64SGeVEYhmVNSoItN8ZZZZu35I_5-0QO65-Ratd9hQLRNauDiKa9odsna6sJYVEsgHyb0oLgI-yH2JXRXN4yyXujtjH_oq7mrO241w7RaR68/s4032/IMG_1177.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVF0KsPnCnI9Pkd-Lk4__QroDwnXG-oqGTA5fvTtNSi9alQvcU-U_ltH5tpgwBW_o4zUIbBXkL3IpY64SGeVEYhmVNSoItN8ZZZZu35I_5-0QO65-Ratd9hQLRNauDiKa9odsna6sJYVEsgHyb0oLgI-yH2JXRXN4yyXujtjH_oq7mrO241w7RaR68/s1600/IMG_1177.JPG" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -7794,32 +7794,32 @@ H2000營地約可容納一頂四人帳，擠一點如果要搭兩頂可能有一
 (我們行程規劃很有問題，在冬季要早上5點出發不太實際)  
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWVLxM-73Ndg0q37CAdGaHXZNFEWxabX6RunPlTIU8a6A59dZWH--Ebv-XiYVut6Bdwlgh8faOXDHpWhsKVdqr9SOF3LY-DJWTLV1NG76w-cO3xymntU20uQCents3i9yscohXsxTgDqgOlGqtfa5FMXje0QSpsN95txrj05i_fZe-QcOxyrU3iW7v/s4032/IMG_1187.JPG" alt="攀登美奈田山的稜線">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWVLxM-73Ndg0q37CAdGaHXZNFEWxabX6RunPlTIU8a6A59dZWH--Ebv-XiYVut6Bdwlgh8faOXDHpWhsKVdqr9SOF3LY-DJWTLV1NG76w-cO3xymntU20uQCents3i9yscohXsxTgDqgOlGqtfa5FMXje0QSpsN95txrj05i_fZe-QcOxyrU3iW7v/s1600/IMG_1187.JPG" alt="攀登美奈田山的稜線">
   <figcaption> 持續沿著稜線陡上，攀登美奈田山 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhDVwQ6yJVtUNIQ2j7LYWhljgkUdUE0IPlU2eo_X6QexvL4_fJ8-na-8OFk9Y6E0Z6esHyHqFm9BiwbKUjlSLjOMWuAL_xaGLUkdJKvxD1FXaSzhbggCecD8m57Kd1F9wk-0Pjnc-_IIp8bYs5vWP06qt82pE5Fd4rnt-BQFGKvxoBZzWCTRBGh0BX1=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhDVwQ6yJVtUNIQ2j7LYWhljgkUdUE0IPlU2eo_X6QexvL4_fJ8-na-8OFk9Y6E0Z6esHyHqFm9BiwbKUjlSLjOMWuAL_xaGLUkdJKvxD1FXaSzhbggCecD8m57Kd1F9wk-0Pjnc-_IIp8bYs5vWP06qt82pE5Fd4rnt-BQFGKvxoBZzWCTRBGh0BX1=s1600" alt="">
   <figcaption> 時而從雲縫中露臉的陽光 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjcEklnxnLl5PIZXQAoW81bMSDu449Cu7TogsJ27uJxiBR0zTQ_Q7OU1WbATijPLUzWHCFgZ3m_qIX4zjzSfxAK3m-fvPCZcWIxNhTuiwqS7HHUGn1fdZ0SpUBO0o3VOJ_kjmOKmcCYnsD6wC9lWuo4A13zLi4ingDZPo6APx69HFgQOh25PBHvn3LC=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjcEklnxnLl5PIZXQAoW81bMSDu449Cu7TogsJ27uJxiBR0zTQ_Q7OU1WbATijPLUzWHCFgZ3m_qIX4zjzSfxAK3m-fvPCZcWIxNhTuiwqS7HHUGn1fdZ0SpUBO0o3VOJ_kjmOKmcCYnsD6wC9lWuo4A13zLi4ingDZPo6APx69HFgQOh25PBHvn3LC=s1600" alt="">
   <figcaption> 森林間陡上路 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjw9D6Ll2seTnUMX1lnT0dPDutatllVOWzXGYAQ7qv1jVbU-rK-QobCygPaMFZaKv4icikRwsVbyFz7nlcOlS5orHYkaq2DZ9BKQRsolHvlVTFueG3IUxiExeXMxpw1iUWcXBj1mNeSwFwOnNi10uz_su8H2KSgFv4erJBtFBCqr7t-4AZaAu6jKfBf=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjw9D6Ll2seTnUMX1lnT0dPDutatllVOWzXGYAQ7qv1jVbU-rK-QobCygPaMFZaKv4icikRwsVbyFz7nlcOlS5orHYkaq2DZ9BKQRsolHvlVTFueG3IUxiExeXMxpw1iUWcXBj1mNeSwFwOnNi10uz_su8H2KSgFv4erJBtFBCqr7t-4AZaAu6jKfBf=s1600" alt="">
   <figcaption> 芒草區雙枯木 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiVyc7wlj7almJfh69aW3p0WOErjxCn-Y_nrRUr0bcZFiHk-cvXSCECWP2gZGE235Fb6Up8TVz-iiSOFL0uwqAkrJ4RqGcKkggDMzyCSRnlaT03K43ML-_ymJriHCJQSo6zJ_ntTPYRAsbMzApyqBwud-TbvsuzCA-ioaAzTFnZPA2pCubq7VbPRBE3=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiVyc7wlj7almJfh69aW3p0WOErjxCn-Y_nrRUr0bcZFiHk-cvXSCECWP2gZGE235Fb6Up8TVz-iiSOFL0uwqAkrJ4RqGcKkggDMzyCSRnlaT03K43ML-_ymJriHCJQSo6zJ_ntTPYRAsbMzApyqBwud-TbvsuzCA-ioaAzTFnZPA2pCubq7VbPRBE3=s1600" alt="">
   <figcaption> 美奈田主山山頂，一等三角點 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgbxm0WBMWtsaG1SDC4SkGz1wVtasIhzC5iUOrF_fXHLKbpjrjyAzio8_wexNDu1FYNo-i9CN6Gndrlc2Oj-fl5wYKGD_Rzg2TJPTMMYE7JX3GcNED0Zvjh_hN5eAOV-BIE_k3paR7lXCC_qr2bOkdapHhHGDafqesEy59l24xqliX_EAZhhBswt5OK=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgbxm0WBMWtsaG1SDC4SkGz1wVtasIhzC5iUOrF_fXHLKbpjrjyAzio8_wexNDu1FYNo-i9CN6Gndrlc2Oj-fl5wYKGD_Rzg2TJPTMMYE7JX3GcNED0Zvjh_hN5eAOV-BIE_k3paR7lXCC_qr2bOkdapHhHGDafqesEy59l24xqliX_EAZhhBswt5OK=s1600" alt="">
   <figcaption>  </figcaption>
 </figure> 
 
@@ -7827,17 +7827,17 @@ H2000營地約可容納一頂四人帳，擠一點如果要搭兩頂可能有一
 這邊天氣好的話展望應該不錯，然而今天四周只看到白牆QQ  
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjuTOv0GguQJUJWCE7jbAco1kaV8LXVtKb0ZMjhsysIJoD64AL3sWLCkd0JZsPCGRO5tO2QsN1j9e01ehuBKaMKJiX703ypYt9RT2VZudRnRtuPGREOPRi2rsU9boUcYT8bVwRAqo0_ndAv0aFWI_0fEappv6yivDtzmAOHeoW56O8xLz90XkoR02Hq=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjuTOv0GguQJUJWCE7jbAco1kaV8LXVtKb0ZMjhsysIJoD64AL3sWLCkd0JZsPCGRO5tO2QsN1j9e01ehuBKaMKJiX703ypYt9RT2VZudRnRtuPGREOPRi2rsU9boUcYT8bVwRAqo0_ndAv0aFWI_0fEappv6yivDtzmAOHeoW56O8xLz90XkoR02Hq=s1600" alt="">
   <figcaption> 續行往北峰前進，一片美麗的鐵杉林 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj8iaEZRZ-gMVVqkcWVwYvzagftvHjbwzSvVilQebGLacB9yWH_FNeQSzAfS734J7yQ7Yuv3W9gcGTDgca4j9RlIhM4ywSsI1nXilsktyDNe3uwshGDmNCYT-vEznu2v4bvJFEXWLfRd0sh6mhP32ooktAMry9CHLc2bt3R_cGmvT-2fa6A342jmpNi=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj8iaEZRZ-gMVVqkcWVwYvzagftvHjbwzSvVilQebGLacB9yWH_FNeQSzAfS734J7yQ7Yuv3W9gcGTDgca4j9RlIhM4ywSsI1nXilsktyDNe3uwshGDmNCYT-vEznu2v4bvJFEXWLfRd0sh6mhP32ooktAMry9CHLc2bt3R_cGmvT-2fa6A342jmpNi=s1600" alt="">
   <figcaption> 美奈田山北峰前的一處平坦草原地，旁邊有一座水鹿池，繼續往前走有一小段獸徑 </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjX-nq9-OSE83gAhlXs3UaDZoSyVnh2PlDw-ZgUohXSVmtNqa81dWRw5ZCOi1HUElACDOLsumJzkTbRSuVdzVw3imUvc2Y22MjY51rAkXy6AvNZvVEZlnuD1P89cEsMXU88VzPWiGDZjux9GFAz6MVwpaUxRLf9PQVysWBcfhNQLw8rJSo6PCrEjV71=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjX-nq9-OSE83gAhlXs3UaDZoSyVnh2PlDw-ZgUohXSVmtNqa81dWRw5ZCOi1HUElACDOLsumJzkTbRSuVdzVw3imUvc2Y22MjY51rAkXy6AvNZvVEZlnuD1P89cEsMXU88VzPWiGDZjux9GFAz6MVwpaUxRLf9PQVysWBcfhNQLw8rJSo6PCrEjV71=s1600" alt="">
   <figcaption> 美奈田山北峰，無基點 </figcaption>
 </figure> 
 
@@ -7845,12 +7845,12 @@ H2000營地約可容納一頂四人帳，擠一點如果要搭兩頂可能有一
 繼續前行的稜線就沒看到向剛剛那般適合紮營的地點了。多瘦稜，植披多。  
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhxpcXrS1YmjTBXVNAc5sMV0yfxBeojadxaj_jbFBj7JPcDaAkf78HTniADdzuYeGyGiej1DENPd9lLwxQc7xCE4KmNORVVFcJjWYgH49wT0Fyw9NQXDCIvNISLFT2eNquqXF_RdtbIuhS4hFmxTMCPB1CJTsTaSNYsdiRgB1_G9hPT7uQ-SjYIwpGY=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhxpcXrS1YmjTBXVNAc5sMV0yfxBeojadxaj_jbFBj7JPcDaAkf78HTniADdzuYeGyGiej1DENPd9lLwxQc7xCE4KmNORVVFcJjWYgH49wT0Fyw9NQXDCIvNISLFT2eNquqXF_RdtbIuhS4hFmxTMCPB1CJTsTaSNYsdiRgB1_G9hPT7uQ-SjYIwpGY=s1600" alt="">
   <figcaption> </figcaption>
 </figure> 
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhufAPCQIR9vP6a81IyMvtUzVww8bdAoZYvlgmusqDgVf-YRaQY3Ky3w6oMAV7zAfI46EOfyhLwm7U2ab34AaLivwq5y2hRaLfE4XyYUguNiNJIj1E3cVgY33tNWLedyJsBoT5tZgSX_H06JfEqelRFbuaSnGt8H2TzG-AFoyNrQGPV6uXDj_dwoxAF=s4032" alt="">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhufAPCQIR9vP6a81IyMvtUzVww8bdAoZYvlgmusqDgVf-YRaQY3Ky3w6oMAV7zAfI46EOfyhLwm7U2ab34AaLivwq5y2hRaLfE4XyYUguNiNJIj1E3cVgY33tNWLedyJsBoT5tZgSX_H06JfEqelRFbuaSnGt8H2TzG-AFoyNrQGPV6uXDj_dwoxAF=s1600" alt="">
   <figcaption> 稜線左側為陡坡，還可見遠方的崩塌 </figcaption>
 </figure> 
 
