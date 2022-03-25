@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/blogPage/sitemap.xml
+Sitemap: https://penhsuanwang.github.io/blogPage/sitemap.xml
