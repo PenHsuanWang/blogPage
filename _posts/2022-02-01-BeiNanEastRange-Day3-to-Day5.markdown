@@ -1,683 +1,308 @@
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.18.1 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="en" class="no-js">
-  <head>
-    <meta charset="utf-8">
-
-<!-- begin _includes/seo.html --><title>卑南東稜 Day3-Day4 佐美姬山與相原山 | 二十毫秒之間</title>
-<meta name="description" content="原先以為佐美姬山與相原山兩段路會是愉快的高山草原散步之旅，但實際上卻是茂密箭竹叢搭配無數微地形的試煉，走起來不難，但無窮鑽箭竹迴圈也是挺消耗人的意志。原先的好天氣沒了，在風雨中通過相原山，悠哉地在草原湖畔野餐的美好想像跟著狂風消失在濃霧中。 ">
-
-
-  <meta name="author" content="Ben Wang">
-
-
-<meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="二十毫秒之間">
-<meta property="og:title" content="卑南東稜 Day3-Day4 佐美姬山與相原山">
-<meta property="og:url" content="https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day2/">
-
-
-  <meta property="og:description" content="原先以為佐美姬山與相原山兩段路會是愉快的高山草原散步之旅，但實際上卻是茂密箭竹叢搭配無數微地形的試煉，走起來不難，但無窮鑽箭竹迴圈也是挺消耗人的意志。原先的好天氣沒了，在風雨中通過相原山，悠哉地在草原湖畔野餐的美好想像跟著狂風消失在濃霧中。 ">
-
-
-
-
-
-
-
-  <meta property="article:published_time" content="2022-01-30T06:00:00+08:00">
-
-
-
-
-
-  
-
-  
-
-
-<link rel="canonical" href="https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day2/">
-
-
-
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    
-      "@type": "Person",
-      "name": "P.H, Wang",
-      "url": "https://penhsuanwang.github.io/blogPage/"
-    
-  }
-</script>
-
-
-
-
-
-
-<!-- end _includes/seo.html -->
-
-
-<link href="/blogPage/feed.xml" type="application/atom+xml" rel="alternate" title="二十毫秒之間 Feed">
-
-<!-- https://t.co/dKP3o1e -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="/blogPage/assets/css/main.css">
-
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
-
-
-
-    <!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-  </head>
-
-  <body class="layout--single wide - landing - dark-theme">
-    <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
-  <ul>
-    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
-  </ul>
-</nav>
-
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
-
-    
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        
-        <a class="site-title" href="/blogPage/">
-          二十毫秒之間
-          <span class="site-subtitle">帶著相機去冒險</span>
-        </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/blogPage/" >Home</a>
-            </li><li class="masthead__menu-item">
-              <a href="/blogPage/categories/" >圖文記錄</a>
-            </li><li class="masthead__menu-item">
-              <a href="/blogPage/mt-gallery/" >山岳攝影</a>
-            </li></ul>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
-
-
-    <div class="initial-content">
-      
-
-
-  
-    
-
-
-
-<nav class="breadcrumbs">
-  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
-    
-    
-    
-      
-        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="https://penhsuanwang.github.io/blogPage/" itemprop="item"><span itemprop="name">Home</span></a>
-          <meta itemprop="position" content="1" />
-        </li>
-        <span class="sep">/</span>
-      
-      
-        
-        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="/blogPage/categories/mt-note-photo-100peaks" itemprop="item"><span itemprop="name">Mt note photo 100peaks</span></a>
-          <meta itemprop="position" content="2" />
-        </li>
-        <span class="sep">/</span>
-      
-    
-      
-      
-        <li class="current">卑南東稜 Day3-Day4 佐美姬山與相原山</li>
-      
-    
-  </ol>
-</nav>
-
-  
-
-
-<div id="main" role="main">
-  
-  <div class="sidebar sticky">
-  
-
-
-<div itemscope itemtype="https://schema.org/Person">
-
-  
-    <div class="author__avatar">
-      
-
-      
-        <img src="/blogPage/image/bio_image_ben_2.jpg" alt="Ben Wang" itemprop="image">
-      
-    </div>
-  
-
-  <div class="author__content">
-    
-      <h3 class="author__name" itemprop="name">Ben Wang</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
-        <p>放假有山就爬. 隨意寫圖文記錄留念</p>
-
-      </div>
-    
-  </div>
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Hsinchu, Taiwan</span>
-        </li>
-      
-
-      
-        
-          
-            <li><a href="https://www.instagram.com/benwang.photo" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-          
-        
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      <!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
-      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
-    </ul>
-  </div>
-</div>
-
-  
-    
-      
-      
-      
-      
-    
-    
-      
-
-<nav class="nav__list">
-  
-  <input id="ac-toc" name="accordion-toc" type="checkbox" />
-  <label for="ac-toc">Toggle menu</label>
-  <ul class="nav__items">
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/"><span class="nav__sub-title">Home</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/categories/"><span class="nav__sub-title">圖文記錄</span></a>
-        
-
-        
-        <ul>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-100peaks/" class="">高山百岳</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-midalt/" class="">中級山</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-townsadjacent/" class="">郊山</a></li>
-          
-        </ul>
-        
-      </li>
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/mt-gallery/"><span class="nav__sub-title">山岳攝影</span></a>
-        
-
-        
-        <ul>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/mt-gallery-100peaks/" class="">高山百岳</a></li>
-          
-        </ul>
-        
-      </li>
-    
-  </ul>
-</nav>
-    
-  
-  </div>
-
-
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="卑南東稜 Day3-Day4 佐美姬山與相原山">
-    <meta itemprop="description" content="原先以為佐美姬山與相原山兩段路會是愉快的高山草原散步之旅，但實際上卻是茂密箭竹叢搭配無數微地形的試煉，走起來不難，但無窮鑽箭竹迴圈也是挺消耗人的意志。原先的好天氣沒了，在風雨中通過相原山，悠哉地在草原湖畔野餐的美好想像跟著狂風消失在濃霧中。">
-    <meta itemprop="datePublished" content="2022-01-30T06:00:00+08:00">
-    
-
-    <div class="page__inner-wrap">
-      
-        <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">卑南東稜 Day3-Day4 佐美姬山與相原山
-</h1>
-          
-        </header>
-      
-
-      <section class="page__content" itemprop="text">
-        
-        <figure style="width: 45%" class="align-right">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhBY8lA7GapmEbYfMLpEEamCL2MuJopvRj5DSSZoEqFGBtNC_8e_kJ3faX_KH_2ARLNU3_jEioadfKMIYSB5REQV08ohtyGy3SXusgk4U6zGnkAOpL1e2I6_JtA_FPDEG6wtvueU8K3NX3lGDCnfPMZOcwWNH-V7sklVy6ALMu5uFxDeFfYLjihFcCQ=s1200" alt="卑南東稜路途中的佐美姬山前水池" />
+---
+layout: single
+title:  "卑南東稜 Day4-Day5 從呂禮山前往山之巔"
+excerpt: "呂禮山有著一片高山草原，杳無人煙，宛如人間仙境。往北可通往馬蕃粕、伊加之蕃，往東可接上卑南主山東峰。由此我們將踏上中央山脈主稜，越過南一段南端的百岳，有著一等三角點的卑南主山。即將完成卑南東稜。"
+
+date: 2022-02-01 06:00:00 +0800
+categories: mt-note-photo-100peaks
+classes: wide
+  - landing
+  - dark-theme 
+permalink: /:categories/:title/
+
+tags:
+  - 卑南東稜
+
+header:
+  image: 
+  teaser : 
+  image_description: ""
+  overlay_filter: 0.5
+
+feature_row:
+- image_path: https://blogger.googleusercontent.com/img/a/AVvXsEhZ7mLIPbSm5PVChznHTyKpfRaRS-K7CC24qIi5TQGiL-iYJhUaW0I4XOBlnlEP_-j9NWrHxOXJjXQCYd6Pte1tK7Uq1yzdFABn2nqztQytbAm_IzwS_3ruBcnB7MMU0JhfExN9kJKlFjye4bgLdVkcAkJn_UIulEjQBR01PIADJNwlssrecm-EFG9H=s480
+  title: "Day1-Day2 啟程 延平林道登美奈田山"
+  excerpt: "穿過潮濕的延平林道，循著陡峭的稜線上攀本次行程的第一座一等三角點美奈田山，也是卑南東稜的起點，海拔高度也突破了 2900 公尺，某種程度來說，這裡已經脫離中級山的林相，正式進入高山環境了。"
+  url: "mt-note-photo-100peaks/BeiNanEastRange-Day1/"
+  btn_class: "btn--primary"
+  btn_label: "Go To"
+
+- image_path: https://blogger.googleusercontent.com/img/a/AVvXsEhz5K6v57dVpJ8Lfm_ed4LfNmWnppc1-ddgq-SJp5jj8zyKzNsBcIk29sZbgGLM4MWrpCC84bNsEDhkv1AcXS06zzY3r47xJ8NOIFiG7J4rNEYOcIzdBTLmNm_6_XtVOhY7Kps6pjL1BXRAqf7KNHQiTBmmzku8uc2_ZRm0o_YbIdz1q4HCqxIcK6CP=s480
+  title: "Day3-Day4 佐美姬山與相原山"
+  excerpt: "原先以為佐美姬山與相原山兩段路會是愉快的高山草原散步之旅，但實際上卻是茂密箭竹叢搭配無數微地形的試煉，走起來不難，但無窮鑽箭竹迴圈也是挺消耗人的意志。原先的好天氣沒了，在風雨中通過相原山，悠哉地在草原湖畔野餐的美好想像跟著狂風消失在濃霧中。"   
+  url: "mt-note-photo-100peaks/BeiNanEastRange-Day2/"
+  btn_class: "btn--primary"
+  btn_label: "Go To"
+
+- image_path: https://blogger.googleusercontent.com/img/a/AVvXsEiX1L4UCFuYz-6D1RXKMk9zwJG7LyUZhmsRIj3FWBxt9yqHCJVHmVdr-Km_GZwhlc-L1NF4XWMV8_BoUrGBcfx1nB4W1YBIQ2cRVpnRlSzQgvRcdfszb3VSw8xARm63WG6hRsfhY89JL2-nPWJsMaS0yot2BtNpdrDIcnTIYWPeRy8IDUCz0KURCw2D=s480
+  title: "Day5-Day6 翻越卑南主山 完成東西橫斷"
+  excerpt: "最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點--卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。\n\nTo be continued"
+  #url: "/"
+  #btn_class: "btn--primary"
+  #btn_label: "Go to"
+
+---
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgozoT-xMTwK5Q-HmFIxGIQ-UD4qrpTJxUkN3KB75geV5p7wPoupzBq5II_Jb0nomUHP2c01ropS05dU28iFyG4CA8ZAyXNn0aI6Sxo-dB8aNNJbWK8Ee9qRIQOT4WMtBwZoK4eCu01GNyZNEYlnqGjzOJ5KoF6-7DK6tb8SFQS14ReXZO3eb-gAo70/s1280/IMG_1276.JPG" alt="卑南東稜通過相原山後回望鹿野溪谷以及雲霧中的中央山脈南南段">
+  <figcaption> 雲霧中的南南段 </figcaption>
+</figure>  
+
+卑南東稜行程第四天，原本的好天氣沒了，今天一整天刮著狂風且時不時飄一下雨。穿越濕搭搭的箭竹叢，為了躲避刺柏等灌木，時不時還要東鑽西繞，這一段路搭配天氣，我認為算是這趟行程中最難走的一段。  
+原本還想悠悠哉哉欣賞相原山美麗的草原，坐在相原池邊悠哉的吃個早餐，但如今登頂相原山後拍了幾張照，便繼續前進尋找避風處躲風雨。  
+登非傳統路線不可全然相信等高線圖，跟佐美姬山一樣，相原山一帶的等高線地形看起來十分平緩，加上紀錄上看到這一帶是草坡，原先想這裡是一段好走的路，想不到卻是困難重重。要不停的在高大的箭竹中鑽出一條路，如果剛好又有微地形則更加費力。時不時還會出現倒木。這一段路是不困難，但沒有原先預想的那麼好走就是了。再搭配上天氣，在濕搭搭的箭竹叢中游來游去，磨人心志啊。
+
+通過相原山後，第二次下到溪谷中，這一段相原溪谷比前一天難走。緣溪行一小段，途中還會遇到一座10米瀑布需要向左側高繞一小段。最後到達呂禮山上切點。  
+相原溪是我們在中央山脈以東最後一條活水源。上切前，我們在溪邊休息。相原溪為轆轆溪的上游，身處在中央山脈東側的深處，台東關山、池上的好水發源地於此，我們煮了點熱水泡了熱茶，休息一下，準備迎接後面的挑戰。
+
+位在卑南主山東側，呂禮山海拔2762，北方稜線延伸往海拔2772的馬蕃粕山，與中央山脈主稜大致平行，東邊稜線延伸往中央山脈主稜。這一代的植披大致以高山草原為主。天氣好的話搭配上藍天，此段路線應該是風景最美麗的一段。可惜我們形成至此碰上的是強風霧雨。登頂呂禮山時一片白牆毫無山景可以欣賞，我們此行的最高點，卑南主山，身處雲霧之中。
+
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg2VHOW01JHzlSbxyO0R3Q7yfyh7SzL_6lXTMv7pwaXXgcLfMR63qQECFz-1Q-MSmt_pqKDRfZMF8gb_vKZgqVwpslTG8ozv7p3bz-V4i1DtNLesqO-Q6frZsCir1ijx6DH-p0mv-k_WICHWxpNMZW8F2XG2t3NTWwbCTArCuuiob-v9eTRXyMxp4c/s1280/IMG_1431.JPG" alt="相原溪底下切點">
+  <figcaption> 相原溪底 </figcaption>
+</figure>
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIeKUnKfN1TNTK0ftxP4srTDOqyTXjznMxJ1zqz9zOGT8AhVDAqurMvGjh63yZOS1Pub-5Iy-My68GWx4h2Z7-_TvcztwOnI1Na5f4P1qKuStzO4hJgGqR1yKmVcca4WZEC4KfTeoA19bnLq1G2Xyah-rc1U_ychJouvp0rW9gWQjSoafNovx9KZqL/s1280/IMG_1378.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
-<p>卑南東稜行程第二晚，遇上強烈大陸冷氣團南下，這也是我們行程中遇到最冷的一天。我們在海拔2805高的稜線營地度過了寒冷的小年夜，這次吃的食物比以往豐盛一點，煎個牛排配洋蔥炒蛋度過小年夜。人就是一種喜歡給自己找麻煩的生物，好好的年假不過，跑來上山受寒討皮痛。一晚低溫讓路旁的岩石上長出冰柱了。原先我們計劃每天早上五點拔營出發，不過天冷早上就有惰性，實際出發時間都延後到早上七點日出後。</p>
 
-<p>從美奈田山過後就不再有明顯的路跡，也幾乎沒有路條，完全必須自己找路。原先看地圖想說到佐美姬山這段稜線不難走，高度起伏不大，也不太像會遇到斷頭的瘦稜。然而實際上比我們想像中難走許多，很多細微地形在等高線圖上是看不出來的，實際的稜線比我們預期得還窄，兩側坡度大，稜線上有幾處遇到大岩石不好直接通過，從稜線東北側(右側)繞行，我們總共花了約5個小時才通過這段稜線。</p>
+[航跡](#卑南東稜航跡)
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgiGAIdmZEtR-hEg0ETC5Dn7zaBovC6hWraKkkIcFzE8LbaJM2ilfm2_wj2xxsPD858qzX7PKrlyFlL_4yplzL28f_JWvVKKuxt0gzfnl8QxwIKirZkk56FgiG-DsIBJShJkeXgCfyPl4OxRwZ7YGG-FtEIt-T5eXQgqlDYNIWOzBQPixi3rk8AV_Z7=s1200" alt="卑南東稜佐美姬山回望美奈田山" />
-  <figcaption> 佐美姬山前回望美奈田山，沿途稜線多處瘦稜須繞行 </figcaption>
-</figure>
+[圖文紀錄請往下](#圖文紀錄)
 
-<p>再加上昨天提早紮營、今天早又延後出發時間，看來此行勢必會延誤了，決定放棄前往馬番粕山以及伊加之蕃山，打算在呂禮山直接向卑南主山前進(正統卑南東稜)。</p>
+## 行程紀錄
 
-<p>前一晚小年夜剛好寒流通過，也是此行最冷的一個晚上，好在今天是個大晴天，強烈大陸冷氣團帶來乾燥的冷空氣，讓今天的天氣比昨天好冷多，高氣壓壓下來後，讓雲高降低到 2500左右(目測)。在美奈田山 - 佐美姬山連稜上，可見到稜線南北兩側的雲海。向北望去可見到雲海淹沒轆轆溪流域，雲海上的中央山脈南一段、南二段主稜、新康橫斷稜線。先是由佐美姬山向北延伸的尖石山露出雲海之上，更遠的地方為南橫公路附近群山。從霧鹿林道起登的屯古嶺延伸向南一段的海諾南山。海諾南山北邊金字塔狀的關山。南橫公路啞口附近的關山嶺山、塔關山，屬於中央山脈南二段，爬嘉明湖登山路線會經過的向陽山以及三叉山。自三叉山起向東延伸的新康橫斷。</p>
+# 2022-01-29 
+下一整天的雨，今天要踢14.3k的林道，再加上從林道28.7k 美奈田登山口沿著稜線陡上約400公尺。  
+10:31 延平林道 14.5 k 出發  
+11:08 16k 崩塌，前方林道為一個髮夾彎，上切(捷徑)繞掉髮夾彎的部分  
+11:11 上切結束，切過一小段髮夾彎林道續行  
+11:25 紅色閘門  
+12:20 延平林道19k  
+12:29 19.5 帆布寮，休息吃點東西，接下來的林道植披比較少，比較好走  
+12:59 活水  
+13:30 延平林道21.5 山澗水  
+13:41 小瀑布  
+14:00 小崩塌  
+14:30 石頭里程碑 25K  
+15:02 髮夾彎下降  
+15:17 溪流活水  
+15:49 美奈田登山口，取水，準備上稜。接下來兩天無活水源可用，我們一人揹了4升左右的水。  
+16:20 離開溪谷 左側上稜，因為背包裝滿了水搭配上8天份的食物，此刻背包是最沉的。下雨地滑加上陡坡，這一段路走得好辛苦 ><  
+16:39 轉稜向右  
+16:41 松針 比較好走  
+16:57 寬稜  
+17:12 右轉稜線  
+17:18 H1875峰  
+17:28 右崩壁 左深溝  
+17:43 岩壁神木 倒。拿出頭燈。  
+18:21 跨倒木  
+18:29 超陡拉繩  
+18:46 2050 營地 C1  
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhZ7mLIPbSm5PVChznHTyKpfRaRS-K7CC24qIi5TQGiL-iYJhUaW0I4XOBlnlEP_-j9NWrHxOXJjXQCYd6Pte1tK7Uq1yzdFABn2nqztQytbAm_IzwS_3ruBcnB7MMU0JhfExN9kJKlFjye4bgLdVkcAkJn_UIulEjQBR01PIADJNwlssrecm-EFG9H=s1200" alt="佐美姬山向北眺望三叉山向陽山以及新康山" />
-  <figcaption>  </figcaption>
-</figure>
-
-<p>南邊多數中級山已被雲海淹沒。稜線下方蜿蜒的溪谷便是延平林道所在之處。只見遠方的北大武山探出雲海之上。</p>
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgiQN909eB06ioKcx2AbMsdOwyfu-sYkRMZpMUwJzNPhfc4O5zMcY9raQ0vxHgIrFjN8Bx94rP3fci9ZpCRf7WaFasMcV9VqjtpM1VlenMw1b_RPk5iezGOnfIl4tO7S7DzVe5pIrShQj8gWvorg5FAXtVe-pzMSzMqOXGg6S7UTjNSe0-jFYRxnmZf=s4224" alt="卑南東稜佐美姬山眺望延平林道山谷以及北大武山" />
-  <figcaption>  </figcaption>
-</figure>
-
-<p>從佐美姬山到相原山這段路，是卑南東稜中間位置，也是我們決定是否原路撤退的關鍵點。沒有人跡，沒有收訊，雲海阻隔手機訊號，讓我們與山下完全隔絕開，身處於中央山脈深處，不經覺得寂寞了起來。好加在今天天氣好，不然前兩天下雨，再加上一夜寒冷，讓我們開始信心動搖，開始懷疑自己是否能順利完成卑南東稜。如果不是今天出大太陽外加有大景可看，不然我們也許會選擇原路撤退呢。</p>
-
-<figure style="width: 95%" class="align-center">
-  <img src="" alt="" />
-  <figcaption>  </figcaption>
-</figure>
-
-<p><a href="#卑南東稜航跡">航跡</a></p>
-
-<p><a href="#圖文紀錄">圖文紀錄請往下</a></p>
-
-<h2 id="行程紀錄">行程紀錄</h2>
-
-<h1 id="2022-01-29">2022-01-29</h1>
-<p>下一整天的雨，今天要踢14.3k的林道，再加上從林道28.7k 美奈田登山口沿著稜線陡上約400公尺。<br />
-10:31 延平林道 14.5 k 出發<br />
-11:08 16k 崩塌，前方林道為一個髮夾彎，上切(捷徑)繞掉髮夾彎的部分<br />
-11:11 上切結束，切過一小段髮夾彎林道續行<br />
-11:25 紅色閘門<br />
-12:20 延平林道19k<br />
-12:29 19.5 帆布寮，休息吃點東西，接下來的林道植披比較少，比較好走<br />
-12:59 活水<br />
-13:30 延平林道21.5 山澗水<br />
-13:41 小瀑布<br />
-14:00 小崩塌<br />
-14:30 石頭里程碑 25K<br />
-15:02 髮夾彎下降<br />
-15:17 溪流活水<br />
-15:49 美奈田登山口，取水，準備上稜。接下來兩天無活水源可用，我們一人揹了4升左右的水。<br />
-16:20 離開溪谷 左側上稜，因為背包裝滿了水搭配上8天份的食物，此刻背包是最沉的。下雨地滑加上陡坡，這一段路走得好辛苦 &gt;&lt;<br />
-16:39 轉稜向右<br />
-16:41 松針 比較好走<br />
-16:57 寬稜<br />
-17:12 右轉稜線<br />
-17:18 H1875峰<br />
-17:28 右崩壁 左深溝<br />
-17:43 岩壁神木 倒。拿出頭燈。<br />
-18:21 跨倒木<br />
-18:29 超陡拉繩<br />
-18:46 2050 營地 C1</p>
-
-<h1 id="2022-01-30">2022-01-30</h1>
-<p>一早起霧，雨停，時而看見陽光，雲頂高大約與美奈田山差不多(約2900)，通過美奈田山後時而起霧時而放晴。美奈田山還算是有人爬的中級山路線，沿線路跡清楚且有路條。然而通過美奈田山後屬探勘路線，無路條，路跡不明。<br />
-06:42 c1 出發<br />
-07:59 H2350 營地<br />
-08:44 右側崩塌頂點，白牆，無訊號。如果天氣好的話這邊展望應該不錯<br />
-09:26 芒草區，草很長，靠著芒草區左緣前進應該會比較好走。可見兩棵枯木，可當辨別方向的標的，正途為左方枯木下方經過。<br />
-09:34 雙枯木 美奈田迎賓樹，從左邊枯木下方通過。<br />
-11:45 枯水池平台<br />
-12:09 主山前假山頭<br />
-12:13 美奈田主山，登頂，一等點，休息半小時午餐。<br />
-從美奈田主山繼續向前走的路跡不明，也沒甚麼路條。一開始走就出師不利，跟錯稜線，又往延平林道舊登山口方向切下去，還好下降兩條等高線便覺得怪怪的，趕快修正方向切回正途(往美奈田北峰稜線)<br />
-13:10 錯稜回頭<br />
-13:17 回正途稜線<br />
-13:20 松林平坦地 2T*2<br />
-13:24 岩石稜 上<br />
-13:30 鐵杉林搭配箭竹，好走<br />
-13:43 H2810鞍部<br />
-13:55 一整片枯木林，因該是松樹<br />
-14:04 松針平坦地<br />
-14:10 柔美草地 大雨可能積水 4T<br />
-14:11 水池<br />
-14:14 獸徑散步 找鹿角<br />
-14:44 大草地<br />
-14:48 松針營地<br />
+# 2022-01-30
+一早起霧，雨停，時而看見陽光，雲頂高大約與美奈田山差不多(約2900)，通過美奈田山後時而起霧時而放晴。美奈田山還算是有人爬的中級山路線，沿線路跡清楚且有路條。然而通過美奈田山後屬探勘路線，無路條，路跡不明。  
+06:42 c1 出發  
+07:59 H2350 營地  
+08:44 右側崩塌頂點，白牆，無訊號。如果天氣好的話這邊展望應該不錯  
+09:26 芒草區，草很長，靠著芒草區左緣前進應該會比較好走。可見兩棵枯木，可當辨別方向的標的，正途為左方枯木下方經過。  
+09:34 雙枯木 美奈田迎賓樹，從左邊枯木下方通過。  
+11:45 枯水池平台  
+12:09 主山前假山頭  
+12:13 美奈田主山，登頂，一等點，休息半小時午餐。  
+從美奈田主山繼續向前走的路跡不明，也沒甚麼路條。一開始走就出師不利，跟錯稜線，又往延平林道舊登山口方向切下去，還好下降兩條等高線便覺得怪怪的，趕快修正方向切回正途(往美奈田北峰稜線)  
+13:10 錯稜回頭  
+13:17 回正途稜線  
+13:20 松林平坦地 2T*2  
+13:24 岩石稜 上  
+13:30 鐵杉林搭配箭竹，好走  
+13:43 H2810鞍部  
+13:55 一整片枯木林，因該是松樹  
+14:04 松針平坦地  
+14:10 柔美草地 大雨可能積水 4T  
+14:11 水池  
+14:14 獸徑散步 找鹿角  
+14:44 大草地  
+14:48 松針營地  
 15:05 美奈田主山北峰
 到達美奈田北峰前有看到幾處還不錯的營地，但時間還太早()
-15:17 陡降終 箭竹緩稜<br />
-15:58 2770 鞍部<br />
-16:08 鐵杉箭竹緩稜<br />
-16:24 H2800 C2</p>
+15:17 陡降終 箭竹緩稜  
+15:58 2770 鞍部  
+16:08 鐵杉箭竹緩稜  
+16:24 H2800 C2  
 
-<h1 id="2022-01-31">2022-01-31</h1>
-<p>07:10 c2出發<br />
-07:32 岩石瘦稜 植物多 通行不易<br />
-07:41 右遶不上岩稜，此段瘦稜上方岩石斷頭，稜線左側(南側)為接近垂直的坡面，右側(北側)坡度大，小心通行。接下來的路程反覆上稜，腰繞避開瘦稜。探勘路段，沒有路跡路條，需要自行判斷繞行位置與方向。<br />
-07:50 右繞終止 上稜<br />
-07:54 稜靠右<br />
-07:56 上稜<br />
-08:00 2760鞍部<br />
-08:06 小平地 2T可迫降<br />
-08:08 松針平坦地 4T1<br />
-08:24 岩稜<br />
-09:26 H2808鞍部<br />
-10:12 陡坡上攀<br />
-10:19 瘦岩稜<br />
-接著接近佐美姬山，原先的瘦稜轉為寬稜草坡，先爬一段坡後可到美姬池。<br />
-10:45 美姬池<br />
-通過美姬池後地形轉為開闊平緩，看到一片開闊小谷地，佐美姬山沿著谷地前緣高起的小稜線向右行。<br />
+# 2022-01-31
+07:10 c2出發  
+07:32 岩石瘦稜 植物多 通行不易  
+07:41 右遶不上岩稜，此段瘦稜上方岩石斷頭，稜線左側(南側)為接近垂直的坡面，右側(北側)坡度大，小心通行。接下來的路程反覆上稜，腰繞避開瘦稜。探勘路段，沒有路跡路條，需要自行判斷繞行位置與方向。  
+07:50 右繞終止 上稜  
+07:54 稜靠右  
+07:56 上稜  
+08:00 2760鞍部  
+08:06 小平地 2T可迫降  
+08:08 松針平坦地 4T1  
+08:24 岩稜  
+09:26 H2808鞍部  
+10:12 陡坡上攀  
+10:19 瘦岩稜  
+接著接近佐美姬山，原先的瘦稜轉為寬稜草坡，先爬一段坡後可到美姬池。  
+10:45 美姬池  
+通過美姬池後地形轉為開闊平緩，看到一片開闊小谷地，佐美姬山沿著谷地前緣高起的小稜線向右行。  
 10:54 佐美姬山
-天氣好大太陽，拿出前兩天濕掉的東西出來曬，很擔心羽絨受潮後又進到壓縮袋，今天晚上蓬不起來。<br />
-紀錄上佐美姬山前的這段稜線是有手機收訊的，但可能因為山谷下方雲海影響了手機訊號，此處連簡訊都發不出去。<br />
-休息至12點許出發繼續向相原山方向前進。<br />
-12:05 平坦草坡<br />
-12:08 松下營地 4T<br />
-12:12 草坡<br />
-12:13 大營地<br />
-12:16 大營地<br />
-通過幾處平緩大平地後，前方箭竹茂密，且地形陡下一小段  可抵達一處谷地。紀錄上寫到谷地左側乾溪溝有活水。<br />
-12:23 茂密箭竹陡下<br />
-12:28 乾溪溝<br />
-12:29 優美谷地 美姬谷<br />
-12:33 大水池<br />
-通過大水池後，準備離開佐美姬山附近平緩的草原地形，準備踏上稜線路，先是前往 H2690左右鞍部，再轉向西北方向的稜線，到達H2660 左右造林地後向西方下切往相原溪。<br />
-12:44 小鞍部 陡上<br />
-12:48 瘦稜鞍部 陡上<br />
-13:02 松林營地<br />
-13:13 錯稜回頭<br />
-13:21 稜左下切相原溪<br />
-13:39 造林地<br />
-13:52 大樹三兄弟<br />
+天氣好大太陽，拿出前兩天濕掉的東西出來曬，很擔心羽絨受潮後又進到壓縮袋，今天晚上蓬不起來。  
+紀錄上佐美姬山前的這段稜線是有手機收訊的，但可能因為山谷下方雲海影響了手機訊號，此處連簡訊都發不出去。  
+休息至12點許出發繼續向相原山方向前進。  
+12:05 平坦草坡  
+12:08 松下營地 4T  
+12:12 草坡  
+12:13 大營地  
+12:16 大營地  
+通過幾處平緩大平地後，前方箭竹茂密，且地形陡下一小段  可抵達一處谷地。紀錄上寫到谷地左側乾溪溝有活水。  
+12:23 茂密箭竹陡下  
+12:28 乾溪溝  
+12:29 優美谷地 美姬谷  
+12:33 大水池  
+通過大水池後，準備離開佐美姬山附近平緩的草原地形，準備踏上稜線路，先是前往 H2690左右鞍部，再轉向西北方向的稜線，到達H2660 左右造林地後向西方下切往相原溪。  
+12:44 小鞍部 陡上  
+12:48 瘦稜鞍部 陡上  
+13:02 松林營地  
+13:13 錯稜回頭  
+13:21 稜左下切相原溪  
+13:39 造林地  
+13:52 大樹三兄弟  
 接下來稜線為寬稜，方向不明確，行進間要多次確認方向，避免錯過下溪點
-14:00 稜線方向不明<br />
-14:16 黑水塘<br />
-14:19 相原溪底<br />
-14:23 相原溪底 礫灘營地<br />
-抵達溪底，休息補水，今天打算住到遛熊谷<br />
-15:23 第一段陡上結束<br />
-15:30 大樹<br />
-15:45 緩稜<br />
-接上稜線後，植披轉為茂密箭竹叢，不過稜線方向好抓，行走起來沒有特別困難。<br />
-15:55 箭竹茂密<br />
-接近H2615峰，不登頂，跟著前方鞍部高度等高線邊緣腰繞轉向西。這一段路箭竹叢茂密。前一隊(2020年10月)從下面兩條等高線的方向開始腰繞並穿過山溝，現場看起來山溝呈V型，感覺不好跨越。<br />
-16:09 轉稜向西<br />
-16:43 H2675峰<br />
-通過 H2675豐後看到一處松林地，其中一小塊平地恰巧可容納一頂雙人帳。經過討論，不確定遛熊谷狀況(但看起來谷地可能比較潮濕)因此覺得今天住這裡 C3 。<br />
-16:50 松針地<br />
-16:52 C3</p>
+14:00 稜線方向不明  
+14:16 黑水塘  
+14:19 相原溪底  
+14:23 相原溪底 礫灘營地  
+抵達溪底，休息補水，今天打算住到遛熊谷  
+15:23 第一段陡上結束  
+15:30 大樹  
+15:45 緩稜  
+接上稜線後，植披轉為茂密箭竹叢，不過稜線方向好抓，行走起來沒有特別困難。  
+15:55 箭竹茂密  
+接近H2615峰，不登頂，跟著前方鞍部高度等高線邊緣腰繞轉向西。這一段路箭竹叢茂密。前一隊(2020年10月)從下面兩條等高線的方向開始腰繞並穿過山溝，現場看起來山溝呈V型，感覺不好跨越。  
+16:09 轉稜向西  
+16:43 H2675峰  
+通過 H2675豐後看到一處松林地，其中一小塊平地恰巧可容納一頂雙人帳。經過討論，不確定遛熊谷狀況(但看起來谷地可能比較潮濕)因此覺得今天住這裡 C3 。  
+16:50 松針地  
+16:52 C3  
 
-<h1 id="2022-02-01">2022-02-01</h1>
-<p>天氣霧雨、稜線強風。沒有了昨天的好天氣，今天主要風向是從稜線南側 – 鹿野溪谷方向吹上來的，這令我滿意外的，我還以為今天是颳東北季風，沒想到稜線南側的風力竟然壓過北側。上方高層雲應該不厚，時而稜線上的霧會短暫散去，可以看見高層雲縫中會透出一點亮光，可以判別高空風向是由西向東吹。這令我更加意外了，現在大方向的風竟然是西南風。有時雲霧短暫散去可以看見中央山脈主稜上卡了一層厚厚的雲，雲瀑方向是由西向東。我還想這個季節幾乎不會吹西南風的，原本心裡是想越接近卑南主，越接近高雄，天氣會越來越晴朗。看來我錯了，心裡一股不安的感覺湧出 … 天啊，假如明天要翻越中央山脈遇到暴雨甚至降雪的話該怎麼辦，我們都走到這裡了，也不太可能退後了 … 
-05:34 c3出發<br />
-05:41 H2690<br />
-05:56 箭竹陡下往遛熊谷，天未亮，箭竹比人高，有一點怕迷路，兩人不敢隔太遠。<br />
-06:03 遛熊谷。昨天判斷是對的，遛熊谷地面非常潮濕。<br />
-06:12 準備從遛熊谷上切往相原山，谷邊箭竹叢有荊棘，找了一會兒適合上切的地點，此時開始起霧。稜線南方霧氣灌上來了。<br />
-06:27 H2705<br />
-06:55 相原山山頂 強風加霧雨，拍張照不久待便馬上起程。  <br />
+# 2022-02-01
+天氣霧雨、稜線強風。沒有了昨天的好天氣，今天主要風向是從稜線南側 -- 鹿野溪谷方向吹上來的，這令我滿意外的，我還以為今天是颳東北季風，沒想到稜線南側的風力竟然壓過北側。上方高層雲應該不厚，時而稜線上的霧會短暫散去，可以看見高層雲縫中會透出一點亮光，可以判別高空風向是由西向東吹。這令我更加意外了，現在大方向的風竟然是西南風。有時雲霧短暫散去可以看見中央山脈主稜上卡了一層厚厚的雲，雲瀑方向是由西向東。我還想這個季節幾乎不會吹西南風的，原本心裡是想越接近卑南主，越接近高雄，天氣會越來越晴朗。看來我錯了，心裡一股不安的感覺湧出 ... 天啊，假如明天要翻越中央山脈遇到暴雨甚至降雪的話該怎麼辦，我們都走到這裡了，也不太可能退後了 ... 
+05:34 c3出發  
+05:41 H2690  
+05:56 箭竹陡下往遛熊谷，天未亮，箭竹比人高，有一點怕迷路，兩人不敢隔太遠。  
+06:03 遛熊谷。昨天判斷是對的，遛熊谷地面非常潮濕。  
+06:12 準備從遛熊谷上切往相原山，谷邊箭竹叢有荊棘，找了一會兒適合上切的地點，此時開始起霧。稜線南方霧氣灌上來了。  
+06:27 H2705  
+06:55 相原山山頂 強風加霧雨，拍張照不久待便馬上起程。    
 07:09 相原池，位在相原山北邊一點的凹谷中，此處風比較弱，在這邊吃點東西休息一下。　　
 相原山一帶天氣好的話應該是一片美麗的高山草原，相原池也非常漂亮，如果有搭配清空藍天在湖畔野餐應該相當舒服，然而今天天氣不佳，一切壟罩在雲霧之中。　　
-續行，此處從等高線看起來非常平緩好走，但其實為地形很多，芒草叢茂密，高度比人還高，時不時還會有一條2、3米的深溝出現在前面，不難跨越，但搭配濃密的芒草，多走幾條這種不大不小的深溝也是會心力憔悴的。<br />
-07:37 微地型 難走<br />
-07:45 凹谷<br />
-07:58 乾溪溝<br />
-08:21 相原山北峰，無基點<br />
+續行，此處從等高線看起來非常平緩好走，但其實為地形很多，芒草叢茂密，高度比人還高，時不時還會有一條2、3米的深溝出現在前面，不難跨越，但搭配濃密的芒草，多走幾條這種不大不小的深溝也是會心力憔悴的。  
+07:37 微地型 難走  
+07:45 凹谷  
+07:58 乾溪溝  
+08:21 相原山北峰，無基點  
 通過相原山北峰後沿著稜線下降，至高度約2700處向左方(西側)下切向下換稜，不換稜的話會走向相原溪的溪谷中，要注意!
-08:29 錯稜 回頭<br />
+08:29 錯稜 回頭  
 08:38 左下切 換稜
-下切換稜走到底有一處平緩凹谷，休息片刻後繼續前進，而後的路徑上箭竹叢濃密，還參雜很多帶次荊棘，我覺得這裡是從相原山往後走起來最不舒服的一段，此處西側又恰巧是崩壁頂，溪底的強風把霧氣帶上來，水氣都凝結在枝頭上，滴滴答答的下起霧雨。<br />
-09:08 茂密箭竹<br />
-09:13 崕邊陡坡 難走 貼近崩壁前進，有很多植物擋路，要自己找好走的地方前進。<br />
-09:25 陡坡鞍部 很多有刺植物<br />
-09:52 H2640峰，此處接上向北稜線，往相原溪底前進。從這裡到溪底的稜線路植披比較乾淨，好走。<br />
-10:15 溪底<br />
-10:17 稜尾 雙溪匯流<br />
-一開始溪底路好走，但往前走約莫10分鐘後會遇到地形，有一座約10高的瀑布需要繞掉。<br />
-10:27 左側高繞點<br />
-10:34 藍色路條<br />
-10:39 十米瀑布底<br />
-10:43 匯流口 呂禮山上切點，休息補水，今天要背兩日份的前進。卑南主山附近有多處看天池，但還是想帶一些乾淨活水在身上，所以揹得很重。<br />
-休息至 11:40 左右，上背繼續前進。<br />
-12:20 稜左松林營地<br />
-12:50 枯木<br />
-由此以後林相轉為高山箭竹草原。呂禮山一帶切為開闊草原地形。風大<br />
-13:50 卑南東稜 三岔路，取左向呂禮山前進<br />
-14:07 呂禮山，天氣不佳，風大，起霧沒收訊，拍完照後繼續前進。<br />
-呂禮山高度2760左右，今天我們要延著稜線往下行，高度下降至 2650左右的地方紮營。在此處可以感覺到風向有些許不同，可以感受到從伊加之藩方向吹過來的風。呂禮山稜線剛好是兩個方向風的匯流，時而吹南風，時而吹北風。<br />
-14:31 岩石陡下<br />
-15:29 左腰繞<br />
-15:39 松樹林，看時間也接近四點半，附近又多為開闊草原，看到這裡有一處松樹林稍微避風，便開始找這片松林間是否有適合紮營的地點。<br />
-15:41 下背找營地<br />
-15:45 松林平地 有風<br />
-16:29 找來找去，原本下背地點比較適合，開始建設C4營地，擔心天氣轉差，搞不好我們明天會要在這邊多待一天，不敢馬虎的建設附近的排水道(我可不想在這邊體驗以前大一嚮導訓遇到的”漂漂河”)</p>
+下切換稜走到底有一處平緩凹谷，休息片刻後繼續前進，而後的路徑上箭竹叢濃密，還參雜很多帶次荊棘，我覺得這裡是從相原山往後走起來最不舒服的一段，此處西側又恰巧是崩壁頂，溪底的強風把霧氣帶上來，水氣都凝結在枝頭上，滴滴答答的下起霧雨。  
+09:08 茂密箭竹  
+09:13 崕邊陡坡 難走 貼近崩壁前進，有很多植物擋路，要自己找好走的地方前進。  
+09:25 陡坡鞍部 很多有刺植物  
+09:52 H2640峰，此處接上向北稜線，往相原溪底前進。從這裡到溪底的稜線路植披比較乾淨，好走。  
+10:15 溪底  
+10:17 稜尾 雙溪匯流  
+一開始溪底路好走，但往前走約莫10分鐘後會遇到地形，有一座約10高的瀑布需要繞掉。  
+10:27 左側高繞點  
+10:34 藍色路條  
+10:39 十米瀑布底  
+10:43 匯流口 呂禮山上切點，休息補水，今天要背兩日份的前進。卑南主山附近有多處看天池，但還是想帶一些乾淨活水在身上，所以揹得很重。  
+休息至 11:40 左右，上背繼續前進。  
+12:20 稜左松林營地  
+12:50 枯木  
+由此以後林相轉為高山箭竹草原。呂禮山一帶切為開闊草原地形。風大  
+13:50 卑南東稜 三岔路，取左向呂禮山前進  
+14:07 呂禮山，天氣不佳，風大，起霧沒收訊，拍完照後繼續前進。  
+呂禮山高度2760左右，今天我們要延著稜線往下行，高度下降至 2650左右的地方紮營。在此處可以感覺到風向有些許不同，可以感受到從伊加之藩方向吹過來的風。呂禮山稜線剛好是兩個方向風的匯流，時而吹南風，時而吹北風。  
+14:31 岩石陡下  
+15:29 左腰繞  
+15:39 松樹林，看時間也接近四點半，附近又多為開闊草原，看到這裡有一處松樹林稍微避風，便開始找這片松林間是否有適合紮營的地點。  
+15:41 下背找營地  
+15:45 松林平地 有風  
+16:29 找來找去，原本下背地點比較適合，開始建設C4營地，擔心天氣轉差，搞不好我們明天會要在這邊多待一天，不敢馬虎的建設附近的排水道(我可不想在這邊體驗以前大一嚮導訓遇到的"漂漂河")  
 
-<p>好加在晚餐煮到一半，天空放晴了，看到了晚霞的天空以及火燒雲，日落後還看從松林間看到滿天星，懸著的心總算放下了。</p>
+好加在晚餐煮到一半，天空放晴了，看到了晚霞的天空以及火燒雲，日落後還看從松林間看到滿天星，懸著的心總算放下了。  
 
-<h1 id="2022-02-02">2022-02-02</h1>
-<p>天氣晴，準備通過卑南主山東稜，翻越中央山脈<br />
-06:14 c4 出發<br />
-06:30 芒草下切<br />
-07:09 鞍部上切點 松針地 可雙人帳迫降 鞍部有風<br />
-由此處先向右側陡上，上至稜線後再沿著稜線攀登至海拔 H2780 山頭，這是前往卑南主山的第一段爬升。<br />
-07:17 松林陡坡多芒草<br />
-07:31 上稜 松針地 2T2<br />
-08:34 矮松林<br />
-前往 H2780山頭的路不好走，箭竹很多，其中有很多矮樹叢，只能硬鑽。<br />
-08:35 鑽箭竹<br />
-通過 H2780 山頭後有許多小山頭要通過，爬上爬下…<br />
-08:51 H2750鞍部<br />
-09:16 H2833峰<br />
-09:59 松林陡上<br />
-10:14 H2890<br />
-10:31 H2880 準備上東峰前鞍部，由此向上攀登往卑南主山東稜上<br />
-11:21 卑南主山東峰下營地 不避風，下背包輕裝來回卑南主山東峰<br />
-11:38 卑南主山東峰頂上，終於收到手機訊號了，山下還是有雲海，但東峰上的訊號穩定，簡訊電話沒問題，網路3G，傳文字訊息還是有一點卡卡的。<br />
-在東峰頂休息拍照至11:56返回東峰岔路，繼續休息至 12:33後上背起程前往卑南主山(從這邊要到卑南主山的路也不輕鬆)<br />
-12:55 鐵杉林陡下，真的陡，不小心滑落的話會滑進伊加之藩溪源頭的溪溝… 要小心。<br />
+# 2022-02-02
+天氣晴，準備通過卑南主山東稜，翻越中央山脈  
+06:14 c4 出發  
+06:30 芒草下切  
+07:09 鞍部上切點 松針地 可雙人帳迫降 鞍部有風  
+由此處先向右側陡上，上至稜線後再沿著稜線攀登至海拔 H2780 山頭，這是前往卑南主山的第一段爬升。  
+07:17 松林陡坡多芒草  
+07:31 上稜 松針地 2T2  
+08:34 矮松林  
+前往 H2780山頭的路不好走，箭竹很多，其中有很多矮樹叢，只能硬鑽。  
+08:35 鑽箭竹  
+通過 H2780 山頭後有許多小山頭要通過，爬上爬下...  
+08:51 H2750鞍部  
+09:16 H2833峰  
+09:59 松林陡上  
+10:14 H2890  
+10:31 H2880 準備上東峰前鞍部，由此向上攀登往卑南主山東稜上  
+11:21 卑南主山東峰下營地 不避風，下背包輕裝來回卑南主山東峰  
+11:38 卑南主山東峰頂上，終於收到手機訊號了，山下還是有雲海，但東峰上的訊號穩定，簡訊電話沒問題，網路3G，傳文字訊息還是有一點卡卡的。  
+在東峰頂休息拍照至11:56返回東峰岔路，繼續休息至 12:33後上背起程前往卑南主山(從這邊要到卑南主山的路也不輕鬆)  
+12:55 鐵杉林陡下，真的陡，不小心滑落的話會滑進伊加之藩溪源頭的溪溝... 要小心。  
 13:07 小鞍部 腰繞不上稜
 13:55 上切閃避有刺植物
-這一段路帶刺植物特別多，以刺柏為主，還有杜鵑等灌木叢阻擋去路。誰說高山路都很好走的，高山植物(尤其是灌木叢)超難鑽，鑽到懷疑人生。<br />
-14:11 水鹿池<br />
-14:22 準備陡上至南峰岔，由此開始陡上，要一舉突破3200公尺，不過跟帶刺植物搏鬥一整天了，身心俱疲阿，這最後一段陡坡走到快失智…<br />
+這一段路帶刺植物特別多，以刺柏為主，還有杜鵑等灌木叢阻擋去路。誰說高山路都很好走的，高山植物(尤其是灌木叢)超難鑽，鑽到懷疑人生。  
+14:11 水鹿池  
+14:22 準備陡上至南峰岔，由此開始陡上，要一舉突破3200公尺，不過跟帶刺植物搏鬥一整天了，身心俱疲阿，這最後一段陡坡走到快失智...  
 15:19 刺柏退散 友善草原。一片柔順的草坡，隨風飄舞，風行草偃(不是這樣用的der)，走起來神清氣爽壓，終於不用在帶刺植物中鑽壓鑽的。　　
-15:30 上稜，卑南主山副峰，這裡有一大片空地，據說可供直升機起降。風大不適合紮營。這裡也是前往南峰的岔路口。<br />
-休息片刻，此處可望向美奈田山、佐美姬山、相原、呂禮，整段稜線清楚地在視野中。<br />
-16:15 上稜往卑南主峰<br />
-16:37 卑南主山，一等三角點，東、南、西三個方向展望super~!這裡是中央山脈高山區尾端，這三個方向每有更高的山了，一覽眾山小。<br />
-欣賞風景至 17:10 啟程下山。<br />
-17:53 三岔路，往藤枝方向前進<br />
-18:57 C5，鐵杉林間迫降。原本是想找海拔更低的營地，但中央山脈西側的天氣比預期的還遭，風強加上霧雨，原先擔心稜線上太冷所以沒住，結果走到卑南主山西北峰前的鐵杉林發現這邊更冷…</p>
+15:30 上稜，卑南主山副峰，這裡有一大片空地，據說可供直升機起降。風大不適合紮營。這裡也是前往南峰的岔路口。  
+休息片刻，此處可望向美奈田山、佐美姬山、相原、呂禮，整段稜線清楚地在視野中。  
+16:15 上稜往卑南主峰  
+16:37 卑南主山，一等三角點，東、南、西三個方向展望super~!這裡是中央山脈高山區尾端，這三個方向每有更高的山了，一覽眾山小。  
+欣賞風景至 17:10 啟程下山。  
+17:53 三岔路，往藤枝方向前進  
+18:57 C5，鐵杉林間迫降。原本是想找海拔更低的營地，但中央山脈西側的天氣比預期的還遭，風強加上霧雨，原先擔心稜線上太冷所以沒住，結果走到卑南主山西北峰前的鐵杉林發現這邊更冷...  
 
-<h1 id="2022-02-03">2022-02-03</h1>
+# 2022-02-03
 
-<p>最後一天回程，今天應該也是行徑距離最長的一段路。<br />
-06:56 c5出發<br />
-09:12 H2850<br />
-09:59 巨石區<br />
-10:27 石山東鞍營地<br />
-11:09 岩壁石洞，可供約兩人緊急迫降<br />
-11:28 碎石橫渡 穩<br />
-12:16 上石山前巨石堆 陡上 路基穩<br />
-12:31 上切路頂，前往石山基點<br />
-12:35 石山瞭望塔<br />
-12:37 石山基點頂<br />
-13:34 石山前鞍營地<br />
-13:50 溪南山登山口不取，繼續沿林道行<br />
-此處林道路況良好，行進速度可以拉得很快<br />
-14:22 高繞點，不難走<br />
-15:01 回林道<br />
-15:16 貨櫃屋下方，林道下切<br />
-16:13 林道，特生中心<br />
-因為是長程粽走，我沒也沒先約接駁車，一路上訊號斷斷續續，幾乎無法正常通話，只能傳簡訊。問到一位接駁大哥，從出雲管制站接駁道藤枝林道盡頭的櫻花公園要2000。心想太貴了，自己踢出來。<br />
-17:54 出雲管制站<br />
-原本是想說找個六龜的計程車行載我們到六龜新站載自己搭六龜-高雄快線往市區。但大年初三的晚餐時間，計程車根本叫不到…<br />
-後來試打給剛剛在秀湖附近遇到的山友給的電話 – 木瓜大哥，人好很，一接到電話馬上答應要來載我們。我們便繼續從出雲山管制站往櫻花公園踢。<br />
-櫻花公園為普通車輛的行車終點，櫻花公園後的藤枝林到崩塌，走的是石子高繞路，幾乎只有藍色發財車或四輪驅動車輛才能進入。<br />
-18:20 藤枝森林遊樂區大門<br />
-18:54 櫻花公園 上車，回家<br />
-21:40 搭上高鐵北返</p>
+最後一天回程，今天應該也是行徑距離最長的一段路。  
+06:56 c5出發  
+09:12 H2850  
+09:59 巨石區  
+10:27 石山東鞍營地  
+11:09 岩壁石洞，可供約兩人緊急迫降  
+11:28 碎石橫渡 穩  
+12:16 上石山前巨石堆 陡上 路基穩  
+12:31 上切路頂，前往石山基點  
+12:35 石山瞭望塔  
+12:37 石山基點頂  
+13:34 石山前鞍營地  
+13:50 溪南山登山口不取，繼續沿林道行  
+此處林道路況良好，行進速度可以拉得很快  
+14:22 高繞點，不難走  
+15:01 回林道  
+15:16 貨櫃屋下方，林道下切  
+16:13 林道，特生中心  
+因為是長程粽走，我沒也沒先約接駁車，一路上訊號斷斷續續，幾乎無法正常通話，只能傳簡訊。問到一位接駁大哥，從出雲管制站接駁道藤枝林道盡頭的櫻花公園要2000。心想太貴了，自己踢出來。  
+17:54 出雲管制站  
+原本是想說找個六龜的計程車行載我們到六龜新站載自己搭六龜-高雄快線往市區。但大年初三的晚餐時間，計程車根本叫不到...  
+後來試打給剛剛在秀湖附近遇到的山友給的電話 -- 木瓜大哥，人好很，一接到電話馬上答應要來載我們。我們便繼續從出雲山管制站往櫻花公園踢。  
+櫻花公園為普通車輛的行車終點，櫻花公園後的藤枝林到崩塌，走的是石子高繞路，幾乎只有藍色發財車或四輪驅動車輛才能進入。  
+18:20 藤枝森林遊樂區大門  
+18:54 櫻花公園 上車，回家  
+21:40 搭上高鐵北返  
 
-<h2 id="卑南東稜航跡">卑南東稜航跡</h2>
+## 卑南東稜航跡
 <html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -691,11 +316,11 @@
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
-    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
 
     <!-- Load Leaflet: http://leafletjs.com/ -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
@@ -705,11 +330,11 @@
     <script src="../../assets/js/leaflet-providers.js"></script>
 
     <!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  -->
-    <link rel="stylesheet" href="../../assets/css/leaflet.groupedlayercontrol.min.css" />
+    <link rel="stylesheet" href="../../assets/css/leaflet.groupedlayercontrol.min.css">
     <script src="../../assets/js/leaflet.groupedlayercontrol.min.js" type="text/javascript"></script>
 
     <!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css">
     <script src="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js"></script>
 
     <!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms -->
@@ -745,7 +370,7 @@
             var map_23f5d9af425948e89251a75d1bcf97ee = L.map(
                 "map_23f5d9af425948e89251a75d1bcf97ee",
                 {
-                    center: [22.996041, 120.973802],
+                    center: [23.031068, 120.927999],
                     crs: L.CRS.EPSG3857,
                     zoom: 16,
                     zoomControl: true,
@@ -8039,670 +7664,309 @@
 </script>
 </html>
 
-<h2 id="圖文系列">圖文系列</h2>
 
-<div class="feature__wrapper">
+## 圖文系列
+{% include feature_row %}
 
-  
+## 圖文紀錄
 
-    
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhZ7mLIPbSm5PVChznHTyKpfRaRS-K7CC24qIi5TQGiL-iYJhUaW0I4XOBlnlEP_-j9NWrHxOXJjXQCYd6Pte1tK7Uq1yzdFABn2nqztQytbAm_IzwS_3ruBcnB7MMU0JhfExN9kJKlFjye4bgLdVkcAkJn_UIulEjQBR01PIADJNwlssrecm-EFG9H=s480" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Day1-Day2 啟程 延平林道登美奈田山</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>穿過潮濕的延平林道，循著陡峭的稜線上攀本次行程的第一座一等三角點美奈田山，也是卑南東稜的起點，海拔高度也突破了 2900 公尺，某種程度來說，這裡已經脫離中級山的林相，正式進入高山環境了。</p>
-
-            </div>
-          
-
-          
-            <p><a href="/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day1/" class="btn btn--primary">Go To</a></p>
-          
-        </div>
-      </div>
-    </div>
-  
-
-    
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjm5zz66AGmrM96lr5VAmBG4VR2WDG-5KKaj6cOSYUhV3GFI7Yk6O0JosVHXtbr7GUidN5AAMj89U_Y8NGqY0LWbr3-uJKVhpI_Wzjuc6z1ud7CCx__n4IY36lAO7Ck1Up9rrHf7zChahbfZRODzYKOQUR0UJNFT-cGUnZ8jsWDQ2Cr5MwTossNdYME=s480" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Day4-Day5 從呂禮山前往山之巔</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>呂禮山有著一片高山草原，杳無人煙，宛如人間仙境。往北可通往馬蕃粕、伊加之蕃，往東可接上卑南主山東峰。由此我們將踏上中央山脈主稜，越過南一段南端的百岳，有著一等三角點的卑南主山。即將完成卑南東稜。</p>
-
-            </div>
-          
-
-          
-            <p><a href="/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/" class="btn btn--primary">Go To</a></p>
-          
-        </div>
-      </div>
-    </div>
-  
-
-    
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiX1L4UCFuYz-6D1RXKMk9zwJG7LyUZhmsRIj3FWBxt9yqHCJVHmVdr-Km_GZwhlc-L1NF4XWMV8_BoUrGBcfx1nB4W1YBIQ2cRVpnRlSzQgvRcdfszb3VSw8xARm63WG6hRsfhY89JL2-nPWJsMaS0yot2BtNpdrDIcnTIYWPeRy8IDUCz0KURCw2D=s480" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Day5-Day6 翻越卑南主山 完成東西橫斷</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點–卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。</p>
-
-<p>To Be continued</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
-</div>
-
-<h2 id="圖文紀錄">圖文紀錄</h2>
-
-<p>卑南東稜行程第二天，天氣終於轉晴。站在稜線上可見兩側雲海。看見陽光讓我們更有動力往前進。<br />
-從C2紮營的 H2805峰繼續往佐美姬山前進，稜線路不是很好走，尤其是到達前方H2760鞍部之前，有一段岩石瘦稜需要向右方山坡腰繞，山坡坡度很陡，走起來小心，外加上要繞過一些植物，沿線沒有路跡可以跟，必須要自行找路，在這段路我們花了一點時間。</p>
+相原山附近為平緩的建築草坡地形，地勢開闊，好天氣時應該是非常舒服且景色優美的一段路。然而天氣不好，颳風下雨時就是另外一種世界了。登頂相原山二等三角點，我們不敢停留太久，匆匆拍幾張照後便繼續往相原池推進，找個避風處休息吃個早餐。  
+接著我們到達相原池，霧雨中的相原池也是別有一番風味。  
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiKV0vmxr8-0-sYeNVEqqIvmPtpLRVdQ8epQUObdwsI5_zMJHA18Wppv-KEummfPoDJPLTpGvAtvryGj8Og_IK_-iZnSHnaWWIRUNPBbmpNF3BqYBbN90MOUEF2pWca9_5voNrb_SnE3s-m2iAK6fyZbwR9mZSk2tDYir_CsXZ69CLHLs3DEIJSmQoY=s1200" alt="" />
-  <figcaption>  </figcaption>
-</figure>
-
-<p>佐美姬山附近的地形平緩，但以箭竹為主的植披茂密，甚至有幾段路的箭竹叢比人還高，行走起來十分挺費力，不過好在今天天氣好，游過這些箭竹還可以保持乾燥。</p>
-
-<figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiUVId72wtuoVRPOqJ1-D1bPbsZCTP14q1o4kb45uw6q5G5lpweUGdZ8AQA5kJS1fIiHvSB_h6yvR6Zg5PWQ_Qlb_b0KU9JWac6XEGRZU1AkSWll10p6MF9xS5E8KRltTNFOM8eE6lWcHOF2hQhJSY8nDx3a5e7U7M9cj05VuYxxhMi4U8LYEhHO4b3=s1200" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1vHce02JUU57o_DKXRvl6ZZ9MSrCi-D9GFsahssAMHNLxukDyFuPUf36XYe1GZ9MaMC6lIT8k6eB3f0-jNeyho5rxdy71uMNJsG3DgUX3444t1BgxyO8RQcRa1TnUqFM8BlEn0u_nRKKc5F3mbkIXz3y4Z_kKkfGlv8nxKd52Q22jGaiyik16dz3u/s1280/IMG_1346.JPG" alt="卑南東稜相原池">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEibPK8hYAT659kvtXXWSRTGrWtfR_Ngb0w8ppru5Ha3-9Uh-DJ_5gDXa2Q6fcevc1CoC5HzkQxM_R4VhXOpFvNlVnupk0KiMOh2jkluvZNOL0brI8nNtA_7UGtOP9lxtLy4l8Q6PwDC_gV1wgsXWdl40UeIdeX3GeL42fztyT-LK5vN81DvM7m2fi2W=s1200" alt="佐美姬山前美姬池看天水池" />
-  <figcaption> 佐美姬山前水池 -- 美姬池 </figcaption>
-</figure>
-
-<p>也因為有出太陽，登頂佐美姬山頂後，我們將揹包以及前兩天濕掉的裝備拿出來曬一下，多曬個20分鐘可以換得今晚的一夜好眠，值得。也因此我們在佐美姬山休息了將近一個小時。</p>
-
-<figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhaXTxoPOowVlCn2il5RxPjc-9FcYXWfv8IfbLm5TisyFDZhKMKQlZJT4ntZJ__WsNlOkw2RBIwxOn75kx0r79bkiMMwoj5qaed4oi-g_uhwzvlVq2kxZCmQxTuHDQxnAM67cA1-X2HV9auxuFnHozczzUC5QAA1Gl9XTFli1G_BAD0uYsgPrgaS4W1=s1200" alt="卑南東稜佐美姬山山頂" />
-  <figcaption> 佐美姬山頂 三等三角點 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgs8Crjy6Es4wcyunD7beU4bdKO5aXIBC731PbuzfpXdQoAyD4wfaU2LiKtTumQXIZCr-5pBOn6rOwmiAxqyZ8VsqiiNc5forHLUu0CMRZPC5S82Zyo2qzhpi6WxEswXOeW-OWXoczbZWS5w1s3Ydg2RY3xIGyOVI4tXxzyb0VaVREjjqWCL3VqdgqF=s1200" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghjX1CswoJ6Y1N7e45-whx1SB9six1jpx_M46-0nnhrXcj9tmu79Un_jU4Puh_QFIy-_ZXk3AjKNJnb0XxWWeELaCVuwnolBhIV728Q2T5pb0yegoM4uwjYF1rv3FalUvW4KOmEWJmZGze9Jq6Z3jLkpGlKJJ3Pw2wa5SU7tc6CDyJNO6uYvhwmlJg/s1280/IMG_1349.JPG" alt="卑南東稜相原山過後的相原池">
   <figcaption>  </figcaption>
 </figure>
 
-<p>離開佐美姬山，先是往東北方向前進一小段路後，轉向東方先下到一片草坡，之後有幾處的箭竹叢很茂密，其中還暗藏陡坡，要小心前進。</p>
+我們坐在池邊高地，剛好避風，休息了半小時午餐。  
+
+由相原池繼續前進的路變得比較難走。箭竹叢變得更加茂密，地勢雖然平緩，但鑽植物前進還是非常費力。  
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi8DiZNnZ6ff9PdRuZZDIF685tWARLJxaTHO-vcyzc4kw5TO_hhbBKv_Sl3lylo1BvoY_LVtcuP6xXr4ems_dDxyYJQhJ9oBOzwK7cI24tB3Zgsr7t9jekEeVdbCNBWroAmGSCDEKYbqyNjRuN3UvfQ1TKUDxkuD98Dv2LqoqZkQaINNxguqsf787Yq=s1200" alt="卑南東稜途經佐美姬山的草坡" />
-  <figcaption> 佐美姬山附近的草坡 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBGZFjFsCgaQyiEwVep-Fgd7KcUQ2V4ZGDuA6FLjWD52JIFsa2HuMLyOb9txvHtFicE00SNv-PUac1k5h3T0gSsIc42ez3XvLK_xTEBLzhFt_HJ_E6nakMMszmizwMZGOytN1_pHUg5FT8pAEUdUEvadh5U2OZJS88NmH_mUL58Ps2HHwWeDeZvCI3/s1280/IMG_1355.JPG" alt="">
+  <figcaption>  </figcaption>
 </figure>
 
+繼續向前進，前方有一處乾溪溝，為一片杜鵑林，原本的高山景色瞬間變回中級山。  
+
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh4apuvA-fkjNz0X07mdZzWmWBkyO5X_TXsXF8zFv2F9Vo0BYbdkfYcGbfr5MWr35HWWQFThPks9o-E2t0RhyVCi-igi7UeTZWw6KeUp23jVudy46AS46xdk9CyrNW_fUO3uwhUiZINlBBwEaSvE3A0Vwx6bt5lLXChUF7XXOsMfyMyIBkwUsnZZZFx=s1200" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDIpEUPOF_BS2hrYhWFxSHc48Mbxt6D_wKPneJQYFsQ-3vAt3u7QQsYc0pNO6E0l8LKFDdzP3_OBkOsAmTaxIriM3O6IPEBaoxu0OjMl4bEUoLSsPxSR6AtpBCMfM_qZNckyUeurJaCdhsXqtJ3evwjmVJP29Sp2dKs9JryS8F4XgZ5i04yJYVS5mk/s1280/IMG_1359.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOLjPg82J96NZtrHI3lvNczgQyQGdrmhhs1DGLo00HVcNXZLPtnylA-zTCEWs8GmzswW-ISjZq4k2Q3wuigZQZ5Wr2RmN3zzuXy-wWzNagdpfIIS68O04WAmES0KO662L091D4dWVeHAs-sTZKcFkj-16lCjhnioMbByii9LCH8xU7DOoEIQTndW5h=s1200" alt="卑南東稜為非傳統路線沿途植物茂密需要有一定的找路技巧" />
-  <figcaption> 茂密箭竹叢 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUepmoMHeXz36CqymZojXGtoIYPZtjtPXcAKubh1yDvAs4MGP8iQwt9GssKCZaBF3XxUIcFtg3bvvcbPSF0hrd7F1UDNrAE5ylcc0WaMxdjFSt2w95-YHDqbH2UBWCwz3P0Md4NfEfDcnrXjCVH891heroT-LWHqxZFkhxfO4vAo1iFGqu8OtnK1Cs/s1280/IMG_1361.JPG" alt="">
+  <figcaption>  </figcaption>
 </figure>
 
+繼續前進，抵達相原山北峰，無基點。讓貓貓蟲跟山頂的枯木合照一張。
+
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEim8o2-JrrD0YmRRP9w7qU3BhXC9p8VAkvk1nPqN9sy0qiTwuQTRrTwixsTwJS3yY_QBwCKMZLWfus0Lt401Q19oDiRDV-eLMoRSVaRGzUEhqbOdHRmiO2n1oKW2CBk-f4YNVzcdboPCJZwh66Qdyh8-RhqxqgE3_2glfOwBwF3M9iWbVXBKujtbX5W=s1200" alt="" />
-  <figcaption> 佐美姬山續行草坡，茂密箭竹叢 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBEQELo3RK7K-3sNxK2xaQlA6KIZ7wXs4i4m1tJKupL4S5ntGi3J2YLtnTux06qNKB3DH0SKi-JFTK37NsMxijeQzLEpTS7LjWdU6bMXGl2NmRIZnm9pij82V6LwizI4IIBV1TflA5rW0gK7nMho5gAp_3HR1sRCekYiq_GYvrWp03P1fLxw0Vp5lZ/s1280/IMG_1367.JPG" alt="">
+  <figcaption> 相原山北峰 無基點 </figcaption>
 </figure>
 
-<p>總結一下這一小段的路況，地形很平緩，但就是走過的人少，基本上沒路跡，箭竹長得很茂盛，加上一些矮灌木叢，走起來就很費力，遇到個10公尺高度落差的陡坡，可能就可以被卡個一下。</p>
+通過相原山北峰後，稜線先向西北，走一小段路後轉西下切換稜。
+下切點底部為一處小鞍谷，從谷邊先向北繞一小段路後轉西上稜。
+這個小鞍谷應該是相原溪的源頭，植披乾淨，我們在這邊休息一下。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiKAnQCtoWm7daNjwF4vYSDybEPUXssKpzJRqcx-PpeMOKUTrwiAOIccM1q91wFzjiwtSlTSIqDExczM3nYM9rxlj7_5W65A5Kr6VMU4vtZHZFztUm2W01YAZktl3_LjRqMUAuUbC3vcrOZQ4UxZ2PPlJRcYi1f5S4oaOkjyNINB124lWXycbmXZq6a=s1200" alt="卑南東稜佐美姬山拓荒之旅為非傳統路線上百岳經典路段" />
-  <figcaption> 佐美姬山繼續向前進，茂密杜鵑灌木叢 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIeKUnKfN1TNTK0ftxP4srTDOqyTXjznMxJ1zqz9zOGT8AhVDAqurMvGjh63yZOS1Pub-5Iy-My68GWx4h2Z7-_TvcztwOnI1Na5f4P1qKuStzO4hJgGqR1yKmVcca4WZEC4KfTeoA19bnLq1G2Xyah-rc1U_ychJouvp0rW9gWQjSoafNovx9KZqL/s1280/IMG_1378.JPG" alt="">
+  <figcaption> 小鞍谷休息 接著準備換稜 </figcaption>
 </figure>
 
-<p>隨後抵達草原谷地(美姬谷)，上有幾處適合紮營的空地，原先在航跡上標註為“美姬泉”的活水源沒找到，此處為一小條乾溪溝，不過既然是乾溪溝，此處在雨天確實有可能會有活水。</p>
+此時發現雲霧短暫散去，有看到藍天，高層雲是從西向東移動的，看來現在高空是吹強勁的西風，冬天這個風向應該是不常見才對，原先以為是吹東北風，往中央山脈主稜前進，天氣應該會越來越好才對，想不到現在看起來，我們是朝著風雨中心移動。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjRgyLN3No8s49G3Mvtvgy17bAFPhg7EjqGLxc-wcRIjgk6JlFjWlBy25FwNo0ZA0dGTvTdGmBJmqYYqUXtmw8GyFSX7kMGKRRQEZL_CZi0ZUyQHK2ZJhYEi5EoXCFJGQ1guA_2hHPXKMrQV0Y6Q6Kb8ASUPxlE1UuNjumyeuchi33pyUewTILLrSF2=s1200" alt="佐美姬山過後草原谷地" />
-  <figcaption> 佐美姬山過後的草原谷地 -- 美姬谷 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrrkGQ2AoE9eZoIzHjXXSNQoTreujbdEWRrSAZm1znFEalKtzhFX2TZErBImfYvNDfILDZy49TEq9277CmFxWY_M1Cv9vAtgnuU1MMOacJKPtocOSJ92qH7z81KdLDqjTknFr7S7aa0DzOovsbTQO1KU_nX0hAC_ATE0eFmWD3VnhKNFfd-3I8hlVi/s1280/IMG_1380.JPG" alt="">
+  <figcaption> 小鞍谷望相相原溪谷方向 </figcaption>
 </figure>
 
+通過小鞍谷，換稜繼續向北前進，這一段稜線上長滿灌木以及有刺植物，稜線左側則是陡峭的坡面，直通往山谷中，小心前進。
+
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjW9cmRr8nNiBs9fIYTAOCsOfV8tp2qoY-CdPoKDkToN9A1i2ftgkDmF79Q8gdkKACH8sL0f36wuGCK0gD2ZiEvHehD06wjAdhFhj2pNutBK72qoGTd0ey1Bv8jqrBnQG5QA32ryB7cK1JAFEf--IKyhQEi7Ga51ZZnCRVMnjR0VNFN4KvNcB2Fnnnp=s1200" alt="" />
-  <figcaption> 回望美姬谷 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWkDTZozH0aWiY33MB3kB1vZVaTxGwZhreBEoLa5gjSwIaLJzOzwURAoweeU2a-TQEeEw1hysEzlbUaKSf6S9KbnKo8Ept0VcKPsFZzOQXi03ftcZBu_iwf9UpO8Q7WVNS5NRPFil2naIMXY3zxz4s1spMQ_hWww_9f-jc56JaYUirqmMomGbsW2jX/s1280/IMG_1390.JPG" alt="">
+  <figcaption>  </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi7QcuE5AUjVEb0DzH9BHxY7VqLeZm45ceBYizsF19RFY91DO3MpxJxQ5Di-dxxico8A9abuJj_GLpgzCk0YQpF5b45KbX_1IaUe6PCrL3997Y-SeihMsLiEtT_QOeh_HS3FAZBIYrQ7wyHwi4gaG70zSYmQyt9Zkb6dO-e4A4Axh_RjPr0CM-SAJdB=s1200" alt="" />
-  <figcaption> 準備離開美姬谷 </figcaption>
-</figure>
-
-<p>準備離開佐美姬山東側的平緩草原地，離開前經過一處水池，感覺此處水池水源穩定。</p>
+向西南邊望去，可見雲霧繚繞的溪谷，被我們走過的稜線，以及中央山脈主稜包夾，這塊便是鹿野溪上游流域。遠方雲霧中的則是中央山脈南南段
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiG0kgtW3EnHqOmogt8vZPoImI9dO5Kn7OM3LDtgCMex0XPbk2LdwzNjMy_QwrTQy2LP4mU9t2NtXaJKLme7jmijjGoFFCBCx0WudWQ3EM3dKFbZ1plVsktZCsWrKggjuTyhSDWLBn1Pu897VRKQSBep_EnGO9rbHHMz2JtInNmoxbOEmLUGbduCy43=s1200" alt="美姬谷大水池" />
-  <figcaption> 離開美姬谷前的大水池 </figcaption>
-</figure>
-
-<p>離開草原，接下來的這一段路相對好走，沒有太茂密植披，且稜線主要為緩降。稜線先是向西，再來轉向西北。稜線尾端接上一處人造松林，這片人造松樹林範圍滿廣的，山坡上開闢了如梯田般一階一階的地，松樹被整整齊齊地種在上面。從佐美姬佐走過來到這裡大約花了兩個小時，時值下午一點半，我們躺在松針上，曬著陽光，邊休息邊聽松濤。</p>
-
-<figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjor-nK2OaYOAN-O4mXI6A12p-FM35-NFLnlc7VhT3CdPc_BtWYVyaSf-DTU7DImxSYdbeXpWjy4JBDAGTrDbiFekGthxkC9jA3rGVRiHTk_fmBw_j_cGaLd_UfnaDIBE2ovOHSDVRAMQjhLHRJzTnT9E9lFxkWY8bo5IuHDk-wo7x6IdTqMRINxf8X=s1200" alt="卑南東稜森林" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT2XhDOaxQ2krgh610E_abmcPso-5w2R3XymRyXcE8wSDGgmXPmlJytyV_GDlE3BP9Fob7W3RCzla1s4Mu8W6FDgySyiwFjVw7s68hos99r0z5_3_5tED3aqXd2128IF9HJa114r-rUHohyXjwDfinf1cbqPDFAtv4x5DojE2IaOoKDr9STgmISmLM/s1280/IMG_1387.JPG" alt="卑南東稜望相雲霧中的南南段">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjc7TfmRAKCv2mKISE_eSAsn3YsllqkFUJsCezc-svmaAB0e8FkV9MwTdT5i4DgG3xOKrfBQ6MxS5GsIAoxsjtWcGTOlwaHqDkgqHblRLGIa2IHhKdI9ob4dyMpvcMfXoROuUU1JeEswEDeXazpr3p4lt5yPEUHR7umSsvxo48EPDOPzlvArKQlLqrD=s1200" alt="" />
-  <figcaption> 準備下切至相原溪前，於稜線上的人造松林區休息 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHz0_Yp0MaBKwGrI0JwRIv-3PjjpJws2xaJBFZ-zlFtAH_9uDTnSbvxhx0Z1uyK8kjtebNGa8fkRbmUWuaBuqOneUx1eb6x9hYj4uG_ITQ7clf7ta8JX6KI0H-pjrpl48riOfILzUsBukwzBHkf5klF1DeNsm9GCI8DBEkb7kXuGDMTK_VpfSin_O/s1280/IMG_1410.JPG" alt="">
+  <figcaption> 通過鞍部 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEie1doNdjCOZt8o9zL2LDyzqWNIm04OetXQFyt79SnRV3Zbyl8pnsanFvWbIweQfbwDPj-E5oR384WvFk8GXox3ByuU3J98y5tGCwzTpjrHQ8T_PAp0aE9CVEJlAMyFs0cILYoEQ5RcvLqRa0sB0eKDjquKwq73WGgF6o50Eg1kGcFunR9teuCYISPK=s1200" alt="由佐美姬山往相原溪途中的人造松樹林" />
-  <figcaption> 一階一階的人造松林 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgozoT-xMTwK5Q-HmFIxGIQ-UD4qrpTJxUkN3KB75geV5p7wPoupzBq5II_Jb0nomUHP2c01ropS05dU28iFyG4CA8ZAyXNn0aI6Sxo-dB8aNNJbWK8Ee9qRIQOT4WMtBwZoK4eCu01GNyZNEYlnqGjzOJ5KoF6-7DK6tb8SFQS14ReXZO3eb-gAo70/s1280/IMG_1276.JPG" alt="">
+  <figcaption> 通過鞍部後回望 </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhsIK_Gah7dRWCO_SbUhw8jtcFF1-6nDrCjzNRCPy-6mQ1Vx2vbmHmFWE7fPjQzHAcjMgsMLYH9muQA1nIjB6MfZAgPc05P1E52LrFw68Nx66SUhp2iNsAdS5jRYa2qD0zlCZtML9UR1Xe0bYcZZ5xDcbV_TxYNbjLgjXYEKZ68fe04LPYNnV17AAnY=s1200" alt="人造松林區下切往相原溪" />
-  <figcaption> 人造松林區，下切往相原溪 </figcaption>
-</figure>
+通過剛剛那段難走的稜線，前往H2640山頭後，由此接往北的稜線，通往相原溪底。這段路很好走，順順的就走到溪底了。
+我看地圖的時候有在想，如果從這邊往西北方向繼續走稜線，直接通往呂禮山不下溪底，路不知道好不好走?
+不過根據先前經驗，不可以過於相信等高線，如果這條稜線上有長很多有刺植物或是灌木叢，那也有夠我們受得了。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj4cm7jgFxed8Fx7_1j8JO2SgrfOZQe9r97DTl0Gx3EsogBk4SnvZi1AbtnDD2vwwNtTvzGU8Y2Nq31yWb_akWKrGH1l74qntbUCg534IRm6udD1FWmB9JQyeKPAzNbtVCM-elCDujPwASnX8OuL1jV_ne7uQGfUf2MYHIMvNEQnD5nDiLbUUR-iqpN=s1200" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhauBEl3H-R5fPJ9Smmc6xp_W3HZ083E8iUpcihl0r96709fOQ5qV-m_05ve9I_bxv6a8KxMd4ZytZls1rGeYk8KfJAUeQRaPAQzCsjJNVna7Boovxi9NYEgNxguOc4VayBoU_egUcJ1Gw4ooEfOUI10vN0xNZnrcYTMOa6CzQwSkm8r04TieVm943_/s1280/IMG_1421.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
-<p>由此稜線下向前往相原溪谷，一開始稜線方向還算清楚，但走到一半變成寬稜，方向不太好抓，兩次差點沒跟到稜線，越走越陡，差點走向谷線，時不時拿出地圖來對方向，才又修正回來。</p>
+從往北稜線持續下降至溪谷，到達相原溪兩條支流的匯流口，下溪點地勢沒有很陡，很好走。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivN9kpl1AxAfmC88FUVLAnYPVQ3pXnvhWzXfw4RIq9Hr31Wj6J3VScvsft7QJntWTuBARBReScrvC9joxfEUqVwr_BjYjVRTBO4UbpGnYU_LYfUU-3gjCZqe-8iBC0mj8581_ufUbQrsPGgge7qdl1hgbEBRg5KTRsA5WRsqNDtL5vBS5goMChzSLo/s4032/IMG_1297.JPG" alt="由佐美姬山前往相原溪" />
-  <figcaption> 由稜線前往相原溪 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg2VHOW01JHzlSbxyO0R3Q7yfyh7SzL_6lXTMv7pwaXXgcLfMR63qQECFz-1Q-MSmt_pqKDRfZMF8gb_vKZgqVwpslTG8ozv7p3bz-V4i1DtNLesqO-Q6frZsCir1ijx6DH-p0mv-k_WICHWxpNMZW8F2XG2t3NTWwbCTArCuuiob-v9eTRXyMxp4c/s1280/IMG_1431.JPG" alt="卑南東稜相原溪下溪點">
+  <figcaption> 相原溪谷匯流處下溪點 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicY_LCl4iN5j6bZ9fZ1sJeYT3ad5O4sfMs4wfVvyvJKTNCL1LXW_Jc52qYCUJEk1780wqgwmaHZV2IpyBvqeWqlw29NJ31uv7FDSj2v2FA-vKXc8v3z_Y6w0kVOKAvpM2j7KUEMjaSA6SAT0fzW5v_R3-1bwVYdnBmSfcZF9iwzQ9AosofLHdNzzYU/s4032/IMG_1298.JPG" alt="" />
-  <figcaption> 到達相原溪底前的泥巴池 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicwuoYmv_his56IciFleuHG_5lDifIqxhTYs-v9jESRf4QOhlLw9ua4BiJi0ZU2k3-mseRgb7s3VhM6OV7v91YxoAoOmFqd4fFcjLM186sSgFmwp6jg8YnuMrWJzgLtelKg-gEbaz4V7-tt3SdfR8wSlBmWYqiT4swVUiMYW-HXFJlP2vKdk8iiJc7/s1280/IMG_1435.JPG" alt="卑南東稜優美相原溪谷地型">
+  <figcaption> 優美相原溪 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid6iSVAMS6LnNoFYNwy7b6w4U9yqRDxKHgToqgiCe7KtNe1ZTpTCs6qFaBcQEvz5rzMqAJTx7QcJX5qvL6RSqjlhNnKFW3wXHVnxM8tZw9d7CDes6b_I_0WMwPQopDIBloG1OEhNUPzIDnHP1IVfMIarHsqKDVtNQc0vIDHyG5Kx016ZvbS-vPMlqh/s4032/IMG_1300.JPG" alt="" />
-  <figcaption> 到達相原溪底，下溪處有幾棵倒木，好在水流不大，不用脫雨鞋可以直接通過 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqvNpQlVWQORtavQNwTEY2hCHI-e1wbjsr74-PY5M0a8rFkWGhFPC00dm3WszasKIuRpz2VXDNggdoHC3G4YwsJKu8oV0V-ozxa5-YhN_YdsodCQwHJbGVnJSFv_Id6aRGIgkHtCsLNdX8fQuMLVWIIl8rUgvtozQUVnRdPo84NXC6YmoEuzfVatm/s1280/IMG_1445.JPG" alt="">
+  <figcaption> 溪底倒木 </figcaption>
+</figure>
+
+下溪後緣溪行向下游前進，一開始路好走，地勢平緩，沒有太多障礙，但走約10來分鐘，會遇到一處地形，有一座約10米瀑布，此處需要高繞，發現左邊山坡上有路條，沿著左側山坡高繞。
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0BKSX4OzG17PTjBOQ5QZTe2zXijCCmKVaj8V2p_FRcI6LCn4Wp0RSB1z0QeYlcKOVM_1M2WhHEBNgzsQK5n9JbbNCypY5vuyCAv_TGLA2QblnqLTe_HSKpz68xpvWp0HbwuXqliQ1KlIcFxMDdEDbRDro_qSG2GVlI5pit4Y9A1Bt3p8SY92yeIXc/s1280/IMG_1446.JPG" alt="">
+  <figcaption> 高繞 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiGtRJq_NvXFOugY0LirDdAb7ogDvr3GRB7sz8Tc7mA6NF7Fxfskui6xeHbvkC6L19fkXxbQXnzU9OdAIAg0XB4D6K5bqiP9Zr3GqCPhJdjh1rpLpuJJIMl0xqfCoPfobl7dGQmX4HK2pZlFeoxQortkLQDYa7qKLEHQIm2Y9muRnLUE21zxCybzREY=s1200" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQzIt96HBjwi5s1gFl2c1Kslz85JFVu3FxFG5Sc5L8E8R27CaWmi4NL2wkx3IAnuYulzbS2UpEM-Ge-6dnqv684ECuTBO1-_piqdPbZYbUcXDE2WIIwtvVdL0Apw5j4SJyWPn3CUMRlkVBRWwf24FTtgSPADOWkzESukCQN8QhZwkO4fhONF7TzRMo/s1280/IMG_1451.JPG" alt="">
+  <figcaption> 倒木叢中的十米瀑布 </figcaption>
+</figure>
+
+通過十米瀑布高繞點後再往前走一下，即到達上切點。上切點位在另外一條相原溪支流旁邊，我們在匯流口休息，煮一點熱水泡茶，以及裝滿身上的空瓶，為未來2天的用水作整備。  
+
+早上11點多，繼續啟程，踏上前往呂禮山的陡坡。  
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsAlXg0HiM96iif67YVP7WTPhDrhBjG3xNAwZ4soHoZs7n3Dg8HdoYobk-Puca9qGbHi22BitTEnsAU7SHZ6cgCSHAlaSjjzpT1i7feGxUaUG9q0mPRhS2EnmjGH-5o_bVr9H8StIVy36EapGX2Fm1Lm719bJQ3RiG84JFLBWAOKFYmhjg-9T3q5SG/s1280/IMG_1452.JPG" alt="準備攀登卑南東稜沿線的呂禮山">
+  <figcaption> 攀登呂禮山 天氣依舊糟糕，狂風+霧雨 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKRMyZBUDZm7ly_bMc1OlLmmX4OeiMN9MNBYX9Mffsb9uvxN870ZeOsWkUdvuAyZo7gfOh0SI7mGysvFhjM2p3ewFA17GM299lgbE6B-jVVtPdi1fntA3wZ3se6e--KKadQjwaXre-H4vFDnMbc1u9zClXMO4rPlLLlkZPhBXcAztbi7EpxEcs_6I5/s1280/IMG_1456.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
-<p>切到相原溪底，此處靠近稜線源頭，水流量不大，渡溪不是問題。我們在上切點旁邊的礫灘地煮個熱水泡飲料休息一下。礫灘地有空間可以紮營，不過在河床旁邊紮營還是要小心，雖然接近稜線，這邊水流不大，大如果出現短暫強降雨，這邊的營地還是會被水沖過。</p>
+下午兩點許，到達呂禮山，一片白牆沒有展望QQ
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjx-BvJbQvJkiFC16SkZytDQvFgKsjEBYrulWJI0D5yTtz7unSCM2kjWmlRcm-rLBPisveGnbYMzl7HDYOoeYG9gyQsP_x6NY3dkjDG6tzQQF8I-oYMwslFUiNdc4aE-_mVzgtwXQar-mtQOTO2H-uMpfsVk2U0U48anBsv_Zn6-FyV5hBjvXaNC1na=s1200" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf023KZuuYnzYKnf3l8k_NOuh95p0zf6_oqJK7XiwcTVieQd5HCGWqcVJsD3ZCr8d4thxLoYNPRMclz5tUVezMR2u1_v2oVfiG3pPp3sLa_uTWHpSmoxbmjgS5585r9XoRPnhPQEpavIpbRehpAywhHTmu1xtdsBBG_dq8ZE64vFDAYG7fIRxqZWXn/s1280/IMG_1457.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+呂禮山位在卑南東稜以及向北的馬蕃粕兩條稜線交會點東南方約10分鐘的路程上。
+這一帶植披為高山箭竹草原。天氣好的話應該是美麗的景色，然而現在我們飽受稜線兩側的狂風的摧殘，簡單拍個照後便繼續向前進。往卑南主峰方向前進。  
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7vK59aX_7wi0efV_OEwALb8HuiBxHEjeTGFJ4X69rqkaBMf236HVVjGYdU2tDpuiYimva0wk0wQA7dvhPyzdAxyQHuezztA9TQXTsChv6wYIGLGjapLMmuejdH2Eeo86pJBZpKaITouDCrEDLgERDA6AD7gEUZKzKlKH-Mx2H_w_0W-arNXNwmVOr/s1280/IMG_1462.JPG" alt="卑南東稜沿線山頭呂禮山">
+  <figcaption> 呂禮山 三等三角點 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipZ9Wky8JyM1P9hqGUhFMPy7-nqPqjNaxdmw6H3IgvL2tAlxsjmwePMpdoDq4QaTDjvLCoDx2CSU3pRlrdpUQQvBD3GHeibqjwZ59oUrdekAaTNSUsk7bc97U4aW3gzGKNEgziUsc4gqfx8Ac8nliiX8C_B2Q3AQBgUifAvWXIMWLQq2AQ2n3E-uwz/s1280/IMG_1465.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjUM6FCP_LeAcYt84wAern_Q3TTihzD1MZpW0B0c7yytkA7KS-xrxDMmrcD8O7JNEOXYQ-gbk51wTCrDR92q5KC0I2gEvNqzdSxS_ewRRAavuHv_GmH0gP4kKlz_XjgG3vYboeK93gHWSR7FAn79HlM_zWk-zEUs4AxkqmgyHofpNFzuQeCvrctoMJ7=s1200" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50KN--wsh-n3wp8U0UNkPe4hNwairvDtHQAxuMZe2OQ19ZQjKKWkgabZV5tgMdqlTaxLTIQFKelE6_SXaPYEIofVXIj9uOi1EJutIVTLgGFHh7CQmCizJvpI9PqVvRYA1LYW82REhYbvZ0lwajy2QNWqoWD8sPDa6QyhApaLnLKZrTDjclS331oQN/s1280/IMG_1472.JPG" alt="呂禮山附近的高山草原景色">
+  <figcaption> 呂禮山往呂禮山中峰方向望去，見到雲霧間的山景 </figcaption>
+</figure>
+
+從呂禮山繼續往卑南主峰前進，稜線右側(北側)是鹿鹿溪發源溪谷、稜線左側(南側)則是鹿野溪發源地。當下天氣看起來，從南側吹來的風比較強，看看地圖上溪谷的地勢圖，這跟我們預估的風向有所差異，因為鹿野溪谷這邊的走向是東南向西北，這代表今天是東南風? 難不成這兩天大環境是以西南氣流為主? 因為天氣因素，原本聯絡好留守傳氣象資訊的位置都沒收到訊號，只能從現場的種種跡象猜測現在主稜上的天氣，但根據經驗，在中央山脈南段遇到西南氣流應該沒什麼好下場。單純下雨還好，但刮起風來應該就很恐怖了。心裡做了最壞的打算，如果明天天氣一樣糟糕，是否要暫緩一天行程，原地休息一天
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPc9TYT9dWpWSpR8LeW57f_46r0ObRiqavan-D7hH0Ty6y1Bjuul11G6KCpFzSyIMqeOpuwdJEKnr0wWr-UrE3uTP5r94ep8EdB_teDkfVU23t2_gQUYQ8S93D_yhh4X8MkJPnwPGWOcXjYJY8LrHIVNAhZmpt0VapcfJIyc4mm6yGTCYjaeRvDmHf/s1280/IMG_1475.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjyJ6-Yhbd9kEO-IZzY6miRW33JRpgM797Z88EvDZR85DQTBOfzwb3k-2cYUgZjXitLKqJzVxtxU3h0bOiLJYOxoC1PCFhog9Rq1jdwKdO0L4jRJjW3oA6T53e-xsOT8EKMhjFafQZJRqVyjqQrxiUHZmCXndBd4nrSTqj5QNQrinOoq6p36Bswc3E4=s1200" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgifKWmLhfN6dVpVWZCYh_qmmXqQW3_ZnUIt4WaVmWgWBP6IYYTB2_4pXS8Ro9BlnlxhG8JhVQarqPxRA3LbKbL2j4YTiJ_JL8LNoqyuQ_6ZSVaaOFiMsI-RL9unYX92JDI2fl6jJ8-UA-oF_A8u8Ys4VhUFkSDYClUaq6UnYUigz4LI0AVmMNuctVO/s1280/IMG_1494.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
-<p>繼續出發向前。一開始是一段陡坡爬升約150米，再來接上稜線往左緩上至H2630峰附近，腰繞轉向西，通過鞍部後繼續往相原山稜線前進。這一帶箭竹叢茂密，行走不易。</p>
+下午到約四點過後，看到一片松林，一處平緩松針地，四周有芒草叢遮擋避風佳，且剛好可以紮下一頂雙人帳，便決定在此烙腳。
+也因為擔心今明兩天天氣問題，有可能需要在這邊度過一天以上躲避風雨，這次紮營不可馬乎，仔仔細細地拉撐外帳，還挖了排水溝，心想準備對抗風雨，就在此時，突然看到東邊半片天空出現了藍天，不久，傍晚的日光從西邊照進松林。看到天氣轉好，心情輕鬆不少，但也有一點失望，我難得這麼認真建設營地說XD。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3R7PuYfYAoptG_KLbcK6Bx3BJCQw5RUqexBWRuIeJ0HY7RJtfVwOLL01GXwlrhIhlj_u4AQxgYfbq2JoVVtQOf2e3cdTnDWKClNVbESNv8ZY0CpgFc0l61rxuc296zDoyYIr_lkrtHnwXFVpacKiDOM4-NOYwgHhnZELJ6iwBvZ4FtQgtJCLc8XqD/s4032/IMG_1307.JPG" alt="" />
-  <figcaption> 由相原溪底出發陡上，溪底附近的山坡坡度非常陡 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFgS3S2aM7bpfS4xg39iKmdgolStwWocCKHN1ks0XH-vBSzbVyihVlvrAb7wUVliFpf_wrMfiFW80ZcYMPqK-k55yyz3Oe9_tSat8DvibVvSC2DD-5DeXfUAON5RcfVXp4UgaWCrTPqEIQucQtW1wlTJ5gtlceWT_I6tD2vQX7SEOTsFBaE-3TCAy/s1280/IMG_1497.JPG" alt="">
+  <figcaption> C4 松樹林下營地 </figcaption>
+</figure>
+
+隔日，第五天的早晨。天氣轉為大晴天，早上四點半左右探出帳篷查看，看見松樹林後是滿天星斗，看來今天可以舒舒服服地踏上卑南主山，越過中央山脈主稜。
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcNs9PX977vlbfmRcww8NzhUugS408L5-pSlICcD4FWvw0NPqj7fDfiftKaR5CgzGC0HI7d6k7njZm5_iePu2xbfC0qCKNIMVgiaPr-quKSbsGjlAu0vZTfrsVKzNKTE5bJkreRlzuMcwAoU7IcDmFnA4hlrTEHytPgKTs3JtsevkOL4UQUp0joasK/s1280/IMG_1301.JPG" alt="卑南東稜準備跨上卑南主山以及卑南主山東峰">
+  <figcaption> 陽光照向卑南主山以及東峰 </figcaption>
+</figure>
+
+稜線上向南邊望去，可見中央山脈南南段群峰，前方鹿野溪源頭的溪谷地中被一層雲海所覆蓋。  
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgECq9L0hxKwxflL-uKEQbiDLZbwXMVGROlErBN0-N5ZSHmv0XSv9zI0BCzaMC4MuxCGfHgMcz8PVkTqdmlb2q-34QrpXn760hEbYIt68vWVlK0KKtdr7wAI9uZFTbN2GRxu97T3yi4kLjvPrqL6NQ1q2GlPgYxiaQn42aGtOdW7sEM6PSPI5DO1-8C/s1280/IMG_1312.JPG" alt="卑南東稜望向中央山脈南南段">
+  <figcaption> 中央山脈南南段 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSoCRGCx72m-CeW4nhrTaTbQ5WBKHNxWrHXsJE77eJRzQL8Arhh1sp-5qAcTpV8lMG6pesBBHuxV9awoTNDA-b5mw-iamjc38w9f8YN5Prh2IYuU7NvcQ0QFC0vCoGiV73YgXS-jgRPuZ7NMkeEGbx0YoddZRHBhdZyjBu5f41Jt2GgnW1GJ-5AQHc/s4032/IMG_1308.JPG" alt="" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8syKw6kyM0JzaSCTTlnHGEWVOll9PANOMPgQYzn3MafkWWs4a5CH_U5LoKn3hnj2MLlri41-lz8llLwECeJbT9kBhMdXnBlCt_Edz1TLxS_L0-le1MzIOgN087j78lAzwi04xUYUPACo3gthk0si-I3i6Iy9BH4ntUGnNQBTIig8d2iTiD0Xjq7Xx/s1280/IMG_1327.JPG" alt="呂禮山日出">
+  <figcaption> 回望呂禮山方向，太陽從呂禮山、呂禮山中峰之間的山谷中升起 </figcaption>
+</figure>
+
+從 C4 營地出發，海拔高度僅有 2600 公尺左右，我們先向前翻過幾顆小山頭，往H2610鞍部，再來要爬上一大段陡坡，直直上升約 90 公尺，上到稜線上。
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwiGHauYeMcu9z-pee7KxDDZ5ZK1dHjP3ZLp9wJdHhnSg04fmOJs8MoBBo9BAilGaPnz8p8leibfLAoLL8yBR0L7B0wEw_ZddrHfgeaOhKknR0ujKWOyPhS9x9UfIl1C4D1gUK6GXeJvBnxJiaGPRlWliEU-HLIYs1VDNPZarFxPYUT3pZUQvvTgTE/s1280/IMG_1331.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJS2jxxIeiRLW4DtoA-mCwzlvSlcenqx3ooM4W7AXSa74vKDP9gMlzxEPvFYPHAuZgiC7-dpBqzmA7uSzFV_ThJtj0JpzEfORNIktWuw7GguHRQHMqh4o7pd2E4OGCR_ZBd5eDCLc2ss1QmrBsx24-71ee5OZm64Yqt3DhFKlckRRshsTqAKq1rqpz/s4032/IMG_1310.JPG" alt="" />
-  <figcaption> 半山腰的大樹 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjry7K7KzMpceBQmJKA8HCeYW-AMlxXJ1u4aksDLEKaEpmxo4BsCbJ5rVD_zkMil2pHBfotYyGND1a9joIzYKHljXUM5Qar-ZYNpNT26gojPAkN0MwgHhiYjjo1jogPFvNm8yY_6DoHhJTOSDMSfM-G_3D3Kt034-NhK0jTlCFxK9sNcJfTO9qhUy8/s1280/IMG_1502.JPG" alt="">
+  <figcaption> 前往稜線的陡坡 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEigd368ig1-2JoVhML5qHf6uI7xp1gMuJ03WbnmKNccR9VwyVVd-5zluDZVaLsNQzxd5agR7TmeARdpAbW-ATGzOGnpOxldtfGnOw6gYaWt7pbr5mOeW8YUAEaZcTy7-PapsiIMiabFUXprFOC9_hbHQbNsoJJVRs9994h01r_CIsz9K_ALSOwCUTzX=s1200" alt="" />
+  <img src="" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjg_p3V6yGxHKfFtcYyP8-aIWXXTXdW05-Phym_-FMl6jDs7Rtvyvpr-jOr1PTVe8GjZAQupT3MExhOFXAuZBdQ80mE9wUzyLWOj-Wd_xeno4YRSP5fzS6dyNRnpQIrytSXFMZLohChAD9Y9xJcPBKHtWsVsUuvhAkPyegGwyCev2Km4mrnDnOZEYIl=s1200" alt="" />
-  <figcaption> 上稜，往北眺望尖石山稜線 </figcaption>
-</figure>
-
-<p>原先計畫是要繼續前往溜熊谷紮營，然而途中看見一處平坦松針地，既避風又乾燥，時間也差不多快五點了，便決議提前於此處紮營。</p>
-
-<p>我們C3選的營地不錯，地勢平緩且乾燥，睡在松針地真的可以一覺到天亮。</p>
-
-<figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiCQf1NpZNkvV3UvqPcDaBBH0l7yQNSeDqF95kyDz69yq74GdlRXM3oSs0Zj8ET3sYlqKx8Ousg_cZ0yEbcFjn2ujM0Ur7STAE-_UNG5ajg2NfRxHlrk9Y3AfqqEd9yhM4RuEYkG5o9FOZujct_t6jL40qD5FXNI5WfM0wqLCB28ELSnpNW3iiM_OBt=s1200" alt="" />
+  <img src="" alt="">
   <figcaption>  </figcaption>
 </figure>
 
-<p>翌日，準備前往相原山。原先還很期待可以欣賞相原山美麗的草原風景搭配日出，還計畫說要去相原池邊野餐享用早餐，但好天氣只持續到昨天，今天一早雲霧從南邊的山谷吹上來，把藍天遮蔽，時不時還會帶來一點霧雨。</p>
+稜線上是一片松林，松針地踏起來很舒服，享受了一小段平緩下降好走的山徑。這也是最近這幾天以來最好走，最令人心曠神怡的一段路。
+到達 H2650左右的鞍部後，接著要來的是一段連續長上坡，要爬上 H2770假山頭。雖然這段路沒有很陡，但沿途植披茂密，走起來挺費力的，尤其是接近山頭，長滿灌木叢以及有刺植物，箭竹濃密，不好走，在這邊我們有小鑽一下。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7IE8kGvSPG5mNOMZRiplrX-Imew7TBeySXgNZqmDGHZ0_TMXSMsC3JXb4vnwXZRo4mL1S9xRzETlyqWsg62GlEI3qbWcPiY3aQi6s1-nxgnSEXL7j8d48t-KfEO704at7-b-8sU2WiQFMofTdAuVbwpG_jkRfqLk9GohR0pVbEe1W9TA0YzGU4rjz/s4032/IMG_1322.JPG" alt="卑南東稜相原山前的溜熊谷" />
-  <figcaption> D4早黑出發前往相原山前的溜熊谷 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj2VSKpUrZIAXJi2LgGBjWMXQ6QEtxAZVZt7je5ifKxETsZ0BBDE5CQCWdjPfS9tgsToniqQFoqHarAV0wHqmDfE79UifRusiwqKMouNJgC01jC4YqBxUkviY5Lg1L6WGLZtQ6bOxUoMnKpjp5FcrfPlfiYL7UhaBMLzL6v0fBrpW426pCeRVPT3JL/s1280/IMG_1333.JPG" alt="卑南主山東峰前的稜線松樹林">
+  <figcaption> 稜線上的松樹林 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNpNBrkmo8WU5MBNmUyS_sFysvx7B6tkWUTb1LE4yZNIiAPNQ8ENyllOFMj0WnNmoX0C1km2M5eiaggv0EwQv98DLF9sRUdkQ-95lM5FfZO2Id19B7zDEZ3h_Q7XdrjLP8cClWP4n9OoXW3JgbzmUSx-X1ROnTc40iwpOKAyLBKw5FhLPUgnk-3VHG/s4032/IMG_1326.JPG" alt="" />
-  <figcaption> 早晨溜熊谷，草地上都濕濕的，還好前一晚我們睡在乾燥松林地，沒有推到這裡 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi4j-QZE_G-vMZp81d3EX5-TuVP169Jg2FrxyZSzTHwBKotMskYHZewf63SKtIvqt8r2vDP8d7NaoeWvbwrraL9sSQC1Vp680ybyLaWSR0HhLvQdU1OnHA8ttwQE9DKWAEfJVVgtfJcT-tylXcl7b2iXXlwYnFrVwM6LV767cnGFetTK6QSJenjCHG/s1280/IMG_1336.JPG" alt="">
+  <figcaption> 半途望向北側，卑南主山與馬翻粕山間的溪谷 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8FhGIpf7GcReLUOd4HtCggznKGQfuble_3GlLck1OMBDd3-wKf2UdWUX4OqwJef8OBOi8VaNNsPAZ0Jfxn8zQwYE38Po0XtrdXyU2eKpIerNmB3dEsaz4ElSzUciMKvMnn4v82RsqadgIvv_zSFrawt0lMpmlbDqEp4jmF2dqaL7D7_B__j7elPRi/s4032/IMG_1334.JPG" alt="" />
-  <figcaption> 霧雨中的相原山 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMlY-jfrMiv1y0TiNBETjijE2qzclXr92vNNFXcIpjhwPGohATWeyKoxuVa1VRWQHuMzDHpMSAL_pm6dkrxu5Pxx99XrIoetcjmFC3MJ6W9OWVkNlCnpT4YkTAMSusoQSzlksBEbqP5wmOJgKi0x3QZBFkKk355B7jWu74sNCMLPTeB9Li4ckSpFWj/s1280/IMG_1340.JPG" alt="">
+  <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiil9TDJk5WXjGn95N19NVo2TNqkhRELg84myx4OkuTRFu6dDROOz_wu-J2GU0Ejhud7b4mzaKaPCPAIRlzvRU8vWnXZmkvhsbAGPcPsAglF6IqDrHXk64zP1UtzEuZwh5Ts78i8bTEh-M8sTNYShqbxYp5ary_P9RsCd9fKTX28YnjNBLOXe5qpaMV/s4032/IMG_1336.JPG" alt="卑南東稜途中的相原山為二等三角點" />
-  <figcaption> 相原山 二等三角點 </figcaption>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc11ESk-VJ8lpDjcRbqvEr65TOCfLURpk0kwmCXNn6RkjTfxMdZoAnekQTOl10ctGauZuplzTG2YiP1gLfpkzGyUyQh4sTm6usHEWsGuAVnt5wh74d7aeytfO_GeUbMkhbC5-sTg0CGwYs3wugGuHyxkHPZs6B3mI-UBS6HL211JTv6Ijh1D4xDqIo/s1280/IMG_1350.JPG" alt="卑南主山東峰">
+  <figcaption> 上上下下的稜線，前方為假山頭，後方為卑南主山東峰 </figcaption>
 </figure>
 
-<p>今天又要在風雨中奮戰，不過都走到相原山了，退無可退，只能祈禱風雨不要變強，隔日能夠順利登頂卑南主山，翻閱過中央山脈。</p>
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9aiSnj3OtM1q9iT-UQaSBVG6wlejJkQ_jT15RdM5ONSwE_cz_Xr-6Jua_0l9vuGV2ggDxpZ0xWwBZ5S3rpPmaL2yQIea7cSnsanjYINRruIWvMBZ9fyDb78E9soZNeEf8lImGkXV7V5DaWB4ORHWy0lDBpl_2NgsfLQ_a5OW2Dmv_j-vGGo1Ejng1/s1280/IMG_1352.JPG" alt="卑南東稜沿途稜線長滿很多高山植物行進困難">
+  <figcaption> 穿越很多刺刺的灌木叢 </figcaption>
+</figure>
 
-<h2 id="圖文系列-1">圖文系列</h2>
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN362okGluFFKq2KNeFfvRRXmncFAGnevtiDH-g6TUk_8yrWqKrQE3nlxfTCJIC7Vge47KpQzkeE7CyDqjA92qARUBnwz9iBJwfRfg1ZWp5ld4c38lrJlngFWFnTyIvYSDBvsx-XcnZ7lCE6KQ8UnWReitQyRu0s-nSUIpHTuQ0dJFPOtIXz-uY10v/s1280/IMG_1356.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-<div class="feature__wrapper">
+接下來一段路的植披差不多都是這樣鑽鑽找找，循著稜線走，下降一小段，再陡身一大段爬上下一座假山頭，反覆操作3次。
+最後到達H2880鞍部，從這裡開始一連串陡坡，爬上 H3030的卑南主山東峰叉路。  
+一天的開始，我們體力充沛，一鼓作氣爬上東峰前鞍部，此時手機響了，終於有訊號，簡訊進來了(我們已經整整了天沒收到訊號了)。
 
-  
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9U0xzsQvp6fDOiMIrI_ua9IYAXLUF4GtZXSU2e4905Q13wXCe6H9eGsP0zyjaEugVgga-Bzkg8tgpIs2L45mTzUeDRCwIwvQ1lFkLsMOpkijAttLvmcR2YSsKbntycAIXPsBzIxZP-OyNUZQx9EXH1eYyRwND00Cq-LCuj1QscHHN-jFA7b1VarQ1/s1280/IMG_1369.JPG" alt="">
+  <figcaption> 輕裝前往卑南主山東峰 </figcaption>
+</figure>
 
-    
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYzN_zhxNJNH-H1h-4lWwA44Fv-jcUl9vITXeWCNcU_e80ntleIQyruwFrU627oIQzVFBGGXPPP9xVsaCxsu1xx5h4lEkpmf7j_UhDfDy769ndNjy_V9noUWaxIc9P8CgQA-yyZFmbyo7HONSCNxx1L7gca1jSBKQP08rIu32ujSsrJdkKC0NuIQU9/s1280/IMG_1385.JPG" alt="由卑南主山東峰望向中央山脈主稜">
+  <figcaption> 望向中央山脈主稜 </figcaption>
+</figure>
 
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhZ7mLIPbSm5PVChznHTyKpfRaRS-K7CC24qIi5TQGiL-iYJhUaW0I4XOBlnlEP_-j9NWrHxOXJjXQCYd6Pte1tK7Uq1yzdFABn2nqztQytbAm_IzwS_3ruBcnB7MMU0JhfExN9kJKlFjye4bgLdVkcAkJn_UIulEjQBR01PIADJNwlssrecm-EFG9H=s480" alt="" />
-            
-          </div>
-        
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSCBVdheuLWUIGAEgK72QxMCDOEZe6-SA3tYac45Gv4oSdO35wjFTfkLvQQAXHdcNSkWLGbVKxyioFuYLHXUCueHyX_mK9PiZjMtyE356I1KKfMOz_A6ZRnBCbviURGIpNy5lmqMycyvD4Br3h15-GyS7gfoN1aC4KePQnKzgRh1DEIjdU4Hq73pzL/s1280/IMG_1390.JPG" alt="卑南東稜與卑南主山東峰最後一段岩稜">
+  <figcaption> 登頂卑南主山東峰最後一段岩稜，後方為卑南主山南峰 </figcaption>
+</figure>
 
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Day1-Day2 啟程 延平林道登美奈田山</h2>
-          
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQgJMhqmDTOr4yQgD0PzqSll_eclz6EiJ7MMsxkL0ENZcFXUWg_JRkceDokdqgd55W0Hl3FMW-t3VUnTgkui7V-TugLhU5czhhp1VoJkHb94TWC1JLYeYa4Lexf6IHYK7iHA67ob-6lcMYqpZKIfN1ttrzeUEI-z96CIxKg5vPN9e4F3WuutQR7wpu/s1280/IMG_1418.JPG" alt="卑南主山東峰並非百岳但為269峰之一">
+  <figcaption> 卑南主山東峰 </figcaption>
+</figure>
 
-          
-            <div class="archive__item-excerpt">
-              <p>穿過潮濕的延平林道，循著陡峭的稜線上攀本次行程的第一座一等三角點美奈田山，也是卑南東稜的起點，海拔高度也突破了 2900 公尺，某種程度來說，這裡已經脫離中級山的林相，正式進入高山環境了。</p>
+我們登上卑南主山東峰，無基點，不是百岳，但是風景勝過許許多多百岳山頭。
+位在中央山脈主稜由卑南主山向東岔出去的稜線，四周展望佳。
+向北可清楚看見中央山脈南一段、南二段群峰，從卑南主山延伸至小關山、海諾南山、大關山，以及向北延伸向塔關斷崖、向陽大崩壁，接上南二段的向陽山。叢高聳的中央山脈主稜往東延伸的新康山。
+往東可見呂禮山、呂禮山中峰、北峰連峰、我們原本要去的馬蕃粕山。
+向南轉過去一點，可以見到我們的來時路。海拔2905的美奈田主山在雲海中探出頭。佐美姬山以及相原山則是被呂禮山連稜遮擋著。不過可以回想起我們走來的點點滴滴。從非傳統路線攀登上高山，再回望來時路，真的讓人有種無法言語的滿足感。
 
-            </div>
-          
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKs-fxBRMsHWAliZqeR127EbA3zDxUYpokP66PrzqqB77NuepN2QdawUF-4FDZ1XllKJ17FB1QYKPOxQ-gpUUjEMvWiuA7Q9j9CUvC4nJwUrLa5bVL3FTo4F9YHUjGS8eVTkx9gWcOVbQCqZyb2M2hP8_OGQBiuzC28lHiQoKY9c1NQ6-TB6Q71EUC/s1280/IMG_1421.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-          
-            <p><a href="/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day1/" class="btn btn--primary">Go To</a></p>
-          
-        </div>
-      </div>
-    </div>
-  
 
-    
+從卑南主山東峰往主稜方向望去，可見卑南主山近在咫尺。但這段稜線走起來卻十分痛苦。因為是非傳統路線，沿途路跡並不明顯，且其中幾段路線長滿有刺植物以及灌木叢，要繞又鑽還要忍受雙腳被刺。有些地方被高山杜鵑擋住，時不時需要高繞一下。要攀上卑南主山副峰(通往南峰的交會點)的最後一段上坡耗盡了力氣。不過登臨主稜的美景深深的印在記憶中，忘記了整段路的痛苦。
 
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjm5zz66AGmrM96lr5VAmBG4VR2WDG-5KKaj6cOSYUhV3GFI7Yk6O0JosVHXtbr7GUidN5AAMj89U_Y8NGqY0LWbr3-uJKVhpI_Wzjuc6z1ud7CCx__n4IY36lAO7Ck1Up9rrHf7zChahbfZRODzYKOQUR0UJNFT-cGUnZ8jsWDQ2Cr5MwTossNdYME=s480" alt="" />
-            
-          </div>
-        
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7WFnFPCSncdyyC7I41kDS_ZN4pT2nD50Eo16_IihHCelMNUN3Bv0i4-kmYGiv3t4ED_ieY6VRTgl1QPyeXExtiFaMjqexeBGJLcd0myYda5eMtJYHluKTmNMNCLxBIAsgeKF5CMI2JFsoGjir4dxj0x5ViYy4V_KeMR1PhRLGYSKQpGoU_lLJ1Zep/s1280/IMG_1376.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Day4-Day5 從呂禮山前往山之巔</h2>
-          
 
-          
-            <div class="archive__item-excerpt">
-              <p>呂禮山有著一片高山草原，杳無人煙，宛如人間仙境。往北可通往馬蕃粕、伊加之蕃，往東可接上卑南主山東峰。由此我們將踏上中央山脈主稜，越過南一段南端的百岳，有著一等三角點的卑南主山。即將完成卑南東稜。</p>
 
-            </div>
-          
 
-          
-            <p><a href="/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/" class="btn btn--primary">Go To</a></p>
-          
-        </div>
-      </div>
-    </div>
-  
-
-    
-
-    <div class="feature__item">
-      <div class="archive__item">
-        
-          <div class="archive__item-teaser">
-            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiX1L4UCFuYz-6D1RXKMk9zwJG7LyUZhmsRIj3FWBxt9yqHCJVHmVdr-Km_GZwhlc-L1NF4XWMV8_BoUrGBcfx1nB4W1YBIQ2cRVpnRlSzQgvRcdfszb3VSw8xARm63WG6hRsfhY89JL2-nPWJsMaS0yot2BtNpdrDIcnTIYWPeRy8IDUCz0KURCw2D=s480" alt="" />
-            
-          </div>
-        
-
-        <div class="archive__item-body">
-          
-            <h2 class="archive__item-title">Day5-Day6 翻越卑南主山 完成東西橫斷</h2>
-          
-
-          
-            <div class="archive__item-excerpt">
-              <p>最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點–卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。</p>
-
-<p>To Be continued</p>
-
-            </div>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  
-
-</div>
-
-        
-      </section>
-
-      <footer class="page__meta">
-        
-        
-  
-
-
-  
-  
-  
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
-    <span itemprop="keywords">
-    
-      
-      
-      <a href="/blogPage/tags/%E5%8D%91%E5%8D%97%E6%9D%B1%E7%A8%9C" class="page__taxonomy-item" rel="tag">卑南東稜</a>
-    
-    </span>
-  </p>
-
-
-
-
-  
-
-
-  
-  
-  
-
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
-    <span itemprop="keywords">
-    
-      
-      
-      <a href="/blogPage/categories/mt-note-photo-100peaks" class="page__taxonomy-item" rel="tag">mt-note-photo-100peaks</a>
-    
-    </span>
-  </p>
-
-
-        
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-01-30T06:00:00+08:00">January 30, 2022</time></p>
-        
-      </footer>
-
-      <section class="page__share">
-  
-    <h4 class="page__share-title">Share on</h4>
-  
-
-  <a href="https://twitter.com/intent/tweet?text=%E5%8D%91%E5%8D%97%E6%9D%B1%E7%A8%9C+Day3-Day4+%E4%BD%90%E7%BE%8E%E5%A7%AC%E5%B1%B1%E8%88%87%E7%9B%B8%E5%8E%9F%E5%B1%B1%20https%3A%2F%2Fpenhsuanwang.github.io%2FblogPage%2Fmt-note-photo-100peaks%2FBeiNanEastRange-Day2%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
-
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpenhsuanwang.github.io%2FblogPage%2Fmt-note-photo-100peaks%2FBeiNanEastRange-Day2%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
-
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpenhsuanwang.github.io%2FblogPage%2Fmt-note-photo-100peaks%2FBeiNanEastRange-Day2%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
-</section>
-
-
-      
-  <nav class="pagination">
-    
-      <a href="/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day1/" class="pagination--pager" title="卑南東稜 Day1-Day2 啟程 延平林道登美奈田山
-">Previous</a>
-    
-    
-      <a href="/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/" class="pagination--pager" title="卑南東稜 Day4-Day5 從呂禮山前往山之巔
-">Next</a>
-    
-  </nav>
-
-    </div>
-
-    
-  </article>
-
-  
-  
-    <div class="page__related">
-      <h4 class="page__related-title">You may also enjoy</h4>
-      <div class="grid__wrapper">
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/" rel="permalink">卑南東稜 Day4-Day5 從呂禮山前往山之巔
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">呂禮山有著一片高山草原，杳無人煙，宛如人間仙境。往北可通往馬蕃粕、伊加之蕃，往東可接上卑南主山東峰。由此我們將踏上中央山脈主稜，越過南一段南端的百岳，有著一等三角點的卑南主山。即將完成卑南東稜。
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://blogger.googleusercontent.com/img/a/AVvXsEhZ7mLIPbSm5PVChznHTyKpfRaRS-K7CC24qIi5TQGiL-iYJhUaW0I4XOBlnlEP_-j9NWrHxOXJjXQCYd6Pte1tK7Uq1yzdFABn2nqztQytbAm_IzwS_3ruBcnB7MMU0JhfExN9kJKlFjye4bgLdVkcAkJn_UIulEjQBR01PIADJNwlssrecm-EFG9H=s480"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day1/" rel="permalink">卑南東稜 Day1-Day2 啟程 延平林道登美奈田山
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">穿過潮濕的延平林道，循著陡峭的稜線上攀本次行程的第一座一等三角點美奈田山，也是卑南東稜的起點，海拔高度也突破了 2900 公尺，某種程度來說，這裡已經脫離中級山的林相，正式進入高山環境了。
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://blogger.googleusercontent.com/img/a/AVvXsEhxfxw1nUHb9BjE3nF56Bqz3E-ckRDljSQTSkPIpuMCxkOuqJjuA2UTnugvAQm5MbJR5A06PMP0kNJH3YtYm8Yb-zI9adyAWi7HJas1VEWr6ztrUockIQAufjYj_mh64OneO1CXJ0x4bOVR1nYRV5SWY_b43S9sx-sQsRGLUFqCGUpB2PaBjy3UhPUT=s720"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-100peaks/ShaoGuanShan-Day2/" rel="permalink">小關山林道 神池登斯拉巴庫山
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">斯拉巴庫山，位在小關山林道北側的山脊上。稜線由有著寶來屋脊之稱的美瓏山持續向東北方向延伸。從小關山林道起登，沿途幾處展望點可見荖濃溪谷兩旁的村落，對岸的玉山山脈向北延伸向玉山群峰，東側可見中央山脈南一段主稜。
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://blogger.googleusercontent.com/img/a/AVvXsEh93uwq3xxbyDJeQlGkC4IaWXmhw5B1bD3l5e275pd5pFXxvChpY444zIa7X4pSyKRz3I2PRmwSagzHskEAvQ-utOSh5a5wSKShs9Y-93EB0Bl7GyybWAAU5Hp2hso7SS5LnTvRjSbHOxPZt3PvIROTPNdLKldV3bJIlUAFmNP8x6JHirRoog4VJeyi=s720"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-100peaks/ShaoGuanShan-Day1/" rel="permalink">小關山林道 神池登小關山
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">由小關山林道登頂中央山脈南一段的小關山。這是一條滿愜意的行程。小關山林道路況還不錯。搭配不錯的天氣，能見度很高，沿途欣賞風景也是很愜意的一段路程。登頂小關山，剛好貼近在雲頂高度，冬陽剛好提供不錯的測光照射角度，向北方望去，大關山斷崖搭配雲海顯得更加立體。過沒多久，更遠方的向陽山也從雲還中出現。
-</p>
-  </article>
-</div>
-
-        
-      </div>
-    </div>
-  
-  
-</div>
-
-    </div>
-
-    
-
-    <div id="footer" class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-
-<!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-  <ul class="social-icons">
-    
-      <li><strong>Follow:</strong></li>
-    
-
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-
-    <li><a href="/blogPage/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; 2022 P.H, Wang. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-      </footer>
-    </div>
-
-    
-  <script src="/blogPage/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
-
-
-
-
-
-
-
-
-
-
-  </body>
-</html>
+## 圖文系列
+{% include feature_row %}

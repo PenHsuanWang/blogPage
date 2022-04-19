@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "卑南東稜 佐美姬山與相原山"
+title:  "卑南東稜 Day3-Day4 佐美姬山與相原山"
 excerpt: "原先以為佐美姬山與相原山兩段路會是愉快的高山草原散步之旅，但實際上卻是茂密箭竹叢搭配無數微地形的試煉，走起來不難，但無窮鑽箭竹迴圈也是挺消耗人的意志。原先的好天氣沒了，在風雨中通過相原山，悠哉地在草原湖畔野餐的美好想像跟著狂風消失在濃霧中。"
 
 date: 2022-01-30 06:00:00 +0800
@@ -20,23 +20,23 @@ header:
   overlay_filter: 0.5
 
 feature_row:
-- image_path: https://blogger.googleusercontent.com/img/a/AVvXsEhz5K6v57dVpJ8Lfm_ed4LfNmWnppc1-ddgq-SJp5jj8zyKzNsBcIk29sZbgGLM4MWrpCC84bNsEDhkv1AcXS06zzY3r47xJ8NOIFiG7J4rNEYOcIzdBTLmNm_6_XtVOhY7Kps6pjL1BXRAqf7KNHQiTBmmzku8uc2_ZRm0o_YbIdz1q4HCqxIcK6CP=s480
-  title: "卑南東稜 佐美姬山與相原山"
-  excerpt: "原先以為佐美姬山與相原山兩段路會是愉快的高山草原散步之旅，但實際上卻是茂密箭竹叢搭配無數微地形的試煉，走起來不難，但無窮鑽箭竹迴圈也是挺消耗人的意志。原先的好天氣沒了，在風雨中通過相原山，悠哉地在草原湖畔野餐的美好想像跟著狂風消失在濃霧中。\n\nTo be continued"
-  #url: "mt-note-photo-100peaks/BaeNanEastRange-Day1/"
-  #btn_class: "btn--primary"
-  #btn_label: "To be continued"
+- image_path: https://blogger.googleusercontent.com/img/a/AVvXsEhZ7mLIPbSm5PVChznHTyKpfRaRS-K7CC24qIi5TQGiL-iYJhUaW0I4XOBlnlEP_-j9NWrHxOXJjXQCYd6Pte1tK7Uq1yzdFABn2nqztQytbAm_IzwS_3ruBcnB7MMU0JhfExN9kJKlFjye4bgLdVkcAkJn_UIulEjQBR01PIADJNwlssrecm-EFG9H=s480
+  title: "Day1-Day2 啟程 延平林道登美奈田山"
+  excerpt: "穿過潮濕的延平林道，循著陡峭的稜線上攀本次行程的第一座一等三角點美奈田山，也是卑南東稜的起點，海拔高度也突破了 2900 公尺，某種程度來說，這裡已經脫離中級山的林相，正式進入高山環境了。"
+  url: "mt-note-photo-100peaks/BeiNanEastRange-Day1/"
+  btn_class: "btn--primary"
+  btn_label: "Go To"
 
 - image_path: https://blogger.googleusercontent.com/img/a/AVvXsEjm5zz66AGmrM96lr5VAmBG4VR2WDG-5KKaj6cOSYUhV3GFI7Yk6O0JosVHXtbr7GUidN5AAMj89U_Y8NGqY0LWbr3-uJKVhpI_Wzjuc6z1ud7CCx__n4IY36lAO7Ck1Up9rrHf7zChahbfZRODzYKOQUR0UJNFT-cGUnZ8jsWDQ2Cr5MwTossNdYME=s480
-  title: "卑南東稜 從呂禮山前往山之巔"
-  excerpt: "呂禮山有著一片高山草原，杳無人煙，宛如人間仙境。往北可通往馬蕃粕、伊加之蕃，往東可接上卑南主山東峰。由此我們將踏上中央山脈主稜，越過南一段南端的百岳，有著一等三角點的卑南主山。即將完成卑南東稜。\n\nTo be continued"
-  #url: "/"
-  #btn_class: "btn--primary"
-  #btn_label: "To be continued"
+  title: "Day4-Day5 從呂禮山前往山之巔"
+  excerpt: "呂禮山有著一片高山草原，杳無人煙，宛如人間仙境。往北可通往馬蕃粕、伊加之蕃，往東可接上卑南主山東峰。由此我們將踏上中央山脈主稜，越過南一段南端的百岳，有著一等三角點的卑南主山。即將完成卑南東稜。"
+  url: "mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/"
+  btn_class: "btn--primary"
+  btn_label: "Go To"
 
 - image_path: https://blogger.googleusercontent.com/img/a/AVvXsEiX1L4UCFuYz-6D1RXKMk9zwJG7LyUZhmsRIj3FWBxt9yqHCJVHmVdr-Km_GZwhlc-L1NF4XWMV8_BoUrGBcfx1nB4W1YBIQ2cRVpnRlSzQgvRcdfszb3VSw8xARm63WG6hRsfhY89JL2-nPWJsMaS0yot2BtNpdrDIcnTIYWPeRy8IDUCz0KURCw2D=s480
-  title: "卑南東稜 翻越卑南主山 完成東西橫斷"
-  excerpt: "最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點--卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。\n\nTo be continued"
+  title: "Day5-Day6 翻越卑南主山 完成東西橫斷"
+  excerpt: "最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點--卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。\n\nTo Be continued"
   #url: "/"
   #btn_class: "btn--primary"
   #btn_label: "Go to"
@@ -382,9 +382,9 @@ feature_row:
             var map_23f5d9af425948e89251a75d1bcf97ee = L.map(
                 "map_23f5d9af425948e89251a75d1bcf97ee",
                 {
-                    center: [22.9085472, 121.0367244],
+                    center: [22.996041, 120.973802],
                     crs: L.CRS.EPSG3857,
-                    zoom: 11,
+                    zoom: 16,
                     zoomControl: true,
                     preferCanvas: false,
                 }
