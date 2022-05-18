@@ -36,10 +36,10 @@ feature_row:
 
 - image_path: https://blogger.googleusercontent.com/img/a/AVvXsEiX1L4UCFuYz-6D1RXKMk9zwJG7LyUZhmsRIj3FWBxt9yqHCJVHmVdr-Km_GZwhlc-L1NF4XWMV8_BoUrGBcfx1nB4W1YBIQ2cRVpnRlSzQgvRcdfszb3VSw8xARm63WG6hRsfhY89JL2-nPWJsMaS0yot2BtNpdrDIcnTIYWPeRy8IDUCz0KURCw2D=s480
   title: "Day5-Day6 翻越卑南主山 完成東西橫斷"
-  excerpt: "最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點--卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。\n\nTo be continued"
-  #url: "/"
-  #btn_class: "btn--primary"
-  #btn_label: "Go to"
+  excerpt: "最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點--卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。"
+  url: "mt-note-photo-100peaks/BeiNanEastRange-Day5-to-Day6/"
+  btn_class: "btn--primary"
+  btn_label: "Go to"
 
 ---
 

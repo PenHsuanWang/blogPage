@@ -14,8 +14,8 @@ tags:
   - 卑南東稜
 
 header:
-  image: 
-  teaser : 
+  image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3UnaqabLon6bXgGVOQvdjEMH81NI41kZdQSBHLq2eNU5QAr749e44Rp0L_fIYkS0MwqJ7ZLLD_s6RcEeuxLgXt4yr_rxfxEv5GvYp8tE9ocIfrxMSzcdXHg0adTW0BudYkCrUy11ALT60GgNn1Rd1aDaBy0Ao9l2qmCr_sh7U4ci9SCvWStwpWYZx/s6093/IMG_1310.JPG
+  teaser : https://blogger.googleusercontent.com/img/a/AVvXsEhz5K6v57dVpJ8Lfm_ed4LfNmWnppc1-ddgq-SJp5jj8zyKzNsBcIk29sZbgGLM4MWrpCC84bNsEDhkv1AcXS06zzY3r47xJ8NOIFiG7J4rNEYOcIzdBTLmNm_6_XtVOhY7Kps6pjL1BXRAqf7KNHQiTBmmzku8uc2_ZRm0o_YbIdz1q4HCqxIcK6CP=s480
   image_description: ""
   overlay_filter: 0.5
 
@@ -36,10 +36,10 @@ feature_row:
 
 - image_path: https://blogger.googleusercontent.com/img/a/AVvXsEiX1L4UCFuYz-6D1RXKMk9zwJG7LyUZhmsRIj3FWBxt9yqHCJVHmVdr-Km_GZwhlc-L1NF4XWMV8_BoUrGBcfx1nB4W1YBIQ2cRVpnRlSzQgvRcdfszb3VSw8xARm63WG6hRsfhY89JL2-nPWJsMaS0yot2BtNpdrDIcnTIYWPeRy8IDUCz0KURCw2D=s480
   title: "Day5-Day6 翻越卑南主山 完成東西橫斷"
-  excerpt: "最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點--卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。\n\nTo Be continued"
-  #url: "/"
-  #btn_class: "btn--primary"
-  #btn_label: "Go to"
+  excerpt: "最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點--卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。"
+  url: "mt-note-photo-100peaks/BeiNanEastRange-Day5-to-Day6/"
+  btn_class: "btn--primary"
+  btn_label: "Go to"
 
 ---
 
