@@ -56,222 +56,9 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
   <figcaption>  </figcaption>
 </figure> 
 
-## 鍛鍊海鼠O型縱走 圖文紀錄
-
-{% include feature_row %}
-
-# 攀登鍛鍊山前的試煉
-
-星期五晚間我們先搭乘普悠瑪號從台北出發，於晚上十點五十幾分到達新城火車站露宿。隔日一早我們走到台九線上的公車站牌搭乘1126路公車前往中橫公路谷園站。  
-
-由谷園站下車後，還需要走一小段中橫公路方可抵達迴頭彎。體驗一下中橫縱走XD  
-
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-dRvX_OPH03Q/YT9Lv1gmW8I/AAAAAAABSc8/ooNa9DwAeLEOoP7qi_Rg0waceuHDshWeACLcBGAsYHQ/s4032/IMG_4630.JPG" alt="中橫大健走">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-70wqZiKPhrE/YT9LcVj-epI/AAAAAAABScs/29lVk9KJ_jEOtsRLV14ycAPtko8q5LieACLcBGAsYHQ/s4032/IMG_4643.JPG" alt="中橫健行登山">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-T65mBQ149xM/YT9LZqcNVfI/AAAAAAABSco/Gn_aiUPmmWQBfiH9N3FlZu5h8qQRdFc1QCLcBGAsYHQ/s4032/IMG_4658.JPG" alt="雲煙中的太魯閣峽谷">
-  <figcaption> 雲煙中的太魯閣峽谷與中橫公路 </figcaption>
-</figure> 
-
-走約20分鐘到達迴頭彎，這裡是我們鍛鍊海鼠O型縱走的起點。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-juZERQhHujQ/YT9L2rLBMtI/AAAAAAABSdM/a4KMre02jh40Wynboj-U6cMtG3wHMZHigCLcBGAsYHQ/s4032/IMG_4664.JPG" alt="中橫迴頭彎為攀登鍛鍊山的登山口">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Pd2p549bjw0/YT9Lz2ind8I/AAAAAAABSdE/PKLilTxACcA-wCh36oAWGVHA2WUcJZmJgCLcBGAsYHQ/s4032/IMG_4663.JPG" alt="中橫公路迴頭彎">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-sDfMRdmRXVk/YT9LiqIwPFI/AAAAAAABScw/gXH0yXSe5U0GrDudFUuCU4-1fSrVO_FaQCLcBGAsYHQ/s4032/IMG_4665.JPG" alt="中橫公路迴頭彎開始攀登鍛鍊山">
-  <figcaption>  </figcaption>
-</figure> 
-
-鍛鍊山給我們的鍛鍊考題，第一題。一剛開始從登山口起登就是這麼可怕的崩壁地形呀!!  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-Itk4G4P0108/YT9L4h79D1I/AAAAAAABSdQ/habjmQCITJ471vr-89iE_VAT87vAEqFLACLcBGAsYHQ/s4032/IMG_4670.JPG" alt="鍛鍊山登山口">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/--qY5kPG4tH8/YT9L7Yh7WNI/AAAAAAABSdU/zWkZDAUDPM8BINPnqw9ugcfP9YvptWC0QCLcBGAsYHQ/s4032/IMG_4674.JPG" alt="鍛鍊山登山口一開始的崩塌路">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-UYgg_6M9wj8/YT9L-d7yHkI/AAAAAAABSdc/pku6dU9R6r49qVTYfKkYmWrinWSwy-aWQCLcBGAsYHQ/s4032/IMG_4676.JPG" alt="鍛鍊山登山道路">
-  <figcaption> 山洞中的廢棄速克達 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-139OOuqEDPQ/YT9L-T2owQI/AAAAAAABSdg/8_mjvyMnhOc_zDr33m-z5xbsJhE6hNAYgCLcBGAsYHQ/s4032/IMG_4678.JPG" alt="清溪吊橋為中橫公路前往蓮花池會經過的第一座吊橋">
-  <figcaption> 清溪吊橋 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-QBSkbBNQc2E/YT9L-GfMiNI/AAAAAAABSdY/ugb7qiciOBUCOp99YKeSSYdJ4W02fqLOQCLcBGAsYHQ/s4032/IMG_4682.JPG" alt="清溪吊橋風景">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-vzPMscBCtzc/YT9MAhO5yqI/AAAAAAABSdk/8tV5iNiRnt8ne14WXhujEletelxMew1fwCLcBGAsYHQ/s4032/IMG_4692.JPG" alt="清溪吊橋吊橋頭">
-  <figcaption>  </figcaption>
-</figure> 
-
-通過了清溪吊橋後的崩壁地形，暴露感重，但對於大家平時都有走地形的經驗來說這一段崩壁其實還好，小心通過即可。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-UC4OOE6Qw1w/YT9MArbMHBI/AAAAAAABSdo/8B0TxtmivPwz2iEWzt833awKH-4hE7fvQCLcBGAsYHQ/s4032/IMG_4697.JPG" alt="前往蓮花池前的崩壁地形">
-  <figcaption> 通過清溪吊橋後的拉繩地形 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-itxmabA3Zf8/YT9MEMtHUjI/AAAAAAABSds/zKfmQIiy_9EgO6bxlUOrC9eMsM7QkpstQCLcBGAsYHQ/s4032/IMG_4704.JPG" alt="攀登鍛鍊山前往蓮花池前的碎石崩壁">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-ZlVlfLtclwM/YT9MEOT295I/AAAAAAABSdw/DdkpHSIAz6wF1R2XrNEd7MaMcYQPeUnxACLcBGAsYHQ/s4032/IMG_4709.JPG" alt="九梅吊橋岔路口">
-  <figcaption> 通往九梅吊橋 </figcaption>
-</figure> 
-
-通過九梅吊橋後就是上坡的開始，從這邊要翻過海拔約1100公尺高的越稜點，通往蓮花池。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-fJwJB5qsXp0/YT9MEfyUbLI/AAAAAAABSd0/5FHsYlwf_hMixvwCOp5ljcbB_V53eI4OwCLcBGAsYHQ/s4032/IMG_4719.JPG" alt="九梅吊橋">
-  <figcaption> 九梅吊橋 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-1UUHXQAsBEU/YT9MIRhkFBI/AAAAAAABSeA/iwD4y1ZDrbIqs1p1NKYRdqQCOBQPxcbSACLcBGAsYHQ/s4032/IMG_4724.JPG" alt="前往蓮花池的登山道路">
-  <figcaption>  </figcaption>
-</figure> 
-
-在林間看見了太陽。出發前看氣象預報提到花蓮會是陰雨的天氣，好加在沒下雨，還讓我們看見了太陽公公🌞  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-9FAZZXRnIiY/YT9MITnbFHI/AAAAAAABSd8/lXL4xgF07HYNsUvv1SxvPJwYJvQMBFNfgCLcBGAsYHQ/s4032/IMG_4731.JPG" alt="前往蓮花池的指標">
-  <figcaption> 往蓮花池還有1.028K ! 測量精度有到10m XD </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-R-AWUXSLFQc/YT9MHklKUoI/AAAAAAABSd4/gzZOYXQEUp4U_YZ-V4g965pJvqbIcbblQCLcBGAsYHQ/s4032/IMG_4729.JPG" alt="清脆的梅子">
-  <figcaption> 林間的梅子？ </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156161245_4458713537476446_3297514133521986522_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=KMblYEdi1SQAX84MWcE&_nc_ht=scontent.ftpe7-4.fna&oh=98ba8e60c70f399bc1352fcb339797c8&oe=6078E59D" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157072312_4458713574143109_4672686659056333834_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=EOSApgHrqDUAX-bobcT&_nc_ht=scontent.ftpe7-4.fna&oh=8413d07247b544ab43e44dfc5c5c58b8&oe=607AB759" alt="">
-  <figcaption> 越稜點，可見對岸的舊部落平台 </figcaption>
-</figure> 
-
-到達蓮花池，這裡沒有蓮花呀!!  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-U5ve9R43j5c/YT9MKjB1YZI/AAAAAAABSeI/g878LcZ2ZKgfD7hMVwCI1yCu_wd_Aq5rgCLcBGAsYHQ/s4032/IMG_4756.JPG" alt="蓮花池">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-dLN9nXyb2nk/YT9MKldOkOI/AAAAAAABSeE/XvVLq1o0WykEZEXKPixKmIZIMSBIUYerACLcBGAsYHQ/s4032/IMG_4761.JPG" alt="中橫沿線深處的蓮花池">
-  <figcaption>  </figcaption>
-</figure> 
-
-在蓮花池休息了約20分鐘吃了一點東西。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157312438_4458712384143228_7751885049140452115_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hZK0vSWxZuoAX9VCWyc&_nc_ht=scontent.ftpe7-1.fna&oh=e4b9a57e3a41e0efa57d3981b0375ac1&oe=60770DB4" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-水泥工寮群落。早年退輔會有在此開發過。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-EGVvWG9W8jM/YT9NDNd3_kI/AAAAAAABSfE/H4CAx_KcvBYx0DyIUA8tq4nxOW4MRwQsQCLcBGAsYHQ/s4032/IMG_4764.JPG" alt="退輔會蓮花池水泥房屋">
-  <figcaption>  </figcaption>
-</figure> 
-
-下切前往休督溪溪谷。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-87-WxgwbbxI/YT9M0aE3PBI/AAAAAAABSew/DZl2x0ZpFNoLP2TY0DQGMAAudfNK2cHkQCLcBGAsYHQ/s4032/IMG_4778.JPG" alt="休督溪溪谷">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-CoVTTZVJm6Q/YT9M0W7CzKI/AAAAAAABSes/BUEo38UKM349ZJT-m_YXTrtwLolcBko5ACLcBGAsYHQ/s4032/IMG_4786.JPG" alt="休督溪溪谷中的巨石">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-3jTgXagmjMg/YT9M0QiDzfI/AAAAAAABSeo/3PCVsW4dS7AECoDN1erIY4FaUlLOajoDwCLcBGAsYHQ/s4032/IMG_4795.JPG" alt="休督溪谷上溯準備前往鍛鍊山登山口">
-  <figcaption>  </figcaption>
-</figure> 
-
-切下溪谷。這一段溪谷上溯的距離不長，但有三處需要高繞的地方，其中第二處高繞以及第三處高繞需要小心一點。尤其是第三處高繞，繞上去的距離滿長的，而且路徑不明確。   
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-p1LQV8xhjiQ/YT9QTUWgMtI/AAAAAAABSfc/JhSIJpY-l3c1nC2vq-lNnru8t6OZhkPWgCLcBGAsYHQ/s4032/IMG_4842.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-
-沿途有幾處這種需要渡水的地形，水深及膝
-
-第二處高繞點，這裡的水潭很深，如果有帶足溯溪裝備也打算下水的話可能可以直接過吧?  
-但我們不打算弄太濕，所以從左側山壁高繞。  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-HrqAf2IXGv8/YT9M3f5kAQI/AAAAAAABSe0/YtnJfLrXQQoWBWhRon0Fr9cXEmOG44vAwCLcBGAsYHQ/s4032/IMG_4865.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-
-這一段路是也沒有到太困難，但不知到為什麼，上去架繩再加上大家一個一個拉繩過，竟然花掉快一個小時 = =  
-學弟還一個踉蹌滑倒，還好有抓到繩子，不然就要下去洗澡了...  
-
-通過第二個高繞點後，我們繼續向前，但時間好像已經不太夠我們到達巴奇干社的預定營地了...  
-之前的時間預估得太樂觀  
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-6VNpIFuVjJI/YT9M3mGbwtI/AAAAAAABSe4/SHEDsHkHNTonN2t5BDYncKJNeZutiIyDwCLcBGAsYHQ/s4032/IMG_4860.JPG" alt="休督溪水中的櫻花瓣">
-  <figcaption>  </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-p0ezGNlYl3U/YT9M3gN7_vI/AAAAAAABSe8/gYaHVHWHAOMJRe6q4QV14LEmG5il4DnqwCLcBGAsYHQ/s4032/IMG_4859.JPG" alt="休督溪水中的櫻花瓣">
-  <figcaption> 溪水中的櫻花瓣 </figcaption>
-</figure> 
-
-<figure style="width: 95%" class="align-center">
-  <img src="https://1.bp.blogspot.com/-vVegx7Uo1kE/YT9M4VEfb6I/AAAAAAABSfA/MP2B8wRpFwsN6Jh4Rt27RqR0si7XhNNtgCLcBGAsYHQ/s4032/IMG_4867.JPG" alt="">
-  <figcaption>  </figcaption>
-</figure> 
-
-## Be continued ...
-
-{%include feature_row %}
-
 ## 行程紀錄
 
-# Day1 2021.02.27 :   
+# Day1 2021.02.27 :
 08:25  花蓮客運 1126路線 谷園站下車  
 08:43  迴頭彎登山口 出發  
 09:00  清溪吊橋  
@@ -287,9 +74,9 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
 12:10  溪畔午餐 至 13:00 出發  
 13:35  溪左山壁高繞點，有一條墨綠色扁帶。我們走前面的四人先高繞上攀約10米，在下切。後面另外四人直接沿著岩壁邊坡慢慢走過去，但需要拉繩。這邊幾位同學不太敢走，一個一個人拉繩通過，花了快一小時才全數通過，但對於有經驗者來說這裡應該只是小菜一碟。 14:50 全體隊員通過，繼續前進  
 15:38  巨石落差，這邊也不算困難地形，但一個一個人通過，還要幫忙拉背包，也花了不少時間  
-16:30  溪左高地，研判我們今天應該無法走上駁坎區了，決定在此地迫降。距離前面第三高繞點還需要約20分鐘路程  
+16:30  溪左高地，研判我們今天應該無法走上駁坎區了，決定在此地迫降。距離前面第三高繞點還需要約20分鐘路程
 
-# Day2 2021.02.28 :  
+# Day2 2021.02.28 :
 05:45  C1迫降點出發  
 06:10  第三高繞點，溪左上切  
 第三高繞點是高繞距離最長的一段，沿途陡坡，也幾處地滑很難踩穩，要小心  
@@ -312,7 +99,7 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
 15:37  太魯閣路條 往南切  
 15:44  陡坡拉繩  
 16:05  蕨海  
-16:22  海鼠駐在所，C2  
+16:22  海鼠駐在所，C2
 
 # Day3 2021.03.01 :
 輕裝樂活時間:  
@@ -328,7 +115,8 @@ D0晚上我們搭上八點半由台北發車的普悠瑪號前往新城火車站
 09:52  文山步道岔路  
 09:54  馬黑揚部落  
 10:51  陀優恩社  
-11:32  綠水地質館  
+11:32  綠水地質館
+
 
 ## 鍛鍊海鼠O型縱走 航跡
 *TileLayer is supported by RudyMap*  
@@ -337,7 +125,7 @@ Taiwan Topo Home Pages</a>
 <html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    
+
         <script>
             L_NO_TOUCH = false;
             L_DISABLE_3D = false;
@@ -352,6 +140,30 @@ Taiwan Topo Home Pages</a>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
     <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+
+    <!-- Load Leaflet: http://leafletjs.com/ -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
+
+    <!-- Load Leaflet Basemap Providers: https://github.com/leaflet-extras/leaflet-providers -->
+    <!-- Modified to include USGS TNM web services -->
+    <script src="../../assets/js/leaflet-providers.js"></script>
+
+    <!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  -->
+    <link rel="stylesheet" href="../../assets/css/leaflet.groupedlayercontrol.min.css">
+    <script src="../../assets/js/leaflet.groupedlayercontrol.min.js" type="text/javascript"></script>
+
+    <!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css">
+    <script src="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js"></script>
+
+    <!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms -->
+    <script src="../../assets/js/leaflet.wms.js"></script>
+
+    <!-- Logo Credit Plugin: https://github.com/gregallensworth/L.Control.Credits -->
+    <link rel="stylesheet" href="../../assets/css/leaflet-control-credits.css" />
+    <script type="text/javascript" src="../../assets/js/leaflet-control-credits.js"></script>
+
+
     <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
     <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     
@@ -366,14 +178,14 @@ Taiwan Topo Home Pages</a>
                     top: 0.0%;
                 }
             </style>
-        
+
 </head>
 
 <body>    
    <div class="folium-map" id="map_3e650e6cb20340439214d3c9c747621f" style="width: 100%; height: 600px;"></div>
 </body>
 <script>    
-    
+
             var map_3e650e6cb20340439214d3c9c747621f = L.map(
                 "map_3e650e6cb20340439214d3c9c747621f",
                 {
@@ -385,15 +197,57 @@ Taiwan Topo Home Pages</a>
                 }
             );
 
-            
 
-        
+var defaultBase = L.tileLayer(
+'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png',
+{"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+).addTo(map_3e650e6cb20340439214d3c9c747621f);
+
+            var rudyTile = L.tileLayer(
+                'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudy-Map\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            )
     
-            var tile_layer_94e94bfa6e3e4657a5a24b5d5ed6dfa8 = L.tileLayer(
-                "http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://rudy.basecamp.tw/taiwan_topo.html\"\u003eRudyMap-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_3e650e6cb20340439214d3c9c747621f);
-        
+            var baseLayers = {
+                '地圖產生器': defaultBase,
+                '魯地圖': rudyTile,
+                'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
+                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+            };
+    
+            var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
+    
+            //Overlay grouped layers    
+            var groupOverLays = {
+                "Trails": {
+                    "航跡":happymanGpsTrails
+                }
+            };
+    
+            //add layer switch control
+            L.control.groupedLayers(baseLayers, groupOverLays).addTo(map_3e650e6cb20340439214d3c9c747621f);
+    
+    
+            //add scale bar to map
+            L.control.scale({
+                position: 'bottomleft'
+            }).addTo(map_3e650e6cb20340439214d3c9c747621f);
+    
+            //define Drawing toolbar options
+            var options = {
+                position: 'topleft', // toolbar position, options are 'topleft', 'topright', 'bottomleft', 'bottomright'
+                drawMarker: true, // adds button to draw markers
+                drawPolyline: true, // adds button to draw a polyline
+                drawRectangle: true, // adds button to draw a rectangle
+                drawPolygon: true, // adds button to draw a polygon
+                drawCircle: true, // adds button to draw a cricle
+                cutPolygon: true, // adds button to cut a hole in a polygon
+                editMode: true, // adds button to toggle edit mode for all layers
+                removalMode: true, // adds a button to remove layers
+            };
+    
+            // add leaflet.pm controls to the map
+            map_3e650e6cb20340439214d3c9c747621f.pm.addControls(options);
         
     
             var poly_line_e921af9feb3a409a90576b1bf443db50 = L.polyline(
@@ -2108,12 +1962,223 @@ Taiwan Topo Home Pages</a>
         marker_35bd702dd07d40e2893be03a7de56140.bindPopup(popup_3153ec70729e455c90311bb71993dd05)
         ;
 
-        
-    
+
+
 </script>
 
 <br><br><br>
 
 </html>
 
+## 鍛鍊海鼠O型縱走 圖文紀錄
 
+{% include feature_row %}
+
+# 攀登鍛鍊山前的試煉
+
+星期五晚間我們先搭乘普悠瑪號從台北出發，於晚上十點五十幾分到達新城火車站露宿。隔日一早我們走到台九線上的公車站牌搭乘1126路公車前往中橫公路谷園站。  
+
+由谷園站下車後，還需要走一小段中橫公路方可抵達迴頭彎。體驗一下中橫縱走XD  
+
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-dRvX_OPH03Q/YT9Lv1gmW8I/AAAAAAABSc8/ooNa9DwAeLEOoP7qi_Rg0waceuHDshWeACLcBGAsYHQ/s4032/IMG_4630.JPG" alt="中橫大健走">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-70wqZiKPhrE/YT9LcVj-epI/AAAAAAABScs/29lVk9KJ_jEOtsRLV14ycAPtko8q5LieACLcBGAsYHQ/s4032/IMG_4643.JPG" alt="中橫健行登山">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-T65mBQ149xM/YT9LZqcNVfI/AAAAAAABSco/Gn_aiUPmmWQBfiH9N3FlZu5h8qQRdFc1QCLcBGAsYHQ/s4032/IMG_4658.JPG" alt="雲煙中的太魯閣峽谷">
+  <figcaption> 雲煙中的太魯閣峽谷與中橫公路 </figcaption>
+</figure> 
+
+走約20分鐘到達迴頭彎，這裡是我們鍛鍊海鼠O型縱走的起點。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-juZERQhHujQ/YT9L2rLBMtI/AAAAAAABSdM/a4KMre02jh40Wynboj-U6cMtG3wHMZHigCLcBGAsYHQ/s4032/IMG_4664.JPG" alt="中橫迴頭彎為攀登鍛鍊山的登山口">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-Pd2p549bjw0/YT9Lz2ind8I/AAAAAAABSdE/PKLilTxACcA-wCh36oAWGVHA2WUcJZmJgCLcBGAsYHQ/s4032/IMG_4663.JPG" alt="中橫公路迴頭彎">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-sDfMRdmRXVk/YT9LiqIwPFI/AAAAAAABScw/gXH0yXSe5U0GrDudFUuCU4-1fSrVO_FaQCLcBGAsYHQ/s4032/IMG_4665.JPG" alt="中橫公路迴頭彎開始攀登鍛鍊山">
+  <figcaption>  </figcaption>
+</figure> 
+
+鍛鍊山給我們的鍛鍊考題，第一題。一剛開始從登山口起登就是這麼可怕的崩壁地形呀!!  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-Itk4G4P0108/YT9L4h79D1I/AAAAAAABSdQ/habjmQCITJ471vr-89iE_VAT87vAEqFLACLcBGAsYHQ/s4032/IMG_4670.JPG" alt="鍛鍊山登山口">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/--qY5kPG4tH8/YT9L7Yh7WNI/AAAAAAABSdU/zWkZDAUDPM8BINPnqw9ugcfP9YvptWC0QCLcBGAsYHQ/s4032/IMG_4674.JPG" alt="鍛鍊山登山口一開始的崩塌路">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-UYgg_6M9wj8/YT9L-d7yHkI/AAAAAAABSdc/pku6dU9R6r49qVTYfKkYmWrinWSwy-aWQCLcBGAsYHQ/s4032/IMG_4676.JPG" alt="鍛鍊山登山道路">
+  <figcaption> 山洞中的廢棄速克達 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-139OOuqEDPQ/YT9L-T2owQI/AAAAAAABSdg/8_mjvyMnhOc_zDr33m-z5xbsJhE6hNAYgCLcBGAsYHQ/s4032/IMG_4678.JPG" alt="清溪吊橋為中橫公路前往蓮花池會經過的第一座吊橋">
+  <figcaption> 清溪吊橋 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-QBSkbBNQc2E/YT9L-GfMiNI/AAAAAAABSdY/ugb7qiciOBUCOp99YKeSSYdJ4W02fqLOQCLcBGAsYHQ/s4032/IMG_4682.JPG" alt="清溪吊橋風景">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-vzPMscBCtzc/YT9MAhO5yqI/AAAAAAABSdk/8tV5iNiRnt8ne14WXhujEletelxMew1fwCLcBGAsYHQ/s4032/IMG_4692.JPG" alt="清溪吊橋吊橋頭">
+  <figcaption>  </figcaption>
+</figure> 
+
+通過了清溪吊橋後的崩壁地形，暴露感重，但對於大家平時都有走地形的經驗來說這一段崩壁其實還好，小心通過即可。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-UC4OOE6Qw1w/YT9MArbMHBI/AAAAAAABSdo/8B0TxtmivPwz2iEWzt833awKH-4hE7fvQCLcBGAsYHQ/s4032/IMG_4697.JPG" alt="前往蓮花池前的崩壁地形">
+  <figcaption> 通過清溪吊橋後的拉繩地形 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-itxmabA3Zf8/YT9MEMtHUjI/AAAAAAABSds/zKfmQIiy_9EgO6bxlUOrC9eMsM7QkpstQCLcBGAsYHQ/s4032/IMG_4704.JPG" alt="攀登鍛鍊山前往蓮花池前的碎石崩壁">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-ZlVlfLtclwM/YT9MEOT295I/AAAAAAABSdw/DdkpHSIAz6wF1R2XrNEd7MaMcYQPeUnxACLcBGAsYHQ/s4032/IMG_4709.JPG" alt="九梅吊橋岔路口">
+  <figcaption> 通往九梅吊橋 </figcaption>
+</figure> 
+
+通過九梅吊橋後就是上坡的開始，從這邊要翻過海拔約1100公尺高的越稜點，通往蓮花池。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-fJwJB5qsXp0/YT9MEfyUbLI/AAAAAAABSd0/5FHsYlwf_hMixvwCOp5ljcbB_V53eI4OwCLcBGAsYHQ/s4032/IMG_4719.JPG" alt="九梅吊橋">
+  <figcaption> 九梅吊橋 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-1UUHXQAsBEU/YT9MIRhkFBI/AAAAAAABSeA/iwD4y1ZDrbIqs1p1NKYRdqQCOBQPxcbSACLcBGAsYHQ/s4032/IMG_4724.JPG" alt="前往蓮花池的登山道路">
+  <figcaption>  </figcaption>
+</figure> 
+
+在林間看見了太陽。出發前看氣象預報提到花蓮會是陰雨的天氣，好加在沒下雨，還讓我們看見了太陽公公🌞  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-9FAZZXRnIiY/YT9MITnbFHI/AAAAAAABSd8/lXL4xgF07HYNsUvv1SxvPJwYJvQMBFNfgCLcBGAsYHQ/s4032/IMG_4731.JPG" alt="前往蓮花池的指標">
+  <figcaption> 往蓮花池還有1.028K ! 測量精度有到10m XD </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-R-AWUXSLFQc/YT9MHklKUoI/AAAAAAABSd4/gzZOYXQEUp4U_YZ-V4g965pJvqbIcbblQCLcBGAsYHQ/s4032/IMG_4729.JPG" alt="清脆的梅子">
+  <figcaption> 林間的梅子？ </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/156161245_4458713537476446_3297514133521986522_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=KMblYEdi1SQAX84MWcE&_nc_ht=scontent.ftpe7-4.fna&oh=98ba8e60c70f399bc1352fcb339797c8&oe=6078E59D" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://scontent.ftpe7-4.fna.fbcdn.net/v/t1.0-9/157072312_4458713574143109_4672686659056333834_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=EOSApgHrqDUAX-bobcT&_nc_ht=scontent.ftpe7-4.fna&oh=8413d07247b544ab43e44dfc5c5c58b8&oe=607AB759" alt="">
+  <figcaption> 越稜點，可見對岸的舊部落平台 </figcaption>
+</figure> 
+
+到達蓮花池，這裡沒有蓮花呀!!  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-U5ve9R43j5c/YT9MKjB1YZI/AAAAAAABSeI/g878LcZ2ZKgfD7hMVwCI1yCu_wd_Aq5rgCLcBGAsYHQ/s4032/IMG_4756.JPG" alt="蓮花池">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-dLN9nXyb2nk/YT9MKldOkOI/AAAAAAABSeE/XvVLq1o0WykEZEXKPixKmIZIMSBIUYerACLcBGAsYHQ/s4032/IMG_4761.JPG" alt="中橫沿線深處的蓮花池">
+  <figcaption>  </figcaption>
+</figure> 
+
+在蓮花池休息了約20分鐘吃了一點東西。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/157312438_4458712384143228_7751885049140452115_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=0debeb&_nc_ohc=hZK0vSWxZuoAX9VCWyc&_nc_ht=scontent.ftpe7-1.fna&oh=e4b9a57e3a41e0efa57d3981b0375ac1&oe=60770DB4" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+水泥工寮群落。早年退輔會有在此開發過。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-EGVvWG9W8jM/YT9NDNd3_kI/AAAAAAABSfE/H4CAx_KcvBYx0DyIUA8tq4nxOW4MRwQsQCLcBGAsYHQ/s4032/IMG_4764.JPG" alt="退輔會蓮花池水泥房屋">
+  <figcaption>  </figcaption>
+</figure> 
+
+下切前往休督溪溪谷。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-87-WxgwbbxI/YT9M0aE3PBI/AAAAAAABSew/DZl2x0ZpFNoLP2TY0DQGMAAudfNK2cHkQCLcBGAsYHQ/s4032/IMG_4778.JPG" alt="休督溪溪谷">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-CoVTTZVJm6Q/YT9M0W7CzKI/AAAAAAABSes/BUEo38UKM349ZJT-m_YXTrtwLolcBko5ACLcBGAsYHQ/s4032/IMG_4786.JPG" alt="休督溪溪谷中的巨石">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-3jTgXagmjMg/YT9M0QiDzfI/AAAAAAABSeo/3PCVsW4dS7AECoDN1erIY4FaUlLOajoDwCLcBGAsYHQ/s4032/IMG_4795.JPG" alt="休督溪谷上溯準備前往鍛鍊山登山口">
+  <figcaption>  </figcaption>
+</figure> 
+
+切下溪谷。這一段溪谷上溯的距離不長，但有三處需要高繞的地方，其中第二處高繞以及第三處高繞需要小心一點。尤其是第三處高繞，繞上去的距離滿長的，而且路徑不明確。   
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-p1LQV8xhjiQ/YT9QTUWgMtI/AAAAAAABSfc/JhSIJpY-l3c1nC2vq-lNnru8t6OZhkPWgCLcBGAsYHQ/s4032/IMG_4842.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+沿途有幾處這種需要渡水的地形，水深及膝
+
+第二處高繞點，這裡的水潭很深，如果有帶足溯溪裝備也打算下水的話可能可以直接過吧?  
+但我們不打算弄太濕，所以從左側山壁高繞。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-HrqAf2IXGv8/YT9M3f5kAQI/AAAAAAABSe0/YtnJfLrXQQoWBWhRon0Fr9cXEmOG44vAwCLcBGAsYHQ/s4032/IMG_4865.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+
+這一段路是也沒有到太困難，但不知到為什麼，上去架繩再加上大家一個一個拉繩過，竟然花掉快一個小時 = =  
+學弟還一個踉蹌滑倒，還好有抓到繩子，不然就要下去洗澡了...  
+
+通過第二個高繞點後，我們繼續向前，但時間好像已經不太夠我們到達巴奇干社的預定營地了...  
+之前的時間預估得太樂觀  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-6VNpIFuVjJI/YT9M3mGbwtI/AAAAAAABSe4/SHEDsHkHNTonN2t5BDYncKJNeZutiIyDwCLcBGAsYHQ/s4032/IMG_4860.JPG" alt="休督溪水中的櫻花瓣">
+  <figcaption>  </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-p0ezGNlYl3U/YT9M3gN7_vI/AAAAAAABSe8/gYaHVHWHAOMJRe6q4QV14LEmG5il4DnqwCLcBGAsYHQ/s4032/IMG_4859.JPG" alt="休督溪水中的櫻花瓣">
+  <figcaption> 溪水中的櫻花瓣 </figcaption>
+</figure> 
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-vVegx7Uo1kE/YT9M4VEfb6I/AAAAAAABSfA/MP2B8wRpFwsN6Jh4Rt27RqR0si7XhNNtgCLcBGAsYHQ/s4032/IMG_4867.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure> 
+
+## Be continued ...
+
+{%include feature_row %}
