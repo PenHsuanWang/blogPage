@@ -55,7 +55,6 @@ feature_row:
 </figure> 
 
 
-<a href="/blogPage/mt-note-literal-100peaks/CantralN2/" class="btn btn--primary">完整文字紀錄</a>
 
 
 ## 南湖西北稜航跡
