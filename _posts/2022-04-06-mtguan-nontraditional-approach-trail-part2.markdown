@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "鐵本山登關山 part1 關山桃花源"
-excerpt: "鐵本山位於在高雄桃源區梅蘭部落旁邊，荖濃溪谷東側中央山脈的支稜，海拔2523公尺。攀登途中可見荖濃溪谷風光，可以遠眺對岸的玉山山脈。此條稜線登上關山需要自己找路，必須做足準備。"
+title:  "鐵本山登關山 part2 再次與南一段雲海相約"
+excerpt: "鐵本山上關山是一條由中級山起登的非傳統百岳行程，前往中央山脈南一段最高峰大關山的途徑。南一段在秋冬之際時常可見雲海，登上主稜後可見東側雲海彼岸的屯古嶺稜線以及卑南東稜。向北可見中央山脈主稜從觀山北峰連線延伸向向陽大崩地壯闊的景觀。"
 
-date: 2022-04-04 06:00:00 +0800
+date: 2022-04-06 06:00:00 +0800
 categories: mt-note-photo-100peaks
 classes: wide
   - landing
@@ -14,48 +14,44 @@ tags:
   - 中央山脈南一段
 
 header:
-  image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHuAYYLvtVZdxlOjVM9RrwdtoGtPds975SPy-s5g2meT06fUWJpjuBW23pHLAQdOyR5z6yEVjlvA1jQ-XCm_dgy8jypSsR3Fscip-gy1ojx2wL1StEXgz-8h-W01YxnN1zOpKqugHcDAQUxPXVVM8hostatiihH0SjHkQgnco-0sT-uIJ2fLDEljM/s1280/IMG_1945.JPG
-  teaser : https://cdntwrunning.biji.co/1024_9d2f44b3f724c29a099cba5c0412589b.jpg
-  image_description: ""
+  image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_2JOBtk3epqMXh0GLQe2zojuVoCgqWfzai28KjZvBJkP-12z7Bbx6CdvQalDbGRjwc7wib2d4fixDKxu6AojTpdLKSDhisiCS0cwWgAdx3mWsP9RkRqrKO-ut9cS5VSjVpYFwhJ-sN7QNRDyDoCCWcFACg1WU8IZtpDman2SJsbKObeTjkW0qZTN/s6240/IMG_2236.JPG
+  image_description: "https://images.pexels.com/photos/12247768/pexels-photo-12247768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   overlay_filter: 0.5
 
 feature_row:
-- image_path: https://cdntwrunning.biji.co/1024_4aff641da744e67303ec5ad076921bb5.jpg
-  title: "鐵本山登關山 part2 再次與南一段雲海相約"
-  excerpt: "再次登上南一段主稜，這次從鐵本山登上南台首嶽--關山，也是今年暨小關山、卑南東稜兩隊後，第三次登臨南一段主稜。同樣也再次見到南一段的雲海。下午四點多，登上主稜後印入眼簾的是東台灣的雲海，日光斜照，側光條件下雲海與山形顯得立體，再一次與南一段群山相約。"
-  url: "mt-note-photo-100peaks/mtguan-nontraditional-approach-trail-part2/"
+- image_path: https://cdntwrunning.biji.co/1024_9d2f44b3f724c29a099cba5c0412589b.jpg
+  title: "鐵本山登關山 part1 關山桃花源"
+  excerpt: "鐵本山位於在高雄桃源區梅蘭部落旁邊，荖濃溪谷東側中央山脈的支稜，海拔2523公尺。攀登途中可見荖濃溪谷風光，可以遠眺對岸的玉山山脈。此條稜線登上關山需要自己找路，必須做足準備。"
+  url: "mt-note-photo-100peaks/mtguan-nontraditional-approach-trail-part1/"
   btn_class: "btn--primary"
   btn_label: "Go To"
 
 ---
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://images.pexels.com/photos/12213632/pexels-photo-12213632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <img src="https://images.pexels.com/photos/12247768/pexels-photo-12247768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
   <figcaption>  </figcaption>
 </figure>  
 
-我又回來了，中央山脈南一段! 今年第三度光臨南一段。這次路線是從烏夫冬山、鐵本山稜線攀登前往中央山脈南一段的關山。  
-南一段離我的生活圈很遠，加上交通不便，我是到今年元旦才初次攀登南一段山頭，但想不到今年還沒過一半，我已經三度造訪這一帶山區了。
-第一次的路線是從小關山林道經由神池攀登小關山。
-第二次是從卑南東稜爬上卑南主山。
-這次是從鐵本山爬關山。
-我分了三次分開爬了南一段的百岳，現在只差海諾南山了(剩最中間的這座感覺不好處理了🤔)，以後要來安排一條可以爬海諾南山的非傳統路，從屯古嶺上好像是一個選擇。
-
-鐵本山位於在高雄桃源區 梅蘭部落旁邊，荖濃溪谷東側中央山脈的支稜，海拔2523公尺。攀登途中可見荖濃溪谷風光，可以遠眺對岸的玉山山脈。可看到玉山主峰、群峰高山區，從南玉山延伸過來往魔界脘山、南面山、以及我們正對面的新望嶺，再繼續向南延伸像高雄平原，玉山山脈南段盡收眼底。
-
-鐵本山過後的稜線沒有可怕的地形，不過有非常茂密的芒草，且沒有路跡、沒有路條，要前往此條路線前一定要做好充足準備。
-這趟行程第一天是紮營在H2490的最低鞍部北面，從茂密的芒草叢鑽出，眼前是一片平緩的草原谷地，東北方向可清楚看見關山，此處營地宛如世外桃源，恰巧此處正是高雄桃源，因此命名此地為桃源谷營地。
-南台灣的天氣相對穩定，冬季時時常可見壯麗的雲海，前兩次來的時候都有欣賞到南一段群峰搭配雲海，這次當然也不例外，雲高大約在 3200左右，卑南主山以及海諾南山被埋在雲海中，南邊與小關山相望。往北望去，可見塔關山連往向陽山的主稜，夕陽西下之際，向陽大崩壁更顯得立體。
-
-很高興這三次光顧南一段都是遇上好天氣。
-這次也是近十年來登山社首隊伍登上南台首岳 -- 關山。
-
+鐵本山上關山行程第二天，鑽過茂密的芒草叢，走過陡峭的鐵杉林稜線，爬過協板岩，下午三點半左右，登上南一段主稜。此行也是我今年暨小關山、卑南東稜兩隊後，第三次登臨南一段主稜。同樣也再次見到南一段的雲海。  
+從鐵本山稜線登上主稜後印入眼簾的是東台灣的雲海，西半部雲海雲高大約在 3200公尺左右，往南望去只有小關山出現，海諾南山以及更南邊的卑南主山被雲海埋沒。然而雲層翻過中央山脈主稜後往東邊，向馬斯伯爾溪谷傾瀉而下。中央山脈主稜向東延伸的屯古嶺，又稱海諾南山東稜，下次要把南一段百岳爬完的話從屯古嶺上來好像會是個不錯的選擇。  
+前幾天有鋒面通過，雖然天氣兩天前已經轉晴，然而空氣依然冷冽，由其實稜線上狂風不止。雖說能見整段山脈搭配雲海的大景十分感動，但也不敢停下腳步太久，吃點東西後遂行前往下一個指定地點，關山頂。  
+想到2008年 88風災發生時我還在念高中，從此以後南橫中斷許久，南一段也變成了黑山，要造訪關山沒有只能偷偷摸摸，更何況當年還在念書，要來到南一段車資頗貴，因此南一段只能放在心中許願清單的最後面，只是想不到今年還沒過一半，我就來南一段走了三次。而且還是從不同路線XD。
+登上關山後可環顧四周，向南可見到南一段百岳，以及更遠方的北大武山。向北方可見氣勢不凡的向陽山。日落前的陽光照射角度剛好可以顯現出整段山稜的立體感。  
+行程延誤也有獨特的美景可看，尤其是日落十分，地平線上的太陽將關山向東拖出長長的影子，投影在東邊的雲海上。直到關山影子碰到東邊的地平線。  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://images.pexels.com/photos/12167411/pexels-photo-12167411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ziGgWWyvQeeDrK8l6BmYtR-ePXD0iI-x7As0pXDw9RSfHRaHR1-k5agzDzaUGGUkdY8KjWWqXN1iRlWSL_KYd66dy2HJodYuYfjqbmizacVaPtoykmWaaCCEgBqGA3F85Y_9-NphXtmc-8kRkYvSdPOYTWtaCfWPyHoGBGr82iXHDfyQ8Z3fHaLh/s6240/IMG_2385.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
+隨後黑夜降臨。不過我們已經回到傳統路了，根據大家平時都有在鍛鍊，且找路能力都很好，傳統路的夜路還招架得住。但登山最好是不要摸黑，以後安排行程還是得注意一下。  
+翌日早上巡庫哈諾辛山下天池。登頂庫哈諾辛山後可見到關山以及鐵本山，整段稜線十分清楚，準備回家前的最後一刻，站在庫哈諾辛山上回望來時路，頗為感動。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_de3df19ca9247026a346fe2dac8c016e.jpg" alt="由南橫三星庫哈諾星山回望鐵本山稜線">
+  <figcaption> 庫哈諾星山頂回望來時路 -- 鐵本山、烏夫東山稜線 </figcaption>
+</figure>
 
 [航跡](#鐵本山登關山航跡)
 
@@ -66,7 +62,7 @@ feature_row:
 14:20 中央大學集合出發  
 18:30 抵達荖濃國小前小七，晚餐，20分鐘後出發  
 19:30 抵達梅蘭部落，20:00南橫飲食店老闆開貨車接駁產業道路，前往大水塔登山口。  
-20:40 抵達大水塔登山口，C0。荖濃溪谷中有雲海。遠處可見高雄市夜景，上方滿天星斗，看來明天會是個好天氣。  
+20:40 抵達大水塔登山口，C0。荖濃溪谷中有雲海。遠處可見高雄市夜景，上方滿天星斗，看來明天會是個好天氣。
 
 # 2022-04-04 D1
 06:17 出發，天氣晴。從烏夫冬山登山口出發，先是一段陡上    
@@ -82,7 +78,7 @@ feature_row:
 17:00 桃花源谷營地 C1，卸下裝備，隨即前往北側溪谷取水，下到乾溪床後往西順著溪床走，約15分鐘到魯地圖表示之活水源，水沿著岩壁滴落，需要小碗盛裝較好取。再走10分鐘，途中經過一直立枯木，右方有地下滲出的伏流，約5分鐘取完15公升的水。  
 17:32 河床  
 17:43 岩壁水源 小  
-18:37 回營，桃花源谷營地，準被晚餐。約七點半就寢。入夜後十分寒冷，連帳棚內側都結霜了。都已經四月了，海拔才2500還結霜，誇張XD  
+18:37 回營，桃花源谷營地，準被晚餐。約七點半就寢。入夜後十分寒冷，連帳棚內側都結霜了。都已經四月了，海拔才2500還結霜，誇張XD
 # 2022-04-05 D2
 07:15 c1出發，繼續與芒草奮戰，一路些微之字上去，抵H2640鞍部前沿稜左走  
 08:46 H2640鞍部  
@@ -102,13 +98,13 @@ feature_row:
 17:47 關山  
 18:02 進森林  
 18:10 拉繩  
-20:33 森林營地  
+20:33 森林營地
 # 2022-04-06 D3
 07:06 山屋岔路  
 11:29 中之關古道  
 11:33 木梯 右 往天池  
 11:49 天池  
-12:37 上車  
+12:37 上車
 
 ## 鐵本山登關山航跡
 <html>
@@ -2579,442 +2575,221 @@ feature_row:
 
 
 ## 圖文系列
-
 {% include feature_row %}
 
 ## 圖文紀錄
 
-鐵本山
-
-一路上南橫公路上都還飄著霧雨，
-D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山山脈以及中央山脈中間的荖濃溪谷地。隨著鋒面離去，高空的雲逐漸退散，可見雲層已經下降到溪谷中。南橫公路沿線的燈光將雲海點亮。遠處還可見到高雄市區的燈火。
+從鐵本山稜線接上中央山脈主稜，天氣很好，只不過時間不早了，不能休息太久，馬上啟程前往關山。
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_2976c036a33634c6712bcd19a21483a0.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-經過一夜休息，隔日一早六點，準時從烏夫冬山登山口出發。  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_a3a79727c0c7939fdbf92065ac36ed2d.jpg" alt="">
+  <img src="https://images.pexels.com/photos/12214075/pexels-photo-12214075.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_dfdd45b74f4fa0e26d24ad456ee3b93d.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_d607495b63b90d80340049fbd4ebc6d7.jpg" alt="">
-  <figcaption> 昨晚的雲霧散去，可清楚見到荖濃溪谷 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_6228cf256380008a01ef2c24ff4fde8e.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-從烏夫冬山這側往南望去，隔著拉克斯溪，可見中央山脈隔壁一條支稜，小關山-斯拉巴庫山 稜線。  
-這也是今年我們踏上南一段的第一隊。
-[小關山林道 神池登斯拉巴庫山](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/ShaoGuanShan-Day2/)
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_71cfcb323463fda4fec955ab9b4b92e1.jpg" alt="斯拉巴庫山為小關山延伸出來的支稜">
-  <figcaption> 小關山-斯拉巴庫山 連稜 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_5a99c62d3f8b5107bf43f6d8a451c423.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-此處也可見此行的目標 -- 關山
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_19398b487df4efac8b4c622998e19a0f.jpg" alt="烏夫冬山前眺望鐵本山以及關山">
-  <figcaption>  </figcaption>
-</figure>
-
-烏夫冬山距離登山口不遠，出發後約15分鐘即可到達
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_ae24face0a163105908fcaee17b54595.jpg" alt="烏夫冬山為高雄南橫公路地區的中級山">
-  <figcaption> 烏夫冬山　二等三角點 </figcaption>
-</figure>
-
-稍作休息後繼續出發，往鐵本山前進。
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_6ac14d29681aca686091c6e1d55172f0.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_5111a1f9c33df200a00bd7ae12543ccb.jpg" alt="">
-  <figcaption> 稜線南側展望　可見小關山 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_b9961744281929cf8af9a19822a48565.jpg" alt="烏夫冬山望向小關山以及斯拉巴庫山稜線">
-  <figcaption> 小關山以及斯拉巴庫山連稜 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_ddcd636d290e3a349f9cab755b183a5e.jpg" alt="烏夫冬山回望荖濃溪谷">
-  <figcaption> 回望荖濃溪谷 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_6c7cff714c6380e2981b413e25f50763.jpg" alt="鐵本山登山路徑">
-  <figcaption> 前往鐵本山的山徑　一開始雜草多，但不至於阻礙行徑 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_aa3515ad4eddfa16a6281b5fb7fcc854.jpg" alt="">
-  <figcaption> 落葉林　林相乾淨好走 </figcaption>
-</figure>
-
-早上11點左右，到達鐵本山。
-三等三角點。
-
-從烏夫冬山到鐵本山的路線比較好走，平常也都有人造訪，還有路跡可以跟。
-但我們接下來要走的路可就沒這麼舒服了。  
-從鐵本山繼續往關山的稜線沒有路跡、沒有路條!  
-要來嘗試的山友們可要先做足功課了。  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_951325d46a897b666e4fa30dd9db4ccb.jpg" alt="鐵本山山頂有一座三等三角點">
-  <figcaption> 鐵本山山頂 無展望 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_61cfed03787ae5d997b7a9760692f520.jpg" alt="">
-  <figcaption> 落葉林中行走，此處植披還很稀疏，不構成行進阻礙 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_3006ab3bf846313d52facd516fa4be3f.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_03fe5bd6db25f9fb1867c2fb62a52361.jpg" alt="">
-  <figcaption> </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_22416354c2c96f688b87d40ebee5c2bb.jpg" alt="">
-  <figcaption> 持續前進，看到芒草叢了 </figcaption>
-</figure>
-
-此處有一小段腰繞，不太好走，不過沒有拍到，此處以文字補充。
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_30987c1564e747f3a2bb6589ce09b7fd.jpg" alt="">
-  <figcaption> 遠方山上的瀑布 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_283c345d7569812efc7ffb8c61c4fb99.jpg" alt="鐵本山登關山路徑上遙望關山">
-  <figcaption> 關山 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_aa02932d18c8dcac2df41b91c277483b.jpg" alt="">
-  <figcaption> 進入芒草區 </figcaption>
-</figure>
-
-進入噩夢芒草區，這裡一帶芒草濃密，高度比人還高，經過這裡真的只能鑽鑽鑽  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_939e913a0a9a4e69b27620c20bf1c171.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_dbaa62fd7a79f4d30650e3a8887a8524.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-上到稜線，在前進一點推到 H2658山頭上，此處是今天芒草上坡路的終點了。休息片刻。接下來就是一路向下前往今天的營地。  
-營地位置位於H2500左右的鞍部。  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_17304fd4a8b331049fd84dfec9591757.jpg" alt="">
-  <figcaption> 到達H2658峰，中場休息 </figcaption>
-</figure>
-
-要下到鞍部的途中還是要繼續跟濃密的芒草搏鬥。下行鑽芒草比較輕鬆一點，但還是要小心別滑倒，腳下土石鬆軟，戴上手套抓芒草幫忙煞車。
-一路下降走起來挺順的，到達H2500鞍部。往北轉，前往今日營地。  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_80d42284029d2602f6497365777f9499.jpg" alt="">
-  <figcaption> 抵達鞍部後向北轉，前往桃花源谷營地 </figcaption>
-</figure>
-
-從上方 H2658峰一路到 H2500鞍部都是茂密的芒草叢，不過從鞍部往北側前進沒多久，芒草叢消失了，鑽出草叢後，眼前是一片廣大的谷地。植披短箭竹叢為主，往下走一點可見營地，是短草皮，住起來很舒服。往前望去還可清楚地看到關山矗立於前方。這是一座可以仰望關山的營地。  
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12167411/pexels-photo-12167411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption> 先放一張隔天早上用單眼拍的營地照 </figcaption>
-</figure>
-
-此處營地尚未被命名，鑽出芒草叢後印入眼簾的是如此美麗的山谷、且在可以眺望關山、下行不遠處又有活水，因此命名為桃花源谷營地好了。  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_927f95e63e4f2217fd76e9e9e2dd4e59.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_28b565b7353f3e3702f60adc26888c39.jpg" alt="">
-  <figcaption> 紮營位置，短草坡上，旁邊幾處水鹿池 </figcaption>
-</figure>
-
-營地沒有水源，需要向北下行至溪谷。
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_266548f510ba68b0736174ba0ad459ae.jpg" alt="">
-  <figcaption> 出發取水 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_e342d9c556fa7cd6990924e908ffa295.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_0c11379452a115f70a6f96a1fe45426d.jpg" alt="">
-  <figcaption> 先通過一小段小溪溝 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_b77e6f2ba84aecb7b991b9db9673690d.jpg" alt="">
-  <figcaption> 小溪溝匯入大的溪床中，尚未有活水，需要繼續向下游前進約10分鐘，右側有山壁水源 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_8d5a1053c3f2024f32b834bbfccf4415.jpg" alt="">
-  <figcaption> 溪床好走 </figcaption>
-</figure>
-
-當天晚上一入夜溫度驟降，帳篷外側馬上結霜!  
-鋒面剛過，今天是大晴天，可以看見滿天星斗，也許是晴天的輻射冷卻，讓地面降溫的更快!  
-不過都已經4月了，而且這裡海拔才2500左右而已，竟然也可以一入夜馬上冷到結冰!  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_dc8dfa71a0323cd7733c49acf61f4021.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-隔天一早出門，草地上結滿了霜。放在外面的營柱袋子也被凍得硬梆梆的。  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_07e0796e6564439bcb9790d3bde6de54.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12167412/pexels-photo-12167412.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption> 冷支支呀! </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12167410/pexels-photo-12167410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption> 蒹葭蒼蒼 白露為霜 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12167415/pexels-photo-12167415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12167409/pexels-photo-12167409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption> 拔營準備出發 </figcaption>
-</figure>
-
-早上拔營後出發，繼續向關山挺進。  
-今天路程還很長，我們要登上中央山脈南一段主稜，突破海拔3600，登上南台首嶽 -- 關山  
-
-第一段稜線也都是茂密芒草穿雜箭竹，上到 2640過後轉為箭竹叢 + 松林  
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12179609/pexels-photo-12179609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12179608/pexels-photo-12179608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-海拔接近 2800 公尺後，鐵杉林出現
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12213626/pexels-photo-12213626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12179606/pexels-photo-12179606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-接著來到一處崩壁頂部，路線右側是一片崩壁，我們走在崩壁頂上，不危險，小心通行即可。  
-此段稜線展望很好，可以清楚看見我們今天的目標 關山  
-路線左側可以望見玉山山脈以及更後方的阿里山山脈。  
-有看見去年雙十節爬的南霞山，以及隔壁的棚幾山。  
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_e2963252ea7c54939a074731754d7794.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12213625/pexels-photo-12213625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12213632/pexels-photo-12213632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12213631/pexels-photo-12213631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12213628/pexels-photo-12213628.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption> 路線右側崩壁 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12213627/pexels-photo-12213627.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12213630/pexels-photo-12213630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-隨後進入一片鐵杉林，前方有一處溪谷，此處海拔約2900。
-溪谷是前往主稜的最後水源，時間剛好十一點多，我們在這裡休息片刻，補水、吃午餐。
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_c08c965c41ffa539fd9d96c4d1c862cf.jpg" alt="">
-  <figcaption> H2900 溪谷活水源 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_8b011f99bc094d0dd8807d1801611ab6.jpg" alt="">
-  <figcaption> 溪谷合影 </figcaption>
-</figure>
-
-午餐過後，繼續向主稜推進，海拔也突破3000公尺了。
-從溪谷出發後先是在樹林中上升約150公尺，隨後接到一條稜線，轉向東繼續前進，出森林，植披轉向箭竹草叢
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_d698270a37391f9ae02d6ead7b80841e.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_466c8db670d4be6b7dc4568ba1bf7b4b.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12214077/pexels-photo-12214077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="鐵本山上關山準備登上中央山脈南一段稜線">
-  <figcaption> 出森林後 視野變得很開過，可以看見今天的目標，先是一座假山頭，以及後方遠處的中央山脈主稜 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12214070/pexels-photo-12214070.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="鐵本山登關山是由中級山攀登百岳的一條非傳統路線">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12214068/pexels-photo-12214068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12214079/pexels-photo-12214079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-登上主稜前最後一段路，這邊也變得稍微難走一點，有許多刺柏、玉山圓柏灌木叢，需要特地找路繞過它們。以及此處有一些岩板需要爬過，要格外小心。此段路暴露感稍高一點。  
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12214072/pexels-photo-12214072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12214066/pexels-photo-12214066.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12214065/pexels-photo-12214065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="鐵本山上關山是一條非傳統路登百岳路線">
-  <figcaption> 登臨南一段主稜最後一段爬坡 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://images.pexels.com/photos/12214074/pexels-photo-12214074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
-  <figcaption> 往南望去的雲海 </figcaption>
-</figure>
-
-下午四時許，登上南一段主稜。感動，往東方看去，東側山谷中是一片雲海
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_9addcd180d3dac9064a5d520088c7e72.jpg" alt="">
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_e15b55035adc8c84631c8f2250ccc128.jpg" alt="">
-  <figcaption>  </figcaption>
+  <img src="https://images.pexels.com/photos/12247765/pexels-photo-12247765.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption> 繼續向關山前進 </figcaption>
 </figure>
 
 <figure class="align-center">
   <img src="https://images.pexels.com/photos/12247767/pexels-photo-12247767.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption> 往南望向小關山、卑南主山 </figcaption>
+</figure>
+
+今年元旦登頂小關山時也差不多是這樣的景色。當時心想何時才能登上關山。
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh93uwq3xxbyDJeQlGkC4IaWXmhw5B1bD3l5e275pd5pFXxvChpY444zIa7X4pSyKRz3I2PRmwSagzHskEAvQ-utOSh5a5wSKShs9Y-93EB0Bl7GyybWAAU5Hp2hso7SS5LnTvRjSbHOxPZt3PvIROTPNdLKldV3bJIlUAFmNP8x6JHirRoog4VJeyi=s6240" alt="">
+  <figcaption> 今年元旦時登上小關山望向關山 </figcaption>
+</figure>
+
+想不到過了四個月後就來了XD  
+登上主稜後，南二段的向陽大崩壁也進入視野中  
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12247769/pexels-photo-12247769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+下午 17:40 太陽就快下山了，此刻剛好登上關山頂。  
+四月初高雄桃源區的日落時間大約是在晚上 18:12，我們趕在日落前半小時登頂，好在天氣好，我們還有最後30分鐘的日光可以享受。  
+不過這種日落時分太陽測光且強度剛好，是絕佳的攝影時間。
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12247770/pexels-photo-12247770.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_def26ba83cb3d1ee3373a839436967a7.jpg" alt="中央山脈南一段主稜上的雲海景觀">
-  <figcaption> 往南望向小關山、卑南主山方向，中央山脈南一段 </figcaption>
+  <img src="https://images.pexels.com/photos/12247768/pexels-photo-12247768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption> 關山頂的雲海落日 </figcaption>
 </figure>
 
-今年三度來到南一段，好像有一點來得太平凡了XD。  
-不過都是從不同方向登上這段稜線，視角不同，從這山望那山。可以勾出前幾隊的種種記憶。  
-"你看，那就是今年元旦爬過的小關山"  
-"那邊是卑南東稜的起點，美奈田山，我們當初就是從那邊走過來的"  
-"那裡就是卑南主山，我們就是在那邊過年的"  
-
-卑南東稜系列:  
-[Day1-Day2 啟程 延平林道登美奈田山](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day1/)  
-[Day3-Day4 佐美姬山與相原山](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day2/)  
-[Day4-Day5 從呂禮山前往山之巔](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/)  
-[Day5-Day6 翻越卑南主山 完成東西橫斷](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day5-to-Day6/)  
-
-登上主稜只完成一半而已，我們今天要登上關山，翻過去，往庫哈諾辛山推過去，眼看時間也不早了，今天勢必摸黑，還是得趕一下路。  
-登山主稜沒休息太久，便又背上背包出發。  
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12247774/pexels-photo-12247774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption> 關山頂 </figcaption>
+</figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_8eee2b5198f1a787685a7780bc9ef390.jpg" alt="">
+  <img src="https://images.pexels.com/photos/12247772/pexels-photo-12247772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption> 二等三角點 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyC3aT5DMKS-gGzLcJ74bTpUvk78aD1Y0Ak1gfkOPWJn0WHMMDE_N90yyZ1n5IvXVSQ1ctit7vXqFA9TSQzjRdDf74UwNfDEz2YvPtElPxeTHSzoKpxQDhZgDAlMO1OdxlLhTdWP-rL71uJ4Je1h_9etBEPS0vHHQ4wABb5uB3NcslnP42Ow6vgzJO/s6240/IMG_2346.JPG" alt="">
+  <figcaption> 難得的登頂照，社團隊伍造訪久違的南一段 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaRvjKzTGniZLlKrHtKqP4xAwXSO2rBujcRbr9YiJQUyI91k3lRoAztP0ik9XHgu2Z1JVdK6tvBzQ70p3AmQspq73OMjQeuwuPnOmXOg9Xy6YZbyt4FngWOXmMGuRz0fvUyu8Gy2ZFkH9YNaF0AANmOoiFKzyLpYlbQKqslAj_1j3G9Cvyq6p8KP0Q/s6240/IMG_2275.JPG" alt="">
+  <figcaption> 東方雲海蓋住了台東海端鄉一帶的中級山區，遠處可見新康山 </figcaption>
+</figure>
+
+日落之際，太陽光角度剛好，更顯得山形的立體，山影映在雲海上更有氣勢。眼前可見塔關山延伸向南橫啞口的可怕岩稜，在啞口一帶被雲海蓋過，隨後延伸向關山嶺山以及向陽山。
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZMUWRQGRIq881j64mZa0vG6HAXwHgtfvVusQ5e53w-9LVL14rTUIbTc_xIioqG1Ba92_i5dnY3bhHaU2PphNYu3xEoV46EKJQCKesThkfGPKpdSVTe4LKMk3qQNxl5ZRayauHd-3N8J1KJsPJvt1tfKZe_3WHPXL8Z74lquz_5grcg9ZENP4pzO2C/s6240/IMG_2272.JPG" alt="">
+  <figcaption> 關山頂望南二段向陽大崩壁 </figcaption>
+</figure>
+
+往東南方望去可見遠處的中級山大王 -- 美奈田主山，海拔 2900以上的一等三角點。  
+今年二月才走過的卑南東稜，從美奈田主山向西北方向延伸至佐美姬山、相原山、呂禮山，隨後通過卑南主山東峰連向主稜。
+兩個月後的今天由關山頂望過去，當初走過的路線記憶猶新。　　
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0OI671YZ82cpCfV2ZEq7GjFXCpoW2RL1QuU5n62BPdNf12Wp9JJmFXNI4uB9d5jpemtfo1pipaZrPPISc9MdPZfZGhexbdUIbZX9SF3eqHST90Nzss2B4iAJ8n_1Lx18NefzrTA-4Op-X1hBoiFVDliaTzX7jC0eU2L5Wn3PDh27f08rBjNFFPnSs/s6240/IMG_2366.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCNaDhuQ3RrSZBHjcjNArkb2t2MPxP9NRuzgGfUcq26iGw1JLiLw7ryHoBs2LSYVVdDNVYmietyXIb2LyO16jkKBYkQ4canVhqYi1Dv3LhpSfHu-A24QrVcUnqxUMyua_ygopIaadu6Sbh2K2HoqXd22xfboEBLSX9YuhgnJzjSjFMAbXslduqQpfv/s6240/IMG_2368.JPG" alt="">
+  <figcaption> 日落之際　關山影子投影在雲海上 </figcaption>
+</figure>
 
+在關山上沒待太久，我們便啟程繼續前進。今天摸黑是一定的，但我們要趕在夜幕降臨前趕快離開空曠區。至少進入森林後，風會減弱一些。
+一直吹風真的是冷斃了。  
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpLWLRcvWvj8b4pAGuOmYONPcJ89K5sZvpzShpWYXhLQQD2XjMiSMY7bBSIZ40SrkR0of8To-_FGQwDo0jw1_ZnMxNRzDShOjfchAVC0OdgveICtqscuXrrjgzcWUU1zZ_73t3W6Hxhp95Th6AKJfZERTQ5aRXY0fVG1hOad26c4HPi_Jcf_QVmKxV/s6240/IMG_2370.JPG" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylnplYWQErgZfFKIvVnqLB5TmamODEhyVSlH2uOqO2Lw28ohw8shjlSNho1GwcmWMr7zs9A98RVC-OcwFacG5svx5TmigNTOwAIa5kQk1qY9Pe7XNFaq8eJTAebhlXwDem1mm5VbG1w7qa4sXRR6V4_VLvpaaAXkodYfHBQ550s9UhC2a9oI_kzoQ/s6240/IMG_2367.JPG" alt="">
+  <figcaption> 卑南東稜以及大關山的影子 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ziGgWWyvQeeDrK8l6BmYtR-ePXD0iI-x7As0pXDw9RSfHRaHR1-k5agzDzaUGGUkdY8KjWWqXN1iRlWSL_KYd66dy2HJodYuYfjqbmizacVaPtoykmWaaCCEgBqGA3F85Y_9-NphXtmc-8kRkYvSdPOYTWtaCfWPyHoGBGr82iXHDfyQ8Z3fHaLh/s6240/IMG_2385.JPG" alt="">
+  <figcaption> 大關山的影子快碰到東方的地平線囉^^ </figcaption>
+</figure>
+
+雖後夜幕降臨，我們也趕在天黑前通過約15米的拉繩地形，進到鐵杉林中。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_10767b7be2cb11a5653c7f7e40bdc51d.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_c9ff058dc23dea4859516be895f05a5c.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_ab6314b7d2d4d56025f6902e5ed1b181.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_434d0a314502b99819b21efd06d89045.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+約晚上九點到達宿營地點。簡單吃點東西後速速就寢。其實我們離下山的路已經很近了。明天輕鬆走一下就可以出去。這趟摸黑壓力不是特別大。
+
+翌日早晨，向庫哈諾辛山以及北邊的玉山群峰打招呼，繼續前進。
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428393/pexels-photo-12428393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="鐵本山上關山路線第三天庫哈諾辛山屋">
+  <figcaption> 庫哈諾辛山屋 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428396/pexels-photo-12428396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428395/pexels-photo-12428395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption> 回望來時路，關山 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428390/pexels-photo-12428390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="南一段庫哈諾辛山欣賞玉山群峰">
+  <figcaption> 玉山群峰、雲峰 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_e9921dd0611696eb2c966470b02459f5.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428397/pexels-photo-12428397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="鐵本山上關山中級山上百岳稜線">
+  <figcaption> 庫哈諾辛山以及後方的玉山群峰 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428394/pexels-photo-12428394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="鐵本山上關山非傳統路登山路線">
+  <figcaption> 荖濃溪谷，鐵本山、烏夫冬山方向。後方為玉山山脈南段 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_de3df19ca9247026a346fe2dac8c016e.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_329151bd92c6384d788d0afcdac8cd9a.jpg" alt="南一段庫哈諾辛山欣賞南二段群山百岳風景">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428389/pexels-photo-12428389.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="南一段庫哈諾辛山回望關山">
+  <figcaption> 前望庫哈諾辛山的半路上回望關山 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428392/pexels-photo-12428392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="">
+  <figcaption> 關山北側崩壁溪谷 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://images.pexels.com/photos/12428391/pexels-photo-12428391.jpeg?cs=srgb&dl=pexels-p-hsuan-wang-12428391.jpg&fm=jpg" alt="">
+  <figcaption> 登頂庫哈諾辛山 </figcaption>
+</figure>
+
+庫哈諾辛山，南一段最北端的百岳。接下來的路就是順順的下山，前往南橫天池。準備下山去甲仙吃芋頭冰囉
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_038bba5b4eee5657d691672076c4fad0.jpg" alt="">
+  <figcaption> 南橫公路 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_28b2545e5c1ffbb7a54b9a4c87cdd922.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_3414d1f0156ec284ddc664129b326773.jpg" alt="">
+  <figcaption> 下山 南橫天池 準備搭車回家囉 </figcaption>
+</figure>
+
+謝天謝地讓我們這三天都遇到很好的天氣，還有平安順利完成這次鐵本山上關山的行程。  
+每一次非傳統路登百岳所能帶來的樂趣都不相同。經過辛苦找路、鑽草叢、與有刺植物奮戰，登上山頂後滿足感可能是普通路線的十倍以上XD
+下次再來物色其他條非傳統路登百岳路線。  
 
 ## 圖文系列
-
 {% include feature_row %}
