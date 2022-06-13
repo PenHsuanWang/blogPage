@@ -15,7 +15,8 @@ tags:
 
 header:
   image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_2JOBtk3epqMXh0GLQe2zojuVoCgqWfzai28KjZvBJkP-12z7Bbx6CdvQalDbGRjwc7wib2d4fixDKxu6AojTpdLKSDhisiCS0cwWgAdx3mWsP9RkRqrKO-ut9cS5VSjVpYFwhJ-sN7QNRDyDoCCWcFACg1WU8IZtpDman2SJsbKObeTjkW0qZTN/s6240/IMG_2236.JPG
-  image_description: "https://images.pexels.com/photos/12247768/pexels-photo-12247768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  teaser : https://images.pexels.com/photos/12247768/pexels-photo-12247768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+  image_description: ""
   overlay_filter: 0.5
 
 feature_row:
