@@ -14,7 +14,7 @@ tags:
   - 中央山脈南一段
 
 header:
-  image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_2JOBtk3epqMXh0GLQe2zojuVoCgqWfzai28KjZvBJkP-12z7Bbx6CdvQalDbGRjwc7wib2d4fixDKxu6AojTpdLKSDhisiCS0cwWgAdx3mWsP9RkRqrKO-ut9cS5VSjVpYFwhJ-sN7QNRDyDoCCWcFACg1WU8IZtpDman2SJsbKObeTjkW0qZTN/s6240/IMG_2236.JPG
+  image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_2JOBtk3epqMXh0GLQe2zojuVoCgqWfzai28KjZvBJkP-12z7Bbx6CdvQalDbGRjwc7wib2d4fixDKxu6AojTpdLKSDhisiCS0cwWgAdx3mWsP9RkRqrKO-ut9cS5VSjVpYFwhJ-sN7QNRDyDoCCWcFACg1WU8IZtpDman2SJsbKObeTjkW0qZTN/s2048/IMG_2236.JPG
   teaser : https://images.pexels.com/photos/12247768/pexels-photo-12247768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
   image_description: ""
   overlay_filter: 0.5
@@ -34,7 +34,7 @@ feature_row:
   <figcaption>  </figcaption>
 </figure>  
 
-鐵本山上關山行程第二天，鑽過茂密的芒草叢，走過陡峭的鐵杉林稜線，爬過協板岩，下午三點半左右，登上南一段主稜。此行也是我今年暨小關山、卑南東稜兩隊後，第三次登臨南一段主稜。同樣也再次見到南一段的雲海。  
+鐵本山上關山行程第二天，鑽過茂密的芒草叢，走過陡峭的鐵杉林稜線，爬過板岩，下午三點半左右，登上南一段主稜。此行也是我今年暨小關山、卑南東稜兩隊後，第三次登臨南一段主稜。同樣也再次見到南一段的雲海。  
 從鐵本山稜線登上主稜後印入眼簾的是東台灣的雲海，西半部雲海雲高大約在 3200公尺左右，往南望去只有小關山出現，海諾南山以及更南邊的卑南主山被雲海埋沒。然而雲層翻過中央山脈主稜後往東邊，向馬斯伯爾溪谷傾瀉而下。中央山脈主稜向東延伸的屯古嶺，又稱海諾南山東稜，下次要把南一段百岳爬完的話從屯古嶺上來好像會是個不錯的選擇。  
 前幾天有鋒面通過，雖然天氣兩天前已經轉晴，然而空氣依然冷冽，由其實稜線上狂風不止。雖說能見整段山脈搭配雲海的大景十分感動，但也不敢停下腳步太久，吃點東西後遂行前往下一個指定地點，關山頂。  
 想到2008年 88風災發生時我還在念高中，從此以後南橫中斷許久，南一段也變成了黑山，要造訪關山沒有只能偷偷摸摸，更何況當年還在念書，要來到南一段車資頗貴，因此南一段只能放在心中許願清單的最後面，只是想不到今年還沒過一半，我就來南一段走了三次。而且還是從不同路線XD。
