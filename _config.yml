@@ -139,6 +139,10 @@ collections:
     output: true
     permalink: /:collection/:path
 
+  mt-note-photo-foreign:
+    output: true
+    permalink: /:collection/:path
+
   mt-note-photo-100peaks:
     output: true
     permalink: /:collection/:path
@@ -360,6 +364,20 @@ defaults:
       sidebar:
         nav: "main"
 
+
+  - scope:
+      path: ""
+      type: mt-note-photo-foreign
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "main"
 
   - scope:
       path: ""

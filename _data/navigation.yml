@@ -22,6 +22,8 @@ main:
 #        url: /categories/mt-note-photo-historicaltrail/
       - title: "中級山"
         url: /categories/mt-note-photo-midalt/
+      - title: "海外登山健行"
+        url: /categories/mt-note-photo-foreign/
       - title: "郊山"
         url: /categories/mt-note-photo-townsadjacent/
   - title: "山岳攝影"
