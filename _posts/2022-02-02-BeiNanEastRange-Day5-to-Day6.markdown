@@ -7689,27 +7689,27 @@ feature_row:
 經歷了五天的中級山路線，我們終於登上這次行程的第一座3000公尺高山 -- 卑南東峰。由此回望我們走過的稜線，東邊的呂禮山--馬蕃粕稜線、呂禮山向西方延伸過來的稜線，這兩條稜線所圈出的高山草原谷地，這是一處鮮少有人探訪的區域，雖然一年還是有幾支隊伍會來造訪，但相較於傳統路線，這裡寧靜許多。台灣山區最原始的環境，從中級山森林、灌木叢、高山箭竹草坡等等，但願如此美景可以繼續保存下去。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi4j-QZE_G-vMZp81d3EX5-TuVP169Jg2FrxyZSzTHwBKotMskYHZewf63SKtIvqt8r2vDP8d7NaoeWvbwrraL9sSQC1Vp680ybyLaWSR0HhLvQdU1OnHA8ttwQE9DKWAEfJVVgtfJcT-tylXcl7b2iXXlwYnFrVwM6LV767cnGFetTK6QSJenjCHG/s6240/IMG_1336.JPG" alt="卑南主山東峰前望向伊加之蕃溪谷流域">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi4j-QZE_G-vMZp81d3EX5-TuVP169Jg2FrxyZSzTHwBKotMskYHZewf63SKtIvqt8r2vDP8d7NaoeWvbwrraL9sSQC1Vp680ybyLaWSR0HhLvQdU1OnHA8ttwQE9DKWAEfJVVgtfJcT-tylXcl7b2iXXlwYnFrVwM6LV767cnGFetTK6QSJenjCHG/s2048/IMG_1336.JPG" alt="卑南主山東峰前望向伊加之蕃溪谷流域">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQgJMhqmDTOr4yQgD0PzqSll_eclz6EiJ7MMsxkL0ENZcFXUWg_JRkceDokdqgd55W0Hl3FMW-t3VUnTgkui7V-TugLhU5czhhp1VoJkHb94TWC1JLYeYa4Lexf6IHYK7iHA67ob-6lcMYqpZKIfN1ttrzeUEI-z96CIxKg5vPN9e4F3WuutQR7wpu/s6240/IMG_1418.JPG" alt="卑南東稜路線上前往卑南主山">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQgJMhqmDTOr4yQgD0PzqSll_eclz6EiJ7MMsxkL0ENZcFXUWg_JRkceDokdqgd55W0Hl3FMW-t3VUnTgkui7V-TugLhU5czhhp1VoJkHb94TWC1JLYeYa4Lexf6IHYK7iHA67ob-6lcMYqpZKIfN1ttrzeUEI-z96CIxKg5vPN9e4F3WuutQR7wpu/s2048/IMG_1418.JPG" alt="卑南東稜路線上前往卑南主山">
   <figcaption> 卑南主山東峰 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhkiJ5gdgSZgkcQ0-J6Zv5F9qW6GQB2Tk_UuO8onbdqSjKwDVimaQKdSaLAaKtakWYVsj03au_GaXAjbqWlSZwLXvzh5b-Qjw7ydM5Rd3vdrDNu-Na6A0uKRaXuU6S3DZZjgWRZgc-eU2C85LfOMtuUyNzvTVer6nR7kXxnPoKp1STDwXEtCF_0Eb/s6240/IMG_1439.JPG" alt="卑南主山東峰回望完整的卑南東稜可見美奈田主山以及佐美姬山和相原山">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhkiJ5gdgSZgkcQ0-J6Zv5F9qW6GQB2Tk_UuO8onbdqSjKwDVimaQKdSaLAaKtakWYVsj03au_GaXAjbqWlSZwLXvzh5b-Qjw7ydM5Rd3vdrDNu-Na6A0uKRaXuU6S3DZZjgWRZgc-eU2C85LfOMtuUyNzvTVer6nR7kXxnPoKp1STDwXEtCF_0Eb/s2048/IMG_1439.JPG" alt="卑南主山東峰回望完整的卑南東稜可見美奈田主山以及佐美姬山和相原山">
   <figcaption> 卑南主山東峰回望走過的整段稜線，呂禮山、相原山、佐美跡山、以及最遠處尖尖的美奈田主山</figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh881XaTkxC9p7b122e2m0QqYnSCD3n0IFqGgNDLmoZK_ZV1zXnr2msIuIjeYsosgJovES5y3K_cqtmIqujHorXN6IV6Xxd3obm7Ur_QFTeowKGuYumUSiGeY3Z0AksWpgpNjUZtjsSPeqgjXsiicGSI74NZD5iDcmLU5sDL2i4L7jmIp5xp2ymnkQ2/s6240/IMG_1442.JPG" alt="卑南東稜最後一段路由東峰前往卑南主山">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh881XaTkxC9p7b122e2m0QqYnSCD3n0IFqGgNDLmoZK_ZV1zXnr2msIuIjeYsosgJovES5y3K_cqtmIqujHorXN6IV6Xxd3obm7Ur_QFTeowKGuYumUSiGeY3Z0AksWpgpNjUZtjsSPeqgjXsiicGSI74NZD5iDcmLU5sDL2i4L7jmIp5xp2ymnkQ2/s2048/IMG_1442.JPG" alt="卑南東稜最後一段路由東峰前往卑南主山">
   <figcaption> 由卑南主山東峰望向前方的卑南主山 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJD4MXWR9rUsEPQUoiayXOMKVqFZwjr00wjto_j4XUkUGAW_ju2MLlsQmwX3ZqS6U-ofN_0cOyrFzesH6qU-ZPYkLEOmyzKVUUxVb3rvJxbO62NumsNoL_r7WAUErxmmloeU7RcEedLCArqghf0H4vMmrd5snYD-C-Mw65VGmPmVBVqhxRfe02MTj/s6240/IMG_1395.JPG" alt="展望中央山脈南一段主稜以及南二段">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJD4MXWR9rUsEPQUoiayXOMKVqFZwjr00wjto_j4XUkUGAW_ju2MLlsQmwX3ZqS6U-ofN_0cOyrFzesH6qU-ZPYkLEOmyzKVUUxVb3rvJxbO62NumsNoL_r7WAUErxmmloeU7RcEedLCArqghf0H4vMmrd5snYD-C-Mw65VGmPmVBVqhxRfe02MTj/s2048/IMG_1395.JPG" alt="展望中央山脈南一段主稜以及南二段">
   <figcaption> 卑南主山東峰向北展望，中央山脈南一段以及遠方的南二段主稜 </figcaption>
 </figure>
 
@@ -7815,29 +7815,29 @@ feature_row:
 下午四點半，登頂卑南主山。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtPyHkKKfWib4tZaF4JmrilQ9iaYLVJzEdVOAMjtZetwTNoNAyJpdOgzz37ofbDIO4X0Le-pVHls2kGMJhwUZI7AxxzdjtMuBsbFBx-Itb8W-jJk7QMl_PF_Bj9QQI8hzqtmeaf6RyqscTXgdyXZPMf13SiM3OxkvTUQXE0C9-7IKD2Ej7KWLjo65S/s6240/IMG_1621.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtPyHkKKfWib4tZaF4JmrilQ9iaYLVJzEdVOAMjtZetwTNoNAyJpdOgzz37ofbDIO4X0Le-pVHls2kGMJhwUZI7AxxzdjtMuBsbFBx-Itb8W-jJk7QMl_PF_Bj9QQI8hzqtmeaf6RyqscTXgdyXZPMf13SiM3OxkvTUQXE0C9-7IKD2Ej7KWLjo65S/s2048/IMG_1621.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQm6QSFe-66D0FiT_XioAlziZjxKBY7fxDG8gnp0T9D3D9sAIgUolfhoAtmExURW_c1xxJszrSPhMC4S6NcruxRR1zbfDztH5Ov_bSqakzhaSak1WlsezWMdQGAbqE80B0H4zbSxknhd7ILjZRRTSq7P2MGys4eCA8RQxbR0dBjWqwhrcAnJFBK-T/s6240/IMG_1629.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQm6QSFe-66D0FiT_XioAlziZjxKBY7fxDG8gnp0T9D3D9sAIgUolfhoAtmExURW_c1xxJszrSPhMC4S6NcruxRR1zbfDztH5Ov_bSqakzhaSak1WlsezWMdQGAbqE80B0H4zbSxknhd7ILjZRRTSq7P2MGys4eCA8RQxbR0dBjWqwhrcAnJFBK-T/s2048/IMG_1629.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DywcF0Toyy9u_nNt4yKi4ZVTwupxA9JKFLHRHaiesja32Sp2NJhclVnW33zjGetJuqoeA51kU5_BW0USipSoufY6PLMSXrMDZs8SCtniKNdfIpBNdoqM2AANwOe022YqNYMhuS2Gn24WVPLKTxSFriYlwYvZLLsAY_oOh4AbjmymmWlgvUnFOm72/s6240/IMG_1631.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DywcF0Toyy9u_nNt4yKi4ZVTwupxA9JKFLHRHaiesja32Sp2NJhclVnW33zjGetJuqoeA51kU5_BW0USipSoufY6PLMSXrMDZs8SCtniKNdfIpBNdoqM2AANwOe022YqNYMhuS2Gn24WVPLKTxSFriYlwYvZLLsAY_oOh4AbjmymmWlgvUnFOm72/s2048/IMG_1631.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcgqvwTpFarR2rS0UFS_-ioacqAX9lqgbnN0fTjLKJZ2atDLWhV5fcqBBVGdrTsCNO_7Bn5dOzjPLvuJnTqiR_Hg4XP_Ig995fG5r937BteNU_UJ1Zvr8oxKbTdVdDHTjDZu_CV69BbuWWpGp6138ikZs-iVVxCJMPHDJt9ddfsI4oq-YjkhEgsBRZ/s6240/IMG_1680.JPG" alt="">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcgqvwTpFarR2rS0UFS_-ioacqAX9lqgbnN0fTjLKJZ2atDLWhV5fcqBBVGdrTsCNO_7Bn5dOzjPLvuJnTqiR_Hg4XP_Ig995fG5r937BteNU_UJ1Zvr8oxKbTdVdDHTjDZu_CV69BbuWWpGp6138ikZs-iVVxCJMPHDJt9ddfsI4oq-YjkhEgsBRZ/s2048/IMG_1680.JPG" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 此時往南望去可見南南段群峰與雲海相伴，北大武山佇立於遙遠的天邊。
 
 <figure class="align-center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfAxTgu0kwZxXcVlEdCA4WzEQ2waBhjtdrsTDYTJ9NmhVpbT-UTVPQfsuf4c5v9vBAAxOXJVXKWrHb5Iik6q561w0PP9MWdS-ktxVx-K1ljRXh11288ealpdbtCnWp5UwWfrwVDfZdxOzmAfVRTPVs3tIp3VvE73MpRMR1v0Gs4XHDpz2VLlgpxgjq/s6240/IMG_1703.JPG" alt="卑南主山眺望南南段群峰以及遙遠的北大武山">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfAxTgu0kwZxXcVlEdCA4WzEQ2waBhjtdrsTDYTJ9NmhVpbT-UTVPQfsuf4c5v9vBAAxOXJVXKWrHb5Iik6q561w0PP9MWdS-ktxVx-K1ljRXh11288ealpdbtCnWp5UwWfrwVDfZdxOzmAfVRTPVs3tIp3VvE73MpRMR1v0Gs4XHDpz2VLlgpxgjq/s2048/IMG_1703.JPG" alt="卑南主山眺望南南段群峰以及遙遠的北大武山">
   <figcaption> 南南段群峰與北大武山 </figcaption>
 </figure>
 
