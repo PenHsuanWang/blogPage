@@ -593,10 +593,22 @@
                 }
             );
 
-            var defaultBase = L.tileLayer(
-            'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png',
-            {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+            var defaultBase = L.tileLayer.provider('OpenTopoMap').addTo(map_ba895f87caf845e69fd00513328208e8);
+
+            var jpmap1925 = L.tileLayer(
+                'https://gis.sinica.edu.tw/tileserver/file-exists.php?img=JM50K_1924_new-png-{z}-{x}-{y}',
+                {"attribution": "中央研究院臺灣百年歷史地圖 WMTS 服務 \u003ca href=\"https://rs.happyman.idv.tw\"\u003eGIS Tile Services\u003c/a\u003e "}
+            )
+
+            var tw_2001_25K = L.tileLayer(
+                'https://gis.sinica.edu.tw/tileserver/file-exists.php?img=TM25K_2001-jpg-{z}-{x}-{y}',
+                {"attribution": "中央研究院臺灣百年歷史地圖 WMTS 服務 \u003ca href=\"https://rs.happyman.idv.tw\"\u003eGIS Tile Services\u003c/a\u003e "}
+            )
+
+            var happymanTile = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            )
 
             var rudyTile = L.tileLayer(
                 'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
@@ -604,10 +616,9 @@
             )
     
             var baseLayers = {
-                '地圖產生器': defaultBase,
-                '魯地圖': rudyTile,
+                'OSM Topo': defaultBase,
+                '2001 經建三版': tw_2001_25K,
                 'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
-                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
             };
     
             var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
@@ -3408,68 +3419,68 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
+        <a href="/blogPage/mt-note-photo-foreign/swiss-grindelwald-first-bachsee/" rel="permalink">瑞士 格林德瓦 在阿爾卑斯山漫步 由First健行前往Bachsee
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">少女峰旁邊的超美山城-格林德瓦(Grindelwald)
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "https://3.bp.blogspot.com/-6YiSLv9Un38/WvmBg1B8RoI/AAAAAAAA2Ro/rbEo0z7AkDo-jE_m7lWHI5oXkVeLMe7fwCLcBGAs/s1600/_MG_9082.JPG"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/blogPage/mt-note-photo-foreign/swiss-engelberg-trubsee/" rel="permalink">瑞士 英格堡 Trübsee 健走
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "https://3.bp.blogspot.com/-6YiSLv9Un38/WvmBg1B8RoI/AAAAAAAA2Ro/rbEo0z7AkDo-jE_m7lWHI5oXkVeLMe7fwCLcBGAs/s1600/_MG_9082.JPG"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
         <a href="/blogPage/mt-note-photo-foreign/france-jura-hiking/" rel="permalink">法國 侏羅山脈(Jura)健走 探訪內日峰(Crêt de la Neige)
 </a>
       
     </h2>
     
     <p class="archive__item-excerpt" itemprop="description">位於瑞士Geneva跟法國小鎮St.Genis的交界。可以看到北方的侏羅山脈Upper Jura Chain，這次規劃法國健走的路線，從Thoiry出發前往最高峰內日峰(Crêt de la Neige)。
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://cdntwrunning.biji.co/1024_c93f861b4419ffbed0b580f73330a7c1.jpeg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-midalt/sandiagocap-snowmountainrange-tail-hiking/" rel="permalink">三貂角上雪山尾稜 雪貂縱走 台灣極東山角點
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">從台灣地理東極點-三貂角接雪山尾稜，沿途經過萊萊山登上隆隆山，在沿著雪山山脈尾稜向南前往隆林山、鶯歌石山、大崛澳山、石城山。
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://cdntwrunning.biji.co/1024_9d2f44b3f724c29a099cba5c0412589b.jpg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-100peaks/mtguan-nontraditional-approach-trail-part1/" rel="permalink">鐵本山登關山 part1 關山桃花源
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">鐵本山位於在高雄桃源區梅蘭部落旁邊，荖濃溪谷東側中央山脈的支稜，海拔2523公尺。攀登途中可見荖濃溪谷風光，可以遠眺對岸的玉山山脈。此條稜線登上關山需要自己找路，必須做足準備。
 </p>
   </article>
 </div>
