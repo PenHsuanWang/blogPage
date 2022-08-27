@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "觀霧高嶺古道 draft"
-excerpt: "在新竹、苗栗山林的深處，藏著百年前的故事。高嶺古道建於日本時代，從新竹州竹東郡的霞喀羅古道主線出發，始於田村台駐在所，沿著蜿蜒的溪谷前進"
+title:  "觀霧 高嶺古道銜接根本檜山道路"
+excerpt: "在新竹、苗栗之間的深山中，藏著百年前的故事。高嶺古道建於日本時代，從新竹州竹東郡的霞喀羅古道主線出發，始於田村台駐在所，繞過霞喀羅大山西側，沿著蜿蜒的前進，越過檜山稜線，前往觀霧、北坑溪古道一帶。"
 
 date:   2022-08-19 08:00:00 +0800
 categories: mt-note-photo-historicaltrail
@@ -52,83 +52,122 @@ header:
 
 
 
+<figure style="width: 45%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_8b5e73e1c512ba716b4a2616e96bb2b8.jpg" alt="檜山住在所與根本古道">
+  <figcaption> 由根本古道望相檜山住在所大門、中央坡道 </figcaption>
+</figure>  
+
+高嶺古道、根本古道，興建於日本時代(1921年)，合併稱為鹿場連嶺道路，銜接竹東郡與大湖郡，從今天的的霞喀羅古道田村台駐在所出發，繞行於霞喀羅大山的西側，越過檜山稜線，通往大湖郡北坑溪一帶(今天的雪見方向)。在苗栗泰安鄉這側的路段稱為高嶺古道，而在稜線北面新竹這側的路段稱為根本古道。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_aa557ecf84463e2d180ab9870c8f7e96.jpg" alt="檜山住在所內遺留的日治時期古道礙子">
+  <figcaption> 檜山住在所內遺留的礙子 </figcaption>
+</figure>
+
+經過了100年後的今天(2022年)，曾經熙來攘往的道路又被大自然給收回去了，淹沒在荒煙蔓草之中，脆弱的地質每每在大雨過後崩塌，沖斷了許多路段，導致現今要完整走整條古道已經是不大可能的事情了。  
+駐在所遺址是古道漫步中的亮點，早年日本警察駐紮於此，大間一點的駐在所則備有酒保與客房等民生設施可供往來行旅投宿。如該條越嶺道路中的 佐藤警官駐在所 是規模最大的一座。  
+本次登山行程的方向由觀霧出發，延大鹿林道東線前進，至4k附近的轉彎處，探訪第一座駐在所 神崎駐在所。接著巡稜上切接上古道，前往本田駐在所、高嶺駐在所，越過郡界街上根本古道，接著探訪新竹這次的檜山駐在所，然而根本古道從檜山住在所這一段前往霞喀羅的路已經毀於大大小小的崩塌。因此我們走上稜線，從檜山往佐藤山方向的稜線，前往佐藤駐在所，探訪完佐藤住在所後再繼續上稜，沿著稜線走到根本駐在所上方後再沿著稜線下探。  
+依循此路線，探過鹿場連嶺道路沿線的駐在所。  
+
+<figure style="width: 95%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_0d20a135efa2af22a0c3c57b90f8473e.jpg" alt="高嶺古道銜接根本古道的結城東鞍路段的古道遺構">
+  <figcaption> 結城東鞍的古道遺構 </figcaption>
+</figure>
+
+
 ## 行程紀錄
 
 # Day1 2022-08-19 :
-05:18:16 山椒魚出發 🦎  
-05:32:19 大鹿林道東線入口  
-06:53:18 神崎駐在所  
-07:56:05 溼滑邊坡多咬人貓  
-08:06:26 碎石坡 有拉繩  
-08:26:03 密林區 小高繞 阿晉路條  
-09:01:46 古道 路徑寬  
-09:17:02 小夯土牆  
-09:21:37 馬達拉駐在所  
-10:48:56 古道遺構  
-11:11:18 平坦營地 4T3  
-11:14:33 古道崩 高繞  
-11:58:09 崩壁  
-13:54:42 倒木鑽樹洞  
-14:18:36 本田駐在所  
-16:35:22 中央走道  
-16:37:36 大營地  
+05:18 山椒魚出發 🦎  
+05:32 大鹿林道東線入口 拍照 05:42 出發  
+06:53 大鹿林道東線 4.4k 神崎駐在所 (反光鏡右側有明顯路徑，1分鐘就到了)  
+07:15 4.4K出發(上切點於反光鏡斜對面有點陡約三米)  
+07:22另一可上切點(過4.4K後一個溪溝可緩上古道)  
+07:25 古道路基，沿路多處溼滑邊坡，有許多咬人貓  
+07:57 有繩碎石崩壁橫渡，橫渡距離約30公尺，遠傳有網路，過崩壁尾端有兩條路，一條往上(踩點較明顯)另一條跟著繩子走，我們一開始尋踩點方向往上，不過發現上方沒有路底，決定向下切到拉繩附近，有點落差不大好走。  
+08:25 接回古道  
+08:26 密林區 小高繞 阿晉路條  
+09:01 古道 路徑寬  
+09:17 小夯土牆  
+09:20 馬達拉駐在所，休息，09:51 出發
+10:48 古道遺構  
+11:11 平坦營地 4T3  
+11:14 古道崩 取左高繞  
+11:58 本田前大崩壁，橫渡方向先微微向下切到最低點溪溝，最後上爬回到古道另一端點。  
+13:35 崩塌邊坡簡單架繩找踩點橫渡(暴露感大)，上下皆有布條(我們走下面的藍色布條)  
+13:54 倒木鑽樹洞  
+14:18 本田駐在所，稍作休息，拍照，14:35 出發(此時已開始下雨)  
+14:43 溪溝取水，水量較小花了一些時間 15:10 出發  
+15:45 有一芒草崩塌可左切高遶約十米(直接過去有危險)  
+16:35 高嶺駐在所，中央走道  
+16:37 大營地，高嶺駐在所  C1
 
 # Day2 2022-08-20:
-07:08:53 倒木芒草海 小高繞  
-07:30:36 結城山上切點  
-07:55:06 結城山  
-09:14:11 溪溝 細流水源  
-09:22:27 古道遺構  
-09:56:44 崩壁高繞  
-10:26:26 下背探路  
-10:53:10 高繞頂點  
-11:05:31 接回古道  
-11:34:48 檜木上的礙子*2  
-11:42:35 倒木上的礙子  
-11:48:21 疑似古道遺構  
-11:55:26 巨木  
-12:26:01 古道崩壁高繞點  
-12:40:20 崩壁高繞結束 接回古道 小溪活水  
-12:54:08 古道遺構 石頭路基  
-12:55:36 檜山駐在所  
-16:07:20 檜山道路上下線交會點  
+06:50 出發  
+07:08 倒木芒草海 小高繞  
+07:30 結城山上切點  
+07:52 結城山，休息拍照，08:05出發返程  
+08:40 回到結城山上切點，取背包，繼續沿古道出發。  
+09:14 溪溝 細流水源  
+09:22 結城東鞍，古道遺構，新竹苗栗縣界，由此接上根本古道。休息，09:45 出發續行。  
+09:56 崩壁高繞，50m崩，舊路植被密，目測不太好過，往更高的地方繞(有路跡)，怕切不回去，花不少時間找路。    
+10:26 下背探路  
+10:41 重新集合，整裝走高繞路  
+10:53 高繞頂點  
+11:05 接回古道，下切緩稜回古道(過完50m崩) 高高繞了約100m  
+11:34 檜木上的礙子*2  
+11:42 倒木上的礙子  
+11:48 疑似古道遺構  
+11:55 巨木  
+11:58 小崩壁橫渡(好走)  
+12:26 古道崩壁高繞點  
+12:40 崩壁高繞結束 接回古道 小溪活水  
+12:54 古道遺構 石頭路基  
+12:55 檜山駐在所 C2
 
 # Day3 2022-08-21:
-06:39:45 上切檜山  
-07:18:56 箭竹  
-07:58:35 茂密箭竹海  
-08:18:44 展望新竹竹南  
-08:22:32 H2527 假山頭  
-08:29:45 檜山  
-09:36:49 檜山佐藤岔路 往佐藤  
-10:38:30 崩壁上緣  
-10:45:06 小凹谷  
-12:26:21 大樹空地休息出發  
-13:28:04 下切點前巨木  
-14:13:43 接回古道  
-14:19:46 倒木區  
-14:23:49 倒木低繞  
-14:36:18 跨倒木  
+06:35 出發，駐在所後方稜線上切(有點陡)  
+07:02 上稜  
+07:18 箭竹  
+07:58 茂密箭竹海  
+08:00 檜山岔(上至檜山岔箭竹茂密，但有路底可循，接近檜山岔有展望)  
+08:18 展望新竹竹南  
+08:22 H2527 假山頭  
+08:27 檜山，休息拍照，08:45出發  
+09:36 檜山佐藤岔路 往佐藤  
+10:38 崩壁上緣  
+10:45 小凹谷  
+11:45 巨木小鞍  
+11 55 (705，131)山頭休 12:26 出發  
+12:50 寬稜中找路  
+13:28 下切點前巨木，休息與巨木合照，13:55出發  
+14:13 接回古道  
+14:19 倒木區  
+14:23 倒木低繞  
+14:36 跨倒木  
+14:47 佐藤駐在所  C3
+
 
 # Day4 2022-08-22:
-06:59:19 佐藤山前鞍部  
-07:16:36 佐藤山  
-08:18:28 2320峰  
-08:31:52 寬稜  
-09:53:57 根本古道下切點  
-10:21:32 小斷頭 左繞  
-10:35:29 陡下  
-10:50:37 鞍部下切根本古道  
-10:57:55 離開乾洗溝往右 岩石堆  
-11:03:24 接上古道  
-11:08:48 根本駐在所  
-11:22:21 駐在所西南側  
-12:58:34 回程上切  
-13:06:45 回程鞍部  
-13:39:33 回程上稜線  
-14:21:14 霞客羅大山叉路  
-15:11:35 古道  
-16:30:40 石鹿登山口   
+06:27 出發  
+06:59 佐藤山前鞍部  
+07:16 佐藤山，休息至07:32出發  
+08:18 2320峰  
+08:31 寬稜，最低鞍獵寮，休息至08:54  
+09:53 前往根本駐在所下切點  
+10:21 小斷頭 左繞，小心通過即可  
+10:35 陡下，5m垂直岩壁拉繩下切(手腳點多，有樹根可抓)  
+10:50 鞍部下切根本古道  
+10:57 離開乾洗溝往右 岩石堆  
+11:03 接上古道  
+11:08 根本駐在所，有長滿芒草的階梯通到駐在所門口(兩側皆有)，門口是兩個石柱基底。煮泡麵午餐。在根本駐在所休息至 12:52 出發回程  
+12:58 回程上切  
+13:06 回程鞍部  
+13:39 回程上稜線，整裝休息至14:00出發  
+14:21 霞喀羅大山叉路  
+14:23 霞喀羅大山頂合照  
+15:11 霞喀羅古道  
+16:30 石鹿登山口  
 
 ## 觀霧出發接檜山 出佐藤 探根本駐在所 航跡
 
@@ -3681,4 +3720,281 @@ header:
 
 
 </script>
+</html>
+
+## 圖文紀錄
+
+觀霧山椒魚生態保護中心，準備出發。  
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_cba4b88bcf87b89ed6867faa7ecaadcd.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_3baff7d595013651a48439f913dc6c3c.jpg" alt="">
+  <figcaption> 大鹿林道東線起點 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_f9d0a2d855341afcf68c59d97c760086.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b4ab6e86aaca601bb493ff28bc271c23.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+先延大陸林道前行，約4k左右上切高嶺古道。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_e960e14f32d4f726b9f9d21e273a19be.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_a4d0e984269531b9b105b6b8ddcad857.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b124d5b65ea4e7e9c5741458f4e06a8a.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+古道路並不好走，有許多植披阻礙，沿線有多路段邊坡滑落，腳點小。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_04ce2de1a2720200643dd77e6f00a840.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_7407d0cadafe8a909a50e48b8e3dc8ff.jpg" alt="">
+  <figcaption> 馬達拉駐在所前，第一段拉繩碎石橫渡 </figcaption>
+</figure>
+
+早上約09:20到達馬達拉駐在所。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_9cecc6405d8036e304e6da9e5698d460.jpg" alt="">
+  <figcaption> 馬達拉駐在所大門柱 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_6745acee86f029bc48a281d7aa0a5ad1.jpg" alt="">
+  <figcaption> 駐在所檜木門柱上的礙子 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_d6d6f56d2213aee860e4d0c075bfd0bb.jpg" alt="">
+  <figcaption> 馬達拉駐在所駁坎 </figcaption>
+</figure>
+
+駐在所內遺留的玻璃瓶
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_37094fe68a19dc877af15b195498f8ee.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_9e441f698531b7390e6d7c68ccefa907.jpg" alt="">
+  <figcaption> kirin 啤酒 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_e6f59bb544343ce144e423f21ed8234b.jpg" alt="">
+  <figcaption> 龜甲萬 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_8daebdd11c8396ea78f1ff30781e0c0b.jpg" alt="">
+  <figcaption> 瓷盤碎片 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_836d340e33e6cf168702671c31c0bdfe.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_85130076c16345012b88a36347f12266.jpg" alt="">
+  <figcaption> 瓷盤碎片 年代不詳 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_99b99b2f938937f00be1789fa12c9991.jpg" alt="">
+  <figcaption> 駐在所內休息過後 繼續出發 </figcaption>
+</figure>
+
+從馬達拉駐在所繼續出發，沿著高嶺古道，往本田駐在所前進。接下的路段會有更多邊坡要過，其中本田駐在所前有一片大崩塌，會是今天最大的地形。
+期次，沿線許多路段芒草茂密，其中還藏著咬人貓，行徑間要處理帶刺植物。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_0d6028f37ef622175e7a63c2a40d8aa2.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_ce49e95a8fadd7efb32423eed9500d1e.jpg" alt="">
+  <figcaption> 高嶺古道駁坎路基遺構 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_2aec01b7f79ad80cd76795accdfb80f0.jpg" alt="">
+  <figcaption> 小崩塌 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_208463fc7e4c0bef0fe1900a8359ceab.jpg" alt="">
+  <figcaption> 本田駐在所前崩塌 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_c3798597e264734da65adbb38d0f6018.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_84dfe310fde93a26ce0ec97bbbb6d6a7.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_f8d45b7d1caeebb32b33a540a2dbdbeb.jpg" alt="">
+  <figcaption> 崩塌後段上攀回古道 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_abab81c4e4083497fb97be7ee9844687.jpg" alt="">
+  <figcaption> 崩塌路段過後的倒木 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_af677dd2da4cf605536227feb070540b.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_cb9d0b77a5d3723d977c746e85f11d35.jpg" alt="">
+  <figcaption> 下午過後 天氣轉陰雨 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_4a65c96f79ede375c5610c98ce149d56.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+下午 14:20 許到達本田駐在所，雨天。休息一下拍幾張合照後便繼續朝今天的計畫宿營地前進。
+
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_562040b50886916f9317168dc75bc2d6.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b7799f785a4390baeb7b3594ca58f948.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+下午三點半許，到達今天的宿營地，高嶺駐在所。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_bb40e44bfd4ff45e59302d2fb2a590b6.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_829e7d2acca6ad2a1c35d816b946a6a8.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+高嶺住在所腹地廣大，適合紮營。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_74bc7d2bb9c771d842849743063855aa.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_675548313a8fe32ba9b09f4e344c5d4f.jpg" alt="">
+  <figcaption> 高嶺住在所也有這個鯉魚造型的瓷器碎片 年代不詳 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_effa7dd3c382e538711fba9fdae1e743.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_59bc5a856e7d6baef7ed868f318f64ba.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_c18470989f631a7344571f4ae7b8cc49.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_09d93f65264c01a150b70bd4c4e00393.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_21426656932ef3caa48bea6aa886e999.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+此行第一晚住在高嶺駐在所遺址。翌日一早出發，沿著古道續行結城山。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_714412c5f80c1b97b97f23b7ed305e86.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_8977edec3bf390e8e9907dd4a431faa5.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_31c9cab2ff98878886780f2d7d5676c5.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+結城山頂，二等三角點，海拔2475公尺。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b98c605cb7d68525018b296272bda6e6.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+山頂有一座頭前溪水源界碑。這裡是新竹與苗栗的縣界，也是頭前溪與大安溪的分水嶺，北面山坡是頭前溪源頭，南側則是流入馬達拉溪，隨後匯入北坑溪，通過雪見後進入大安溪。
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b0ce986fb3c892695ce0d1696d7c52c6.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+返程下山，接續沿著古道，往結程東鞍方向前進。日本時代，新竹跟苗栗的行政區劃都屬於新竹州。結城山延伸向鹿場大山(樂山)這條稜線則是郡界，稜線北側屬於竹東郡，稜線男側屬於大湖郡。這條越嶺道路在結城東鞍越嶺。通過越嶺點後，我們踏上根本古道的範圍，並向檜山駐在所前進...  
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_0d20a135efa2af22a0c3c57b90f8473e.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_0d477b8e7b270ac14bcbde08420e4ef0.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_e11c545a04577e45df6db2d28699eba5.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
 
