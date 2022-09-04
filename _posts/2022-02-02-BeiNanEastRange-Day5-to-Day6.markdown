@@ -394,10 +394,22 @@ feature_row:
                 }
             );
 
-            var defaultBase = L.tileLayer(
-            'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png',
-            {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_23f5d9af425948e89251a75d1bcf97ee);
+            var defaultBase = L.tileLayer.provider('OpenTopoMap').addTo(map_23f5d9af425948e89251a75d1bcf97ee);
+
+            var jpmap1925 = L.tileLayer(
+                'https://gis.sinica.edu.tw/tileserver/file-exists.php?img=JM50K_1924_new-png-{z}-{x}-{y}',
+                {"attribution": "中央研究院臺灣百年歷史地圖 WMTS 服務 \u003ca href=\"https://rs.happyman.idv.tw\"\u003eGIS Tile Services\u003c/a\u003e "}
+            )
+
+            var tw_2001_25K = L.tileLayer(
+                'https://gis.sinica.edu.tw/tileserver/file-exists.php?img=TM25K_2001-jpg-{z}-{x}-{y}',
+                {"attribution": "中央研究院臺灣百年歷史地圖 WMTS 服務 \u003ca href=\"https://rs.happyman.idv.tw\"\u003eGIS Tile Services\u003c/a\u003e "}
+            )
+
+            var happymanTile = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            )
 
             var rudyTile = L.tileLayer(
                 'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
@@ -405,10 +417,9 @@ feature_row:
             )
     
             var baseLayers = {
-                '地圖產生器': defaultBase,
-                '魯地圖': rudyTile,
+                'OSM Topo': defaultBase,
+                '2001 經建三版': tw_2001_25K,
                 'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
-                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
             };
     
             var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
