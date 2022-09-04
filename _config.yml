@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ben Wang"
-  avatar           : /image/bio_image_ben_2.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /image/bio_image_ben_2.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "放假有山就爬. 隨意寫圖文記錄留念"
   location         : "Hsinchu, Taiwan"
   email            :
