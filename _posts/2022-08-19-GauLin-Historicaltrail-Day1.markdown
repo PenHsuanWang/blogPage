@@ -45,7 +45,7 @@ feature_row:
 
 header:
   image: 
-  teaser : https://cdntwrunning.biji.co/1024_675548313a8fe32ba9b09f4e344c5d4f.jpg
+  teaser : https://cdntwrunning.biji.co/1024_8b5e73e1c512ba716b4a2616e96bb2b8.jpg
   image_description: ""
   overlay_filter: 0.5
 ---
