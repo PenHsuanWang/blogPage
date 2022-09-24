@@ -10,11 +10,11 @@ classes: wide
   - dark-theme
 
 header:
-  image: https://lh3.googleusercontent.com/A2X-PcgBmF8pV28txbcu7CZFIMH9g1NBCz7M8Vg3wC_iVP2jmbUlD4uQd5DMJbej9VFjcK_DJ-2ojSisuV0=w1920-h1080
-  teaser: https://lh3.googleusercontent.com/A2X-PcgBmF8pV28txbcu7CZFIMH9g1NBCz7M8Vg3wC_iVP2jmbUlD4uQd5DMJbej9VFjcK_DJ-2ojSisuV0=w1920-h1080
+  image: https://1.bp.blogspot.com/-T3XazHgH7Eg/WzoptlZPDaI/AAAAAAAA248/-oqT297I6wwIZD-nM6jdaIHGe4fwCLCDACLcBGAs/s1600/_MG_8455.JPG
+  teaser: https://1.bp.blogspot.com/-T3XazHgH7Eg/WzoptlZPDaI/AAAAAAAA248/-oqT297I6wwIZD-nM6jdaIHGe4fwCLCDACLcBGAs/s640/_MG_8455.JPG
 sidebar:
   - title: "東小南山"
-    image: https://lh3.googleusercontent.com/cHvyjyt0GMbITMDLaUkCNmTybv2z8FLhvB6rVwAmSlAQ8hcYVnBlsDcY5_SA5BnatFz0yjUs8s_ZerwBE-k=w1920-h1080
+    image: https://2.bp.blogspot.com/-p2CY7OakQvk/WzoptIYqAgI/AAAAAAAA244/wx64zeGWYcwCp-rE0fKpn62gToufKzBiwCLcBGAs/s640/_MG_8465.JPG
     image_alt: "東小南山位在玉山山脈稜線，由玉山南峰繼續向南延伸的稜脈上。為玉山後四峰之中南邊的一座百岳。通常會跟著鹿山一起爬。"
     text: "東小南山位在玉山山脈稜線，由玉山南峰繼續向南延伸的稜脈上。為玉山後四峰之中南邊的一座百岳。通常會跟著鹿山一起爬。"
 gallery:
@@ -66,7 +66,7 @@ feature_row:
 玉山可以說是台灣人的精神象徵，玉山神聖的地位，從清代到現今都不曾動搖過。因為玉山是台灣第一高峰，既使平常不爬山的人也認識他。但在玉山上，東邊有玉山東峰、北邊有玉山北峰、南邊有玉山南峰。視覺上好像體會不出壯闊。不過在東小南山。這座海拔3744公尺的百岳，玉山山脈由此往南開始陷落，往南望去的視野可說是非常壯闊，隔著荖濃溪可以眺望南方的中央山脈南二段、南一段。向東一覽秀姑巒山。這邊可以說是絕佳展望台吧!
 
 
-![image](https://lh3.googleusercontent.com/yKi0E0o9EYrACN876esn8PBaIgnhLlnNRGRAMvJLeH_j6UVBDHLmbpz3gfCtHXRKMTXf1KkAotpx5JqtX4I=w1920-h1080)
+![image](https://3.bp.blogspot.com/-woS38igIowI/WzopYRCT3KI/AAAAAAAA24c/pmGtjfr2x-AAYbLIr8VntF6W4vw6uUc0ACLcBGAs/s1600/_MG_8442.JPG)
 
 中央山脈南一段，南台首岳--大關山。金字塔狀的山形十分醒目。
 
@@ -84,7 +84,7 @@ feature_row:
 
 ![image](https://1.bp.blogspot.com/-T3XazHgH7Eg/WzoptlZPDaI/AAAAAAAA248/-oqT297I6wwIZD-nM6jdaIHGe4fwCLCDACLcBGAs/s1600/_MG_8455.JPG)
 
-![image](https://lh3.googleusercontent.com/s7dFxOpqF53ufJheRRwCLq4w__6pl8eGS6hg1OdmiEUB59R0WbiocAjns0u3TeQvitfdy6u6u6aNrhAtruc=w1920-h1080)  
+![image](https://1.bp.blogspot.com/-qEs4ubBSuVc/WzopX4ZJ9RI/AAAAAAAA24Y/4iXqKFyPiGMoIgcNqE09LGpu1krEzYBGACLcBGAs/s1600/_MG_8436.JPG)  
 
 
 玉山群峰圖文紀錄請參照
