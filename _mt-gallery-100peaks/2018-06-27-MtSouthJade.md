@@ -29,28 +29,28 @@ gallery:
     alt: "由玉山南峰的稜線上望向南玉山"
 
 feature_row:
-  - image_path: https://lh3.googleusercontent.com/8gXOFXh_ino0tFvb4vLHTOpzHzUFeJ61VyysGqkKczmwbfaAK-D-9CmbA2D6PPCE4jCSNL2pydH1NgyQ2Js=w640-h480
+  - image_path: https://3.bp.blogspot.com/-u0bVqn6S4M4/WzjeBAqNCLI/AAAAAAAA22w/mIC6J3mBFNAfUhbbNuHIYWy38DFhuNdBwCPcBGAYYCw/s640/_MG_8385.JPG
     title: "[圖文] 20180625 玉山群峰-Day1前進圓峰山屋"
     excerpt: "玉山主峰附近有其他八座百岳衛星峰環繞。我們這次打算要拜訪所有附近的百岳，通稱玉山群峰。這次我們拜訪次序為：玉山前峰、東小南山、鹿山、玉山南峰、南玉山、玉山主峰、玉山東峰、玉山西峰。以及我們後來漏掉沒去的玉山北峰。"
     url: "/mt-note-photo-100peaks/MtJade_Day1/"
     btn_class: "btn--primary"
     btn_label: "Go to"
-
-  - image_path: https://lh3.googleusercontent.com/Rq-oY-QhtEoJ-K8uoOKo7_VhQl8ZcfQUp1ubWFw8YHs0QTOj7EIVtqZuS3y98ueuyLJ0oLPWam1RvVxk80Q=w640-h480
+  
+  - image_path: https://1.bp.blogspot.com/-T3XazHgH7Eg/WzoptlZPDaI/AAAAAAAA25I/k2yLYVNK428h9cc7gjn6yzYdTPaZXt17ACEwYBhgL/s640/_MG_8455.JPG
     title: "[圖文] 20180626 玉山群峰-Day2 東小南山的日出鹿山"
     excerpt: "今天我們要踏上玉山群峰中最遙遠的一條路，很多人稱之為'鳥山'的鹿山。即使是夏天，海拔超過三千六的圓峰山屋凌晨的溫度可是只有個位數，要爬出睡袋需要下很大的決心。今天我們要爬的山包含東小南山以及鹿山，這兩座山為玉山群峰後四峰之中相對遙遠的兩座百岳。"
     url: "/mt-note-photo-100peaks/MtJade_Day2/"
     btn_class: "btn--primary"
     btn_label: "Go to"
-
-  - image_path: https://lh3.googleusercontent.com/3HkC6RWualvSIKF0_qY4tlRxrjs0i55jtbfLsLve75gYQZdKQTUvDXprd10pDBaip-xkEmNTno3xG65b8TI=w640-h480
+  
+  - image_path: https://2.bp.blogspot.com/-6Ys6oddpWW8/WzxKlYZA63I/AAAAAAAA3AI/aQ1p1XjCExAVXrbo4MHfp_ymqBjN6ONUACPcBGAYYCw/s640/_MG_8683.JPG
     title: "[圖文] 20180627 玉山群峰-Day3 玉山南峰與南玉山"
     excerpt: "今天我們要踏上玉山群峰中最遙遠的一條路，很多人稱之為'鳥山'的鹿山。即使是夏天，海拔超過三千六的圓峰山屋凌晨的溫度可是只有個位數，要爬出睡袋需要下很大的決心。今天我們要爬的山包含東小南山以及鹿山，這兩座山為玉山群峰後四峰之中相對遙遠的兩座百岳。"
     url: "/mt-note-photo-100peaks/MtJade_Day3/"
     btn_class: "btn--primary"
     btn_label: "Go to"
-
-  - image_path: https://lh3.googleusercontent.com/ebwKS67filHmXB1lBC-13ZtNvAgqWlloBhDr4feUL_j7zVgq-NVXrjWCgUgq9mMwNrwp9OJuB4CZShyrm9Y=w640-h480
+  
+  - image_path: https://4.bp.blogspot.com/-38vt0o0EoHA/Wz2SOlJ6xYI/AAAAAAAA3IE/d0PN9U9fH5830P8uTz--24hmlS_oQxXjgCPcBGAYYCw/s640/_MG_8794.JPG
     title: "[圖文] 20180628 玉山群峰-Day4 圓峰山屋經南稜線攀登玉山主東"
     excerpt: "循著玉山南稜線前往玉山主峰。玉山南稜線從由玉山主峰往南延伸到圓峰，東西兩側一起侵蝕這條稜線，使得這條稜線的地質破碎，走在南稜線上，往左往右看都是斷崖。如果想要知道自己有沒有懼高症，來一趟南稜線就對了。"
     url: "/mt-note-photo-100peaks/MtJade_Day4/"
