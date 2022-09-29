@@ -122,10 +122,13 @@ header:
                 }
             );
 
-            var defaultBase = L.tileLayer(
-            'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png',
-            {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_54d439cf9f3440d0ab0243e0a75ca9a1);
+            var defaultBase = L.tileLayer.provider('OpenTopoMap').addTo(map_54d439cf9f3440d0ab0243e0a75ca9a1);
+
+
+            var happymanTile = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
+                {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            )
 
             var rudyTile = L.tileLayer(
                 'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
@@ -133,10 +136,10 @@ header:
             )
     
             var baseLayers = {
-                '地圖產生器': defaultBase,
-                '魯地圖': rudyTile,
+                'OSM Topo': defaultBase,
                 'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
-                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+                '地圖產生器': happymanTile,
+                '魯地圖': rudyTile,
             };
     
             var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')

@@ -449,10 +449,13 @@ Taiwan Topo Home Pages</a>
 
 
 
-            var defaultBase = L.tileLayer(
-                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png',
+            var defaultBase = L.tileLayer.provider('OpenTopoMap').addTo(map_3e9e30279c0b444b8ab486d5a8fb0462);
+
+
+            var happymanTile = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
                 {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-                ).addTo(map_3e9e30279c0b444b8ab486d5a8fb0462);
+            )
 
             var rudyTile = L.tileLayer(
                 'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
@@ -460,10 +463,10 @@ Taiwan Topo Home Pages</a>
             )
     
             var baseLayers = {
-                '地圖產生器': defaultBase,
-                '魯地圖': rudyTile,
+                'OSM Topo': defaultBase,
                 'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
-                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+                '地圖產生器': happymanTile,
+                '魯地圖': rudyTile,
             };
     
             var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
@@ -1601,10 +1604,13 @@ Taiwan Topo Home Pages</a>
             );
 
 
-            var defaultBase = L.tileLayer(
-                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png',
+            var defaultBase = L.tileLayer.provider('OpenTopoMap').addTo(map_9de4e956261c41ba940d2279f5d903df);
+
+
+            var happymanTile = L.tileLayer(
+                'https://rs.happyman.idv.tw/map/moi_osm/{z}/{x}/{y}.png', 
                 {"attribution": "Tiles supported by \u0026copy; \u003ca href=\"https://rs.happyman.idv.tw\"\u003eHappyman-tile\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-                ).addTo(map_9de4e956261c41ba940d2279f5d903df);
+            )
 
             var rudyTile = L.tileLayer(
                 'http://rudy.tile.basecamp.tw/{z}/{x}/{y}.png', 
@@ -1612,10 +1618,10 @@ Taiwan Topo Home Pages</a>
             )
     
             var baseLayers = {
-                '地圖產生器': defaultBase,
-                '魯地圖': rudyTile,
+                'OSM Topo': defaultBase,
                 'ESRI 衛星': L.tileLayer.provider('Esri.WorldImagery'),
-                'OSM Topo': L.tileLayer.provider('OpenTopoMap')
+                '地圖產生器': happymanTile,
+                '魯地圖': rudyTile,
             };
     
             var happymanGpsTrails = L.tileLayer('http://rs.happyman.idv.tw/map/gpxtrack/{z}/{x}/{y}.png')
