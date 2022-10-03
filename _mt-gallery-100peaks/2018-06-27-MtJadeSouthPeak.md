@@ -10,22 +10,22 @@ classes: wide
   - dark-theme
 
 header:
-  image: https://lh3.googleusercontent.com/Gtk0VoXhHfgQv-lZ3dyvBlrtJ_D_fpAXVrGe2XFFR2Lo39P7yDEVDys7GUValzXIgjOdZokE5tw9BsY8AQM=w1920-h1080
-  teaser: https://lh3.googleusercontent.com/Gtk0VoXhHfgQv-lZ3dyvBlrtJ_D_fpAXVrGe2XFFR2Lo39P7yDEVDys7GUValzXIgjOdZokE5tw9BsY8AQM=w330-h220
+  image: https://4.bp.blogspot.com/-gQ0iWzo-1gE/WzxIZCBuZ-I/AAAAAAAA2-Q/HZ20aAe6AoYD756QtDeJOa25Fm8Y1h37QCLcBGAs/s1600/_MG_8644.JPG
+  teaser: https://4.bp.blogspot.com/-gQ0iWzo-1gE/WzxIZCBuZ-I/AAAAAAAA2-Q/HZ20aAe6AoYD756QtDeJOa25Fm8Y1h37QCLcBGAs/s640/_MG_8644.JPG
 sidebar:
   - title: "玉山南峰"
-    image: https://lh3.googleusercontent.com/k4ENagpkqfwWWvrNJ8Vv6zqwyIiM3bQrU0aBlpewiCPm-benO0uXZL7Zj2u6le7ugemI76DNNrTri6fkwFs=w1920-h1080
+    image: https://2.bp.blogspot.com/-gBjNJnyiSew/WzxJC3tTGaI/AAAAAAAA2_g/w4j-ZdkLwnQl86uP6TDN1zrnpyoIEKh3ACLcBGAs/s640/_MG_8668.JPG
     image_alt: "玉山群峰後四峰之一的玉山南峰，同時為台灣百岳中的十峻。"
     text: "玉山群峰後四峰之一的玉山南峰，由一連串鋸齒狀的連峰組成，同時為台灣百岳中的十峻。海拔3844公尺。四周都是陡峭的地形"
 gallery:
   - url: /mt-note-photo-100peaks/MtJade_Day4/
-    image_path: https://lh3.googleusercontent.com/WBWC29Nf3tWCThzlyml5il1jR5iwliLHBMqAm129wOTZ7UK1hZGiFWFw8Ujqlmbn4f39ZacS0bBaoW4gG7E=w640-h480
+    image_path: https://2.bp.blogspot.com/-6Ys6oddpWW8/WzxKlYZA63I/AAAAAAAA3AI/aQ1p1XjCExAVXrbo4MHfp_ymqBjN6ONUACPcBGAYYCw/s640/_MG_8683.JPG
     alt: "由玉山南峰望向玉山主東峰，以及由圓峰延伸到玉山的南稜線"
   - url: /mt-note-photo-100peaks/MtJade_Day2/
-    image_path: https://lh3.googleusercontent.com/86lTxBoyGWQ7t1W4Iiv1OOj0HHBXcEA8CkgUTRuNqOSWRsAtXHK_DB_Wqb3IVLmoBq1tlqSsoNfsPULjqoc=w640-h480
+    image_path: https://3.bp.blogspot.com/-OYMZyx9a5wk/WzxK3mioOcI/AAAAAAAA3AQ/VTj-hdxyXWsU8EIEwAKCHFoncZlkNwNCgCLcBGAs/s640/_MG_8686.JPG
     alt: "由玉山南峰望向東小南山稜線，後方為中央山脈南二段以及南一段群峰"
   - url:  /mt-note-photo-100peaks/MtJade_Day3/
-    image_path: https://lh3.googleusercontent.com/UG5Ku5Wf3hlJSVCGkIi177HkbUAbY5qPMv52kR_A6lszj62vH9CPpIDjkJeyRuAq9QXzSeTlw5MLue8qOvs=w640-h480
+    image_path: https://4.bp.blogspot.com/-pilOCQbGtBs/Wz2SOxNz8hI/AAAAAAAA3Gs/neMDGgtIheomjV8_HF6NmA_l9vYUK_gmACLcBGAs/s640/_MG_8795.JPG
     alt: "玉山稜線上的日出時分"
 
 feature_row:
@@ -65,28 +65,16 @@ feature_row:
 
 玉山南峰為鋸齒狀的連峰組成，鎮守於玉山山脈的南段，於此眺望南台灣首岳--大關山。也是玉山國家公園最南邊的界線之一。
 
-![image](https://lh3.googleusercontent.com/Rq-oY-QhtEoJ-K8uoOKo7_VhQl8ZcfQUp1ubWFw8YHs0QTOj7EIVtqZuS3y98ueuyLJ0oLPWam1RvVxk80Q=w1920-h1080)
+![image](https://1.bp.blogspot.com/-IpsI_d_6bMs/WzxIkYuupRI/AAAAAAAA2-k/OMvlJNSpvKwnONfr_sGj5VZq2y79ho0jQCLcBGAs/s1600/_MG_8649.JPG)
 
-接近主東叉路口的地方是地形最險峻的地方，這一段有架設鐵鍊輔助攀登，在這邊真的是一失足成千古恨啊。我們就這樣在玉山的陰影下慢慢上攀這片破碎的石坡。
-
-![image](https://lh3.googleusercontent.com/DgcrRZ1E9VOacdu3K3iq3kr6q0xUVZgBxxw9PbdBZFfC-1B4KH_1jde26KMv4-Pi3FTVzMbW6Vb3STqLUGY=w1980-h1080)
-
-雲霧中的大關山
-
+![image](https://3.bp.blogspot.com/-zqX0WWw_yT4/WzxIsM-KqDI/AAAAAAAA2-w/1Cbv4ZCUxfkLHRxOMsDIq7AXSetF4HJmwCLcBGAs/s1600/_MG_8652.JPG)
 
 不像玉山主峰親民。玉山南峰有如被巨石隔間般，造訪的人與玉山主峰相比少了很多。於此有如隔絕於人世間。我覺得在這邊可以看到的風景，好像比主峰更壯闊了!
 
-<figure style="width: 45%" class="align-left">
-  <img src="https://lh3.googleusercontent.com/qMBZnkgfaX6y-Y59Eyo68RG3vPQFCinkY6UoHtlk3BiPqC3iAupEKlT5BHQuKX2yr16tXYV6wFttOfShBmc=w640-h480" alt="上攀玉山南峰">
+<figure style="width: 95%" class="align-center">
+  <img src="https://1.bp.blogspot.com/-vxV12dk8C-U/WzxIwJDrw_I/AAAAAAAA2_A/T3ahbhrgYZM-Q4op2AcIg6vU-d3pXOiqQCLcBGAs/s1600/_MG_8656.JPG" alt="上攀玉山南峰">
   <figcaption> 準備上攀玉山南峰 </figcaption>
 </figure> 
-
-<figure style="width: 45%" class="align-right">
-  <img src="https://lh3.googleusercontent.com/j6-URydh60ZyFG_cRRQCSB6mxOxNeWxn5pCWMv6duPgjf6i7LFyhnzVmF2FBiHfBB1m6jDy3hLHGSJ1qmII=w640-h480" alt="上攀玉山南峰">
-  <figcaption> 準備上攀玉山南峰 </figcaption>
-</figure> 
-
-![image](https://lh3.googleusercontent.com/Qi7wPkx2jtn-J02hymLJWXFxn4X4kOH5v_PefrkbKKLrFAPgldbzw4S33vFrAnA4MmFvzsENE4QIyzUQRdk=w1980-h1080)  
 
 玉山群峰圖文紀錄請參照
 {% include feature_row %}
