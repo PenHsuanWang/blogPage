@@ -10,22 +10,22 @@ classes: wide
   - dark-theme
 
 header:
-  image: https://lh3.googleusercontent.com/jkJbIsFdBX9p2fl4fCPg2Yiufwi-w4yyQ_pxizxHf9mCgXrYA4l2_ilnatC-xOqHJWoXxaS1leGgKtmX7EQ=w1920-h1080
-  teaser: https://lh3.googleusercontent.com/jkJbIsFdBX9p2fl4fCPg2Yiufwi-w4yyQ_pxizxHf9mCgXrYA4l2_ilnatC-xOqHJWoXxaS1leGgKtmX7EQ=w330-h220
+  image: https://1.bp.blogspot.com/-veggEidjkZE/YK4H0gdO0aI/AAAAAAABQrA/b1omHC-QwrkzZQ7hhI6EiCz8tIFceB5DACLcBGAsYHQ/s2048/IMG_8835.JPG
+  teaser: https://1.bp.blogspot.com/-veggEidjkZE/YK4H0gdO0aI/AAAAAAABQrA/b1omHC-QwrkzZQ7hhI6EiCz8tIFceB5DACLcBGAsYHQ/s640/IMG_8835.JPG
 sidebar:
   - title: "南玉山"
-    image: https://lh3.googleusercontent.com/NY0BYJFzSZFv5hdc8hlSCoK-IguKzJ5obmHOCKNJVDrMO22zWOBG8iPBerfza9hRTWcXfY3qmYRwc88B-2Y=w1920-h1080
+    image: https://1.bp.blogspot.com/-02vBafxuUdM/YK4IKCdMNBI/AAAAAAABQro/VhCEnD9l78Y7GSfaVa_zy8kq64pVrkV8gCLcBGAsYHQ/s640/IMG_8854.JPG
     image_alt: "玉山群峰後四峰之一的南玉山"
     text: "南玉山是被歸為玉山群峰後四峰之一的百岳。位於玉山山脈主稜從三叉峰向西南方岔出去的支稜上。登山者通常先住在圓峰山屋，再用一天的時間來回。"
 gallery:
   - url: /mt-note-photo-100peaks/MtJade_Day3/
-    image_path: https://lh3.googleusercontent.com/NpuoaRDTbeEc-soD_5LcV7Jg_LyomlaBM02DyscsYyqAh6B5r4t2HJAGKDqpm9unMOG9b91Qkvx_P_-y4Gc=w640-h480
+    image_path: https://1.bp.blogspot.com/-KnFfNgBJJ1A/WzyFfEbhcVI/AAAAAAAA3Es/34yg-BTH-ysPsAw7qoEsTrq7knLjLEW6gCLcBGAs/s640/_MG_8697.JPG
     alt: "由三叉峰前岔路前往南玉山，第一段遇到的碎石坡面"
   - url: /mt-note-photo-100peaks/MtJade_Day3/
-    image_path: https://lh3.googleusercontent.com/EITRIniLzvMfANEoKCYcPE3KovmEPSwA-ekBOVGrsJRNDFR_HZhkPUGQ6AA-UaC9vZ7cKOgdvU-IzqLzs8Y=w640-h480
+    image_path: https://2.bp.blogspot.com/-nk99n0zQ_Ts/WzxLw5m9O8I/AAAAAAAA3Bw/-IL7_a_lZZQr66Mt_6Ao8gL-QYOKrPfygCLcBGAs/s640/_MG_8710.JPG
     alt: "前往南玉山的路標"
   - url:  /mt-note-photo-100peaks/MtJade_Day2/
-    image_path: https://lh3.googleusercontent.com/Ewu9I0FnEyU8NWB8Que7Zp69VEYM0aWbM8OM__YTCBgG1uF_WO9q9uThi2jB37Kombk-EslpdB0zjWkuYTw=w640-h480
+    image_path: https://2.bp.blogspot.com/-zm4bjgwBC-0/WzxLhIaUHZI/AAAAAAAA3Bc/piNX62kqAggvL9bRbz4zWx65yt9N9tBuACLcBGAs/s640/_MG_8703.JPG
     alt: "由玉山南峰的稜線上望向南玉山"
 
 feature_row:
@@ -65,15 +65,15 @@ feature_row:
 
 從圓峰山屋出發後，通過最低鞍部不久，即是通往南玉山的岔路口。
 
-![image](https://lh3.googleusercontent.com/3HkC6RWualvSIKF0_qY4tlRxrjs0i55jtbfLsLve75gYQZdKQTUvDXprd10pDBaip-xkEmNTno3xG65b8TI=w1920-h1080)
+![image](https://2.bp.blogspot.com/-fLb0A2gLsyI/WzyFfGhKwSI/AAAAAAAA3Eo/t6eKEQsjbho4Qu9TgIBzCXfMuR23ID4cACLcBGAs/s1600/_MG_8696.JPG)
 
 接近主東叉路口的地方是地形最險峻的地方，這一段有架設鐵鍊輔助攀登，在這邊真的是一失足成千古恨啊。我們就這樣在玉山的陰影下慢慢上攀這片破碎的石坡。
 
-![image](https://lh3.googleusercontent.com/sH1PvchroapyGRb6obsIX_h2lFsUZjBEgS1Ta1dD5miG6qgV65ngp3lO4-cP8ZPKg-I1bPRgOjlCIroIjMI=w1980-h1080)
+![image](https://4.bp.blogspot.com/-R19y_wLA9ng/WzxIAejNNaI/AAAAAAAA29w/3wPvVSnLB28GY3fi-54T9rDyL7gXiRYkACLcBGAs/s1600/_MG_8638.JPG)
 
 玉山稜線上迎曦。玉山主峰的影子投影在南玉山稜線上。
 
-![image](https://lh3.googleusercontent.com/W2hFo0gf1Fa9V0KyMMH_8au3enNef0N7-Xt2AUenWTMl9RsS7_Dk76c1Fi5WKCiBJrC-cjfG8qEXBGOHiy0=w1980-h1080)
+![image](https://1.bp.blogspot.com/-g62jrZ58ZSU/YK4IR1mjwVI/AAAAAAABQsI/nwmoX5BzRrQUMoohD5m2C6J72u_k7I86ACLcBGAsYHQ/s2048/IMG_8878.JPG)
 
 由南玉山回望玉山南峰，在柔美的箭竹草坡後方，是由險峻的刀片岩組成的玉山南峰。回去的路有如天險一般。  
 
