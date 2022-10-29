@@ -1,535 +1,173 @@
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.18.1 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="en" class="no-js">
-  <head>
-    <meta charset="utf-8">
-
-<!-- begin _includes/seo.html --><title>新竹深山中的 檜山駐在所 | 二十毫秒之間</title>
-<meta name="description" content="檜山駐在所為在新竹五峰鄉的深山之中，日本時代興建的鹿場越嶺道新竹這側的根本古道，沿線許多大大小小的崩塌，使得檜山駐在所深鎖於山林中，不易到達。藉這這次探訪根本古道，一窺其全貌。 ">
-
-
-  <meta name="author" content="Ben Wang">
-
-
-<meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="二十毫秒之間">
-<meta property="og:title" content="新竹深山中的 檜山駐在所">
-<meta property="og:url" content="https://penhsuanwang.github.io/blogPage/mt-note-photo-historicaltrail/GauLin-Historicaltrail-Day2/">
-
-
-  <meta property="og:description" content="檜山駐在所為在新竹五峰鄉的深山之中，日本時代興建的鹿場越嶺道新竹這側的根本古道，沿線許多大大小小的崩塌，使得檜山駐在所深鎖於山林中，不易到達。藉這這次探訪根本古道，一窺其全貌。 ">
-
-
-
-  <meta property="og:image" content="https://cdntwrunning.biji.co/1024_aa557ecf84463e2d180ab9870c8f7e96.jpg">
-
-
-
-
-
-  <meta property="article:published_time" content="2022-08-20T08:00:00+08:00">
-
-
-
-
-
-  
-
-  
-
-
-<link rel="canonical" href="https://penhsuanwang.github.io/blogPage/mt-note-photo-historicaltrail/GauLin-Historicaltrail-Day2/">
-
-
-
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    
-      "@type": "Person",
-      "name": "P.H, Wang",
-      "url": "https://penhsuanwang.github.io/blogPage/"
-    
-  }
-</script>
-
-
-
-
-
-
-<!-- end _includes/seo.html -->
-
-
-<link href="/blogPage/feed.xml" type="application/atom+xml" rel="alternate" title="二十毫秒之間 Feed">
-
-<!-- https://t.co/dKP3o1e -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="/blogPage/assets/css/main.css">
-
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
-
-
-
-    <!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-  </head>
-
-  <body class="layout--single wide - landing - dark-theme">
-    <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
-  <ul>
-    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
-  </ul>
-</nav>
-
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
-
-    
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        
-        <a class="site-title" href="/blogPage/">
-          二十毫秒之間
-          <span class="site-subtitle">帶著相機去冒險</span>
-        </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/blogPage/" >Home</a>
-            </li><li class="masthead__menu-item">
-              <a href="/blogPage/categories/" >圖文記錄</a>
-            </li><li class="masthead__menu-item">
-              <a href="/blogPage/mt-gallery/" >山岳攝影</a>
-            </li></ul>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
-
-
-    <div class="initial-content">
-      
-
-
-  
-    
-
-
-
-<nav class="breadcrumbs">
-  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
-    
-    
-    
-      
-        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="https://penhsuanwang.github.io/blogPage/" itemprop="item"><span itemprop="name">Home</span></a>
-          <meta itemprop="position" content="1" />
-        </li>
-        <span class="sep">/</span>
-      
-      
-        
-        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <a href="/blogPage/categories/mt-note-photo-historicaltrail" itemprop="item"><span itemprop="name">Mt note photo historicaltrail</span></a>
-          <meta itemprop="position" content="2" />
-        </li>
-        <span class="sep">/</span>
-      
-    
-      
-      
-        <li class="current">新竹深山中的 檜山駐在所</li>
-      
-    
-  </ol>
-</nav>
-
-  
-
-
-<div id="main" role="main">
-  
-  <div class="sidebar sticky">
-  
-
-
-<div itemscope itemtype="https://schema.org/Person">
-
-  
-    <div class="author__avatar">
-      
-
-      
-        <img src="/blogPage/image/bio_image_ben_2.JPG" alt="Ben Wang" itemprop="image">
-      
-    </div>
-  
-
-  <div class="author__content">
-    
-      <h3 class="author__name" itemprop="name">Ben Wang</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
-        <p>放假有山就爬. 隨意寫圖文記錄留念</p>
-
-      </div>
-    
-  </div>
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Hsinchu, Taiwan</span>
-        </li>
-      
-
-      
-        
-          
-            <li><a href="https://www.instagram.com/benwang.photo" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-          
-        
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      <!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
-      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
-    </ul>
-  </div>
-</div>
-
-  
-    
-      
-      
-      
-      
-    
-    
-      
-
-<nav class="nav__list">
-  
-  <input id="ac-toc" name="accordion-toc" type="checkbox" />
-  <label for="ac-toc">Toggle menu</label>
-  <ul class="nav__items">
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/"><span class="nav__sub-title">Home</span></a>
-        
-
-        
-      </li>
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/categories/"><span class="nav__sub-title">圖文記錄</span></a>
-        
-
-        
-        <ul>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-100peaks/" class="">高山百岳</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-midalt/" class="">中級山</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-foreign/" class="">海外登山健行</a></li>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/categories/mt-note-photo-townsadjacent/" class="">郊山</a></li>
-          
-        </ul>
-        
-      </li>
-    
-      <li>
-        
-          
-          
-
-          <a href="/blogPage/mt-gallery/"><span class="nav__sub-title">山岳攝影</span></a>
-        
-
-        
-        <ul>
-          
-            
-            
-
-            
-            
-
-            <li><a href="/blogPage/mt-gallery-100peaks/" class="">高山百岳</a></li>
-          
-        </ul>
-        
-      </li>
-    
-  </ul>
-</nav>
-    
-  
-  </div>
-
-
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="新竹深山中的 檜山駐在所">
-    <meta itemprop="description" content="檜山駐在所為在新竹五峰鄉的深山之中，日本時代興建的鹿場越嶺道新竹這側的根本古道，沿線許多大大小小的崩塌，使得檜山駐在所深鎖於山林中，不易到達。藉這這次探訪根本古道，一窺其全貌。">
-    <meta itemprop="datePublished" content="2022-08-20T08:00:00+08:00">
-    
-
-    <div class="page__inner-wrap">
-      
-        <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">新竹深山中的 檜山駐在所
-</h1>
-          
-        </header>
-      
-
-      <section class="page__content" itemprop="text">
-        
-        <p>緣古道前進，時而需要通過倒木，時而需要高繞躲避崩塌地形，時而需要披荊斬棘、穿越芒草叢。腰繞至檜山西北側的山腰上，映入眼簾的是一段清晰的石砌古道，我們即將到達檜山駐在所。這是日本時代興建的鹿場越嶺道上的一座駐在所，由於山區大大小小的崩塌，造成古道近乎無法通行，也因此要到達檜山駐在所的難度大大增加，除了獵人以外，應該不太會有什麼人會特地選擇造訪此處。安靜的山林深處，這座擁有三層石砌駁坎的日本駐在所，靜靜地待在這片森林中。<br />
-根本古道探索行程第二天，我們由高嶺駐在所出發，越過結城東鞍，接上新竹這側的根本古道，到達檜山駐在所，這是我們今晚的宿營地點。根本古道繼續往霞喀羅方向由此分為上下兩線，下線持續沿著山腰前進，通往佐藤駐在所，而上線則是往佐藤山南側的稜線鞍部前進，越過佐藤山稜線，接上白石古道，往霞喀羅的白石駐在所前進。古道上下線交會處即在檜山駐在所前方不遠處。<br />
-我們行程這幾天的天氣狀況多為午後雷陣雨。我們到達檜山駐在所時還下著雨。不過下午三點後天氣放晴，午後斜陽透過山嵐，從樹冠層照入駐在所遺跡中。如此光影可是比單純的大晴天還豐富。我們出發前，登山社的大學長還勉勵我們登山應該要體驗全天候、全時段、全地形，確實有其道理，不同天候、不同時段，同一個地點，可是會有截然不同的景緻。</p>
+---
+layout: single
+title:  "檜山稜線接霞喀羅 佐藤駐在所與根本住在所"
+excerpt: "新竹深山中的駐在所之旅來到了尾聲。根本古道從田村台往苗栗方向出發，然而這一段腰繞路則因為大大小小的坍方，近乎無法通行。因此要探訪佐藤駐在所與根本駐在所，需要從霞喀羅大山、佐藤山稜線路進入，再從稜線下切。"
+
+date:   2022-08-21 08:00:00 +0800
+categories: mt-note-photo-historicaltrail
+classes: wide
+  - landing
+  - dark-theme
+permalink: /:categories/:title/
+
+tags:
+  - 新竹
+
+feature_row:
+  - image_path: https://1.bp.blogspot.com/-PyuJuAKzNOk/YHMBMdYuuNI/AAAAAAABO1A/2pWSIkzOwCADCA1vGIB4RxWbaTCligdEgCLcBGAsYHQ/s1024/IMG_7509.JPG
+    title: "盆駒西北稜(二) 被世人遺忘的稜線"
+    excerpt: "這一段稜線沿線植物從中低海拔的混合林，慢慢變成栓皮櫟純林。跟鹿野忠雄記錄中寫得一樣，想當年也是一樣的森林，這一片遺世獨立的栓皮櫟林於南投深山中待過了無數個年頭。"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day2/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-8DjpwkWhmeY/YHhThVO-cAI/AAAAAAABO4Q/Xe8h9eDNh9MI-TIfhPxFZxRxna40U-0SgCLcBGAsYHQ/s1024/IMG_7898.JPG
+    title: "盆駒西北稜(三) 登上盆駒馬博"
+    excerpt: "依循盆駒西北稜，我們接上了傳統路，但不代表路途就此可以輕鬆了。因為我還要登上海拔接近三千八百公尺的馬博拉斯山。高海拔環境讓我們每走一步都要喘好幾口氣，加上毫無遮蔽的箭竹草坡的缺水路線，這是我們面對最大的考驗。"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day3/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-vPzzbcnqNG8/YHhS8kiEE_I/AAAAAAABO4I/hHqhTvVmODs7xxS64R8Tn-BfawnMf9O5QCLcBGAsYHQ/s1024/IMG_8119.JPG
+    title: "盆駒西北稜(四) 夜行秀姑巒"
+    excerpt: "於海拔3700公尺高的稜線上，頂著凌晨三點的強風，我們在黑夜中向秀姑巒前進。好在登頂秀姑巒前的稜線上忽然雲霧散開，我們迎接了朝陽。"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day4/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+  - image_path: https://1.bp.blogspot.com/-jq9DVPEm1uQ/YHhUWMfNSNI/AAAAAAABO4Y/EPzJmcXlDXAhfPEklmyzn-I8AZBZYjnzQCLcBGAsYHQ/s1024/IMG_8365.JPG
+    title: "盆駒西北稜(五) 歸途再訪八通關大山"
+    excerpt: "歸途最後一座百岳，八通關大山，也是我大一參加中央山社後爬的第一座百岳。這次我們完成了盆駒西北稜，精疲力竭之際，還要再爬上八通關大山前的好漢坡，證明大家都是真英雄。"
+    url: "mt-note-photo-100peaks/PanghiWulaMon-Day5/"
+    btn_class: "btn--primary"
+    btn_label: "Go to"
+
+
+header:
+  image: 
+  teaser : https://cdntwrunning.biji.co/1024_675548313a8fe32ba9b09f4e344c5d4f.jpg
+  image_description: ""
+  overlay_filter: 0.5
+---
+
+
+
+<figure style="width: 40%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_e237df60d63bc819616abe0d3332906c.jpg" alt="佐藤駐在所內遺留日本酒瓶">
+  <figcaption> 日治時代 Kirin 啤酒瓶 </figcaption>
+</figure>
+
+佐藤駐在所位於新竹五峰的深山中。坐落於佐藤山西南側凹谷中。來到佐藤駐在所有一種放鬆愜意的感覺，雖然是中級山，但此處林相乾淨，森林下方是整片的落葉，沒有雜草叢生。循著山坡地形興建，主要分為上、下兩層，古道下方還有當年菜園的遺跡。作為日本時代興建的鹿場越嶺道路中最大的一座駐在所，由古道進入中央大門處高大的駁坎，給人一種莊嚴的感覺。由駐在所內部第一層前往第二層筆直的中央坡道也保存的相當完整。從駐在所大門前的古道繼續往檜山方向處還可以看到疑似早年搭建橋量的古道遺構。經過了接近百年的時光，當年人們於此處的建設，又被這片森林給收回。此處有如時光膠囊般，封印了前人們於此處生活的痕跡，此處留有大量的日治酒瓶。除了日本酒、 Kirin牌啤酒外，還有其他地方比較少見的洋酒瓶。可見當年的"佐藤警官"很懂生活 XD?  
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_aa557ecf84463e2d180ab9870c8f7e96.jpg" alt="檜山駐在所內遺留的日治時期古道礙子" />
-  <figcaption> 檜山住在所內遺留的礙子 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_39bd6601ba05be00346fd083b1296db8.jpg" alt="佐藤駐在所根本古道">
+  <figcaption> 佐藤駐在所大門坡道 </figcaption>
 </figure>
 
 <figure style="width: 95%" class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_0f528da1225433a22d2f6bcdd1448c8e.jpg" alt="根本古道檜山駐在所石造駁坎" />
-  <figcaption> 檜山駐在所駁坎與午後斜陽 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_d61862652a45b7451b5818385dd9347b.jpg" alt="檜山稜線向佐藤山霞喀羅方向眺望">
+  <figcaption> 由檜山向佐藤山方向眺望 </figcaption>
 </figure>
 
-<figure style="width: 95%" class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_8b5e73e1c512ba716b4a2616e96bb2b8.jpg" alt="根本古道與雙層駁坎的檜山駐在所大門" />
-  <figcaption> 由古道下方望相檜山駐在所大門中央坡道 </figcaption>
-</figure>
+百年古道上前人的生活痕跡，究竟是文化資產還是垃圾，先前在網路上有被大大的討論過。起因於某網紅清理了霞喀羅古道上的玻璃酒瓶。以現代人丟的酒瓶來看確實是垃圾沒有錯，但百年前日本人丟的為什麼就變成文化遺產了呢?能代表文化遺產應該是這些酒瓶是當年日本駐在所運作的證據。鹿場越嶺道路被開闢，跨越加里山脈，從新竹的頭前溪流域跨越至北坑溪一帶，通往今天的大湖。不論日本是來征服、掠奪、還是開墾，正面負面的東西，已經是歷史事件，而這些物件則是當年遺留下來的證明，因此這當然是歷史文物。一堆人反駁說要在霞喀羅丟垃圾，一百年後就會變文物...，並不會，因為一百年後這些東西不會變成什麼開拓歷史上的證明，而且亂丟垃圾者只是個沒公德心的無名小卒。
 
-<h2 id="行程紀錄">行程紀錄</h2>
 
-<h1 id="day1-2022-08-19-">Day1 2022-08-19 :</h1>
-<p>05:18 山椒魚出發 🦎<br />
-05:32 大鹿林道東線入口 拍照 05:42 出發<br />
-06:53 大鹿林道東線 4.4k 神崎駐在所 (反光鏡右側有明顯路徑，1分鐘就到了)<br />
-07:15 4.4K出發(上切點於反光鏡斜對面有點陡約三米)<br />
-07:22另一可上切點(過4.4K後一個溪溝可緩上古道)<br />
-07:25 古道路基，沿路多處溼滑邊坡，有許多咬人貓<br />
-07:57 有繩碎石崩壁橫渡，橫渡距離約30公尺，遠傳有網路，過崩壁尾端有兩條路，一條往上(踩點較明顯)另一條跟著繩子走，我們一開始尋踩點方向往上，不過發現上方沒有路底，決定向下切到拉繩附近，有點落差不大好走。<br />
-08:25 接回古道<br />
-08:26 密林區 小高繞 阿晉路條<br />
-09:01 古道 路徑寬<br />
-09:17 小夯土牆<br />
+
+## 行程紀錄
+
+# Day1 2022-08-19 :
+05:18 山椒魚出發 🦎  
+05:32 大鹿林道東線入口 拍照 05:42 出發  
+06:53 大鹿林道東線 4.4k 神崎駐在所 (反光鏡右側有明顯路徑，1分鐘就到了)  
+07:15 4.4K出發(上切點於反光鏡斜對面有點陡約三米)  
+07:22另一可上切點(過4.4K後一個溪溝可緩上古道)  
+07:25 古道路基，沿路多處溼滑邊坡，有許多咬人貓  
+07:57 有繩碎石崩壁橫渡，橫渡距離約30公尺，遠傳有網路，過崩壁尾端有兩條路，一條往上(踩點較明顯)另一條跟著繩子走，我們一開始尋踩點方向往上，不過發現上方沒有路底，決定向下切到拉繩附近，有點落差不大好走。  
+08:25 接回古道  
+08:26 密林區 小高繞 阿晉路條  
+09:01 古道 路徑寬  
+09:17 小夯土牆  
 09:20 馬達拉駐在所，休息，09:51 出發
-10:48 古道遺構<br />
-11:11 平坦營地 4T3<br />
-11:14 古道崩 取左高繞<br />
-11:58 本田前大崩壁，橫渡方向先微微向下切到最低點溪溝，最後上爬回到古道另一端點。<br />
-13:35 崩塌邊坡簡單架繩找踩點橫渡(暴露感大)，上下皆有布條(我們走下面的藍色布條)<br />
-13:54 倒木鑽樹洞<br />
-14:18 本田駐在所，稍作休息，拍照，14:35 出發(此時已開始下雨)<br />
-14:43 溪溝取水，水量較小花了一些時間 15:10 出發<br />
-15:45 有一芒草崩塌可左切高遶約十米(直接過去有危險)<br />
-16:35 高嶺駐在所，中央走道<br />
-16:37 大營地，高嶺駐在所  C1</p>
+10:48 古道遺構  
+11:11 平坦營地 4T3  
+11:14 古道崩 取左高繞  
+11:58 本田前大崩壁，橫渡方向先微微向下切到最低點溪溝，最後上爬回到古道另一端點。  
+13:35 崩塌邊坡簡單架繩找踩點橫渡(暴露感大)，上下皆有布條(我們走下面的藍色布條)  
+13:54 倒木鑽樹洞  
+14:18 本田駐在所，稍作休息，拍照，14:35 出發(此時已開始下雨)  
+14:43 溪溝取水，水量較小花了一些時間 15:10 出發  
+15:45 有一芒草崩塌可左切高遶約十米(直接過去有危險)  
+16:35 高嶺駐在所，中央走道  
+16:37 大營地，高嶺駐在所  C1  
 
-<h1 id="day2-2022-08-20">Day2 2022-08-20:</h1>
-<p>06:50 出發<br />
-07:08 倒木芒草海 小高繞<br />
-07:30 結城山上切點<br />
-07:52 結城山，休息拍照，08:05出發返程<br />
-08:40 回到結城山上切點，取背包，繼續沿古道出發。<br />
-09:14 溪溝 細流水源<br />
-09:22 結城東鞍，古道遺構，新竹苗栗縣界，由此接上根本古道。休息，09:45 出發續行。<br />
-09:56 崩壁高繞，50m崩，舊路植被密，目測不太好過，往更高的地方繞(有路跡)，怕切不回去，花不少時間找路。  <br />
-10:26 下背探路<br />
-10:41 重新集合，整裝走高繞路<br />
-10:53 高繞頂點<br />
-11:05 接回古道，下切緩稜回古道(過完50m崩) 高高繞了約100m<br />
-11:34 檜木上的礙子*2<br />
-11:42 倒木上的礙子<br />
-11:48 疑似古道遺構<br />
-11:55 巨木<br />
-11:58 小崩壁橫渡(好走)<br />
-12:26 古道崩壁高繞點<br />
-12:40 崩壁高繞結束 接回古道 小溪活水<br />
-12:54 古道遺構 石頭路基<br />
-12:55 檜山駐在所 C2</p>
+# Day2 2022-08-20:
+06:50 出發  
+07:08 倒木芒草海 小高繞  
+07:30 結城山上切點  
+07:52 結城山，休息拍照，08:05出發返程  
+08:40 回到結城山上切點，取背包，繼續沿古道出發。  
+09:14 溪溝 細流水源  
+09:22 結城東鞍，古道遺構，新竹苗栗縣界，由此接上根本古道。休息，09:45 出發續行。  
+09:56 崩壁高繞，50m崩，舊路植被密，目測不太好過，往更高的地方繞(有路跡)，怕切不回去，花不少時間找路。    
+10:26 下背探路  
+10:41 重新集合，整裝走高繞路  
+10:53 高繞頂點  
+11:05 接回古道，下切緩稜回古道(過完50m崩) 高高繞了約100m  
+11:34 檜木上的礙子*2  
+11:42 倒木上的礙子  
+11:48 疑似古道遺構  
+11:55 巨木  
+11:58 小崩壁橫渡(好走)  
+12:26 古道崩壁高繞點  
+12:40 崩壁高繞結束 接回古道 小溪活水  
+12:54 古道遺構 石頭路基  
+12:55 檜山駐在所 C2  
 
-<h1 id="day3-2022-08-21">Day3 2022-08-21:</h1>
-<p>06:35 出發，駐在所後方稜線上切(有點陡)<br />
-07:02 上稜<br />
-07:18 箭竹<br />
-07:58 茂密箭竹海<br />
-08:00 檜山岔(上至檜山岔箭竹茂密，但有路底可循，接近檜山岔有展望)<br />
-08:18 展望新竹竹南<br />
-08:22 H2527 假山頭<br />
-08:27 檜山，休息拍照，08:45出發<br />
-09:36 檜山佐藤岔路 往佐藤<br />
-10:38 崩壁上緣<br />
-10:45 小凹谷<br />
-11:45 巨木小鞍<br />
-11 55 (705，131)山頭休 12:26 出發<br />
-12:50 寬稜中找路<br />
-13:28 下切點前巨木，休息與巨木合照，13:55出發<br />
-14:13 接回古道<br />
-14:19 倒木區<br />
-14:23 倒木低繞<br />
-14:36 跨倒木<br />
-14:47 佐藤駐在所  C3</p>
+# Day3 2022-08-21:
+06:35 出發，駐在所後方稜線上切(有點陡)  
+07:02 上稜  
+07:18 箭竹  
+07:58 茂密箭竹海  
+08:00 檜山岔(上至檜山岔箭竹茂密，但有路底可循，接近檜山岔有展望)  
+08:18 展望新竹竹南  
+08:22 H2527 假山頭  
+08:27 檜山，休息拍照，08:45出發  
+09:36 檜山佐藤岔路 往佐藤  
+10:38 崩壁上緣  
+10:45 小凹谷  
+11:45 巨木小鞍  
+11 55 (705，131)山頭休 12:26 出發  
+12:50 寬稜中找路  
+13:28 下切點前巨木，休息與巨木合照，13:55出發  
+14:13 接回古道  
+14:19 倒木區  
+14:23 倒木低繞  
+14:36 跨倒木  
+14:47 佐藤駐在所  C3  
 
-<h1 id="day4-2022-08-22">Day4 2022-08-22:</h1>
-<p>06:27 出發<br />
-06:59 佐藤山前鞍部<br />
-07:16 佐藤山，休息至07:32出發<br />
-08:18 2320峰<br />
-08:31 寬稜，最低鞍獵寮，休息至08:54<br />
-09:53 前往根本駐在所下切點<br />
-10:21 小斷頭 左繞，小心通過即可<br />
-10:35 陡下，5m垂直岩壁拉繩下切(手腳點多，有樹根可抓)<br />
-10:50 鞍部下切根本古道<br />
-10:57 離開乾洗溝往右 岩石堆<br />
-11:03 接上古道<br />
-11:08 根本駐在所，有長滿芒草的階梯通到駐在所門口(兩側皆有)，門口是兩個石柱基底。煮泡麵午餐。在根本駐在所休息至 12:52 出發回程<br />
-12:58 回程上切<br />
-13:06 回程鞍部<br />
-13:39 回程上稜線，整裝休息至14:00出發<br />
-14:21 霞喀羅大山叉路<br />
-14:23 霞喀羅大山頂合照<br />
-15:11 霞喀羅古道<br />
-16:30 石鹿登山口</p>
 
-<h2 id="觀霧出發接檜山-出佐藤-探根本駐在所-航跡">觀霧出發接檜山 出佐藤 探根本駐在所 航跡</h2>
+# Day4 2022-08-22:
+06:27 出發  
+06:59 佐藤山前鞍部  
+07:16 佐藤山，休息至07:32出發  
+08:18 2320峰  
+08:31 寬稜，最低鞍獵寮，休息至08:54  
+09:53 前往根本駐在所下切點  
+10:21 小斷頭 左繞，小心通過即可  
+10:35 陡下，5m垂直岩壁拉繩下切(手腳點多，有樹根可抓)  
+10:50 鞍部下切根本古道  
+10:57 離開乾洗溝往右 岩石堆  
+11:03 接上古道  
+11:08 根本駐在所，有長滿芒草的階梯通到駐在所門口(兩側皆有)，門口是兩個石柱基底。煮泡麵午餐。在根本駐在所休息至 12:52 出發回程  
+12:58 回程上切  
+13:06 回程鞍部  
+13:39 回程上稜線，整裝休息至14:00出發  
+14:21 霞喀羅大山叉路  
+14:23 霞喀羅大山頂合照  
+15:11 霞喀羅古道  
+16:30 石鹿登山口   
+
+## 觀霧出發接檜山 出佐藤 探根本駐在所 航跡
 
 <html>
 <head>    
@@ -544,11 +182,11 @@
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
-    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
 
     <!-- Load Leaflet: http://leafletjs.com/ -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
@@ -558,11 +196,11 @@
     <script src="../../assets/js/leaflet-providers.js"></script>
 
     <!-- Grouped Layer Plugin: https://github.com/ismyrnow/leaflet-groupedlayercontrol  -->
-    <link rel="stylesheet" href="../../assets/css/leaflet.groupedlayercontrol.min.css" />
+    <link rel="stylesheet" href="../../assets/css/leaflet.groupedlayercontrol.min.css">
     <script src="../../assets/js/leaflet.groupedlayercontrol.min.js" type="text/javascript"></script>
 
     <!-- Leaflet Drawing Plugin: https://github.com/codeofsumit/leaflet.pm -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.css">
     <script src="https://unpkg.com/leaflet.pm@latest/dist/leaflet.pm.min.js"></script>
 
     <!-- Leaflet WMS Plugin: https://github.com/heigeo/leaflet.wms -->
@@ -590,7 +228,7 @@
 </head>
 <body>    
     
-            <div class="folium-map" id="map_bf0f98ae10844d758d57feb53f1b34c0" style="width: 100%; height: 600px;">&gt;</div>
+            <div class="folium-map" id="map_bf0f98ae10844d758d57feb53f1b34c0" style="width: 100%; height: 600px;">></div>
         
 </body>
 <script>    
@@ -4082,594 +3720,485 @@
 </script>
 </html>
 
-<h2 id="圖文紀錄">圖文紀錄</h2>
+## 圖文紀錄
 
-<p>檜山道路行程第二天，由高嶺駐在所出發，攀登結城山後，繼續往根本古道前進。<br />
-通過結城東鞍越嶺，進入新竹縣的根本古道路段。在日本時代這裡是兩郡交界處(竹東郡&amp;大湖郡)。此處還留有古道遺構。</p>
 
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_0d20a135efa2af22a0c3c57b90f8473e.jpg" alt="根本古道上的古道遺跡" />
-  <figcaption> 根本古道結城東鞍古道遺構 </figcaption>
-</figure>
+探訪根本古道的行程進入尾聲，行程第三天，我們從檜山延稜線往北向佐藤山前進，到達佐藤山前鞍部轉向西側下切根本古道。根本古道沿線因為無數坍方，無法通行，因次要探訪佐藤駐在所以及根本駐在所，需要經由稜線路前進，到達駐在所上方後，在找路徑下切，單點來回。
+從檜山出發，穿過稜線上的箭竹叢，尋找好下切的路跡
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_0d477b8e7b270ac14bcbde08420e4ef0.jpg" alt="新竹鹿場越嶺道檜山道路上的礙子" />
-  <figcaption> 日本警備道礙子 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_30a9c0c4dee434cbe6d3a3d2c54b56e4.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_097f0c92616ff02101c8f6bac5b89bd0.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_e11c545a04577e45df6db2d28699eba5.jpg" alt="鹿場越嶺道根本古道郡界位置" />
-  <figcaption> 結城東鞍保安林界碑 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_d61862652a45b7451b5818385dd9347b.jpg" alt="">
+  <figcaption> 由檜山眺望新竹，前方可清楚看見竹東的五指山 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_527b2a1304c3f57204aecaecd37ee725.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_be50a42ebb70cfe819f708578575aae1.jpg" alt="">
+  <figcaption> 巡稜線下切，往佐藤山鞍部前進 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_6b96edfcb6a054836ce39996c528cf0c.jpg" alt="">
+  <figcaption> 稜線上的箭竹小凹谷 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_65077717ec0e9f875c5b250ef77e624d.jpg" alt="">
+  <figcaption> 離開箭竹植披帶，進入落葉森林 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_974a5ce03d084faf17ad038a8be7ba7c.jpg" alt="">
+  <figcaption> 寬稜森林 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_1f9d5e3ca05e5438317610b9eeee78e0.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
-<p>通過結城東鞍繼續沿著古道前進</p>
+到達佐藤-檜山鞍部，準備下切往根本古道，前往佐藤駐在所
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_9f13e0808dbaf5571f8669a72df7c27d.jpg" alt="鹿場越嶺道根本古道一景" />
-  <figcaption>  </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_6bcdaabb2a2446f92bf6e4c5b7500801.jpg" alt="">
+  <figcaption> 下切點前巨木 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_8db55cc8bf2ea620c54eba27947440f7.jpg" alt="由高嶺古道銜接根本古道前進檜山駐在所" />
-  <figcaption>  </figcaption>
-</figure>
-
-<p>前進不久後的古道崩塌，需要高繞。原先只計劃高繞一小段後轉橫渡。不過一路上沒有找到明顯的橫渡點，因此我們一直往上，上升了破百米，幾乎快碰到稜線了，變成高高繞(不過上面的路底滿清楚的，踏起來也很穩。)</p>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_71271e18b9bbb0a3c88f59358bca4b54.jpg" alt="" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_76b4d25f57bd5e9a15033b28bf298848.jpg" alt="" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_f41267fb29028bf3c521eb3c3e05eef5.jpg" alt="" />
-  <figcaption>  </figcaption>
-</figure>
-
-<p>高繞結束，接回古道</p>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_8008e5446f4375aa753f483c70c9a956.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_224b678b7b491f5006ff80cdec633502.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_df1fadd106192be24f3571066be37654.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_95ce5ae7cbb4a11cb291f4daa119e7a5.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_e3496c22f9eecc0c9e384ee53309ccb3.jpg" alt="" />
-  <figcaption>  </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_c3fa9dfe8cc9f48e9069c423b6782ac6.jpg" alt="">
+  <figcaption> 開始下切，前往根本古道 </figcaption>
 </figure>
 
-<p>古道過倒木</p>
+直接沿著等高線梯度方向，從山坡下切，坡度陡。
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_10fa2844429c921f9d1ee420a84c605f.jpg" alt="根本古道探險" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_b1c68ed6b6d4890608e08b1fcb339236.jpg" alt="根本古道上的倒木" />
+  <img src="https://cdntwrunning.biji.co/1024_2842bac94cd034af132b4dc18e0a91d4.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_e19af01facb42b3a5f2532e5694bb573.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_3c69518e3fe3b9ee53d9df7a05c69911.jpg" alt="">
+  <figcaption> 接回根本古道 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_d341e6f41aae618a2e87a4f817e1ae7a.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+古道沿著山腰繞，走沒多久就遇到一片倒木區，看起來樹才剛倒，枯黃的葉子都還在樹枝上
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_9acba3ebc8fb0fc41cba99df2ddd53a4.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_4a355c523b000cdfd03147ad6aca3369.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_4b03e3698ed0077ad25f34f8901885fb.jpg" alt="">
+  <figcaption> 我們往下切腰繞，但其實往上高繞沒有很難走 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_e8d82965d37b927c29a4157abe20905a.jpg" alt="">
+  <figcaption> 沿古道前進，古道兩旁植披茂密 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_5f4372ac351fd9904557adf2ce82808b.jpg" alt="">
+  <figcaption> 接近佐藤駐在所前的古道遺構 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_0b03a6e8c7ba3ad51551e4d37cc515b2.jpg" alt="">
+  <figcaption> 古道上的倒木 </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_40fa8a809c6acacb3368922fab32f83b.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_6911ac32fd7b1699d2ca3fcb51b7bcfe.jpg" alt="森林中的根本古道前往檜山駐在所" />
-  <figcaption> 根本古道&amp;迷霧森林 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_d0e4365eecc854bf8e2331e86b5e27d8.jpg" alt="">
+  <figcaption> 接近佐藤駐在所，可以看見駐在所前旁的溪溝了 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_32be9a479602b5b0096bcdb8eddccf75.jpg" alt="鹿場越嶺到日本警備道路遺構" />
+  <img src="https://cdntwrunning.biji.co/1024_e47a6e2b628f1d6ceb52ef57d2a28afb.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_ea62d9548aca2023f835ce9d55ddf5bd.jpg" alt="">
   <figcaption> 古道遺構 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_7b745e08b0f067ef6066855d6972c8bf.jpg" alt="根本古道崩塌狀況" />
-  <figcaption> 古道上踩點小的邊坡，沿線多處崩塌，小心通過 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_0ecc648f95409a7b547da217304eb51e.jpg" alt="">
+  <figcaption> 到達佐藤駐在所 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_76b02d56d41f976977a287dd192895bf.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_98ac3a381b456651463d90df482ed0ff.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_6d3d547d08f06039dcae6ae494e8ef79.jpg" alt="" />
-  <figcaption> 古道旁巨木 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_2b884182c4dcacddb6c05c157a6c5b25.jpg" alt="" />
-  <figcaption> 檜山駐在所前崩壁，高繞，路底清楚不難走 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_49a6b7cc2abb1e9fc314031657e1237d.jpg" alt="根本古道檜山駐在所前的警備道遺構" />
-  <figcaption> 通過高繞路段回到古道，檜山駐在所前古道遺構 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_0559b991920f12b60ef5c1757fc636b3.jpg" alt="檜山駐在所為日治時代警備道路的據點" />
-  <figcaption> 到達檜山駐在所 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_10e45b6137e27c48f66531c745311973.jpg" alt="" />
-  <figcaption> 午後雷陣雨中建設營地 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_46e1ffdd67c62d97b87b72b4739caf42.jpg" alt="由根本古道望相檜山駐在所大門駁坎石牆" />
-  <figcaption> 檜山駐在所大門前的古道 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_eb28ee1a50542ef21aeb2f81a8c0b774.jpg" alt="檜山駐在所中央坡道" />
-  <figcaption> 檜山駐在所大門中央坡道 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_7a5117e572e3b062368978dfbc8e40ac.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_ddab52acea710327fec4f30cd6fe6191.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_8ce8cab167a76738bfe7a702cf77eac6.jpg" alt="日本警備道根本古道與檜山駐在所" />
-  <figcaption> 根本古道與檜山駐在所 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_489ee8c6320427f2ba9c5c8b5e121cdf.jpg" alt="">
+  <figcaption> 佐藤駐在所第一層前往第二層的中央坡道 </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_7221d4ae8431e51d0a4fb80dc944cab1.jpg" alt="檜山駐在所前的石牆駁坎遺蹟" />
-  <figcaption> 駐在所前駁坎 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_9edaa966cba1b35c8ce4995caf45be6c.jpg" alt="">
+  <figcaption> 第二層駐在所駁坎 </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_3309126015d5ba10d6d55e4e869ec7d5.jpg" alt="" />
-  <figcaption> 雨過天晴，太陽露臉了 </figcaption>
+<figure style="width: 45%" class="align-left">
+  <img src="https://cdntwrunning.biji.co/1024_38a223b4021032498c348a71067cc0ba.jpg" alt="">
+  <figcaption> 山佐醬油 YAMASASHOYU </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_5f7afc9bad588c9e08719cdd1857af0f.jpg" alt="鹿場越嶺道根本古道路基" />
-  <figcaption> 根本古道路基 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_24cedfca75d09c19a0c4df8f7ce5651b.jpg" alt="" />
+<figure style="width: 45%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_a4b9a143156623ea1ae9edd1a1ae1696.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_5135045a90012fc0c4e1c35c147931e6.jpg" alt="" />
-  <figcaption> 建設完營地後前行往上下線交匯處 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_bf6ed940de34821330f36f0bf556d1ac.jpg" alt="根本古道上下線交會點" />
-  <figcaption> 根本古道上下線交會點 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_9bf451b1d78d40819fb0bd04281d2e5b.jpg" alt="" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_96c251effdae92953f1556cbef0eaa96.jpg" alt="" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_936320ba1c90fbadc49f0ecd40c2d46b.jpg" alt="" />
-  <figcaption> 根本古道 下線 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_ab567cd306585af280c74d52c547b21f.jpg" alt="" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_44f03fc5fd9f94603a7d726d60bd04bd.jpg" alt="檜山駐在所中的山嵐光景" />
-  <figcaption> 忽然來了一陣山嵐 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_6b2359fc554930459fc18f7131e9c481.jpg" alt="新竹中級山深處的檜山駐在所" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_9c9fbc8547c6726530602aca27cbae84.jpg" alt="中級山雲霧與光影" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_f1ab24c02cc31a3ed575a371f86cef74.jpg" alt="新竹中級山檜山迷霧森林" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_6a896509010ded6984cd1e3f9551da05.jpg" alt="迷霧森林中的耶穌光" />
-  <figcaption>  </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_6f96d007f3210a754b7a7ac6d302cf4c.jpg" alt="根本古道檜山駐在所駁坎與山嵐" />
-  <figcaption> 檜山駐在所前駁坎 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_aa557ecf84463e2d180ab9870c8f7e96.jpg" alt="檜山駐在所日本警備道路中的礙子" />
-  <figcaption> 檜山駐在所內的礙子 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_3ea1831e4598e32385bc58bb86127034.jpg" alt="" />
+<figure style="width: 70%" class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_7553e24e3213405a61a74b6501eab7f0.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure style="width: 45%" class="align-left">
-  <img src="https://cdntwrunning.biji.co/1024_45fa77ab1c724f4799cb011a5e6ad2b3.jpg" alt="日本駐在所內的酒瓶" />
-  <figcaption> 大日本麥酒 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_e237df60d63bc819616abe0d3332906c.jpg" alt="">
+  <figcaption> Kirin beer </figcaption>
 </figure>
 
 <figure style="width: 45%" class="align-right">
-  <img src="https://cdntwrunning.biji.co/1024_553e00281e41d227095b64638163840b.jpg" alt="檜山駐在所酒瓶" />
-  <figcaption> 通常是看到寫羅馬字拼音，很少看到漢字的 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_ac10200df80e4534cc7ac4e1ad42baca.jpg" alt="" />
-  <figcaption> 不知道是什麼的玻璃杯 </figcaption>
-</figure>
-
-<p>隔日一早，由檜山駐在所啟程，由後方山壁上攀，上稜前往檜山</p>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_977d28b2752eb639cd33ea0d10220ff9.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_b711966fcfc2d7cb3b711bc9a2d6c97f.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_392c3d7dc728b38d8d59b823eadd779a.jpg" alt="" />
-  <figcaption> </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_a8abafe44d1f75de14895dbd55604328.png" alt="">
+  <figcaption> 日治時代 麒麟啤酒 </figcaption>
+</figure>
+[開放博物館: 日本遺跡中的啤酒](https://openmuseum.tw/muse/digi_object/197be4a1a84620d5ce09edb95d8de2d0)
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://cdntwrunning.biji.co/1024_efdf07db48a439ba2ae81e6f66e30622.jpg" alt="">
+  <figcaption>  </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_4d91583261c908d71285182f6a277771.jpg" alt="" />
+<figure style="width: 45%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_a4ab83cba51db8f712c668f41f3fdcbc.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://cdntwrunning.biji.co/1024_e1a9546a17a9786498bf9d61e2d8b9f9.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_4b2eb947f43d15800fc8bd9af6729ad2.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_fc0a8abd1fb7589b2715d01d6d35f4a8.jpg" alt="" />
-  <figcaption> 沿著山壁陡上，向稜線前進 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_cde0dfceec65b0e368d545065ac7e5e5.jpg" alt="">
+  <figcaption> Bee Brand Kozan wine </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_61f4b6073383b421329f93892c3c0405.jpg" alt="" />
+<figure style="width: 45%" class="align-left">
+  <img src="https://cdntwrunning.biji.co/1024_0787da3451e724206791e6fb225df21d.png" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_4eaea7ad5d92c6dbb3ee8569fb16f055.png" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_3b9a7df3bebe7add5eb2f38bcceba420.jpg" alt="" />
-  <figcaption> 接近稜線出現箭竹叢 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_bcd3828239bdf8186a1cef479482b8b3.jpg" alt="">
+  <figcaption>  </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_e39171f067bf54f5a24d580c39b81678.jpg" alt="" />
-  <figcaption> 上稜 </figcaption>
+<figure style="width: 45%" class="align-left">
+  <img src="https://cdntwrunning.biji.co/1024_a3db014aa4cfb58f831350426caa48cb.jpg" alt="">
+  <figcaption> AKADAMA port wind </figcaption>
 </figure>
 
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_f11cc5eb80f37272146cc71d18dca704.jpg" alt="" />
-  <figcaption> 樹林空隙處，此處可以眺望整條頭前溪谷，由檜山山谷延伸向新竹 </figcaption>
+<figure style="width: 45%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_954f7b86069aa1d36c9b8a327f4cc911.jpg" alt="">
+  <figcaption> 赤玉波特酒 </figcaption>
 </figure>
 
+<figure style="width: 45%" class="align-left">
+  <img src="https://cdntwrunning.biji.co/1024_3ae6263525a9934e2e6c5cdabf758d97.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_769355ab081ed86752c95b34abf2569b.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AKADAMA_sweet_wine_poster.jpg/1280px-AKADAMA_sweet_wine_poster.jpg" alt="">
+  <figcaption> 大正 11 年攝影的海報 </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://pds.exblog.jp/pds/1/201212/09/21/e0186021_131845.jpg" alt="">
+  <figcaption> 1983 年，海報模特兒 松島榮美子與當年的海報合影 (Photo by Toru.Kawasima) </figcaption>
+</figure>
+
+
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_87a9099b861b20add9202a3628592f30.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_df62bd3e442c9c14a06e4f1775225f3e.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-left">
+  <img src="https://cdntwrunning.biji.co/1024_ef1ef14a7b489e1de8c352f9687595e2.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+<figure style="width: 45%" class="align-right">
+  <img src="https://cdntwrunning.biji.co/1024_a70cebbe85ed201506057098297118cf.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
+
+
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_d48b011fff20999f63763a1bcf7d0835.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_89f072ec2e661ca11770562658cbf2c1.jpg" alt="由檜山山頂附近眺望新竹、竹北" />
-  <figcaption> 可以看見新竹與竹北的建築群 </figcaption>
-</figure>
-
-<figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_8ca4666acf6e5c8fcf0c3d89f0d2bb73.jpg" alt="" />
+  <img src="https://cdntwrunning.biji.co/1024_a718d305f39b9fccc56d9e2698478514.jpg" alt="">
   <figcaption>  </figcaption>
 </figure>
 
 <figure class="align-center">
-  <img src="https://cdntwrunning.biji.co/1024_61532fba482ab14e8b0a0663016d101f.jpg" alt="" />
-  <figcaption> 檜山山頂，無基石 </figcaption>
+  <img src="https://cdntwrunning.biji.co/1024_5888d7e2bd80ba7569b66977fc3862af.jpg" alt="">
+  <figcaption>  </figcaption>
 </figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_d12103c206afb475067b25b707770dbd.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-        
-      </section>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_13584f3f2dc6eb2140f1a3ae9afe97f7.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-      <footer class="page__meta">
-        
-        
-  
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_04ec7b939c261797f1dd79d47d29274d.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_3ecc66013566ebd1f6caf7e27c2f3dd7.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-  
-  
-  
+行程第四天一早，準備離開佐藤駐在所，準備上稜，往佐藤山方向前進。
 
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
-    <span itemprop="keywords">
-    
-      
-      
-      <a href="/blogPage/tags/%E6%96%B0%E7%AB%B9" class="page__taxonomy-item" rel="tag">新竹</a>
-    
-    </span>
-  </p>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_daa9d159d993a03bde05eb5c4325b276.jpg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_3b39d0007cd1200014929b97d77aaac9.jpg" alt="">
+  <figcaption> 佐藤山山頂 </figcaption>
+</figure>
 
+到達佐藤山頂後稍作休息，便繼續行程，沿著稜線繼續往霞喀羅大山方向前進。
+從佐藤山往霞喀羅方向的稜線沒有太多困難，走就對了。
 
+兩個小時後到達稜線下切往根本駐在所的位置
 
-  
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_576360558b247e182db33060a05e0fc5.jpeg" alt="霞喀羅大山佐藤山稜線下切根本駐在所岔路點">
+  <figcaption> 稜線下切前往根本駐在所下切點 </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_67624d50a18025d283d0fcdcc59850d3.jpeg" alt="">
+  <figcaption> 下背包整裝 </figcaption>
+</figure>
 
-  
-  
-  
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_cda62e778e17e84e060c0ca81b511fae.jpeg" alt="">
+  <figcaption> 準備下切根本駐在所 </figcaption>
+</figure>
 
-  <p class="page__taxonomy">
-    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
-    <span itemprop="keywords">
-    
-      
-      
-      <a href="/blogPage/categories/mt-note-photo-historicaltrail" class="page__taxonomy-item" rel="tag">mt-note-photo-historicaltrail</a>
-    
-    </span>
-  </p>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_8a445d6bbdb566a7a5202987b311234b.jpeg" alt="">
+  <figcaption> 稜線斷頭，約十米落差，左繞 </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_5688ea4ac87848d01cb5f686e2bc8558.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-        
-          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-08-20T08:00:00+08:00">August 20, 2022</time></p>
-        
-      </footer>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b0707065333ee3f6de4a7f126bcf3db8.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-      <section class="page__share">
-  
-    <h4 class="page__share-title">Share on</h4>
-  
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_b586da6bf171ecaa9b0a3023616a4239.jpeg" alt="">
+  <figcaption> 到達鞍部，左方下切前往根本古道 </figcaption>
+</figure>
 
-  <a href="https://twitter.com/intent/tweet?text=%E6%96%B0%E7%AB%B9%E6%B7%B1%E5%B1%B1%E4%B8%AD%E7%9A%84+%E6%AA%9C%E5%B1%B1%E9%A7%90%E5%9C%A8%E6%89%80%20https%3A%2F%2Fpenhsuanwang.github.io%2FblogPage%2Fmt-note-photo-historicaltrail%2FGauLin-Historicaltrail-Day2%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_5aadca8d8067a910a78142fd60732a1e.jpeg" alt="">
+  <figcaption> 石瀑區 </figcaption>
+</figure>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpenhsuanwang.github.io%2FblogPage%2Fmt-note-photo-historicaltrail%2FGauLin-Historicaltrail-Day2%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_749324b946d3878327fe21e1e2be0252.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fpenhsuanwang.github.io%2FblogPage%2Fmt-note-photo-historicaltrail%2FGauLin-Historicaltrail-Day2%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
-</section>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_05f3e07e828e5fea5911fbba42ba59cf.jpeg" alt="">
+  <figcaption> 下切抵達根本古道 </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_f79ea75b8f1117cfd6599124fef5987e.jpeg" alt="">
+  <figcaption> 沿著古道往前走，根本駐在所就在前方不遠處 </figcaption>
+</figure>
 
-      
-  <nav class="pagination">
-    
-      <a href="/blogPage/mt-note-photo-historicaltrail/GauLin-Historicaltrail-Day1/" class="pagination--pager" title="觀霧 高嶺古道銜接根本檜山道路
-">Previous</a>
-    
-    
-      <a href="/blogPage/mt-note-photo-historicaltrail/GauLin-Historicaltrail-Day3/" class="pagination--pager" title="檜山稜線接霞喀羅 佐藤駐在所與根本住在所
-">Next</a>
-    
-  </nav>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_e1f6b9f21ebd314219c14c16436283a3.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-    </div>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_286aa8ca71ce0683d5904d5ca5119720.jpeg" alt="">
+  <figcaption> 到達根本駐在所 </figcaption>
+</figure>
 
-    
-  </article>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_0cad3d8ae336315c47bb7b750fa0c3e0.jpeg" alt="">
+  <figcaption> 駐在所東北側階梯 </figcaption>
+</figure>
 
-  
-  
-    <div class="page__related">
-      <h4 class="page__related-title">You may also enjoy</h4>
-      <div class="grid__wrapper">
-        
-          
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_6c1a47fb696d1b0096f942d631fd468a.jpeg" alt="">
+  <figcaption> 根本駐在所 雙層駁坎 </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_8843f7368a1f4bf6b8bf45063860b792.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_4da135c2d5ce06fadd75b24c44f279ff.jpeg" alt="">
+  <figcaption> 古早建築物的地基 </figcaption>
+</figure>
 
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://cdntwrunning.biji.co/1024_675548313a8fe32ba9b09f4e344c5d4f.jpg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-historicaltrail/GauLin-Historicaltrail-Day3/" rel="permalink">檜山稜線接霞喀羅 佐藤駐在所與根本住在所
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">新竹深山中的駐在所之旅來到了尾聲。根本古道從田村台往苗栗方向出發，然而這一段腰繞路則因為大大小小的坍方，近乎無法通行。因此要探訪佐藤駐在所與根本駐在所，需要從霞喀羅大山、佐藤山稜線路進入，再從稜線下切。
-</p>
-  </article>
-</div>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_623dfd4ababfc6078d27f2280bdd6716.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-        
-          
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_65b133fa736905a6cbc6a19aa080916f.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+根本駐在所的酒瓶數量跟款式，與佐藤駐在所相比之下少很多。
+也可以看出佐藤駐在所當年應該是生活設施最完善的
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_9cddae8de1f0dde54180b1109067890b.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://cdntwrunning.biji.co/1024_8b5e73e1c512ba716b4a2616e96bb2b8.jpg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-historicaltrail/GauLin-Historicaltrail-Day1/" rel="permalink">觀霧 高嶺古道銜接根本檜山道路
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">在新竹、苗栗之間的深山中，藏著百年前的故事。高嶺古道建於日本時代，從新竹州竹東郡的霞喀羅古道主線出發，始於田村台駐在所，繞過霞喀羅大山西側，沿著蜿蜒的前進，越過檜山稜線，前往觀霧、北坑溪古道一帶。
-</p>
-  </article>
-</div>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_64d1e841a6eb32f53b98da7dcd411f83.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-        
-          
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_7fa5a4a11816852f4cdabeb5e5dc66a1.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_f4dfa6a4e99d670dc8815d35d7143ea0.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_c0979278fd7e54d08eaad999fefb5946.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://3.bp.blogspot.com/-6YiSLv9Un38/WvmBg1B8RoI/AAAAAAAA2Ro/rbEo0z7AkDo-jE_m7lWHI5oXkVeLMe7fwCLcBGAs/s1600/_MG_9082.JPG"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-foreign/france-jura-hiking/" rel="permalink">法國 侏羅山脈(Jura)健走 探訪內日峰(Crêt de la Neige)
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">位於瑞士Geneva跟法國小鎮St.Genis的交界。可以看到北方的侏羅山脈Upper Jura Chain，這次規劃法國健走的路線，從Thoiry出發前往最高峰內日峰(Crêt de la Neige)。
-</p>
-  </article>
-</div>
+準備回程
 
-        
-          
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_dd75f838a5ff5a00463fa16b9cde6bc9.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_9064765dfe03aa9d8f09c034bcb785c3.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
+回程，原先的陡下變成陡上
 
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://cdntwrunning.biji.co/1024_c93f861b4419ffbed0b580f73330a7c1.jpeg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-midalt/sandiagocap-snowmountainrange-tail-hiking/" rel="permalink">三貂角上雪山尾稜 雪貂縱走 台灣極東山角點
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">從台灣地理東極點-三貂角接雪山尾稜，沿途經過萊萊山登上隆隆山，在沿著雪山山脈尾稜向南前往隆林山、鶯歌石山、大崛澳山、石城山。
-</p>
-  </article>
-</div>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_2d41f8381d3ed55d6904c08d6f4c7ddb.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-        
-      </div>
-    </div>
-  
-  
-</div>
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_1e9cff21f6aeafaaf1f53df7df4b86b7.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-    </div>
+回程到達霞喀羅大山
 
-    
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_ac4ff2c27c7dc83007410f74e61b1811.jpeg" alt="">
+  <figcaption>  </figcaption>
+</figure>
 
-    <div id="footer" class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
+<figure class="align-center">
+  <img src="https://cdntwrunning.biji.co/1024_52ca17a0900bd8d36065b0ac35d9b018.jpeg" alt="">
+  <figcaption> 回程田村台駐在所 </figcaption>
+</figure>
 
-<!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-  <ul class="social-icons">
-    
-      <li><strong>Follow:</strong></li>
-    
-
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-
-    <li><a href="/blogPage/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; 2022 P.H, Wang. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-      </footer>
-    </div>
-
-    
-  <script src="/blogPage/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
-
-
-
-
-
-
-
-
-
-
-  </body>
-</html>
