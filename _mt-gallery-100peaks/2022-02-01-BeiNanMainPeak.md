@@ -1,6 +1,6 @@
 ---
 title: "卑南主山"
-excerpt: "卑南主山位在中央山脈南一段上最南邊的一座百岳，附近為一大片高山草坡，地形平緩，展望佳，可向南展望中央山脈南南段群峰以及遠方的北大武山，向東可見卑南東稜群峰，最遠可見東南方的美奈田主山。"
+excerpt: ""
 
 categories: mt-gallery-100peaks
 permalink: /:categories/:title/
@@ -10,25 +10,25 @@ classes: wide
   - dark-theme
 
 header:
-  image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7FqzfR-5BHHgKoOCqn7rxkSoOQlZEfLWhCc82SfeFZd7czEhaosMpmM92dvgIKFKiDvMTJM99q8k1VjHYmLAKktacNQ6Lh5B5eNyqg3jWAAlNgylafHL5JAsgUGjW7GuyZE8CX4_swPf0HNcF7ca7uid3SV5fYDist42vdfbDm9YwKxeK0V2Aqr8-/s6240/IMG_1511.JPG
-  teaser: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7FqzfR-5BHHgKoOCqn7rxkSoOQlZEfLWhCc82SfeFZd7czEhaosMpmM92dvgIKFKiDvMTJM99q8k1VjHYmLAKktacNQ6Lh5B5eNyqg3jWAAlNgylafHL5JAsgUGjW7GuyZE8CX4_swPf0HNcF7ca7uid3SV5fYDist42vdfbDm9YwKxeK0V2Aqr8-/s640/IMG_1511.JPG
-  image_description: "由卑南東稜前望卑南主山中間經過的高山草坡區"
+  image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhkiJ5gdgSZgkcQ0-J6Zv5F9qW6GQB2Tk_UuO8onbdqSjKwDVimaQKdSaLAaKtakWYVsj03au_GaXAjbqWlSZwLXvzh5b-Qjw7ydM5Rd3vdrDNu-Na6A0uKRaXuU6S3DZZjgWRZgc-eU2C85LfOMtuUyNzvTVer6nR7kXxnPoKp1STDwXEtCF_0Eb/s6240/IMG_1439.JPG
+  teaser: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhkiJ5gdgSZgkcQ0-J6Zv5F9qW6GQB2Tk_UuO8onbdqSjKwDVimaQKdSaLAaKtakWYVsj03au_GaXAjbqWlSZwLXvzh5b-Qjw7ydM5Rd3vdrDNu-Na6A0uKRaXuU6S3DZZjgWRZgc-eU2C85LfOMtuUyNzvTVer6nR7kXxnPoKp1STDwXEtCF_0Eb/s1280/IMG_1439.JPG
+  image_description: "卑南主山東峰望向卑南東稜呂禮山、相原山、佐美姬山、以及美奈田主山"
 
 sidebar:
-  - title: "卑南主山"
-    image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJQm6QSFe-66D0FiT_XioAlziZjxKBY7fxDG8gnp0T9D3D9sAIgUolfhoAtmExURW_c1xxJszrSPhMC4S6NcruxRR1zbfDztH5Ov_bSqakzhaSak1WlsezWMdQGAbqE80B0H4zbSxknhd7ILjZRRTSq7P2MGys4eCA8RQxbR0dBjWqwhrcAnJFBK-T/s640/IMG_1629.JPG
-    image_alt: "卑南主山為中央山脈南一段最南邊的一座百岳，山頂有一座一等三角點，也是中央山脈高山區的尾端，向南展望可清楚看見中央山脈南南段群峰。"
-    text: "卑南主山一等三角點，南一段縱走最南邊的一座百岳，同時也是卑南東稜、南南段的交會點。"
+  - title: "卑南主山東峰"
+    image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQgJMhqmDTOr4yQgD0PzqSll_eclz6EiJ7MMsxkL0ENZcFXUWg_JRkceDokdqgd55W0Hl3FMW-t3VUnTgkui7V-TugLhU5czhhp1VoJkHb94TWC1JLYeYa4Lexf6IHYK7iHA67ob-6lcMYqpZKIfN1ttrzeUEI-z96CIxKg5vPN9e4F3WuutQR7wpu/s640/IMG_1418.JPG
+    image_alt: "位在卑南主山向東延伸的稜線上，可以眺望卑南東稜個山峰，以及馬番粕山稜線。"
+    text: "卑南主山東峰海拔3065公尺，非百岳，台灣269峰之一。可以眺望南一段東側的中級山域各山峰。可以遠眺中極山之王，台東延平鄉的美奈田主山。"
 gallery:
+  - url: /mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/
+    image_path: https://blogger.googleusercontent.com/img/a/AVvXsEjm5zz66AGmrM96lr5VAmBG4VR2WDG-5KKaj6cOSYUhV3GFI7Yk6O0JosVHXtbr7GUidN5AAMj89U_Y8NGqY0LWbr3-uJKVhpI_Wzjuc6z1ud7CCx__n4IY36lAO7Ck1Up9rrHf7zChahbfZRODzYKOQUR0UJNFT-cGUnZ8jsWDQ2Cr5MwTossNdYME=s480
+    alt: "呂禮山有著一片高山草原，杳無人煙，宛如人間仙境。往北可通往馬蕃粕、伊加之蕃，往東可接上卑南主山東峰。由此我們將踏上中央山脈主稜，越過南一段南端的百岳，有著一等三角點的卑南主山。即將完成卑南東稜。"
   - url: /mt-note-photo-100peaks/BeiNanEastRange-Day5-to-Day6/
     image_path: https://images.pexels.com/photos/12131444/pexels-photo-12131444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
     alt: "最後登上一望無際的中央山脈主稜，南一段南端的百岳同樣也是一等三角點–卑南主山。往南望去的視野極佳。冬季時有雲海，站在中央山脈高山區的尾巴，一覽群山漂浮於雲海之上，與北大武山遙望。"
-  - url: /mt-note-photo-100peaks/mtguan-nontraditional-approach-trail-part2/
-    image_path: https://images.pexels.com/photos/12247768/pexels-photo-12247768.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
-    alt: "鐵本山登關山欣賞南一段的雲海"
-  - url:  /mt-gallery-100peaks/BeiNanEastPeak/
-    image_path: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhkiJ5gdgSZgkcQ0-J6Zv5F9qW6GQB2Tk_UuO8onbdqSjKwDVimaQKdSaLAaKtakWYVsj03au_GaXAjbqWlSZwLXvzh5b-Qjw7ydM5Rd3vdrDNu-Na6A0uKRaXuU6S3DZZjgWRZgc-eU2C85LfOMtuUyNzvTVer6nR7kXxnPoKp1STDwXEtCF_0Eb/s6240/IMG_1439.JPG
-    alt: "卑南主山東峰不是百岳，高度3065公尺，為台灣269峰之一。位在中央山脈南一段向東邊延伸出去的支稜上。卑南主山東峰位在卑南東稜上。登臨山頂可以遠眺呂禮山、馬番粕山稜線、伊加之藩溪谷、相原山美奈田主山稜線"
+  - url:  /mt-note-photo-100peaks/CentrailMountainRidgeN2_Day2/
+    image_path: https://i.imgur.com/giTy6D2.jpg
+    alt: ""
 
 
 
@@ -56,23 +56,22 @@ feature_row:
 
 ---
 
-卑南主山，位在中央山脈南一段最南邊的一座百岳，也是南南段的起點。中央山脈南段的高山區到達卑南主山，再往南邊的稜線高度下降至3000公尺以下。冬季南臺灣高山天氣通常穩定，常常可以看見美麗的雲海。登頂卑南主山，可以飽覽南台灣群山。從東南邊卑南東稜的美奈田主山、佐美姬山、相原山、呂禮山延伸到卑南主山東峰。南邊的卑南主山南峰，主稜上的見晴山、出雲山、內本鹿山，以及最南邊的百岳--北大武山，竟收眼底。
-
-![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDN6dzi95S8aG-yxmUJKlQrH0j9CeCMNUkk9Y5QsSImU9AITTp3dC-u6csT-BkLEmalChsSVQE5P5iDOmoin1FtxvE1ExRgaeC_V4NtSjF5K1Twuby836ZR3OOpQgWE1T32-Du6sYNkdcwQbquAGLVoq1rY_JyKN52-EKaqCCnSEdyQzTgHxsGgX4x/s4224/IMG_2506.JPG)
+從台東延平鄉起登，我們循著稜線向中央山脈前進。穿越台東一帶的中級山域，登上第一座3000公尺的高山，卑南主山東峰。  
+登頂的時間是個晴朗的早晨，看見太陽由東邊的馬番粕山稜線升起。
 
 {% include gallery %}
 
-卑南主山一帶的地形平緩，又是高山草原，視野上沒甚麼遮蔽，也因此可以一覽中央山脈群山。
+站在卑南主山東峰山頂，可見南一段主稜東側山域地景色。伊加之藩溪谷發源於此，由卑南東稜以及馬番粕、呂禮山連稜環繞，溪谷向北流向伊加之蕃山以及周溪山之間，向東轉並匯入大崙溪。我們登頂之時，溪谷中還覆蓋了一層薄薄的白雲。
 
-![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtPyHkKKfWib4tZaF4JmrilQ9iaYLVJzEdVOAMjtZetwTNoNAyJpdOgzz37ofbDIO4X0Le-pVHls2kGMJhwUZI7AxxzdjtMuBsbFBx-Itb8W-jJk7QMl_PF_Bj9QQI8hzqtmeaf6RyqscTXgdyXZPMf13SiM3OxkvTUQXE0C9-7IKD2Ej7KWLjo65S/s6240/IMG_1621.JPG)
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi4j-QZE_G-vMZp81d3EX5-TuVP169Jg2FrxyZSzTHwBKotMskYHZewf63SKtIvqt8r2vDP8d7NaoeWvbwrraL9sSQC1Vp680ybyLaWSR0HhLvQdU1OnHA8ttwQE9DKWAEfJVVgtfJcT-tylXcl7b2iXXlwYnFrVwM6LV767cnGFetTK6QSJenjCHG/s6240/IMG_1336.JPG)
 
-卑南主山向北延伸的草原稜線
+向東邊望向卑南東稜各山頭。由近而遠為呂禮山、相原山、佐美姬山、以及最遠方的美奈田主山。
 
-![image](https://images.pexels.com/photos/12131448/pexels-photo-12131448.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhkiJ5gdgSZgkcQ0-J6Zv5F9qW6GQB2Tk_UuO8onbdqSjKwDVimaQKdSaLAaKtakWYVsj03au_GaXAjbqWlSZwLXvzh5b-Qjw7ydM5Rd3vdrDNu-Na6A0uKRaXuU6S3DZZjgWRZgc-eU2C85LfOMtuUyNzvTVer6nR7kXxnPoKp1STDwXEtCF_0Eb/s6240/IMG_1439.JPG)
 
 但此行尚未結束，向西邊望向中央山脈主稜，台灣的屋脊。卑南主山還在前方等著我們。
 
-![image](https://images.pexels.com/photos/11893662/pexels-photo-11893662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh881XaTkxC9p7b122e2m0QqYnSCD3n0IFqGgNDLmoZK_ZV1zXnr2msIuIjeYsosgJovES5y3K_cqtmIqujHorXN6IV6Xxd3obm7Ur_QFTeowKGuYumUSiGeY3Z0AksWpgpNjUZtjsSPeqgjXsiicGSI74NZD5iDcmLU5sDL2i4L7jmIp5xp2ymnkQ2/s6240/IMG_1442.JPG)
 
 卑南東稜圖文紀錄請參照
 {% include feature_row %}
