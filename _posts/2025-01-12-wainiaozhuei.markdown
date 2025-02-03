@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "冬季的外鳥嘴山之旅"
-excerpt: "新竹縣尖石鄉的萬鳥嘴山迎來了一個晴朗無雲的日子。天空湛藍，空氣乾淨得如同被洗刷過一般。山林間瀰漫著一股清新的冷意，能感受到冬季的氣息，這種天氣真的是最適合來爬中級山。"
+excerpt: "新竹縣尖石鄉的外鳥嘴山迎來了一個晴朗無雲的日子。天空湛藍，空氣乾淨得如同被洗刷過一般。山林間瀰漫著一股清新的冷意，能感受到冬季的氣息，這種天氣真的是最適合來爬中級山。"
 
 date:   2025-01-12 14:00:00 +0800
 categories: mt-note-photo-midalt
@@ -16,7 +16,7 @@ tags:
 
 header:
   image: https://drive.google.com/thumbnail?id=1WiMHi8RqvCG-URIfoZooC7Ne7oAg5fc0&sz=w2048
-  teaser : https://i.imgur.com/DnT1Nvz.jpg
+  teaser : https://drive.google.com/thumbnail?id=1csQ-9vLwSEvQqn0jz3AACLwmN7FCe-Id&sz=w480
   image_description: "外鳥嘴山眺望桃園台北"
   overlay_filter: 0.5
 
