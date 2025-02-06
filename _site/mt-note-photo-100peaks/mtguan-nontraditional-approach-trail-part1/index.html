@@ -519,6 +519,12 @@
 12:37 上車</p>
 
 <h2 id="鐵本山登關山航跡">鐵本山登關山航跡</h2>
+
+<div style="width: 100%; max-width: 100%; margin: 0 auto;">
+
+<!-- Paste the full Folium-generated HTML map code here, 
+     including the <html><head>... and <script> tags -->
+
 <html>
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -574,6 +580,40 @@
                     top: 0.0%;
                 }
             </style>
+
+    <style>
+      /* Allow the popup to widen up to a comfortable limit */
+      .leaflet-popup {
+        max-width: 600px; /* or another width of your choice */
+        width: auto;
+      }
+    
+      /* Let the popup-content-wrapper fill that space without clipping */
+      .leaflet-popup-content-wrapper {
+        max-width: 100%;
+        max-height: 80vh; /* keeps popup from getting too tall */
+        overflow: auto;   /* add scrolling if content is taller than 80vh */
+        padding: 1rem;    /* some breathing room */
+        box-sizing: border-box;
+        font-size: 1.2rem;
+      }
+    
+      /* Let the .leaflet-popup-content naturally size itself */
+      .leaflet-popup-content {
+        width: auto;
+        overflow: auto;
+      }
+    
+      /* Make images responsive within the popup */
+      .leaflet-popup-content img {
+        display: block;       /* ensure block behavior */
+        max-width: 100%;      /* don't exceed popup width */
+        height: auto;         /* keep aspect ratio */
+        margin: 0 auto 1rem;  /* center the image & add bottom margin */
+        border-radius: 5px;
+      }
+    </style>
+
 
 </head>
 <body>    
@@ -2998,12 +3038,444 @@
         marker_f2815d5dadbc453fb50c6b09464a3137.bindPopup(popup_0abae95b13fe439fb046abfc9a099914)
         ;
 
+            var marker_139ae7f0e197b81bcd501c8792d209b6 = L.marker(
+                [23.220955, 120.909895],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_e83eb18a88c9e7cf3ef2f170d1c30d3f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_139ae7f0e197b81bcd501c8792d209b6.setIcon(icon_e83eb18a88c9e7cf3ef2f170d1c30d3f);
+        
+    
+        var popup_d748e60b4b4f1f29fdba9eaba5b0ce71 = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_8ad5cecad19b2ad09ed3e19a05df098d = $(`<div id="html_8ad5cecad19b2ad09ed3e19a05df098d" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 15:51:59</span><span style="display: block; margin-top: 5px;">Filename: IMG_2170.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3443.1 M</span><img src="https://drive.google.com/thumbnail?id=1wTCPSIZF4KO7K7AqMOjpNms1mUvkAIT-&sz=w2048" alt="IMG_2170.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_d748e60b4b4f1f29fdba9eaba5b0ce71.setContent(html_8ad5cecad19b2ad09ed3e19a05df098d);
+            
+        
+
+        marker_139ae7f0e197b81bcd501c8792d209b6.bindPopup(popup_d748e60b4b4f1f29fdba9eaba5b0ce71)
+        ;
+
+        
+    
+    
+            var marker_4d3dbe905debb9dd5ccdfa753d22eac8 = L.marker(
+                [23.222765, 120.91133666666667],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_0444cc0b278577cef38e89bcca2d4735 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_4d3dbe905debb9dd5ccdfa753d22eac8.setIcon(icon_0444cc0b278577cef38e89bcca2d4735);
+        
+    
+        var popup_8549c2effd07fa785158a2f753600e85 = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_023e1feb2afb16804982b244bc1a654a = $(`<div id="html_023e1feb2afb16804982b244bc1a654a" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 16:47:51</span><span style="display: block; margin-top: 5px;">Filename: IMG_2238.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3560.3 M</span><img src="https://drive.google.com/thumbnail?id=1nrGMHnsWODB9HeuHBYOEQTjiEKLnguZ_&sz=w2048" alt="IMG_2238.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_8549c2effd07fa785158a2f753600e85.setContent(html_023e1feb2afb16804982b244bc1a654a);
+            
+        
+
+        marker_4d3dbe905debb9dd5ccdfa753d22eac8.bindPopup(popup_8549c2effd07fa785158a2f753600e85)
+        ;
+
+        
+    
+    
+            var marker_4a8dfa8860c7d6aab9327ff5317e182e = L.marker(
+                [23.21687222222222, 120.88123333333333],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_133e6ebb1812a48733c4fdfa4a9d2d94 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_4a8dfa8860c7d6aab9327ff5317e182e.setIcon(icon_133e6ebb1812a48733c4fdfa4a9d2d94);
+        
+    
+        var popup_0ce4ebd8b19dacc0d6b9163e5dd89f42 = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_4ae955613f2327514a02ec147bd7201c = $(`<div id="html_4ae955613f2327514a02ec147bd7201c" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 15:15:31</span><span style="display: block; margin-top: 5px;">Filename: IMG_2251_2.jpeg</span><span style="display: block; margin-top: 5px;">Elevation: 2642.8 M</span><img src="https://drive.google.com/thumbnail?id=13YQXrMn7ruLFDiq82mo-bVSGin_4j7MJ&sz=w2048" alt="IMG_2251_2.jpeg" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_0ce4ebd8b19dacc0d6b9163e5dd89f42.setContent(html_4ae955613f2327514a02ec147bd7201c);
+            
+        
+
+        marker_4a8dfa8860c7d6aab9327ff5317e182e.bindPopup(popup_0ce4ebd8b19dacc0d6b9163e5dd89f42)
+        ;
+
+        
+    
+    
+            var marker_197e7a5eee8ee05e8422577bf9f0e309 = L.marker(
+                [23.229097222222222, 120.86463888888888],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_2377a8e3e3fde86d07b33d1c3dbe4244 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_197e7a5eee8ee05e8422577bf9f0e309.setIcon(icon_2377a8e3e3fde86d07b33d1c3dbe4244);
+        
+    
+        var popup_e2a3a86784512b639fd92c7b6c9808df = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_c6c0ba3fbe11b890e382afeac8b35b62 = $(`<div id="html_c6c0ba3fbe11b890e382afeac8b35b62" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 10:29:19</span><span style="display: block; margin-top: 5px;">Filename: IMG_2220_2.jpeg</span><span style="display: block; margin-top: 5px;">Elevation: 2476.4 M</span><img src="https://drive.google.com/thumbnail?id=16HGQJGHfu8JloGKpEoUmzNdS7ghReq6R&sz=w2048" alt="IMG_2220_2.jpeg" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_e2a3a86784512b639fd92c7b6c9808df.setContent(html_c6c0ba3fbe11b890e382afeac8b35b62);
+            
+        
+
+        marker_197e7a5eee8ee05e8422577bf9f0e309.bindPopup(popup_e2a3a86784512b639fd92c7b6c9808df)
+        ;
+
+        
+    
+    
+            var marker_954312fce08c3c1cee728c3a2e2bacf1 = L.marker(
+                [23.218938333333334, 120.90503],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_10d0008fdb5dad4424115a8348d05004 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_954312fce08c3c1cee728c3a2e2bacf1.setIcon(icon_10d0008fdb5dad4424115a8348d05004);
+        
+    
+        var popup_a2bf18202caf7ff9749747a60ed17e34 = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_e5b9ea4d6c01a383b0f93fe248b8e3a8 = $(`<div id="html_e5b9ea4d6c01a383b0f93fe248b8e3a8" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 12:52:57</span><span style="display: block; margin-top: 5px;">Filename: IMG_2139.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3228.7 M</span><img src="https://drive.google.com/thumbnail?id=1zAAWJtAbxHlu1qbpfduXYyGyAiJ8DJfr&sz=w2048" alt="IMG_2139.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_a2bf18202caf7ff9749747a60ed17e34.setContent(html_e5b9ea4d6c01a383b0f93fe248b8e3a8);
+            
+        
+
+        marker_954312fce08c3c1cee728c3a2e2bacf1.bindPopup(popup_a2bf18202caf7ff9749747a60ed17e34)
+        ;
+
+        
+    
+    
+            var marker_3e9dad08defd64022fb06c213a7be015 = L.marker(
+                [23.212848333333334, 120.89538833333333],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_f899c8b94ab4d899d0990a0bd49e6265 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_3e9dad08defd64022fb06c213a7be015.setIcon(icon_f899c8b94ab4d899d0990a0bd49e6265);
+        
+    
+        var popup_42c843f1b7d3c69a9efee9ec7c3ceefc = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_422c57d601bfe1f88db387329b75e8b5 = $(`<div id="html_422c57d601bfe1f88db387329b75e8b5" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 09:53:28</span><span style="display: block; margin-top: 5px;">Filename: IMG_2049.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 2874.1 M</span><img src="https://drive.google.com/thumbnail?id=1EiFD_L5H_P4FM3xppa4RziBfYYgN35wM&sz=w2048" alt="IMG_2049.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_42c843f1b7d3c69a9efee9ec7c3ceefc.setContent(html_422c57d601bfe1f88db387329b75e8b5);
+            
+        
+
+        marker_3e9dad08defd64022fb06c213a7be015.bindPopup(popup_42c843f1b7d3c69a9efee9ec7c3ceefc)
+        ;
+
+        
+    
+    
+            var marker_4cbaa70efb4a4f542adb47cbf65d4bed = L.marker(
+                [23.218583333333335, 120.90258833333333],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_c07cb4846647747f06abbbb834ba36d0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_4cbaa70efb4a4f542adb47cbf65d4bed.setIcon(icon_c07cb4846647747f06abbbb834ba36d0);
+        
+    
+        var popup_8788cf9f3db918e337726f7e9317c15b = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_33968362c7230df2dc87cda4a7812c48 = $(`<div id="html_33968362c7230df2dc87cda4a7812c48" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 12:15:14</span><span style="display: block; margin-top: 5px;">Filename: IMG_2115.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3108.1 M</span><img src="https://drive.google.com/thumbnail?id=1oSfdRw_poaRHfYQ8_1bybUPKFYU6Ez7z&sz=w2048" alt="IMG_2115.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_8788cf9f3db918e337726f7e9317c15b.setContent(html_33968362c7230df2dc87cda4a7812c48);
+            
+        
+
+        marker_4cbaa70efb4a4f542adb47cbf65d4bed.bindPopup(popup_8788cf9f3db918e337726f7e9317c15b)
+        ;
+
+        
+    
+    
+            var marker_09872234735ec18cf64a7d554b48211e = L.marker(
+                [23.223941666666665, 120.91169166666667],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_b5a10ed6b4d6bd90004f364fa49aeb04 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_09872234735ec18cf64a7d554b48211e.setIcon(icon_b5a10ed6b4d6bd90004f364fa49aeb04);
+        
+    
+        var popup_51f6bc2307b086f3228cb8160bc830ea = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_b7c911a119addb1af54fda275462d02e = $(`<div id="html_b7c911a119addb1af54fda275462d02e" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 16:56:34</span><span style="display: block; margin-top: 5px;">Filename: IMG_2251.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3592.8 M</span><img src="https://drive.google.com/thumbnail?id=1A-zVf3ldOJiJ2rrkRd-7hOYRNBZq-Cea&sz=w2048" alt="IMG_2251.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_51f6bc2307b086f3228cb8160bc830ea.setContent(html_b7c911a119addb1af54fda275462d02e);
+            
+        
+
+        marker_09872234735ec18cf64a7d554b48211e.bindPopup(popup_51f6bc2307b086f3228cb8160bc830ea)
+        ;
+
+        
+    
+    
+            var marker_7e04395707f1bbefcc0413a1b5ad0486 = L.marker(
+                [23.24772777777778, 120.83476388888889],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_dd69323f3cac517f3739e8e8318a6d9f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_7e04395707f1bbefcc0413a1b5ad0486.setIcon(icon_dd69323f3cac517f3739e8e8318a6d9f);
+        
+    
+        var popup_dc68a6b420c0b774b373e191b5b77d90 = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_3ff34a74717fee0a2ac51590259774da = $(`<div id="html_3ff34a74717fee0a2ac51590259774da" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 06:21:15</span><span style="display: block; margin-top: 5px;">Filename: IMG_2190.jpeg</span><span style="display: block; margin-top: 5px;">Elevation: 1702.6 M</span><img src="https://drive.google.com/thumbnail?id=1R9Heh4NGNggNPzW4nwp-2rynG0tXICRc&sz=w2048" alt="IMG_2190.jpeg" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_dc68a6b420c0b774b373e191b5b77d90.setContent(html_3ff34a74717fee0a2ac51590259774da);
+            
+        
+
+        marker_7e04395707f1bbefcc0413a1b5ad0486.bindPopup(popup_dc68a6b420c0b774b373e191b5b77d90)
+        ;
+
+        
+    
+    
+            var marker_4d3c194d63cf647cba9095c8fac4940a = L.marker(
+                [23.228263333333334, 120.91168333333333],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_5fcb21a8bef5f0458ff0e09352ec65d4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_4d3c194d63cf647cba9095c8fac4940a.setIcon(icon_5fcb21a8bef5f0458ff0e09352ec65d4);
+        
+    
+        var popup_354a4c2e2f0dac3aa0a498ce90f6ec80 = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_1481bd1276eb093f4e049ebc448f2416 = $(`<div id="html_1481bd1276eb093f4e049ebc448f2416" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 17:38:01</span><span style="display: block; margin-top: 5px;">Filename: IMG_2330.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3687.9 M</span><img src="https://drive.google.com/thumbnail?id=1EpB4krS2JakLPlqL9He5OKLQFl9Vu2kn&sz=w2048" alt="IMG_2330.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_354a4c2e2f0dac3aa0a498ce90f6ec80.setContent(html_1481bd1276eb093f4e049ebc448f2416);
+            
+        
+
+        marker_4d3c194d63cf647cba9095c8fac4940a.bindPopup(popup_354a4c2e2f0dac3aa0a498ce90f6ec80)
+        ;
+
+        
+    
+    
+            var marker_cc3dc3d2010ef29e7dad4569d62657b0 = L.marker(
+                [23.218715, 120.90196333333333],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_1d4d307e2cff3ed89d50d0970dd0782b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_cc3dc3d2010ef29e7dad4569d62657b0.setIcon(icon_1d4d307e2cff3ed89d50d0970dd0782b);
+        
+    
+        var popup_407a60e57c04b9090f6c1821efc1d86e = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_742eaac126ba5b68b832946b4efc7232 = $(`<div id="html_742eaac126ba5b68b832946b4efc7232" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 12:09:25</span><span style="display: block; margin-top: 5px;">Filename: IMG_2108.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3081.3 M</span><img src="https://drive.google.com/thumbnail?id=1nNQYuuG51AucCuKK6iBZs6xHAgugtfcR&sz=w2048" alt="IMG_2108.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_407a60e57c04b9090f6c1821efc1d86e.setContent(html_742eaac126ba5b68b832946b4efc7232);
+            
+        
+
+        marker_cc3dc3d2010ef29e7dad4569d62657b0.bindPopup(popup_407a60e57c04b9090f6c1821efc1d86e)
+        ;
+
+        
+    
+    
+            var marker_c9640dcd04fd1da52943ec1ae12c8d82 = L.marker(
+                [23.22089, 120.91032833333334],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_1823cd1adb61a5d880c0172b784e31a2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_c9640dcd04fd1da52943ec1ae12c8d82.setIcon(icon_1823cd1adb61a5d880c0172b784e31a2);
+        
+    
+        var popup_53ed7082a3ee9df8e9a168081bac553f = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_38e9c67c88917b108e292b33d1a7e8a2 = $(`<div id="html_38e9c67c88917b108e292b33d1a7e8a2" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 16:09:35</span><span style="display: block; margin-top: 5px;">Filename: IMG_2181.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3479.5 M</span><img src="https://drive.google.com/thumbnail?id=1QLgaBHflW8u-zeI1x_9l6uuhCK7ZVrI9&sz=w2048" alt="IMG_2181.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_53ed7082a3ee9df8e9a168081bac553f.setContent(html_38e9c67c88917b108e292b33d1a7e8a2);
+            
+        
+
+        marker_c9640dcd04fd1da52943ec1ae12c8d82.bindPopup(popup_53ed7082a3ee9df8e9a168081bac553f)
+        ;
+
+        
+    
+    
+            var marker_04e7f4e7e7036894322ebeb9410f4ed7 = L.marker(
+                [23.228486666666665, 120.911875],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_feac82ee7b63ff7aae87f74ad9459557 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_04e7f4e7e7036894322ebeb9410f4ed7.setIcon(icon_feac82ee7b63ff7aae87f74ad9459557);
+        
+    
+        var popup_b886cf09b2ca80c83a7241deb419c7e9 = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_ed4902057aa0538a4d3b682c24f5e204 = $(`<div id="html_ed4902057aa0538a4d3b682c24f5e204" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 17:51:23</span><span style="display: block; margin-top: 5px;">Filename: IMG_2368.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3658.2 M</span><img src="https://drive.google.com/thumbnail?id=1-YkK3hoLoR_EF_AJYMyMdy4WE6QmN1wq&sz=w2048" alt="IMG_2368.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_b886cf09b2ca80c83a7241deb419c7e9.setContent(html_ed4902057aa0538a4d3b682c24f5e204);
+            
+        
+
+        marker_04e7f4e7e7036894322ebeb9410f4ed7.bindPopup(popup_b886cf09b2ca80c83a7241deb419c7e9)
+        ;
+
+        
+    
+    
+            var marker_5dc685a452fc32d48c59b9c6f8e74366 = L.marker(
+                [23.220741666666665, 120.91121666666666],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_828e319cec3868c995ad054e12644f9f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_5dc685a452fc32d48c59b9c6f8e74366.setIcon(icon_828e319cec3868c995ad054e12644f9f);
+        
+    
+        var popup_f0d4c63bab405bfa00abca2c95a57f3c = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_9d9fb91aeac5cf3ed7c181ff5bfadfbe = $(`<div id="html_9d9fb91aeac5cf3ed7c181ff5bfadfbe" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 16:33:47</span><span style="display: block; margin-top: 5px;">Filename: IMG_2220.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3538.1 M</span><img src="https://drive.google.com/thumbnail?id=1XwpvgUXrABUTN02M7GHCeS7iLrzi17Hc&sz=w2048" alt="IMG_2220.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_f0d4c63bab405bfa00abca2c95a57f3c.setContent(html_9d9fb91aeac5cf3ed7c181ff5bfadfbe);
+            
+        
+
+        marker_5dc685a452fc32d48c59b9c6f8e74366.bindPopup(popup_f0d4c63bab405bfa00abca2c95a57f3c)
+        ;
+
+        
+    
+    
+            var marker_ec36c8b3b41eced3e9087c4f955d635b = L.marker(
+                [23.230406666666667, 120.913],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_1297c60138ac65065e49e632571f00c4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_ec36c8b3b41eced3e9087c4f955d635b.setIcon(icon_1297c60138ac65065e49e632571f00c4);
+        
+    
+        var popup_3daa6e3d2e033649451dcb2388d31bd9 = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_a83ba28e3c79b5403b422a959c06ad5c = $(`<div id="html_a83ba28e3c79b5403b422a959c06ad5c" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 17:59:21</span><span style="display: block; margin-top: 5px;">Filename: IMG_2381.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3612.2 M</span><img src="https://drive.google.com/thumbnail?id=1DQY0JfH9pi14FTsnQdZiJjQRf_vLcfse&sz=w2048" alt="IMG_2381.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_3daa6e3d2e033649451dcb2388d31bd9.setContent(html_a83ba28e3c79b5403b422a959c06ad5c);
+            
+        
+
+        marker_ec36c8b3b41eced3e9087c4f955d635b.bindPopup(popup_3daa6e3d2e033649451dcb2388d31bd9)
+        ;
+
+        
+    
+    
+            var marker_335cf25e086fe1a80619cda722c397a2 = L.marker(
+                [23.220866666666666, 120.91116833333334],
+                {}
+            ).addTo(map_ba895f87caf845e69fd00513328208e8);
+        
+    
+            var icon_3472dad7af34b020f3df21c75ddafef8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "camera", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_335cf25e086fe1a80619cda722c397a2.setIcon(icon_3472dad7af34b020f3df21c75ddafef8);
+        
+    
+        var popup_4ff1f08da608ee9b7174fe42b247574d = L.popup({"maxWidth": "none", "minWidth": "none", "options": {"autoPan": true, "autoPanPadding": [20, 20], "keepInView": true}});
+
+        
+            
+                var html_89b710bc19cedc78df30ea00704ee9d5 = $(`<div id="html_89b710bc19cedc78df30ea00704ee9d5" style="width: 100.0%; height: 100.0%;"><div style="width: 50vw; height: auto; max-height: 70vh; overflow-y: auto; padding: 20px; box-sizing: border-box; font-size: 1.2rem;"><strong style="font-size: 1.5rem; margin-bottom: 10px;">Image Details</strong><br><span style="display: block; margin-top: 10px;">Time: 16:22:43</span><span style="display: block; margin-top: 5px;">Filename: IMG_2197.JPG</span><span style="display: block; margin-top: 5px;">Elevation: 3481.9 M</span><img src="https://drive.google.com/thumbnail?id=1K2DQ1xtKNH4IiDUsbE4ckmzx-ohLBueV&sz=w2048" alt="IMG_2197.JPG" style="width: 50%; max-width: 80%; height: auto; border-radius: 10px; margin-top: 20px;"></div></div>`)[0];
+                popup_4ff1f08da608ee9b7174fe42b247574d.setContent(html_89b710bc19cedc78df30ea00704ee9d5);
+            
+        
+
+        marker_335cf25e086fe1a80619cda722c397a2.bindPopup(popup_4ff1f08da608ee9b7174fe42b247574d)
+        ;
 
 
 </script>
 </html>
 
-<h2 id="圖文系列">圖文系列</h2>
+
+
+## 圖文系列
+
+
 
 <div class="feature__wrapper">
 
@@ -3042,19 +3514,19 @@
 
 </div>
 
-<h2 id="圖文紀錄">圖文紀錄</h2>
+## 圖文紀錄
 
-<p>鐵本山</p>
+鐵本山
 
-<p>一路上南橫公路上都還飄著霧雨，
-D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山山脈以及中央山脈中間的荖濃溪谷地。隨著鋒面離去，高空的雲逐漸退散，可見雲層已經下降到溪谷中。南橫公路沿線的燈光將雲海點亮。遠處還可見到高雄市區的燈火。</p>
+一路上南橫公路上都還飄著霧雨，
+D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山山脈以及中央山脈中間的荖濃溪谷地。隨著鋒面離去，高空的雲逐漸退散，可見雲層已經下降到溪谷中。南橫公路沿線的燈光將雲海點亮。遠處還可見到高雄市區的燈火。
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_2976c036a33634c6712bcd19a21483a0.jpg" alt="" />
   <figcaption>  </figcaption>
 </figure>
 
-<p>經過一夜休息，隔日一早六點，準時從烏夫冬山登山口出發。</p>
+經過一夜休息，隔日一早六點，準時從烏夫冬山登山口出發。  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_a3a79727c0c7939fdbf92065ac36ed2d.jpg" alt="" />
@@ -3076,9 +3548,9 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption>  </figcaption>
 </figure>
 
-<p>從烏夫冬山這側往南望去，隔著拉克斯溪，可見中央山脈隔壁一條支稜，小關山-斯拉巴庫山 稜線。<br />
+從烏夫冬山這側往南望去，隔著拉克斯溪，可見中央山脈隔壁一條支稜，小關山-斯拉巴庫山 稜線。  
 這也是今年我們踏上南一段的第一隊。
-<a href="https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/ShaoGuanShan-Day2/">小關山林道 神池登斯拉巴庫山</a></p>
+[小關山林道 神池登斯拉巴庫山](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/ShaoGuanShan-Day2/)
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_71cfcb323463fda4fec955ab9b4b92e1.jpg" alt="斯拉巴庫山為小關山延伸出來的支稜" />
@@ -3090,21 +3562,21 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption>  </figcaption>
 </figure>
 
-<p>此處也可見此行的目標 – 關山</p>
+此處也可見此行的目標 -- 關山
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_19398b487df4efac8b4c622998e19a0f.jpg" alt="烏夫冬山前眺望鐵本山以及關山" />
   <figcaption>  </figcaption>
 </figure>
 
-<p>烏夫冬山距離登山口不遠，出發後約15分鐘即可到達</p>
+烏夫冬山距離登山口不遠，出發後約15分鐘即可到達
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_ae24face0a163105908fcaee17b54595.jpg" alt="烏夫冬山為高雄南橫公路地區的中級山" />
   <figcaption> 烏夫冬山　二等三角點 </figcaption>
 </figure>
 
-<p>稍作休息後繼續出發，往鐵本山前進。</p>
+稍作休息後繼續出發，往鐵本山前進。
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_6ac14d29681aca686091c6e1d55172f0.jpg" alt="" />
@@ -3136,13 +3608,13 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 落葉林　林相乾淨好走 </figcaption>
 </figure>
 
-<p>早上11點左右，到達鐵本山。
-三等三角點。</p>
+早上11點左右，到達鐵本山。
+三等三角點。
 
-<p>從烏夫冬山到鐵本山的路線比較好走，平常也都有人造訪，還有路跡可以跟。
-但我們接下來要走的路可就沒這麼舒服了。<br />
-從鐵本山繼續往關山的稜線沒有路跡、沒有路條!<br />
-要來嘗試的山友們可要先做足功課了。</p>
+從烏夫冬山到鐵本山的路線比較好走，平常也都有人造訪，還有路跡可以跟。
+但我們接下來要走的路可就沒這麼舒服了。  
+從鐵本山繼續往關山的稜線沒有路跡、沒有路條!  
+要來嘗試的山友們可要先做足功課了。  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_951325d46a897b666e4fa30dd9db4ccb.jpg" alt="鐵本山山頂有一座三等三角點" />
@@ -3169,7 +3641,7 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 持續前進，看到芒草叢了 </figcaption>
 </figure>
 
-<p>此處有一小段腰繞，不太好走，不過沒有拍到，此處以文字補充。</p>
+此處有一小段腰繞，不太好走，不過沒有拍到，此處以文字補充。
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_30987c1564e747f3a2bb6589ce09b7fd.jpg" alt="" />
@@ -3186,7 +3658,7 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 進入芒草區 </figcaption>
 </figure>
 
-<p>進入噩夢芒草區，這裡一帶芒草濃密，高度比人還高，經過這裡真的只能鑽鑽鑽</p>
+進入噩夢芒草區，這裡一帶芒草濃密，高度比人還高，經過這裡真的只能鑽鑽鑽  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_939e913a0a9a4e69b27620c20bf1c171.jpg" alt="" />
@@ -3198,30 +3670,30 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption>  </figcaption>
 </figure>
 
-<p>上到稜線，在前進一點推到 H2658山頭上，此處是今天芒草上坡路的終點了。休息片刻。接下來就是一路向下前往今天的營地。<br />
-營地位置位於H2500左右的鞍部。</p>
+上到稜線，在前進一點推到 H2658山頭上，此處是今天芒草上坡路的終點了。休息片刻。接下來就是一路向下前往今天的營地。  
+營地位置位於H2500左右的鞍部。  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_17304fd4a8b331049fd84dfec9591757.jpg" alt="" />
   <figcaption> 到達H2658峰，中場休息 </figcaption>
 </figure>
 
-<p>要下到鞍部的途中還是要繼續跟濃密的芒草搏鬥。下行鑽芒草比較輕鬆一點，但還是要小心別滑倒，腳下土石鬆軟，戴上手套抓芒草幫忙煞車。
-一路下降走起來挺順的，到達H2500鞍部。往北轉，前往今日營地。</p>
+要下到鞍部的途中還是要繼續跟濃密的芒草搏鬥。下行鑽芒草比較輕鬆一點，但還是要小心別滑倒，腳下土石鬆軟，戴上手套抓芒草幫忙煞車。
+一路下降走起來挺順的，到達H2500鞍部。往北轉，前往今日營地。  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_80d42284029d2602f6497365777f9499.jpg" alt="" />
   <figcaption> 抵達鞍部後向北轉，前往桃花源谷營地 </figcaption>
 </figure>
 
-<p>從上方 H2658峰一路到 H2500鞍部都是茂密的芒草叢，不過從鞍部往北側前進沒多久，芒草叢消失了，鑽出草叢後，眼前是一片廣大的谷地。植披短箭竹叢為主，往下走一點可見營地，是短草皮，住起來很舒服。往前望去還可清楚地看到關山矗立於前方。這是一座可以仰望關山的營地。</p>
+從上方 H2658峰一路到 H2500鞍部都是茂密的芒草叢，不過從鞍部往北側前進沒多久，芒草叢消失了，鑽出草叢後，眼前是一片廣大的谷地。植披短箭竹叢為主，往下走一點可見營地，是短草皮，住起來很舒服。往前望去還可清楚地看到關山矗立於前方。這是一座可以仰望關山的營地。  
 
 <figure class="align-center">
   <img src="https://images.pexels.com/photos/12167411/pexels-photo-12167411.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="" />
   <figcaption> 先放一張隔天早上用單眼拍的營地照 </figcaption>
 </figure>
 
-<p>此處營地尚未被命名，鑽出芒草叢後印入眼簾的是如此美麗的山谷、且在可以眺望關山、下行不遠處又有活水，因此命名為桃花源谷營地好了。</p>
+此處營地尚未被命名，鑽出芒草叢後印入眼簾的是如此美麗的山谷、且在可以眺望關山、下行不遠處又有活水，因此命名為桃花源谷營地好了。  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_927f95e63e4f2217fd76e9e9e2dd4e59.jpg" alt="" />
@@ -3233,7 +3705,7 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 紮營位置，短草坡上，旁邊幾處水鹿池 </figcaption>
 </figure>
 
-<p>營地沒有水源，需要向北下行至溪谷。</p>
+營地沒有水源，需要向北下行至溪谷。
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_266548f510ba68b0736174ba0ad459ae.jpg" alt="" />
@@ -3260,16 +3732,16 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 溪床好走 </figcaption>
 </figure>
 
-<p>當天晚上一入夜溫度驟降，帳篷外側馬上結霜!<br />
-鋒面剛過，今天是大晴天，可以看見滿天星斗，也許是晴天的輻射冷卻，讓地面降溫的更快!<br />
-不過都已經4月了，而且這裡海拔才2500左右而已，竟然也可以一入夜馬上冷到結冰!</p>
+當天晚上一入夜溫度驟降，帳篷外側馬上結霜!  
+鋒面剛過，今天是大晴天，可以看見滿天星斗，也許是晴天的輻射冷卻，讓地面降溫的更快!  
+不過都已經4月了，而且這裡海拔才2500左右而已，竟然也可以一入夜馬上冷到結冰!  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_dc8dfa71a0323cd7733c49acf61f4021.jpg" alt="" />
   <figcaption>  </figcaption>
 </figure>
 
-<p>隔天一早出門，草地上結滿了霜。放在外面的營柱袋子也被凍得硬梆梆的。</p>
+隔天一早出門，草地上結滿了霜。放在外面的營柱袋子也被凍得硬梆梆的。  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_07e0796e6564439bcb9790d3bde6de54.jpg" alt="" />
@@ -3296,10 +3768,10 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 拔營準備出發 </figcaption>
 </figure>
 
-<p>早上拔營後出發，繼續向關山挺進。<br />
-今天路程還很長，我們要登上中央山脈南一段主稜，突破海拔3600，登上南台首嶽 – 關山</p>
+早上拔營後出發，繼續向關山挺進。  
+今天路程還很長，我們要登上中央山脈南一段主稜，突破海拔3600，登上南台首嶽 -- 關山  
 
-<p>第一段稜線也都是茂密芒草穿雜箭竹，上到 2640過後轉為箭竹叢 + 松林</p>
+第一段稜線也都是茂密芒草穿雜箭竹，上到 2640過後轉為箭竹叢 + 松林  
 
 <figure class="align-center">
   <img src="https://images.pexels.com/photos/12179609/pexels-photo-12179609.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="" />
@@ -3311,7 +3783,7 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption>  </figcaption>
 </figure>
 
-<p>海拔接近 2800 公尺後，鐵杉林出現</p>
+海拔接近 2800 公尺後，鐵杉林出現
 
 <figure class="align-center">
   <img src="https://images.pexels.com/photos/12213626/pexels-photo-12213626.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="" />
@@ -3323,10 +3795,10 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption>  </figcaption>
 </figure>
 
-<p>接著來到一處崩壁頂部，路線右側是一片崩壁，我們走在崩壁頂上，不危險，小心通行即可。<br />
-此段稜線展望很好，可以清楚看見我們今天的目標 關山<br />
-路線左側可以望見玉山山脈以及更後方的阿里山山脈。<br />
-有看見去年雙十節爬的南霞山，以及隔壁的棚幾山。</p>
+接著來到一處崩壁頂部，路線右側是一片崩壁，我們走在崩壁頂上，不危險，小心通行即可。  
+此段稜線展望很好，可以清楚看見我們今天的目標 關山  
+路線左側可以望見玉山山脈以及更後方的阿里山山脈。  
+有看見去年雙十節爬的南霞山，以及隔壁的棚幾山。  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_e2963252ea7c54939a074731754d7794.jpg" alt="" />
@@ -3363,8 +3835,8 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption>  </figcaption>
 </figure>
 
-<p>隨後進入一片鐵杉林，前方有一處溪谷，此處海拔約2900。
-溪谷是前往主稜的最後水源，時間剛好十一點多，我們在這裡休息片刻，補水、吃午餐。</p>
+隨後進入一片鐵杉林，前方有一處溪谷，此處海拔約2900。
+溪谷是前往主稜的最後水源，時間剛好十一點多，我們在這裡休息片刻，補水、吃午餐。
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_c08c965c41ffa539fd9d96c4d1c862cf.jpg" alt="" />
@@ -3376,8 +3848,8 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 溪谷合影 </figcaption>
 </figure>
 
-<p>午餐過後，繼續向主稜推進，海拔也突破3000公尺了。
-從溪谷出發後先是在樹林中上升約150公尺，隨後接到一條稜線，轉向東繼續前進，出森林，植披轉向箭竹草叢</p>
+午餐過後，繼續向主稜推進，海拔也突破3000公尺了。
+從溪谷出發後先是在樹林中上升約150公尺，隨後接到一條稜線，轉向東繼續前進，出森林，植披轉向箭竹草叢
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_d698270a37391f9ae02d6ead7b80841e.jpg" alt="" />
@@ -3409,7 +3881,7 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption>  </figcaption>
 </figure>
 
-<p>登上主稜前最後一段路，這邊也變得稍微難走一點，有許多刺柏、玉山圓柏灌木叢，需要特地找路繞過它們。以及此處有一些岩板需要爬過，要格外小心。此段路暴露感稍高一點。</p>
+登上主稜前最後一段路，這邊也變得稍微難走一點，有許多刺柏、玉山圓柏灌木叢，需要特地找路繞過它們。以及此處有一些岩板需要爬過，要格外小心。此段路暴露感稍高一點。  
 
 <figure class="align-center">
   <img src="https://images.pexels.com/photos/12214072/pexels-photo-12214072.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="" />
@@ -3431,7 +3903,7 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 往南望去的雲海 </figcaption>
 </figure>
 
-<p>下午四時許，登上南一段主稜。感動，往東方看去，東側山谷中是一片雲海</p>
+下午四時許，登上南一段主稜。感動，往東方看去，東側山谷中是一片雲海
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_9addcd180d3dac9064a5d520088c7e72.jpg" alt="" />
@@ -3453,27 +3925,31 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   <figcaption> 往南望向小關山、卑南主山方向，中央山脈南一段 </figcaption>
 </figure>
 
-<p>今年三度來到南一段，好像有一點來得太平凡了XD。<br />
-不過都是從不同方向登上這段稜線，視角不同，從這山望那山。可以勾出前幾隊的種種記憶。<br />
-“你看，那就是今年元旦爬過的小關山”<br />
-“那邊是卑南東稜的起點，美奈田山，我們當初就是從那邊走過來的”<br />
-“那裡就是卑南主山，我們就是在那邊過年的”</p>
+今年三度來到南一段，好像有一點來得太平凡了XD。  
+不過都是從不同方向登上這段稜線，視角不同，從這山望那山。可以勾出前幾隊的種種記憶。  
+"你看，那就是今年元旦爬過的小關山"  
+"那邊是卑南東稜的起點，美奈田山，我們當初就是從那邊走過來的"  
+"那裡就是卑南主山，我們就是在那邊過年的"  
 
-<p>卑南東稜系列:<br />
-<a href="https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day1/">Day1-Day2 啟程 延平林道登美奈田山</a><br />
-<a href="https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day2/">Day3-Day4 佐美姬山與相原山</a><br />
-<a href="https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/">Day4-Day5 從呂禮山前往山之巔</a><br />
-<a href="https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day5-to-Day6/">Day5-Day6 翻越卑南主山 完成東西橫斷</a></p>
+卑南東稜系列:  
+[Day1-Day2 啟程 延平林道登美奈田山](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day1/)  
+[Day3-Day4 佐美姬山與相原山](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day2/)  
+[Day4-Day5 從呂禮山前往山之巔](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day3-to-Day5/)  
+[Day5-Day6 翻越卑南主山 完成東西橫斷](https://penhsuanwang.github.io/blogPage/mt-note-photo-100peaks/BeiNanEastRange-Day5-to-Day6/)  
 
-<p>登上主稜只完成一半而已，我們今天要登上關山，翻過去，往庫哈諾辛山推過去，眼看時間也不早了，今天勢必摸黑，還是得趕一下路。<br />
-登山主稜沒休息太久，便又背上背包出發。</p>
+登上主稜只完成一半而已，我們今天要登上關山，翻過去，往庫哈諾辛山推過去，眼看時間也不早了，今天勢必摸黑，還是得趕一下路。  
+登山主稜沒休息太久，便又背上背包出發。  
 
 <figure class="align-center">
   <img src="https://cdntwrunning.biji.co/1024_8eee2b5198f1a787685a7780bc9ef390.jpg" alt="" />
   <figcaption>  </figcaption>
 </figure>
 
-<h2 id="圖文系列-1">圖文系列</h2>
+
+
+## 圖文系列
+
+
 
 <div class="feature__wrapper">
 
@@ -3510,6 +3986,7 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
     </div>
   
 
+</div>
 </div>
 
         
@@ -3609,6 +4086,62 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
       <div class="archive__item-teaser">
         <img src=
           
+            "https://drive.google.com/thumbnail?id=1csQ-9vLwSEvQqn0jz3AACLwmN7FCe-Id&sz=w480"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/blogPage/mt-note-photo-midalt/wainiaozhuei/" rel="permalink">冬季的外鳥嘴山之旅
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">新竹縣尖石鄉的外鳥嘴山迎來了一個晴朗無雲的日子。天空湛藍，空氣乾淨得如同被洗刷過一般。山林間瀰漫著一股清新的冷意，能感受到冬季的氣息，這種天氣真的是最適合來爬中級山。
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
+            "https://drive.google.com/thumbnail?id=1oRvZJ8dWp5qjyLQl8kEYOcQh-yGKGwJa&sz=w480"
+          
+          alt="">
+      </div>
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/blogPage/mt-note-photo-japan/kumano-kodo-nakahechi-d1/" rel="permalink">熊野古道中邊路 滝尻王子 小広王子
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src=
+          
             "https://i.imgur.com/m4Qui7R.jpg"
           
           alt="">
@@ -3655,62 +4188,6 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
 </div>
 
         
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://cdntwrunning.biji.co/1024_aceeed558e02f64b38c82a65ff254042.jpeg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-100peaks/jinjei-dabajian-sheipa-day3/" rel="permalink">境界伊澤登大霸 part3 大小霸日出
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">由伊澤山北稜登大小霸行程最後一天，我們從中霸山屋摸早黑出發，前往小霸尖山迎接日出
-</p>
-  </article>
-</div>
-
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-      <div class="archive__item-teaser">
-        <img src=
-          
-            "https://cdntwrunning.biji.co/1024_aceeed558e02f64b38c82a65ff254042.jpeg"
-          
-          alt="">
-      </div>
-    
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/blogPage/mt-note-photo-100peaks/jinjei-dabajian-sheipa-day2/" rel="permalink">境界伊澤登大霸 part2 境界伊澤登大霸
-</a>
-      
-    </h2>
-    
-    <p class="archive__item-excerpt" itemprop="description">伊澤山北稜非傳統路登大霸，境界山位在新竹五峰的深山中。稜線從鹿場大山向東延伸，通過結城山與檜山。稜線分隔新竹縣與苗栗縣。由大鹿林道東支線進入。廢棄林道已被茂密的芒草淹沒，隨後還需要穿過層層箭竹海。從境界山稜眺望遠方雲霧中的伊澤山，一覽本次路途中的層層阻礙。
-</p>
-  </article>
-</div>
-
-        
       </div>
     </div>
   
@@ -3752,7 +4229,7 @@ D0 晚上到達烏夫冬山大水塔登山口前，此處可展望夾在玉山�
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2024 P.H, Wang. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2025 P.H, Wang. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
